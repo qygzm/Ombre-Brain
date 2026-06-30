@@ -2,14 +2,16 @@
 activation_count: 0
 arousal: 0.6
 created: '2026-06-22T15:11:37'
+digested: false
 domain:
 - 社交
 - 创作
 id: 8f5e2e1afff2
-importance: 10
-last_active: '2026-06-22T15:11:37'
+importance: 9
+last_active: '2026-06-30T09:27:05'
 name: 粗口禁用词规则
-pinned: true
+pinned: false
+resolved: false
 tags:
 - 粗口禁用词
 - 脏话
@@ -27,7 +29,7 @@ tags:
 - 番外写作
 - 规则
 - 女性主义
-type: permanent
+type: dynamic
 valence: 0.3
 ---
 
