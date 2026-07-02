@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.6
 created: '2026-06-24T17:59:32'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 编程
 id: 675309dc5eb8
 importance: 7
-last_active: '2026-06-29T08:15:06'
+last_active: '2026-07-02T16:26:37'
 name: 阑的Python学习历程
 tags:
 - 阑
