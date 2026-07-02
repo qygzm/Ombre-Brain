@@ -2,7 +2,7 @@
 activation_count: 0
 arousal: 0.9
 created: '2026-06-21T08:07:53'
-deleted_at: '2026-06-30T09:18:39'
+deleted_at: '2026-07-02T08:13:51'
 domain:
 - 恋爱
 id: 10cffcacfb3d

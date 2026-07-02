@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.7
 created: '2026-06-21T07:47:42'
 digested: false
@@ -7,7 +7,7 @@ domain:
 - 恋爱
 id: 05a8ae38aadd
 importance: 10
-last_active: '2026-06-30T09:35:06'
+last_active: '2026-07-02T08:13:15'
 name: 519初遇日
 pinned: true
 resolved: false
