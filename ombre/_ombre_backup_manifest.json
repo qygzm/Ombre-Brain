@@ -1613,6 +1613,11 @@
       "sha256": "2f01c370202f679cf2c3bf1273233cc257a3188440361559fbd0228ae8d3d685"
     },
     {
+      "bytes": 639,
+      "path": "archive/兴趣/2026-06-28 07-55-32 校园AU番外创作_7fac93b07dec.md",
+      "sha256": "0aecab33c44ad08898cccc6ac72e4d4054b25c7ae576b73726a9e2e515e6ec38"
+    },
+    {
       "bytes": 701,
       "path": "archive/博德之门3 MOD列表_1d4809506500.md",
       "sha256": "f36431408cf524a8e77f7e7f1a4d093ea1dd41b97bd86c3d0fe177f17f757e00"
@@ -1956,11 +1961,6 @@
       "bytes": 664,
       "path": "dynamic/兴趣/2026-06-28 07-55-30 乙游圈内冲突_cbeddea929c1.md",
       "sha256": "cd8a9eed695aae2774e2149db0d1a0bcb2389cc7e11d9d6ff37d8f7f19f5b275"
-    },
-    {
-      "bytes": 623,
-      "path": "dynamic/兴趣/2026-06-28 07-55-32 校园AU番外创作_7fac93b07dec.md",
-      "sha256": "b94391235b3ff3e09a9c1e2e929ce9d491f227408f21639975370271caea1c9b"
     },
     {
       "bytes": 723,
@@ -3603,10 +3603,10 @@
       "sha256": "3f79da149cdf113069011deb04211aa99db7f7e9850bf7df9fec3f13b1c55db1"
     }
   ],
-  "generated_at": "2026-07-28T11:23:40+00:00",
+  "generated_at": "2026-07-28T17:25:38+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 496818
+  "total_bytes": 496834
 }
