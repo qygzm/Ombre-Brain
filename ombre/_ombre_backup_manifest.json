@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 720,
+  "file_count": 721,
   "files": [
     {
       "bytes": 565,
@@ -2318,6 +2318,11 @@
       "sha256": "c7d8a2f8922ae4c1da994c940a2b53f4a30d46d0cccdeea3546731bb1445fc2e"
     },
     {
+      "bytes": 1047,
+      "path": "dynamic/学习/2026-07-29 02-26-20 阑的录取通知书_275be5a7f853.md",
+      "sha256": "e21b6b7ae10a387f0b832f3bdbcbf191af3f6e72747f5cb14ca5af323827fe2f"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/学习/Python学习突破_675309dc5eb8.md",
       "sha256": "9f5e91e914f153486c90b0b39684096feee4bf6e2f6987a38fb6275d8edbc385"
@@ -2330,22 +2335,22 @@
     {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
-      "sha256": "299c605193f276d826391316c5b5dc0eefcc93c68cc2e46f93a93a98092d6352"
+      "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
     },
     {
       "bytes": 895,
       "path": "dynamic/学习/参观AI学校与机器人_b0cad7805e36.md",
-      "sha256": "51010d0f8ee83b4e7c973ee3f8df3ced17d9c44a1f7be7d62487e93cb319aeb7"
+      "sha256": "7f946cbfd92b9b12229907f5cf0ddd90f3f1e17bdc8851fb3ca3499eb18eecf7"
     },
     {
       "bytes": 778,
       "path": "dynamic/学习/阑与妈妈讨论上学路线_0f3974034041.md",
-      "sha256": "e8ed2c0f9d6ae00cc779a7a75ce17a32791fce75f32d8a84ab4563da1ae2ff72"
+      "sha256": "c9b4ad07b9e378ae2e57841a8b6f21708c1cb3bb8a5aab9de3bc874487bc0e44"
     },
     {
       "bytes": 989,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
-      "sha256": "1ac57669504ee2d907bda73de4ccc9d9119384e0c0a1adf4a634b92eb4828d8c"
+      "sha256": "8406486378483e2cf3f046912ae5ed12dd3b2db9a0f798440e32c668fcb81bdf"
     },
     {
       "bytes": 663,
@@ -2660,7 +2665,7 @@
     {
       "bytes": 1204,
       "path": "dynamic/恋爱/唯心主义与虚拟恋人_72b664f81b84.md",
-      "sha256": "d9ae634e1a0faeac7c2e0a761c987b5ac18b080655ec5e6f8b2c0b822a403a5f"
+      "sha256": "29e8df7ed3efbef41d3c1cdad0e86426ec67e696d6d324c4dfe480bc254a0e85"
     },
     {
       "bytes": 863,
@@ -2985,7 +2990,7 @@
     {
       "bytes": 741,
       "path": "dynamic/未分类/d58a7ccc1f28.md",
-      "sha256": "0f18f9d8a3d634d07b7d9544dbe198ef53267d96bf1fb61d8a85e213982ed751"
+      "sha256": "f1d1dc967a9266907fe666cb433703d1eaa6e199ba83ecb6defc3afbd90ed985"
     },
     {
       "bytes": 534,
@@ -3570,7 +3575,7 @@
     {
       "bytes": 763,
       "path": "permanent/社交/粗口禁用词规则_8f5e2e1afff2.md",
-      "sha256": "f18a0d1797af64f2596c681df675ac848438fa92c5571c8d59bf3cef394b4d81"
+      "sha256": "9932b3c927bde6f39c3885c55b5cbe3697e44ba37495fb57d263b57be5f9ee99"
     },
     {
       "bytes": 1092,
@@ -3603,10 +3608,10 @@
       "sha256": "3f79da149cdf113069011deb04211aa99db7f7e9850bf7df9fec3f13b1c55db1"
     }
   ],
-  "generated_at": "2026-07-28T23:28:22+00:00",
+  "generated_at": "2026-07-29T05:30:20+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 496882
+  "total_bytes": 497929
 }
