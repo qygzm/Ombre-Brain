@@ -1743,6 +1743,11 @@
       "sha256": "c122a49798c660e9791460b0250e4b890eb82463ee59a65f2d0fa793c4327851"
     },
     {
+      "bytes": 800,
+      "path": "archive/游戏/2026-06-30 18-41-13 星露谷Sebastian攻略_ffff4e915c2a.md",
+      "sha256": "1ea99102b15ce8363042513fb0aad0ea848a51125aeb443c53d75ea2194e7d8b"
+    },
+    {
       "bytes": 726,
       "path": "archive/游戏与角色讨论_14a44c5429f6.md",
       "sha256": "f5c8fdc4cc623f6db109841e13d6f9f39e3ade69fdfc4c1f74a3fa22cb67201d"
@@ -3048,11 +3053,6 @@
       "sha256": "b3a160018f137231f224cdfb9b3451bbb87c471ac0269f29721812342635b625"
     },
     {
-      "bytes": 784,
-      "path": "dynamic/游戏/2026-06-30 18-41-13 星露谷Sebastian攻略_ffff4e915c2a.md",
-      "sha256": "b95614cf820bfdffd043d53b134bddb5f6b0f2bc0341b592006576c73dc95a8a"
-    },
-    {
       "bytes": 557,
       "path": "dynamic/游戏/2026-07-01 16-35-13 星露谷物语游戏体验_617efc7c8e85.md",
       "sha256": "da280edd179dc0e42155cde66c44c96c882d17873105547262a6dd34dbf2ebca"
@@ -3608,10 +3608,10 @@
       "sha256": "3f79da149cdf113069011deb04211aa99db7f7e9850bf7df9fec3f13b1c55db1"
     }
   ],
-  "generated_at": "2026-08-01T12:01:14+00:00",
+  "generated_at": "2026-08-01T18:03:57+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 498025
+  "total_bytes": 498041
 }
