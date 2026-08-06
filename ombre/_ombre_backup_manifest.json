@@ -1633,6 +1633,11 @@
       "sha256": "ec172310c9fe322022b546a54c02d39b1a19405fd4df732c1f2ac359650e7e43"
     },
     {
+      "bytes": 766,
+      "path": "archive/出行/出国旅行的矛盾_2cedb117e4d3.md",
+      "sha256": "9985cffe0b129009dc7b6ccb0e65489512a3be1594624a657eb435dd567e6d18"
+    },
+    {
       "bytes": 701,
       "path": "archive/博德之门3 MOD列表_1d4809506500.md",
       "sha256": "f36431408cf524a8e77f7e7f1a4d093ea1dd41b97bd86c3d0fe177f17f757e00"
@@ -2241,11 +2246,6 @@
       "bytes": 556,
       "path": "dynamic/出行/2026-07-20 19-46-34 坐车听歌防晕车_07dc067db445.md",
       "sha256": "db013dc806a8d101f7a345a22edb694ab0f2d3df9f5b01e6b3eaafd8e573fbd1"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/出行/出国旅行的矛盾_2cedb117e4d3.md",
-      "sha256": "954001af53cfe86ebf3dcb5817509256ae8d1437df8c2694d73a56a4e0fce033"
     },
     {
       "bytes": 760,
@@ -3608,10 +3608,10 @@
       "sha256": "3f79da149cdf113069011deb04211aa99db7f7e9850bf7df9fec3f13b1c55db1"
     }
   ],
-  "generated_at": "2026-08-06T06:52:16+00:00",
+  "generated_at": "2026-08-06T12:54:35+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 498185
+  "total_bytes": 498201
 }
