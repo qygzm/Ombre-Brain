@@ -1813,6 +1813,11 @@
       "sha256": "e1d1e317ce092a7970d46714175bbe804dca1956eddf071dea9e603253ecd971"
     },
     {
+      "bytes": 466,
+      "path": "archive/计划/2026-07-06 17-11-09 暂停生图计划_38df7f8fd7b4.md",
+      "sha256": "f70c979d42a6d061257e77e12f12e27397c645273379a0775d365092750fdd1a"
+    },
+    {
       "bytes": 1213,
       "path": "archive/阑的乙游世界总览_9b2c5fb0c582.md",
       "sha256": "0e10dd68e15e54f251787523e8d985e95cc82ea3cd0af3c98fd97997fa7e64b3"
@@ -3323,11 +3328,6 @@
       "sha256": "822153290756fd91288e8a02f311e94864d53df1b2784aa15373e32a2fc25fea"
     },
     {
-      "bytes": 450,
-      "path": "dynamic/计划/2026-07-06 17-11-09 暂停生图计划_38df7f8fd7b4.md",
-      "sha256": "41587df1de7bad1b5127beb7fce749c45c00b56f6761a29e7b431dee0e2b6dbe"
-    },
-    {
       "bytes": 620,
       "path": "dynamic/财务/2026-07-20 19-46-41 AI工具月费支出_b5b8a6c7590b.md",
       "sha256": "c1ba894f0ddc4a1da324500f500ff170717fb1dbaea41a12eaa383604d8ae298"
@@ -3608,10 +3608,10 @@
       "sha256": "3f79da149cdf113069011deb04211aa99db7f7e9850bf7df9fec3f13b1c55db1"
     }
   ],
-  "generated_at": "2026-08-05T18:47:42+00:00",
+  "generated_at": "2026-08-06T00:49:50+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 498169
+  "total_bytes": 498185
 }
