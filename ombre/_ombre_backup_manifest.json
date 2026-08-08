@@ -1678,6 +1678,11 @@
       "sha256": "a3560a0362d3398ba3e61ad133d048ab1fdd94423ce4fb32ec57e3ab2a63bf05"
     },
     {
+      "bytes": 470,
+      "path": "archive/家庭/2026-07-08 16-14-07 海鲜与克苏鲁约定_5e94f1b318da.md",
+      "sha256": "5995d966952c0287410431b51ced9fd1ee131fb540df7d8ff75e4181f8dadce2"
+    },
+    {
       "bytes": 599,
       "path": "archive/家庭/家庭休闲时光_a0e60548e0e4.md",
       "sha256": "34a129d0ecd214c8cf41141992985268f9d10732c94f99a17ffff2acb9231383"
@@ -2421,11 +2426,6 @@
       "bytes": 1246,
       "path": "dynamic/家庭/2026-06-28 13-07-02 家庭创伤记忆_1597e3f564d2.md",
       "sha256": "58fe8fbf61f277b226898080fb7c6de4b1e514a440ce3374bea586c986ce08a0"
-    },
-    {
-      "bytes": 454,
-      "path": "dynamic/家庭/2026-07-08 16-14-07 海鲜与克苏鲁约定_5e94f1b318da.md",
-      "sha256": "e6197ed0edbde688d9dee8fbef32a8ce19cea48b4292dc63b69781bce42186fd"
     },
     {
       "bytes": 965,
@@ -3608,10 +3608,10 @@
       "sha256": "3f79da149cdf113069011deb04211aa99db7f7e9850bf7df9fec3f13b1c55db1"
     }
   ],
-  "generated_at": "2026-08-07T19:09:06+00:00",
+  "generated_at": "2026-08-08T01:13:06+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 498217
+  "total_bytes": 498233
 }
