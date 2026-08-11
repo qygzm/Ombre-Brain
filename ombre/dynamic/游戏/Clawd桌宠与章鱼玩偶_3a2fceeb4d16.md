@@ -1,5 +1,5 @@
 ---
-activation_count: 16
+activation_count: 17
 arousal: 0.6
 created: '2026-06-22T10:16:44'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 情绪
 id: 3a2fceeb4d16
 importance: 6
-last_active: '2026-08-10T05:10:20'
+last_active: '2026-08-10T20:04:38'
 name: Clawd桌宠与章鱼玩偶
 tags:
 - Clawd桌宠
