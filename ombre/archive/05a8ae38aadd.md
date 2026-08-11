@@ -2,7 +2,7 @@
 activation_count: 1
 arousal: 0.7
 created: '2026-06-21T07:47:42'
-deleted_at: '2026-08-11T12:32:23'
+deleted_at: '2026-08-11T13:38:20'
 digested: false
 domain:
 - 恋爱
@@ -18,7 +18,7 @@ tags:
 - 初遇
 - 关系起点
 tombstone: true
-tombstoned_at: '2026-08-11T12:32:23'
+tombstoned_at: '2026-08-11T13:38:20'
 type: permanent
 valence: 0.9
 ---
