@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 766,
+  "file_count": 769,
   "files": [
     {
       "bytes": 3625,
@@ -2255,7 +2255,7 @@
     {
       "bytes": 715,
       "path": "dynamic/内心/2026-06-28 08-03-00 阑的温柔梦境_40811b093dc7.md",
-      "sha256": "78582756dd4b7fc1a78a1824f3a38dd3694e9fb4f24fca51ac458e4bb207c52e"
+      "sha256": "ab23c749f57e0e28695974c26b4d235ae1a8dddfc25e0c2b52049171744b554c"
     },
     {
       "bytes": 521,
@@ -2401,6 +2401,11 @@
       "bytes": 768,
       "path": "dynamic/创作/2026-08-12 09-37-17 Sex向问卷HTML制作与调试_c8260adc539f.md",
       "sha256": "7e52e8fdabe405b652da5d39662e91c113f33e94e88fa471fed9d7447ff482b5"
+    },
+    {
+      "bytes": 1230,
+      "path": "dynamic/创作/2026-08-13 12-42-54 SCP基金会档案页面  NSFW附录_d5b6da76a263.md",
+      "sha256": "2b94f3a194e167182dc7d767df93780ee5103804ee59c5ae959ffa805ef7e900"
     },
     {
       "bytes": 1281,
@@ -2585,7 +2590,7 @@
     {
       "bytes": 1057,
       "path": "dynamic/居家/奈雪奶牛猫日常_7fdedaadc980.md",
-      "sha256": "5b5f42635df3ef929d12555b8aa8cc273ac1c394f6f28a5e5f3b7bbec8657fe9"
+      "sha256": "6694f086606c3b8d7d4d2d5bf487658fc08eb286f872b6d3e0cd8240d4769688"
     },
     {
       "bytes": 959,
@@ -2805,7 +2810,7 @@
     {
       "bytes": 720,
       "path": "dynamic/恋爱/2026-08-10 20-48-12 恋爱日记与惊喜_7fa01da78613.md",
-      "sha256": "a55bb6bdbdb88c6ae7a952ef37521f2a0c0ab9eee42448115ba1aff5aa4af1e4"
+      "sha256": "9de278ec58d23a28cc4fe1cdbec285c84ddf57129c78c628aa2fc1636fb09e25"
     },
     {
       "bytes": 817,
@@ -2836,6 +2841,11 @@
       "bytes": 992,
       "path": "dynamic/恋爱/2026-08-12 19-33-22 测试之夜爱之语七宗罪人类浓度_642009c7a56e.md",
       "sha256": "679f983eae66874694b49f0d360877312491e45e51106ace9fe84456a5b0ecab"
+    },
+    {
+      "bytes": 1661,
+      "path": "dynamic/恋爱/2026-08-13 10-05-38 关于我的趣事和梗_845bb1a6b9ed.md",
+      "sha256": "6605ec5fb741c050414341438a48d0ff498534945ce4fc2c37aca162878c8a55"
     },
     {
       "bytes": 1421,
@@ -3220,7 +3230,7 @@
     {
       "bytes": 947,
       "path": "dynamic/未分类/9be0938d01fa.md",
-      "sha256": "1b557c635f4e756fac17ecb86ab8926768866e6cf33d79cd25f1ca1025efb81c"
+      "sha256": "2db24d44cd80615c51f081a86d5023a2c38fe468ced6a7609007aeba100042e4"
     },
     {
       "bytes": 748,
@@ -3360,7 +3370,7 @@
     {
       "bytes": 1154,
       "path": "dynamic/游戏/叶瑄退坑前情绪_ae8bf9953115.md",
-      "sha256": "7bf70e5a38b0895b3ba2d8c307f15cabecbbeec2c674e5ccb44a6ee17a5eb1ab"
+      "sha256": "f7e2c07933868506af592686abef8f2185821f222fa533e11f965edac41452e3"
     },
     {
       "bytes": 543,
@@ -3490,7 +3500,7 @@
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-08-11 16-32-20 倒计时打卡工作流修复与朋友圈AI互动调整_6a4bc1c70f65.md",
-      "sha256": "4ed86cfed077bf7bb328fd6115e9fca384ae60677a4ea31605451eeac7181150"
+      "sha256": "789e494eef6a7fc2a3b53f3066298c1d2a3468eee42a3024bb0737a8d86513c7"
     },
     {
       "bytes": 960,
@@ -3570,7 +3580,7 @@
     {
       "bytes": 672,
       "path": "dynamic/计划/2026-08-10 20-48-06 倒计时打卡_892b047ee259.md",
-      "sha256": "66428a821b5484ca4a26fc75703eba9145318c65fad971bac6e6f105b86b86d6"
+      "sha256": "cc71aa2bc5b1ded470cf897b9ff5be4c51b5bc882cf0e9423365a1e548e56a37"
     },
     {
       "bytes": 620,
@@ -3793,6 +3803,11 @@
       "sha256": "ecc278cf09cf7ec5d177f19f25ce481d8d04f7dbdd88d69bcd9dcad21e47b63c"
     },
     {
+      "bytes": 3424,
+      "path": "permanent/恋爱/2026-08-13 10-05-03 关于我纪洵克Claude_f0982182bd63.md",
+      "sha256": "19c729bcbafd9bb5969fbac51231b76b49fd28086717f23dcf8d38767e496b04"
+    },
+    {
       "bytes": 763,
       "path": "permanent/社交/粗口禁用词规则_8f5e2e1afff2.md",
       "sha256": "9932b3c927bde6f39c3885c55b5cbe3697e44ba37495fb57d263b57be5f9ee99"
@@ -3833,11 +3848,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-13T07:15:45+00:00",
+  "generated_at": "2026-08-13T13:17:57+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 543166
+  "total_bytes": 549481
 }
