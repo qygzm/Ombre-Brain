@@ -1,5 +1,5 @@
 ---
-activation_count: 1
+activation_count: 2
 arousal: 0.6
 created: '2026-06-21T14:52:57'
 domain:
@@ -7,7 +7,7 @@ domain:
 - AI
 id: 80dbf1dac54e
 importance: 5
-last_active: '2026-07-11T10:26:54'
+last_active: '2026-08-14T10:37:09'
 name: API成本与前端决策
 tags:
 - API成本

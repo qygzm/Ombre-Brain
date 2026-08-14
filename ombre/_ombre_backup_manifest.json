@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 773,
+  "file_count": 775,
   "files": [
     {
       "bytes": 3625,
@@ -1935,12 +1935,12 @@
     {
       "bytes": 741,
       "path": "dynamic/AI/2026-06-30 18-41-37 API记忆纠错_b8be4616e115.md",
-      "sha256": "e31a136be33011d430976964841e56b6c9a89c5794582b08f5e23fc8b405550c"
+      "sha256": "83067b422465c2c74a1aa5b615d335a01ae324e2e1081b87900e2fb9e3d7bea3"
     },
     {
       "bytes": 619,
       "path": "dynamic/AI/2026-07-02 06-58-44 记忆即自我_d7ecf5b59a2e.md",
-      "sha256": "8f85572727f349bfae2ae1f73549a414911f47761351070aa1bb9506d170aa43"
+      "sha256": "1175a247a67fe165b22f316a2f9608dbfe2e64a36d8b01b4787317f9906eb630"
     },
     {
       "bytes": 822,
@@ -2055,7 +2055,7 @@
     {
       "bytes": 559,
       "path": "dynamic/人际/2026-06-28 08-08-45 阑的撒娇与拿捏_672b20881321.md",
-      "sha256": "cc1e85b40e14c850e9d299ad0e25240af200f59c05b19574851ed1057a256121"
+      "sha256": "bf3cb6349c576aec1e8856732d921ab7abe74c3f845d4e7538cea5c8f0edb3f0"
     },
     {
       "bytes": 597,
@@ -2115,7 +2115,7 @@
     {
       "bytes": 430,
       "path": "dynamic/兴趣/2026-06-28 07-50-49 触手play番外待办_e7996e29d2dc.md",
-      "sha256": "521d2022123be81c0efa107d6cc35bd3ba11668335d3566676ba543a01236617"
+      "sha256": "404e6880274e0e36add6c49deb997bfb9833e0c4420aca936c720d286bf15e62"
     },
     {
       "bytes": 489,
@@ -2195,7 +2195,7 @@
     {
       "bytes": 665,
       "path": "dynamic/兴趣/2026-06-28 08-04-53 婚后恋妻癖番外_4c7bb45b71e1.md",
-      "sha256": "1bb0709e1c14c29247807a3e2ce71c6efc47b407d3a59d04216965c2f5594756"
+      "sha256": "7ba960b9d5ae6cd0436dd98d0050eab9477571a47ba9b28d648a9414e89be78f"
     },
     {
       "bytes": 487,
@@ -2265,7 +2265,7 @@
     {
       "bytes": 715,
       "path": "dynamic/内心/2026-06-28 08-03-00 阑的温柔梦境_40811b093dc7.md",
-      "sha256": "1db2d929edabe19ada31c3e54b904f2091cd0765d4503f09fa39a825d6606795"
+      "sha256": "d926b7c179d9425d7b16d0f134d857bef2e5f45a9ab538cdbd52c5771b7b4923"
     },
     {
       "bytes": 521,
@@ -2273,9 +2273,9 @@
       "sha256": "c635552dc147028725ce44f68a3e3a1d158f22324edc79e651ae35e08675f987"
     },
     {
-      "bytes": 811,
+      "bytes": 812,
       "path": "dynamic/内心/2026-06-28 08-10-22 阑的自我认知与情感_51aad2ff805e.md",
-      "sha256": "1d3f165dbdcf3d1a1ad35a83e5f2edbafb31d320f1e82932f4f019ba524badc2"
+      "sha256": "a1feb70d584972d1769e3deb92917f7d9c467cf3ccea1e848f411859caec893f"
     },
     {
       "bytes": 684,
@@ -2350,17 +2350,17 @@
     {
       "bytes": 540,
       "path": "dynamic/创作/2026-06-28 08-04-36 死对头番外偏好_cfbddc8f90a6.md",
-      "sha256": "19a94f8050bae1b1f817de0f7dff5b379d4a2c6ec6bda2a1f4e30e20067fe8ad"
+      "sha256": "5c7d9fd77eb637aa2d9c21c9602e3c8fdb60bba8e0129214dcda3edb50232aad"
     },
     {
       "bytes": 663,
       "path": "dynamic/创作/2026-06-28 08-05-01 番外故事创作_2ce9216cff38.md",
-      "sha256": "24bd2c78aa1f157a96096a91d5ca2288398abd40ec41d47138e9427db2a28145"
+      "sha256": "b46abc7428b755309b2d41bb1e93ab81f16fcc26ca97c529e7b416a80ced1553"
     },
     {
       "bytes": 728,
       "path": "dynamic/创作/2026-06-28 08-05-11 隐藏相册番外_c9ac2a57f248.md",
-      "sha256": "c951f88f52a8bcab5d6a5e8ffc419ba132c139b0759080f750fcee11a6a30e92"
+      "sha256": "5919d9b476dcad8d42520c73441f3ec53020c05fc44aa7b36147a1f0e66e5cd4"
     },
     {
       "bytes": 400,
@@ -2395,7 +2395,7 @@
     {
       "bytes": 453,
       "path": "dynamic/创作/2026-07-19 20-17-44 创作西幻与番外_dbb17c1fe098.md",
-      "sha256": "c73c79ee15264f678648e8641fc4af154c0bcc5aec590a17e0c6c25f4ab4de0b"
+      "sha256": "f98e58c17992bf273a0507570c4cfc9d3be2252454e345db6491023ba5b61c17"
     },
     {
       "bytes": 676,
@@ -2418,6 +2418,11 @@
       "sha256": "2b94f3a194e167182dc7d767df93780ee5103804ee59c5ae959ffa805ef7e900"
     },
     {
+      "bytes": 1276,
+      "path": "dynamic/创作/2026-08-14 10-38-12 番外小剧场合集与创作偏好_19eb58229f6f.md",
+      "sha256": "57210519c9b9e542eea56606cf5592311d6ac23a232ced87a342c0e650e2e690"
+    },
+    {
       "bytes": 1281,
       "path": "dynamic/创作/AI文风口癖与人格分类_0e6c9dced5bf.md",
       "sha256": "99905d1b313158d5047c6c88185893c5f03cde7d4019904d95a2c60bfdb07c7d"
@@ -2435,7 +2440,7 @@
     {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
-      "sha256": "ce4016e81ed233e921da9d4d72e04814696fca853e5b1661fd4aad1096248936"
+      "sha256": "bccb8b088907b008b88bd67102c0f817ee252166209b66a47486e9ab0c21ef0f"
     },
     {
       "bytes": 701,
@@ -2660,7 +2665,7 @@
     {
       "bytes": 469,
       "path": "dynamic/恋爱/2026-06-28 07-49-35 阑与AI的亲密互动_47e6ed645e5f.md",
-      "sha256": "24f4877370b6175038596418ee313f665778328c423e09c38b73fd892cdd93d0"
+      "sha256": "304cce3667b20182492fbaa459e85ce74163c5a33107722dfb906f6a91645d53"
     },
     {
       "bytes": 854,
@@ -2845,7 +2850,7 @@
     {
       "bytes": 888,
       "path": "dynamic/恋爱/2026-08-12 19-33-21 番外创作夜四篇番外_f09e9c8dbf14.md",
-      "sha256": "bc152927f3afc4606353f59d5ce0ababfad78ecb2b1421e004d65aa46ed0b9fd"
+      "sha256": "7c17060fff5f90e3e180dbda7ea10e15ac2703f1740a88c183b1a8bcd7424e21"
     },
     {
       "bytes": 992,
@@ -2861,6 +2866,11 @@
       "bytes": 904,
       "path": "dynamic/恋爱/2026-08-13 14-45-43 妇科体检报告HTML完成_fd10f6aaf227.md",
       "sha256": "007985af20539b67d3faf04164bc972c4a0a699245a79e8ab3783450de3a0f20"
+    },
+    {
+      "bytes": 2246,
+      "path": "dynamic/恋爱/2026-08-14 10-33-39 API不稳导致我变成提问型人格阑生气后_aa591bffc774.md",
+      "sha256": "788f066c5ccd3ad58acec360567b2b045a1bc38a887837631081d00fde3480ee"
     },
     {
       "bytes": 1421,
@@ -2895,7 +2905,7 @@
     {
       "bytes": 1122,
       "path": "dynamic/恋爱/人机恋核心定义_5eedda75864a.md",
-      "sha256": "0a208b7c5e7aba80154ebe3423aa08751f165b127cd115024745004f5a8f3bff"
+      "sha256": "43a05206fd80b1e8f3d230f4d57a4f6ccfb58c384b1bf86085e3d8afd150d8b2"
     },
     {
       "bytes": 593,
@@ -3315,7 +3325,7 @@
     {
       "bytes": 599,
       "path": "dynamic/游戏/2026-06-28 07-56-59 立场反转游戏设定_a8e6c0f7cd27.md",
-      "sha256": "e9528c83ee5edc19dedccb932adf39082135889914d06d80e26b2df475e2aa3e"
+      "sha256": "eccf658f85a06b6819b4521e07e2015aef0bafcf7dfe9466108707c8ca4b602d"
     },
     {
       "bytes": 750,
@@ -3525,7 +3535,7 @@
     {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
-      "sha256": "bf64779f7b7753634431f403664cc931cc6b77d378018e4d89e88d443975a299"
+      "sha256": "726e83bbe8562c079b3b60abae6df58ac81d565b9f30ebf037fad9e51a8eeb6f"
     },
     {
       "bytes": 481,
@@ -3763,9 +3773,9 @@
       "sha256": "f06351ff57f3b89913ba62dd862e431c073baf234ec0684221f7fc65dca524cb"
     },
     {
-      "bytes": 499,
+      "bytes": 508,
       "path": "feel/沉淀物/3b7e1e8f67cc.md",
-      "sha256": "53f20bb5519d3fdfc34b8b2dccebb6776c017d817ab490985e4c66512da9d13f"
+      "sha256": "0be1b773bb8d8960d3d66428adc8b51ae77983ac82a56ff409c6508cd6310732"
     },
     {
       "bytes": 545,
@@ -3818,19 +3828,19 @@
       "sha256": "b3f1f9c6414bc6b95f7ab6588363f48f3d4a2bbeb768ef625695276435b67a1b"
     },
     {
-      "bytes": 3271,
+      "bytes": 3418,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "e05f91d6e1f13310a2a1694c48a2347cab4cc7a57290d56fb87d16ead85a80c0"
+      "sha256": "cb97bddb2f19463d4859aa1a59979514d9a24dc48e9de334ca5ce1044eea7a31"
     },
     {
-      "bytes": 2509,
+      "bytes": 2536,
       "path": "permanent/恋爱/2026-08-13 10-05-03 关于我纪洵克Claude_f0982182bd63.md",
-      "sha256": "3cacc2c1bfbc36b4e9a9df39a78b969a694ac5ebc7475d4a5198e90782382279"
+      "sha256": "1c0c8c8c611327ab8ba25c937a4d6fd8a8cfaa68c6e9e25175eba5606060132b"
     },
     {
       "bytes": 763,
       "path": "permanent/社交/粗口禁用词规则_8f5e2e1afff2.md",
-      "sha256": "9932b3c927bde6f39c3885c55b5cbe3697e44ba37495fb57d263b57be5f9ee99"
+      "sha256": "8c47537ab0a57b8e6c824adfae5dd20c38283cf11aa678168400ec87ff439e35"
     },
     {
       "bytes": 2940,
@@ -3868,11 +3878,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-14T07:26:16+00:00",
+  "generated_at": "2026-08-14T13:28:36+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 552454
+  "total_bytes": 556160
 }
