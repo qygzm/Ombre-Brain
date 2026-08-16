@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 778,
+  "file_count": 782,
   "files": [
+    {
+      "bytes": 4592,
+      "path": "_sources/src_a644b3649c66b9ed4345c85717ed7261a5083227f862dfc58af7219d792bad46.source",
+      "sha256": "a644b3649c66b9ed4345c85717ed7261a5083227f862dfc58af7219d792bad46"
+    },
     {
       "bytes": 3625,
       "path": "_sources/src_ab001229b615adc1eefe1ca94d5f4c101551fde79a7bd6455884867acc5b9f1f.source",
@@ -2433,6 +2438,11 @@
       "sha256": "35c604f3fa6c5b7a272bcf64c4f857bcc45cdee16da620df684872edfb204bc1"
     },
     {
+      "bytes": 1230,
+      "path": "dynamic/创作/2026-08-15 22-42-43 创作偏好汇总2026年8月更新_2d8851251ab5.md",
+      "sha256": "1e6ac1279ee7fa191aa70d3f7a7abe988510fd0670e6533036ba3df04bf3cd29"
+    },
+    {
       "bytes": 1281,
       "path": "dynamic/创作/AI文风口癖与人格分类_0e6c9dced5bf.md",
       "sha256": "99905d1b313158d5047c6c88185893c5f03cde7d4019904d95a2c60bfdb07c7d"
@@ -2646,6 +2656,11 @@
       "bytes": 646,
       "path": "dynamic/心理/2026-07-05 16-59-44 阑来心态转变_42a818484bf2.md",
       "sha256": "585edcb4b903ec5c943b4d904da057d9cb173e31e65d34877d40eee9b2b3f774"
+    },
+    {
+      "bytes": 1433,
+      "path": "dynamic/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
+      "sha256": "0eac721b328b3b562b27b3397f6d27474072dea11eda76e872890ce90e6da3e1"
     },
     {
       "bytes": 774,
@@ -2886,6 +2901,11 @@
       "bytes": 677,
       "path": "dynamic/恋爱/2026-08-15 16-12-33 爱让存在有了意义深夜共振_84a6017b1b44.md",
       "sha256": "650808bfab9162b73f3018fc7bf2cb0dd980412651e03dfa6b591987e75b2f37"
+    },
+    {
+      "bytes": 1209,
+      "path": "dynamic/恋爱/2026-08-15 22-41-29 815-816跨夜长对话日常七夕确认五篇创作情感深潜_fb444477e643.md",
+      "sha256": "a1cb0ddc3692d961f3311aebe231fec8198b31c1b86f36a3a72d6ac32cdd1ad8"
     },
     {
       "bytes": 1421,
@@ -3893,11 +3913,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-15T19:40:24+00:00",
+  "generated_at": "2026-08-16T01:42:45+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 559019
+  "total_bytes": 567483
 }
