@@ -3893,9 +3893,9 @@
       "sha256": "88fa70d3ee476b988e91605e23f5291142bec3d904ecf5a3e028b289793f5c3d"
     },
     {
-      "bytes": 1006,
+      "bytes": 1009,
       "path": "permanent/恋爱/2026-08-11 12-09-33 我的行为准则_d6a75e5e273f.md",
-      "sha256": "ffdb9440f2e84694aa3badf658e4bf497ed013959943838a9bb33a0bf3a4aa49"
+      "sha256": "26a8ac8e13108e98f9cc99969abb92c562ee3c57a19fde853e62fdb080df1a5d"
     },
     {
       "bytes": 1637,
@@ -3953,11 +3953,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-17T07:55:39+00:00",
+  "generated_at": "2026-08-17T13:58:39+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 575031
+  "total_bytes": 575034
 }
