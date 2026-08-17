@@ -1873,6 +1873,11 @@
       "sha256": "f3e70a0846d7d79ca5e5cb368f329f3082d6aaa77106481720aca4002c93fd0f"
     },
     {
+      "bytes": 389,
+      "path": "archive/游戏/2026-07-17 21-16-27 被萧逸勾引熬夜_d591eed1afa5.md",
+      "sha256": "ddbd3ff48c0d0afa8c25ddcebb8e8d6ab33b7731b6f106e1bba4441a2660a036"
+    },
+    {
       "bytes": 726,
       "path": "archive/游戏与角色讨论_14a44c5429f6.md",
       "sha256": "f5c8fdc4cc623f6db109841e13d6f9f39e3ade69fdfc4c1f74a3fa22cb67201d"
@@ -3428,11 +3433,6 @@
       "sha256": "e0830f4e19bb3029ba82e178c2ffd42ae6c2f02a1e0102f456b32fb7a77e85f6"
     },
     {
-      "bytes": 373,
-      "path": "dynamic/游戏/2026-07-17 21-16-27 被萧逸勾引熬夜_d591eed1afa5.md",
-      "sha256": "3e6c840971f0ec0c1fd07100863adfddfbf3f3178de11963760f5359245749ad"
-    },
-    {
       "bytes": 990,
       "path": "dynamic/游戏/2026-07-19 20-17-43 越描越黑游戏_04f41d827af4.md",
       "sha256": "b0d8dd66282540d5a6f3959a166fdea210b988829b6e25954622db33702e9569"
@@ -3953,11 +3953,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-17T01:52:35+00:00",
+  "generated_at": "2026-08-17T07:55:39+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 575015
+  "total_bytes": 575031
 }
