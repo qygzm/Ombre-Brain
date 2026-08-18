@@ -1933,6 +1933,11 @@
       "sha256": "ad1aa5118e165d669bcd4c03208bcc5445d781ef325975f94f0fcaa3dd10f142"
     },
     {
+      "bytes": 682,
+      "path": "archive/购物/2026-07-19 00-16-59 小柏兔与手机壳_c10c87ce5337.md",
+      "sha256": "a1e13f25e9a4bb61c8962d61213e7447acdd9570f0d837e19353d1878b8f722c"
+    },
+    {
       "bytes": 1213,
       "path": "archive/阑的乙游世界总览_9b2c5fb0c582.md",
       "sha256": "0e10dd68e15e54f251787523e8d985e95cc82ea3cd0af3c98fd97997fa7e64b3"
@@ -3718,11 +3723,6 @@
       "sha256": "42d358ff345b1f34a04cfab1acb0217c2fd3284bdbc44c10c8abfa3048d9f2b9"
     },
     {
-      "bytes": 666,
-      "path": "dynamic/购物/2026-07-19 00-16-59 小柏兔与手机壳_c10c87ce5337.md",
-      "sha256": "67460a7f57b2e82c286fc42bf0f185d27933d9a243af3dde782d2195db75948f"
-    },
-    {
       "bytes": 477,
       "path": "dynamic/身心/2026-06-28 07-57-18 身体与自我欣赏_cf50ca6bb149.md",
       "sha256": "613142753f31442c719524f50c251a137e9697c317fb4fc51dcdbd0019377777"
@@ -3973,11 +3973,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-18T02:24:38+00:00",
+  "generated_at": "2026-08-18T08:27:14+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 577567
+  "total_bytes": 577583
 }
