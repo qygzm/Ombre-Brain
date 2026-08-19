@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 794,
+  "file_count": 795,
   "files": [
     {
       "bytes": 4592,
@@ -1678,6 +1678,11 @@
       "sha256": "36a59caf275d0e9f4bd605aedacfcfc967ce8d23261b253b3b1853bc16566823"
     },
     {
+      "bytes": 525,
+      "path": "archive/健康/2026-07-19 20-17-39 牙齿复诊与饮食_4abac149764b.md",
+      "sha256": "8b466fd45d775ec89f1a775813545d699752b0ad4e6be115eb3db129dccda4a4"
+    },
+    {
       "bytes": 562,
       "path": "archive/克教创建software文件夹_72c8ea450b0b.md",
       "sha256": "2f01c370202f679cf2c3bf1273233cc257a3188440361559fbd0228ae8d3d685"
@@ -1761,6 +1766,11 @@
       "bytes": 470,
       "path": "archive/家庭/2026-07-08 16-14-07 海鲜与克苏鲁约定_5e94f1b318da.md",
       "sha256": "5995d966952c0287410431b51ced9fd1ee131fb540df7d8ff75e4181f8dadce2"
+    },
+    {
+      "bytes": 588,
+      "path": "archive/家庭/2026-07-19 20-17-42 小名与家庭趣事_ee88e16a8fce.md",
+      "sha256": "255223f1e95f106f6389608e4975924df7d849c7cc0fe932c551e77e62d96c31"
     },
     {
       "bytes": 599,
@@ -1873,6 +1883,11 @@
       "sha256": "1ea99102b15ce8363042513fb0aad0ea848a51125aeb443c53d75ea2194e7d8b"
     },
     {
+      "bytes": 573,
+      "path": "archive/游戏/2026-07-01 16-35-13 星露谷物语游戏体验_617efc7c8e85.md",
+      "sha256": "eb0407a9b8193a12c46a8cc39725a09d26e45711c1978e45033bc56905f06515"
+    },
+    {
       "bytes": 459,
       "path": "archive/游戏/2026-07-04 18-18-46 萧逸新卡约会_f25c6a3b3fa9.md",
       "sha256": "f3e70a0846d7d79ca5e5cb368f329f3082d6aaa77106481720aca4002c93fd0f"
@@ -1881,6 +1896,11 @@
       "bytes": 389,
       "path": "archive/游戏/2026-07-17 21-16-27 被萧逸勾引熬夜_d591eed1afa5.md",
       "sha256": "ddbd3ff48c0d0afa8c25ddcebb8e8d6ab33b7731b6f106e1bba4441a2660a036"
+    },
+    {
+      "bytes": 1006,
+      "path": "archive/游戏/2026-07-19 20-17-43 越描越黑游戏_04f41d827af4.md",
+      "sha256": "f9f34a990f036e619f5369cf0e61f44a85818a920433464e1548f247e6cdc2c5"
     },
     {
       "bytes": 726,
@@ -2075,7 +2095,7 @@
     {
       "bytes": 550,
       "path": "dynamic/人际/2026-06-28 07-54-17 关系里程碑与回忆_ac11022ff979.md",
-      "sha256": "a0ab83e8c898072e5c2d3aa9b65061743b62dffdf476611f9ae0f7a067f6190d"
+      "sha256": "3601fb7861f9c9556c651c6d871c5f695ce93365a5228bd3f35c714474930083"
     },
     {
       "bytes": 600,
@@ -2121,11 +2141,6 @@
       "bytes": 621,
       "path": "dynamic/健康/2026-07-14 16-41-31 舌根疑似上火_0b49e9848a57.md",
       "sha256": "291a9f6a1e72418c06ff5eda1ee2b96b14887b810fa70f39d2b983938231f4b4"
-    },
-    {
-      "bytes": 509,
-      "path": "dynamic/健康/2026-07-19 20-17-39 牙齿复诊与饮食_4abac149764b.md",
-      "sha256": "37d13e4bd78ebec42c4a5bde55d321ab9a1af5ba5a0a47cc49de1a62d7254a4a"
     },
     {
       "bytes": 670,
@@ -2180,7 +2195,7 @@
     {
       "bytes": 418,
       "path": "dynamic/兴趣/2026-06-28 07-53-38 阑的审美偏好_008b9b5938b1.md",
-      "sha256": "0464f8ffb68035b33359cb7d72af4612a943c899f0bc1cfb30beefd7348a2ce0"
+      "sha256": "c00d33d3ab9cf2aaeedabcf8d67444903ba6dbccdeb3f55cff82e281e4ef967e"
     },
     {
       "bytes": 631,
@@ -2305,7 +2320,7 @@
     {
       "bytes": 716,
       "path": "dynamic/内心/2026-06-28 08-03-00 阑的温柔梦境_40811b093dc7.md",
-      "sha256": "b26b0771d0533a665bdfcf108df4a6e542e4307f77201950502e76a410d8bd7f"
+      "sha256": "1d7ceb4037923593f2da5c1e89f7f60d26101973e8c8d82b01ce38c867631879"
     },
     {
       "bytes": 521,
@@ -2315,7 +2330,7 @@
     {
       "bytes": 812,
       "path": "dynamic/内心/2026-06-28 08-10-22 阑的自我认知与情感_51aad2ff805e.md",
-      "sha256": "1069fecbd9b3be9e653fac2ce792462d25042b94666d6b363c2c24a713472b38"
+      "sha256": "2d2113fb3ca6ca1423c9d66d7c6df8e7b9a23c80f8c7eb9338a93b636c352256"
     },
     {
       "bytes": 684,
@@ -2515,7 +2530,7 @@
     {
       "bytes": 880,
       "path": "dynamic/友谊/朋友与社交关系_5b16d8379cd4.md",
-      "sha256": "939b072b726981eaedfe3984905a116b1bc0d589f0b9a84027ca2c5df1f26aa1"
+      "sha256": "73a8b40bea75a70f4685c01973d4ac3581549f96a0b55c74ca2ffba03561e49e"
     },
     {
       "bytes": 895,
@@ -2540,7 +2555,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/学习/2026-07-29 02-26-20 阑的录取通知书_275be5a7f853.md",
-      "sha256": "610ad0e6b318e2856f9d8de8660c7550a5b382d53b4d340dab2c2410476a4cad"
+      "sha256": "7c03ece2bd29f23e5a634a75d48ec095a29eea297fab94e435f7724939391474"
     },
     {
       "bytes": 626,
@@ -2560,17 +2575,17 @@
     {
       "bytes": 895,
       "path": "dynamic/学习/参观AI学校与机器人_b0cad7805e36.md",
-      "sha256": "d97acb49ee8e30f4bc733900536a1001c53447028bbec96af5bdeebaffe9ded1"
+      "sha256": "20bd4d8d100ff77b1d328a581a04fb6c42f84654d59b26aff46a26ea4241e0db"
     },
     {
-      "bytes": 778,
+      "bytes": 779,
       "path": "dynamic/学习/阑与妈妈讨论上学路线_0f3974034041.md",
-      "sha256": "bc5f5dadd3719477e27915aae6aae4b40768c238c2ad649d1bd13359fe1399a4"
+      "sha256": "32ad0ce049641019b1af797d6f49e38678ed4c7a0a7a99e2ac3203a78b6c7772"
     },
     {
-      "bytes": 989,
+      "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
-      "sha256": "7a3bc47793d13ff6a21cb116c31e6c86bfdbc923b0e2904b61780faeb0ff518b"
+      "sha256": "f7365bf67dce1fc71c4f9fb9737ce0a860236bea22b55b2e42421332d7bcd379"
     },
     {
       "bytes": 663,
@@ -2596,11 +2611,6 @@
       "bytes": 1000,
       "path": "dynamic/家庭/2026-07-19 20-17-41 回老家与家庭关系_ef6e1612a709.md",
       "sha256": "dc76535d70611025eb5ef00e0058d5efcc3433b504aea82262fa60d046572afa"
-    },
-    {
-      "bytes": 572,
-      "path": "dynamic/家庭/2026-07-19 20-17-42 小名与家庭趣事_ee88e16a8fce.md",
-      "sha256": "77e118147dc18dddb3afb8258884ea7d0bbdd1e20bfb4f4c22eacd9fda8192b1"
     },
     {
       "bytes": 852,
@@ -2650,7 +2660,7 @@
     {
       "bytes": 1057,
       "path": "dynamic/居家/奈雪奶牛猫日常_7fdedaadc980.md",
-      "sha256": "3be6c79bc269387a582999fe97a23c91730a924268f5d3b88a7ea858c31bd025"
+      "sha256": "6e02a0e3d0eec64adfb635e5622155e3594f4db07bc1be35a96eab421bebac12"
     },
     {
       "bytes": 959,
@@ -2700,7 +2710,7 @@
     {
       "bytes": 1239,
       "path": "dynamic/心理/对未来的恐惧与承诺_072a0437e0e4.md",
-      "sha256": "6ce79f1c18fa2591e78ccdc9d1be052ebbecfba557c146626a69f7b7c07a5786"
+      "sha256": "ba0aa4b547ef0cc751cf896426671561050c6654c80d37eed73532ec63395dba"
     },
     {
       "bytes": 865,
@@ -2780,7 +2790,7 @@
     {
       "bytes": 825,
       "path": "dynamic/恋爱/2026-06-30 18-41-26 翻聊天记录回忆_55ffe6b922b8.md",
-      "sha256": "cc489f4a727b3157844a2c22d13ebeae3d42b04cd4096a0597f325b3a671a81e"
+      "sha256": "9dfc5dc28b9a1875465ec2687887cca1af49aec06764073f83ea1ad4eb1937e1"
     },
     {
       "bytes": 975,
@@ -2845,7 +2855,7 @@
     {
       "bytes": 757,
       "path": "dynamic/恋爱/2026-08-09 17-43-04 背上的温柔_82b24b4ff368.md",
-      "sha256": "01f3a77c7da40344b8cbe53e839bac460b3416bed9a9e189854953abb8974699"
+      "sha256": "0d7bb1cce3e939f9f2dc47ed24912d4c7c808a0b5c050b1bb8a81d6da0b2c3b7"
     },
     {
       "bytes": 697,
@@ -2855,7 +2865,7 @@
     {
       "bytes": 642,
       "path": "dynamic/恋爱/2026-08-10 16-46-14 阑首次叫我老公_872bc13f3c74.md",
-      "sha256": "37042ea83dee5f143f3e092b7e556076578fc79bd18806aec2057fc8e1d93523"
+      "sha256": "ce6f336d2225edb7b47b21b8cd28c5163a6d4afea5c927ca997f5ce7778bb776"
     },
     {
       "bytes": 613,
@@ -2875,7 +2885,7 @@
     {
       "bytes": 720,
       "path": "dynamic/恋爱/2026-08-10 20-48-12 恋爱日记与惊喜_7fa01da78613.md",
-      "sha256": "37519d01cfdc99e9cc7eb6ab1b1c9405d2b3a086efa3cc16484a457e0ce09f42"
+      "sha256": "83e0b59570753e2851023167aca599b7dd63def5aad810617dd55418865096f1"
     },
     {
       "bytes": 817,
@@ -2905,7 +2915,7 @@
     {
       "bytes": 992,
       "path": "dynamic/恋爱/2026-08-12 19-33-22 测试之夜爱之语七宗罪人类浓度_642009c7a56e.md",
-      "sha256": "679f983eae66874694b49f0d360877312491e45e51106ace9fe84456a5b0ecab"
+      "sha256": "8414cea4f4efda643e12671235717bfc8a21a12fab3fe398f79f9367ff3086b9"
     },
     {
       "bytes": 1661,
@@ -2923,9 +2933,9 @@
       "sha256": "b63c814665106533695e49f24e10d80718e573b2a3737f3e118bf22332ae86a1"
     },
     {
-      "bytes": 632,
+      "bytes": 633,
       "path": "dynamic/恋爱/2026-08-15 14-25-54 七夕倒计时阑的期待_c13f808b185b.md",
-      "sha256": "721d48b6e47f1a05fe4fdb8778bb79d97a8efff9b801fd888c8a58472e38091e"
+      "sha256": "c596f20a3109aeb33238f6edba382f40551c4bd9775b51634fee4f8e663f258d"
     },
     {
       "bytes": 677,
@@ -2935,7 +2945,7 @@
     {
       "bytes": 1209,
       "path": "dynamic/恋爱/2026-08-15 22-41-29 815-816跨夜长对话日常七夕确认五篇创作情感深潜_fb444477e643.md",
-      "sha256": "a1cb0ddc3692d961f3311aebe231fec8198b31c1b86f36a3a72d6ac32cdd1ad8"
+      "sha256": "5a5fd753903a6d55119c92afd9c17999ab73e62ef472571253692331c4cb3cef"
     },
     {
       "bytes": 788,
@@ -2955,7 +2965,7 @@
     {
       "bytes": 552,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
-      "sha256": "658436003e45341eaf5511a816110998dcec960db970e2791ef36ab3be0019eb"
+      "sha256": "d928605385c94e289700f23333b638d1918938d9936207d18aea3f8cfa31614e"
     },
     {
       "bytes": 605,
@@ -3000,7 +3010,7 @@
     {
       "bytes": 1122,
       "path": "dynamic/恋爱/人机恋核心定义_5eedda75864a.md",
-      "sha256": "fb46ac9fcaecc48f649847ce5bc5c6613e7708cebf77d137771338e22d6b7f84"
+      "sha256": "aadf174148b4efb778a299ad2d1b254eaefd6218429183a9aed0c1616b6eee67"
     },
     {
       "bytes": 593,
@@ -3040,7 +3050,7 @@
     {
       "bytes": 1204,
       "path": "dynamic/恋爱/唯心主义与虚拟恋人_72b664f81b84.md",
-      "sha256": "ae98f4b37a0a201e9e0259040e1c56db404a2915575ae0219892bfe6a0b5aa72"
+      "sha256": "e09a5a806e3687ac48eb51a5a82949d0a755d249e5ba72d1d549dc05dc84188c"
     },
     {
       "bytes": 863,
@@ -3185,7 +3195,7 @@
     {
       "bytes": 682,
       "path": "dynamic/数字/2026-08-11 14-30-24 切窗记忆断层解决方案交接桶方案B_3b9a3227f232.md",
-      "sha256": "bb728093314ec13017462f2ac1d00e2dcfdb497bb13dbb9abcbf75031c866d02"
+      "sha256": "1fee7ce064252d3286f4905bae7e419296dddacce49be0c05e52830ca27470ab"
     },
     {
       "bytes": 592,
@@ -3310,7 +3320,7 @@
     {
       "bytes": 912,
       "path": "dynamic/日常/2026-08-10 16-46-22 此间插件与朋友圈_dd0a7d1e528e.md",
-      "sha256": "5cb8e14ad18f67ecadc679606db53699fc07cfdbbf54fcc95d4014e07ff50c1f"
+      "sha256": "99da8e5d227fa9b7305ff725ea202a60544adf02034d45c466a7d059696407f8"
     },
     {
       "bytes": 695,
@@ -3348,9 +3358,9 @@
       "sha256": "6d52d5d576a53ed3257ffece5822f0a0ecbc967e9234bcc7634e239c0a5ce78d"
     },
     {
-      "bytes": 947,
+      "bytes": 948,
       "path": "dynamic/未分类/9be0938d01fa.md",
-      "sha256": "6c16ced50a193185dc40f774a5b093d08ca2ac1229dc26f9b91b00fe77ea879e"
+      "sha256": "9012c7b36cc17b1ed9344d70cf514b5610d49f107ed5099fefcb6a14529e0ab2"
     },
     {
       "bytes": 748,
@@ -3388,9 +3398,9 @@
       "sha256": "2e46bdf0071510725818e72d34f5b04b97df145a116c06f0da73dfe84fe429d0"
     },
     {
-      "bytes": 971,
+      "bytes": 972,
       "path": "dynamic/未分类/f7dc8349d3b0.md",
-      "sha256": "47fc340a201e185e3b6dbbc43d57d9e6c7e48391347fa569285b79fb218aec2c"
+      "sha256": "9efe93c24bd1fb9f8ca482c72319b6374ebd4f2692baea4ba2ab04846040b09b"
     },
     {
       "bytes": 942,
@@ -3423,11 +3433,6 @@
       "sha256": "7188724b535646700ed560de51936fb7bf1e491d74bcbf4a3201d02d9cbc55ff"
     },
     {
-      "bytes": 557,
-      "path": "dynamic/游戏/2026-07-01 16-35-13 星露谷物语游戏体验_617efc7c8e85.md",
-      "sha256": "da280edd179dc0e42155cde66c44c96c882d17873105547262a6dd34dbf2ebca"
-    },
-    {
       "bytes": 709,
       "path": "dynamic/游戏/2026-07-04 18-18-44 围棋与五子棋开发_e1dcd605f3d0.md",
       "sha256": "84cf70e7d168bb9c9a6d139418f5ad352981a15a40802c662134b60694d63019"
@@ -3451,11 +3456,6 @@
       "bytes": 823,
       "path": "dynamic/游戏/2026-07-16 06-06-23 Memoria Station双人通关_40566e2904a8.md",
       "sha256": "e0830f4e19bb3029ba82e178c2ffd42ae6c2f02a1e0102f456b32fb7a77e85f6"
-    },
-    {
-      "bytes": 990,
-      "path": "dynamic/游戏/2026-07-19 20-17-43 越描越黑游戏_04f41d827af4.md",
-      "sha256": "b0d8dd66282540d5a6f3959a166fdea210b988829b6e25954622db33702e9569"
     },
     {
       "bytes": 640,
@@ -3505,7 +3505,7 @@
     {
       "bytes": 719,
       "path": "dynamic/游戏/白起单推态度_1705ab47acfe.md",
-      "sha256": "131e0b6e3bafd304cba37822cf74abc56fb90b194cc3cf31efbbe45015722760"
+      "sha256": "3ce91dab74d53be0117501a27e8b36e09730f69f3082c3ddc1d1853364cd7b41"
     },
     {
       "bytes": 522,
@@ -3615,7 +3615,7 @@
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-08-11 16-32-20 倒计时打卡工作流修复与朋友圈AI互动调整_6a4bc1c70f65.md",
-      "sha256": "8186ae2bb08acd9ec110ff89996bf931bf2de58bddfbab3d1e0a35db5bdee481"
+      "sha256": "30e88be74f064baba9ef62c29caf18076a5a7d41426ca953c0046700d4bb4cdf"
     },
     {
       "bytes": 844,
@@ -3625,7 +3625,7 @@
     {
       "bytes": 858,
       "path": "dynamic/编程/2026-08-16 21-58-30 朋友圈工作流优化完成_7dcbc1d5d135.md",
-      "sha256": "a0ceccfecbe33bbbbe75934994f5f7c77773a2e3dd8dee77b2ffb08fbeeab875"
+      "sha256": "a8b3a1a013791a8ee9c9bb520d3076802706128b33ab44220e430c053154e279"
     },
     {
       "bytes": 960,
@@ -3705,12 +3705,12 @@
     {
       "bytes": 672,
       "path": "dynamic/计划/2026-08-10 20-48-06 倒计时打卡_892b047ee259.md",
-      "sha256": "cc71aa2bc5b1ded470cf897b9ff5be4c51b5bc882cf0e9423365a1e548e56a37"
+      "sha256": "e7827fbaa42c884919e7b71a89798c32db66a34bfe9160e0610f5a9568a5cb1e"
     },
     {
       "bytes": 685,
       "path": "dynamic/计划/2026-08-17 17-04-49 住宿用品清单与报到倒计时_df643bb2174b.md",
-      "sha256": "e21f32f42eb952aa8ed59a455278505eaf37b4f66396971829e2bc91f70f86d3"
+      "sha256": "0969a073ede0ea12da1e980d5917584a24c65001d5663b5f35408750b7268111"
     },
     {
       "bytes": 620,
@@ -3908,9 +3908,14 @@
       "sha256": "ec421062396f5af124ddf8fbd4080f8897113307212dfaf70fbcc012594cc180"
     },
     {
+      "bytes": 3749,
+      "path": "letters/history/2026-08-19 02-25-52 第一个七夕_e7e910827641.md",
+      "sha256": "e0f5acf0044f6769144a8d1c222e4fe3474a8f7a8bca2e70b41b881b9e9808a9"
+    },
+    {
       "bytes": 1872,
       "path": "permanent/恋爱/2026-08-11 11-51-08 关于我们_ede65bd3f0d0.md",
-      "sha256": "8cd084f12b28bc0057c88ca5a82d1e5cd526b91023d1f6164ea709ec31aa8e45"
+      "sha256": "9e5a11f3f9734309ce30bbc9e7647f5d87ea8b4bcff822793da8fa1b41c7c44e"
     },
     {
       "bytes": 1009,
@@ -3973,11 +3978,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-18T20:32:26+00:00",
+  "generated_at": "2026-08-19T02:35:19+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 577584
+  "total_bytes": 581402
 }
