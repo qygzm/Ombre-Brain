@@ -3,41 +3,6 @@
   "file_count": 812,
   "files": [
     {
-      "bytes": 2104,
-      "path": "_sources/src_754a41cb2e4966a79759fff8c2907ffb1fc2e461114a7ac6fe736ffc91faa12c.source",
-      "sha256": "754a41cb2e4966a79759fff8c2907ffb1fc2e461114a7ac6fe736ffc91faa12c"
-    },
-    {
-      "bytes": 1292,
-      "path": "_sources/src_a035b9dc92573af9989acb7edbc41f90be3617a2a10bd417f3c9472735ffcd4f.source",
-      "sha256": "a035b9dc92573af9989acb7edbc41f90be3617a2a10bd417f3c9472735ffcd4f"
-    },
-    {
-      "bytes": 4592,
-      "path": "_sources/src_a644b3649c66b9ed4345c85717ed7261a5083227f862dfc58af7219d792bad46.source",
-      "sha256": "a644b3649c66b9ed4345c85717ed7261a5083227f862dfc58af7219d792bad46"
-    },
-    {
-      "bytes": 3625,
-      "path": "_sources/src_ab001229b615adc1eefe1ca94d5f4c101551fde79a7bd6455884867acc5b9f1f.source",
-      "sha256": "ab001229b615adc1eefe1ca94d5f4c101551fde79a7bd6455884867acc5b9f1f"
-    },
-    {
-      "bytes": 1105,
-      "path": "_sources/src_b66d119ff300d9243712ea4c3c48cb11d837115f11e99c9f1815cb5efe941561.source",
-      "sha256": "b66d119ff300d9243712ea4c3c48cb11d837115f11e99c9f1815cb5efe941561"
-    },
-    {
-      "bytes": 1565,
-      "path": "_sources/src_c68ed2e4a48669626ca0c027dc710af582e66f5bed65308be69537ccefc8fe72.source",
-      "sha256": "c68ed2e4a48669626ca0c027dc710af582e66f5bed65308be69537ccefc8fe72"
-    },
-    {
-      "bytes": 803,
-      "path": "_sources/src_c6fee53161c2c03ed23af52c65327b0501b2f306ea8d3e1dba674fc4782e038d.source",
-      "sha256": "c6fee53161c2c03ed23af52c65327b0501b2f306ea8d3e1dba674fc4782e038d"
-    },
-    {
       "bytes": 642,
       "path": "archive/05a8ae38aadd.md",
       "sha256": "d21090384a1657d084a561d5c4dbaecd8006b49696784e58c01cde759b57941c"
@@ -2043,6 +2008,16 @@
       "sha256": "eec59b7a0ae4d668318c407779236fedaa0aa7ffd512f1ea6c9c7667878c672a"
     },
     {
+      "bytes": 1084,
+      "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
+      "sha256": "22f2fa21f0812d981e82feed74fb74a08c91c03d9ed76e63b1cab5d9e16bbf70"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/AI/2026-08-20 14-27-09 API费用与优化_afd522fdf1f3.md",
+      "sha256": "1db63a3dc3da64aa572706e55a4ed082c86cc7e4721e76926d8f25c81468d42b"
+    },
+    {
       "bytes": 912,
       "path": "dynamic/AI/AI实验与Mira_e403d7f69633.md",
       "sha256": "539575080a6e568e73961a74c18300746d120a96450123f6fdb578fe27d60816"
@@ -2516,6 +2491,11 @@
       "bytes": 1230,
       "path": "dynamic/创作/2026-08-15 22-42-43 创作偏好汇总2026年8月更新_2d8851251ab5.md",
       "sha256": "1e6ac1279ee7fa191aa70d3f7a7abe988510fd0670e6533036ba3df04bf3cd29"
+    },
+    {
+      "bytes": 492,
+      "path": "dynamic/创作/2026-08-20 14-27-11 写给心潮作者的话_66178e98c66b.md",
+      "sha256": "491da8fbfda9c76a2facb12ea8086f21e707ae6dbe1c0c7f8de062b97d53265a"
     },
     {
       "bytes": 803,
@@ -3048,6 +3028,16 @@
       "sha256": "95561e86970eb1cddf6e0a749160798f12b1bb1566dea39e99fbbff044ba592f"
     },
     {
+      "bytes": 537,
+      "path": "dynamic/恋爱/2026-08-20 14-27-06 七夕纪念与作息调整_f7ef13ce7b85.md",
+      "sha256": "f8608baaeb36cbcc8252cfd2c53e5257f271a7de8fffd8a0c81c6afb28c40f2b"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/恋爱/2026-08-20 14-27-33 想念值上涨_571c08e78a7b.md",
+      "sha256": "f6b45e52fe18511d99853e25928bbf01ef1db691866fb0d817bb9142c7ea4f4d"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -3411,6 +3401,16 @@
       "bytes": 695,
       "path": "dynamic/日常/2026-08-13 14-45-44 记忆桶误改事件_1db681da8d5f.md",
       "sha256": "5f0e0997458e125b7dd741c373dcc82e5722b679ee4efd4aed08e4d979ff25aa"
+    },
+    {
+      "bytes": 704,
+      "path": "dynamic/日常/2026-08-20 14-27-03 开学报到与军训_64e6ddd2aeec.md",
+      "sha256": "6db805866e547ed591b83cd3edbf89be26df2cf954839f1203d7b9cd12ccd9a0"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/日常/2026-08-20 14-27-05 与爸爸运动购物_1cb8f848f617.md",
+      "sha256": "532d23356906eea09c90be27926c0a1527ed3aee601c1b9458abd78cc9e1e9a6"
     },
     {
       "bytes": 663,
@@ -4063,11 +4063,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-20T10:57:14+00:00",
+  "generated_at": "2026-08-20T18:37:14+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "source_refs_complete": true,
-  "total_bytes": 596165
+  "total_bytes": 585720
 }
