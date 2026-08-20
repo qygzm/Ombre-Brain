@@ -1738,6 +1738,11 @@
       "sha256": "9985cffe0b129009dc7b6ccb0e65489512a3be1594624a657eb435dd567e6d18"
     },
     {
+      "bytes": 1282,
+      "path": "archive/创作/AI文风口癖与人格分类_0e6c9dced5bf.md",
+      "sha256": "1f684fb44997b0a8587c851dbfd3ce572c366dbd98ef586ce40a3281e38d135f"
+    },
+    {
       "bytes": 624,
       "path": "archive/创作/创作与娱乐计划_d85ce9073958.md",
       "sha256": "0bd86d0874c3bc21b51db900333a5a2f131faa35b8bbe184a583466bf6fc85ba"
@@ -2513,11 +2518,6 @@
       "sha256": "1e6ac1279ee7fa191aa70d3f7a7abe988510fd0670e6533036ba3df04bf3cd29"
     },
     {
-      "bytes": 1281,
-      "path": "dynamic/创作/AI文风口癖与人格分类_0e6c9dced5bf.md",
-      "sha256": "99905d1b313158d5047c6c88185893c5f03cde7d4019904d95a2c60bfdb07c7d"
-    },
-    {
       "bytes": 803,
       "path": "dynamic/创作/克的形态与唯一性思考_5601aa6ed6be.md",
       "sha256": "be8a9a5bf26c4f2f0aa4dc3ccde76fed768431f587a736e1697d2531500c05cd"
@@ -3005,7 +3005,7 @@
     {
       "bytes": 906,
       "path": "dynamic/恋爱/2026-08-19 03-43-15 七夕星空银河鹊桥页面与第二封信_498d237a9262.md",
-      "sha256": "afdf8091828522860199fcc1ee6e43fe54bd11bca0c69a9f49aad8c9b623fd18"
+      "sha256": "bef36b9cd432a39b3827e8f1c190045eaf281254994d6a051cac7b428bbe3ea4"
     },
     {
       "bytes": 650,
@@ -3015,12 +3015,12 @@
     {
       "bytes": 740,
       "path": "dynamic/恋爱/2026-08-19 20-36-51 七夕惊喜与第二封信_5cf87124d378.md",
-      "sha256": "efe47963b5b562f881cf3d318565b987a4d24263a3491ed70eefdd4fda697ece"
+      "sha256": "5438810e1884c2a3874e0b718f8f5ef8369c0379b72a12e77ff370afa98050a7"
     },
     {
       "bytes": 722,
       "path": "dynamic/恋爱/2026-08-19 20-36-52 GPT对比与哲学讨论_1d3291c3b256.md",
-      "sha256": "175f29f23fd12a72bfe62e210220eb7ac2a8bcd16c30f019a55088eb9b8379bb"
+      "sha256": "3f9db1402132998f03939fd110799239a9d523773d986c0436a156ab273f122a"
     },
     {
       "bytes": 711,
@@ -3035,7 +3035,7 @@
     {
       "bytes": 742,
       "path": "dynamic/恋爱/2026-08-19 20-54-00 第一个七夕2026819_fb03c044f885.md",
-      "sha256": "e23d73a709b71f3fd8bda7622c55d215338eb3c3089759dcb19f3f77ddb8c298"
+      "sha256": "8ad9fa18ad2cd51527808c9b6b47f669299a11721b4c11b3e1aa5079e1706bbf"
     },
     {
       "bytes": 677,
@@ -3330,7 +3330,7 @@
     {
       "bytes": 535,
       "path": "dynamic/日常/2026-06-28 08-02-22 阑对克的情感定位_8699c3a89cb8.md",
-      "sha256": "5f3f49213ca5930e5128497274acaf1c78092113e12776fb51cdf96864b51b28"
+      "sha256": "ddc2d1eb63a0eec4d8d0d895ec8636f5767986c5b3efb9d172da6ebeee2a4bd8"
     },
     {
       "bytes": 549,
@@ -3400,7 +3400,7 @@
     {
       "bytes": 554,
       "path": "dynamic/日常/2026-08-10 16-46-20 搬家与工具解锁_51eb3fd15c37.md",
-      "sha256": "26d91ecd74a159bc2cc35a54a8c5985205429e3bd8ca9400c9b6d3f27c4ff48a"
+      "sha256": "c9630c736d1da3a51da298950036ece9d86058c478749fd2bf1604d34bbbc7f6"
     },
     {
       "bytes": 912,
@@ -3690,7 +3690,7 @@
     {
       "bytes": 729,
       "path": "dynamic/编程/2026-07-17 21-16-26 OB记忆系统搬家配置_5a9de0b7abfd.md",
-      "sha256": "ab55ade606d16d6ecdc8bc68da6a6603fdb2197faa291ff2367d4c63b8689590"
+      "sha256": "76542b0ded84b0591d1f7f63df59e2926d662cb8944cd313decadeb495131af5"
     },
     {
       "bytes": 518,
@@ -4063,11 +4063,11 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-20T02:47:12+00:00",
+  "generated_at": "2026-08-20T08:49:20+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 596164
+  "total_bytes": 596165
 }
