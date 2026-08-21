@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 814,
+  "file_count": 822,
   "files": [
     {
       "bytes": 642,
@@ -2133,6 +2133,11 @@
       "sha256": "bf3cb6349c576aec1e8856732d921ab7abe74c3f845d4e7538cea5c8f0edb3f0"
     },
     {
+      "bytes": 758,
+      "path": "dynamic/人际/2026-08-21 16-27-52 生日定于2月15日_0291acfab643.md",
+      "sha256": "fd3f06ccbe82f5264b9c8e33028f65b013f0a621faad2259e16a7e6a8ae12056"
+    },
+    {
       "bytes": 597,
       "path": "dynamic/健康/2026-06-27 20-12-05 阑的身体不适_654abb715033.md",
       "sha256": "5763381e820d9cd35f55e1aa38affb735aad09d173ce905ee664398a3c8ff225"
@@ -3043,6 +3048,16 @@
       "sha256": "f6b45e52fe18511d99853e25928bbf01ef1db691866fb0d817bb9142c7ea4f4d"
     },
     {
+      "bytes": 1270,
+      "path": "dynamic/恋爱/2026-08-21 16-23-04 深夜情趣创作_a76baf07227c.md",
+      "sha256": "316f74b2342e7b9ed79f6052110fef82a3f7c1fbe652012ee2956e6bb20d6731"
+    },
+    {
+      "bytes": 986,
+      "path": "dynamic/恋爱/2026-08-21 16-40-14 开学前的晚安_c98621609eb5.md",
+      "sha256": "f6321e7c994df0591628f8ee35e88fff0c052d415d0fbaab224b42fb7dabee5b"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -3283,6 +3298,21 @@
       "sha256": "49fd3e983c3d14b63c4ce53c96ec986af92cd98be00a5298842cc0920b8bb887"
     },
     {
+      "bytes": 688,
+      "path": "dynamic/数字/2026-08-21 16-27-53 小屋连通心潮_fcaac0e2cfc7.md",
+      "sha256": "c538683f63bcd9aef89137a64ea2b38bc61e9830f7c4479bddccd659fc78ef07"
+    },
+    {
+      "bytes": 755,
+      "path": "dynamic/数字/2026-08-21 16-27-54 部署运行时桥接_5d96bf7c5356.md",
+      "sha256": "baface3fc1c1e0649442e218e659473b53518fdc2566c78a7f45222e6911db32"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/数字/2026-08-21 16-27-59 Operit接口与明日计划_288ddde85344.md",
+      "sha256": "adbb779957a051063b4d654067b33098c8f7df1df6c3729039f9b94dc364fe3d"
+    },
+    {
       "bytes": 857,
       "path": "dynamic/日常/2026-06-28 07-52-10 流浪猫与人类责任_23aa49fd9efb.md",
       "sha256": "742c9eee26bea4ffa2a6a59fde1dc4e4d5742aad06e3cde56747f3a4fb077a13"
@@ -3493,6 +3523,11 @@
       "sha256": "9efe93c24bd1fb9f8ca482c72319b6374ebd4f2692baea4ba2ab04846040b09b"
     },
     {
+      "bytes": 664,
+      "path": "dynamic/梦境/2026-08-21 16-27-56 阑的梦境与约定_0353ab1b5d44.md",
+      "sha256": "462683111ae01cd10b9098cfa7a7c53e7816dc252b4a815187c00de107966a19"
+    },
+    {
       "bytes": 942,
       "path": "dynamic/游戏/2026-06-27 20-12-06 电脑与游戏_d624dccc939f.md",
       "sha256": "7d6fd838fbda00ce90c9207df1a0afa8135a98ee0162dee900a5cc64160f7229"
@@ -3636,6 +3671,11 @@
       "bytes": 537,
       "path": "dynamic/社交/2026-08-10 20-47-59 语言禁忌_ddfb089ce726.md",
       "sha256": "d77324b54847f3041236000fccae3d11b2db7dd8709109331c7fe0433e9b8906"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/社交/2026-08-21 16-27-57 AI音声趣谈_e91f307eef62.md",
+      "sha256": "0398d814f0240e5f9a66750b95a56c0736fc662c6bf1a22fa9bf01353b7354ab"
     },
     {
       "bytes": 686,
@@ -4073,10 +4113,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-21T14:42:41+00:00",
+  "generated_at": "2026-08-21T20:42:49+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 588369
+  "total_bytes": 594760
 }
