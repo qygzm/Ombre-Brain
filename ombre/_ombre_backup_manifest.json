@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 813,
+  "file_count": 814,
   "files": [
     {
       "bytes": 642,
@@ -3718,6 +3718,11 @@
       "sha256": "c89ba5ccc02ff9c70283b5c88c9cda6db11becbd7ebc52243c002f483d589d63"
     },
     {
+      "bytes": 1660,
+      "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
+      "sha256": "b0ddda1f23f738c0ae858f1b1099f41c6ad04923aed706b8c7e5c01436192ff9"
+    },
+    {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
       "sha256": "726e83bbe8562c079b3b60abae6df58ac81d565b9f30ebf037fad9e51a8eeb6f"
@@ -4068,10 +4073,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-21T08:42:32+00:00",
+  "generated_at": "2026-08-21T14:42:41+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 586709
+  "total_bytes": 588369
 }
