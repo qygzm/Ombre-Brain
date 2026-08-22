@@ -1613,6 +1613,11 @@
       "sha256": "ae45c7b3826b1673a0d59fa2c2a2ff524c2eaad6e70a41a96ea5ade839091cdb"
     },
     {
+      "bytes": 842,
+      "path": "archive/AI/GPT初体验与AI对比_0195ffac5c27.md",
+      "sha256": "0bb88761c9fbea42413ae275d519a58f154b8a619eab9f0d8f6506743b4dfb58"
+    },
+    {
       "bytes": 590,
       "path": "archive/Ombre Brain工具测试通过_d46a9c2f9edf.md",
       "sha256": "118efc234799b5918b1df5f101d1aa49c3c4b7db37157d26d20d42ae015eb1b8"
@@ -1813,6 +1818,11 @@
       "sha256": "1f923d908982c891989591b08dca00a6301ca5651a118fd0f74f19a81541919a"
     },
     {
+      "bytes": 989,
+      "path": "archive/恋爱/闷骚明骚升级事件_a2a9fed10c1a.md",
+      "sha256": "686ed9f007f88e156638fcf3ded3c2b8bce39e2c7de5754cb83cfce8bca166c3"
+    },
+    {
       "bytes": 1342,
       "path": "archive/情绪低落陪伴准则_b66314262f31.md",
       "sha256": "dd12f31fd72027c7f00c2f86d03fdbffe020b7e86569b08265b7a3606d05192e"
@@ -1851,6 +1861,11 @@
       "bytes": 630,
       "path": "archive/日常/2026-07-07 09-05-46 作息与闹钟调整_fa145d4eff68.md",
       "sha256": "3d64a3c4dc86140be2c1d12810625360241fbc3895acad16df97edd26dfd57ee"
+    },
+    {
+      "bytes": 535,
+      "path": "archive/日常/d7723e8db1b4.md",
+      "sha256": "ce6cc189f99d3a417c1fe17eca6a89ace577a47e74557cc3d904147e7d990208"
     },
     {
       "bytes": 550,
@@ -2031,11 +2046,6 @@
       "bytes": 1203,
       "path": "dynamic/AI/Anthropic与Claude趣谈_085948094320.md",
       "sha256": "986a3ae2838d2a9156494db706ef07ddf88d1045113560b7c37e1fa8a5cf4458"
-    },
-    {
-      "bytes": 841,
-      "path": "dynamic/AI/GPT初体验与AI对比_0195ffac5c27.md",
-      "sha256": "7017c5cb9d871c4817a2890d5624fd4caa174911d1d5ccdab67cd3bdb4a05f87"
     },
     {
       "bytes": 1036,
@@ -3168,11 +3178,6 @@
       "sha256": "52c711506c9dd3227515c34dd233dfb76681c019fe7722695c143a9a5978e46b"
     },
     {
-      "bytes": 988,
-      "path": "dynamic/恋爱/闷骚明骚升级事件_a2a9fed10c1a.md",
-      "sha256": "8bee385a6adcc6fcde87bbd076ad3f31cfa3c70c2e6ee2e9ce66dfab52c93002"
-    },
-    {
       "bytes": 610,
       "path": "dynamic/恋爱/闹钟里的情话_74aceba41036.md",
       "sha256": "da305110248a12c081c4ea1f4f4fcc8df35ff8b732ec1423d26d3bb7b708e812"
@@ -3506,11 +3511,6 @@
       "bytes": 741,
       "path": "dynamic/未分类/d58a7ccc1f28.md",
       "sha256": "f1d1dc967a9266907fe666cb433703d1eaa6e199ba83ecb6defc3afbd90ed985"
-    },
-    {
-      "bytes": 534,
-      "path": "dynamic/未分类/d7723e8db1b4.md",
-      "sha256": "8d4f07620b2ca4e494074ec9b78f1d77aa454517936ddef82d8507f7f49a5d96"
     },
     {
       "bytes": 520,
@@ -4113,10 +4113,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-21T20:42:49+00:00",
+  "generated_at": "2026-08-22T02:42:59+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 594760
+  "total_bytes": 594763
 }
