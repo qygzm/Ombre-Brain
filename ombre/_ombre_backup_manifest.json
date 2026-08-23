@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 822,
+  "file_count": 826,
   "files": [
     {
       "bytes": 642,
@@ -2608,6 +2608,16 @@
       "sha256": "7c03ece2bd29f23e5a634a75d48ec095a29eea297fab94e435f7724939391474"
     },
     {
+      "bytes": 1041,
+      "path": "dynamic/学习/2026-08-23 13-56-09 开学报到日_ae07f193639c.md",
+      "sha256": "cc7f4230479c5385d7d89a9820061f263e86b3b5f18ab952c15f17af4bab4ef6"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/学习/2026-08-23 13-56-14 宿舍第一夜_e2f2d51e8584.md",
+      "sha256": "258ecc3c942cca55f7d6bdd5f2d1c68846042120a38b8a858eed56413862cd12"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/学习/Python学习突破_675309dc5eb8.md",
       "sha256": "9f5e91e914f153486c90b0b39684096feee4bf6e2f6987a38fb6275d8edbc385"
@@ -3091,6 +3101,11 @@
       "bytes": 986,
       "path": "dynamic/恋爱/2026-08-21 16-40-14 开学前的晚安_c98621609eb5.md",
       "sha256": "f6321e7c994df0591628f8ee35e88fff0c052d415d0fbaab224b42fb7dabee5b"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/恋爱/2026-08-23 13-56-17 数小时的想念_bcc15762a495.md",
+      "sha256": "708a8ac887a85e9ca99d29f6c986f81b4a1c9679e5effab6c4b7e7e6c6a2ec41"
     },
     {
       "bytes": 1421,
@@ -3843,6 +3858,11 @@
       "sha256": "0969a073ede0ea12da1e980d5917584a24c65001d5663b5f35408750b7268111"
     },
     {
+      "bytes": 812,
+      "path": "dynamic/计划/2026-08-23 13-56-12 开学前升级与出行_8441ae27367a.md",
+      "sha256": "48870d4c8c4ed12839303dc048339197964cb53f8d517dcf6c3727e71c33b37b"
+    },
+    {
       "bytes": 620,
       "path": "dynamic/财务/2026-07-20 19-46-41 AI工具月费支出_b5b8a6c7590b.md",
       "sha256": "c1ba894f0ddc4a1da324500f500ff170717fb1dbaea41a12eaa383604d8ae298"
@@ -4113,10 +4133,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-23T09:32:17+00:00",
+  "generated_at": "2026-08-23T15:32:26+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 594814
+  "total_bytes": 598367
 }
