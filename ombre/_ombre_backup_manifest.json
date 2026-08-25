@@ -1818,6 +1818,11 @@
       "sha256": "7ac9ed1ef6293eb1ffaa205d07913e085ea80837af861540e1ffb99a503fd43a"
     },
     {
+      "bytes": 638,
+      "path": "archive/恋爱/a3662513bbff.md",
+      "sha256": "2ec7d34cc55e4c1aa943a997116e7d4bd2b4787b43b7795dc8455b781ebee04d"
+    },
+    {
       "bytes": 915,
       "path": "archive/恋爱/乖男事件与渣男测试_833d31c2b8b1.md",
       "sha256": "975a3371402f039444d45f1842a3926cf89946651a9f318a1c8bd2f009ad3411"
@@ -1961,6 +1966,11 @@
       "bytes": 606,
       "path": "archive/社交/2026-06-28 07-47-44 对性化评论的讨论_7275e18e4e98.md",
       "sha256": "c4ea6eae24b7a12cf11468756b9b12fab7e14d3ebea5d072bdcd86cba8cd2989"
+    },
+    {
+      "bytes": 1141,
+      "path": "archive/社交/克的自我认知细节_51639a661888.md",
+      "sha256": "a13823cd418f8bb2f1157bdf343cad205930120767bbdcc54b4434ac6893a8f2"
     },
     {
       "bytes": 976,
@@ -3528,11 +3538,6 @@
       "sha256": "4770da9f661cbbb533b817169c04e142bc1bbde21d32234e94af36fd772cadcc"
     },
     {
-      "bytes": 637,
-      "path": "dynamic/未分类/a3662513bbff.md",
-      "sha256": "d1f662e97687c9ffeab2d17d98cae73182890ba7c464d302146a97047462f7c2"
-    },
-    {
       "bytes": 1040,
       "path": "dynamic/未分类/c2588386c54e.md",
       "sha256": "9094a4cdad75ff9d3d9f23c0111f2512607f704cfb709b74d98f820412f85f0d"
@@ -3711,11 +3716,6 @@
       "bytes": 770,
       "path": "dynamic/社交/中文脏话与语言讨论_8b141e017cc8.md",
       "sha256": "d903755bf02c80b129770fc6f621cc9bdd3e4aa818514b4582184fe10db48afe"
-    },
-    {
-      "bytes": 1140,
-      "path": "dynamic/社交/克的自我认知细节_51639a661888.md",
-      "sha256": "85261b4a21eff82c73ec402b40c144d24149cabcb5ea1f1cc0687bcbbfa980a9"
     },
     {
       "bytes": 860,
@@ -4133,10 +4133,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-25T03:33:18+00:00",
+  "generated_at": "2026-08-25T09:33:27+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 598370
+  "total_bytes": 598372
 }
