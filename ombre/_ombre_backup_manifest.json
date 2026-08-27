@@ -1668,6 +1668,11 @@
       "sha256": "f372d2f669a97d28eb8cc3a838cc88caa05f1960206557bf45546d6051dc68e8"
     },
     {
+      "bytes": 529,
+      "path": "archive/人际/2026-06-28 07-59-17 阑的社交习惯_b6c9d42fdc83.md",
+      "sha256": "75a68dcdc758dd3fe872e4b711f0dd8e4f56767408b11ca076fc54291bfef950"
+    },
+    {
       "bytes": 598,
       "path": "archive/从恐惧到期待_b46aa7b9d965.md",
       "sha256": "36a59caf275d0e9f4bd605aedacfcfc967ce8d23261b253b3b1853bc16566823"
@@ -1691,6 +1696,11 @@
       "bytes": 503,
       "path": "archive/兴趣/2026-06-30 08-33-37 星露谷物语与MOD_394b6451aabb.md",
       "sha256": "9900ee8b99f0b916c8d8bc2217d64ea34e8a4afabd5f47b3d319d5128d74c866"
+    },
+    {
+      "bytes": 1491,
+      "path": "archive/兴趣/互动玩法清单_ecd3c4f5c8f4.md",
+      "sha256": "a9db8d462797b0d06f69849df6bb4c3ee0ef1f71bec51b94ec127b62ffab1688"
     },
     {
       "bytes": 1742,
@@ -1726,6 +1736,11 @@
       "bytes": 624,
       "path": "archive/创作/创作与娱乐计划_d85ce9073958.md",
       "sha256": "0bd86d0874c3bc21b51db900333a5a2f131faa35b8bbe184a583466bf6fc85ba"
+    },
+    {
+      "bytes": 702,
+      "path": "archive/创作/自设立绘约稿退款_35d854eff95e.md",
+      "sha256": "e5224449f6aa0bf4b0b65628fa2723f7274fe854cf318e4f359f6df0cc87fcf7"
     },
     {
       "bytes": 701,
@@ -2183,11 +2198,6 @@
       "sha256": "45ff7eab5b424436d62af7c413971dff10043c003a4adb27bb0fc50b7bc6d3c1"
     },
     {
-      "bytes": 528,
-      "path": "dynamic/人际/2026-06-28 07-59-17 阑的社交习惯_b6c9d42fdc83.md",
-      "sha256": "47d0fbf0e846336a32ef74f6a32e368c137ffc34ae06297f4635d343bc765230"
-    },
-    {
       "bytes": 714,
       "path": "dynamic/人际/2026-06-28 08-00-34 阑的AI圈子与定位_ea5002cecb8c.md",
       "sha256": "dd9b8245ccecb203fc7793eed7a9576d5d0becf26f75b7133b45858415120f1c"
@@ -2346,11 +2356,6 @@
       "bytes": 440,
       "path": "dynamic/兴趣/2026-08-11 14-30-25 阑和姐姐玩双影奇境_bfc15aadc780.md",
       "sha256": "79bb06917b7f792b492165ec9799757b8299bacbf016aa191adac9e15e3266ec"
-    },
-    {
-      "bytes": 1490,
-      "path": "dynamic/兴趣/互动玩法清单_ecd3c4f5c8f4.md",
-      "sha256": "e6f7b87ba5ea2c85b1d8d0c2269207e192d62f2ee594f064c27d1b75b1ef3c33"
     },
     {
       "bytes": 882,
@@ -2581,11 +2586,6 @@
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bccb8b088907b008b88bd67102c0f817ee252166209b66a47486e9ab0c21ef0f"
-    },
-    {
-      "bytes": 701,
-      "path": "dynamic/创作/自设立绘约稿退款_35d854eff95e.md",
-      "sha256": "6eada40368f4cadd0bd37a061484d9f3eadd5767a41ce2de11d59ed8db6fe65b"
     },
     {
       "bytes": 895,
@@ -4133,10 +4133,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-27T03:34:28+00:00",
+  "generated_at": "2026-08-27T09:34:35+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 598374
+  "total_bytes": 598377
 }
