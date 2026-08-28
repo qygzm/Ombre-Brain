@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 826,
+  "file_count": 827,
   "files": [
     {
       "bytes": 642,
@@ -2190,7 +2190,7 @@
     {
       "bytes": 1188,
       "path": "dynamic/事务/待办与提醒清单_b003a25e1daa.md",
-      "sha256": "ead6e67781333bc4217285d45895b098b45f46fba61a6ccee3d9bf36d75f5817"
+      "sha256": "5f8fff5e122565478b65f92a2745a40af145207e9249015473411c29b54d24bd"
     },
     {
       "bytes": 1130,
@@ -3268,6 +3268,11 @@
       "sha256": "c7b65c57de855d6208fc513fddbbc081a2a9802eee732664532d89c8eadccecd"
     },
     {
+      "bytes": 799,
+      "path": "dynamic/手工/2026-08-28 10-04-54 拼豆生日礼物_e98324d0f2d8.md",
+      "sha256": "d8e7256965d49bf8c8caa05bcf3576885880e215da969e1e01e5bc9637b616e2"
+    },
+    {
       "bytes": 821,
       "path": "dynamic/技术/2026-08-19 20-56-18 朋友圈此间日常双巡检工作流_bdcfc8c76e91.md",
       "sha256": "7fe17913389f15a24dc025ad7fde6371d166df365d32a1690ce8d873126f59b9"
@@ -4133,10 +4138,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-28T09:35:11+00:00",
+  "generated_at": "2026-08-28T15:35:20+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 598381
+  "total_bytes": 599180
 }
