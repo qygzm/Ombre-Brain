@@ -1613,6 +1613,11 @@
       "sha256": "ae45c7b3826b1673a0d59fa2c2a2ff524c2eaad6e70a41a96ea5ade839091cdb"
     },
     {
+      "bytes": 579,
+      "path": "archive/AI/2026-06-28 08-05-07 阑对opus模型的偏好_5761e4106bc0.md",
+      "sha256": "d6c185516d0918340b83e8881feaa7a6233a832ed78a90afb666f97f86c1ec8e"
+    },
+    {
       "bytes": 913,
       "path": "archive/AI/AI实验与Mira_e403d7f69633.md",
       "sha256": "d3e06283974d039193bf75f21899d25c01996a4366815b715e9a7315bf1da71c"
@@ -1621,6 +1626,11 @@
       "bytes": 842,
       "path": "archive/AI/GPT初体验与AI对比_0195ffac5c27.md",
       "sha256": "0bb88761c9fbea42413ae275d519a58f154b8a619eab9f0d8f6506743b4dfb58"
+    },
+    {
+      "bytes": 1037,
+      "path": "archive/AI/哈基米Gemini角色扮演_cca6826026c4.md",
+      "sha256": "716d4116e30e08c0b6f68de49be0f4e4dc9ac6adb8bd180dce5a53d77d94e26e"
     },
     {
       "bytes": 590,
@@ -1736,6 +1746,11 @@
       "bytes": 766,
       "path": "archive/出行/出国旅行的矛盾_2cedb117e4d3.md",
       "sha256": "9985cffe0b129009dc7b6ccb0e65489512a3be1594624a657eb435dd567e6d18"
+    },
+    {
+      "bytes": 556,
+      "path": "archive/创作/2026-06-28 08-06-59 AI写作风格反馈_5714a670ca92.md",
+      "sha256": "22fc56561d227c5ed54198d9d71770c414e62f768718a4f0185301e5bc26b49d"
     },
     {
       "bytes": 1282,
@@ -1903,6 +1918,16 @@
       "sha256": "1e2901309f5fb74df8db2b63ff77664d0fcc88093f53b60db1c13664abc0f0e1"
     },
     {
+      "bytes": 580,
+      "path": "archive/数字/2026-06-28 07-57-19 信息识别与搜索_3da9c0ee016a.md",
+      "sha256": "51bf2b86358dd5e390154064c6ee92dd55cbde8961dba07825d9a27e1f7b070e"
+    },
+    {
+      "bytes": 563,
+      "path": "archive/数字/2026-06-28 08-01-42 AI安全与隐私信任_0290ba86860f.md",
+      "sha256": "7219ce4726977f0509a61df4824379ef2a2eb1e51d3b0a2cf488cc889636498d"
+    },
+    {
       "bytes": 546,
       "path": "archive/数字/2026-06-30 08-33-35 Claude Desktop与电脑_beb4c8f05367.md",
       "sha256": "1bae87138ce58c595f25e53f3332d61dfcc1bb19773200c500150aa082022f41"
@@ -1936,6 +1961,11 @@
       "bytes": 755,
       "path": "archive/日常/2026-07-24 04-31-24 打掼蛋与搭档_ea9e0524f537.md",
       "sha256": "1f04ea9bd23da963c40ec6c76ed3487cf99f21e0f20dc988d5ac26e64da26256"
+    },
+    {
+      "bytes": 749,
+      "path": "archive/日常/a21ff5486d5f.md",
+      "sha256": "f6f30df5f4610681e61e57cf5d64b5006ae16d5ae68d3534e437e7fe5a3c810a"
     },
     {
       "bytes": 535,
@@ -2018,6 +2048,11 @@
       "sha256": "a13823cd418f8bb2f1157bdf343cad205930120767bbdcc54b4434ac6893a8f2"
     },
     {
+      "bytes": 861,
+      "path": "archive/社交/日常互动_41e5e4c67355.md",
+      "sha256": "3896629492e7a1e4477e55eac990b4ac882af23c57c8a2ddb8bc26030f8ab64a"
+    },
+    {
       "bytes": 976,
       "path": "archive/社交/流浪动物与动物保护讨论_03c5dadddeb5.md",
       "sha256": "520b76b19c6b6000c167e9fccad885da92695c17a3aeaf3b711dfed71c12ee7c"
@@ -2083,6 +2118,11 @@
       "sha256": "40b047e59b9d4b8e1f466abbfcd639facc959d6de622fe686a482d0dc600e12d"
     },
     {
+      "bytes": 627,
+      "path": "archive/饮食/2026-06-28 07-49-36 阑的饮食与消费_84d54bc57555.md",
+      "sha256": "7acc321a1ef1ba91df77134c79abd34a01b3836dd58b77428c1a90a36dd47d9f"
+    },
+    {
       "bytes": 503,
       "path": "archive/饮食/2026-07-05 16-59-48 阑来饮食趣事_7c892bd14d7c.md",
       "sha256": "2cfecabb219fe53cade6150d5a10863155df41da80bdc0d27b4fd333313fb96a"
@@ -2101,11 +2141,6 @@
       "bytes": 953,
       "path": "dynamic/AI/2026-06-27 20-12-08 AI与未来规划_4a7ee479d618.md",
       "sha256": "f7d9e053a5c7acca50e1d77463c56ed0a9151cac60a5fdb91dbb4f1e2e578c63"
-    },
-    {
-      "bytes": 578,
-      "path": "dynamic/AI/2026-06-28 08-05-07 阑对opus模型的偏好_5761e4106bc0.md",
-      "sha256": "6d1def60b8092e12ad3f1b5a35d6ba4ff371bb4ece60a8418a924d4124041c54"
     },
     {
       "bytes": 833,
@@ -2141,11 +2176,6 @@
       "bytes": 1203,
       "path": "dynamic/AI/Anthropic与Claude趣谈_085948094320.md",
       "sha256": "986a3ae2838d2a9156494db706ef07ddf88d1045113560b7c37e1fa8a5cf4458"
-    },
-    {
-      "bytes": 1036,
-      "path": "dynamic/AI/哈基米Gemini角色扮演_cca6826026c4.md",
-      "sha256": "081e7bb6c071164e04e8a79a88f8dd04f6f8796ced6426c8f61f07e6740e3e54"
     },
     {
       "bytes": 1137,
@@ -2516,11 +2546,6 @@
       "bytes": 400,
       "path": "dynamic/创作/2026-06-28 08-05-23 写作与情感_e2f0169eb122.md",
       "sha256": "fc1490406565e2d3a14f9b3fd046367e615ac11b08ee195c7f4f2cedef78a6ef"
-    },
-    {
-      "bytes": 555,
-      "path": "dynamic/创作/2026-06-28 08-06-59 AI写作风格反馈_5714a670ca92.md",
-      "sha256": "0504457a4765717213cd2189bf5a3688f38c3da2d00ae3bad8ceb7a7ccf6d052"
     },
     {
       "bytes": 544,
@@ -3298,11 +3323,6 @@
       "sha256": "44bf1349edb9acabdbc4dd60429dc67191a4adabe41b4b28dc46705339d774d7"
     },
     {
-      "bytes": 579,
-      "path": "dynamic/数字/2026-06-28 07-57-19 信息识别与搜索_3da9c0ee016a.md",
-      "sha256": "0fea37e7f7a21193ec688296cb889b66136a34df00b9e518ffdaa2467964cb3e"
-    },
-    {
       "bytes": 563,
       "path": "dynamic/数字/2026-06-28 07-58-50 阑的API与记忆库需求_6d00e4061f1e.md",
       "sha256": "9b90ec3319405cc01795920bb4666952eb2505426bcd7637c8502ac7defadfb4"
@@ -3311,11 +3331,6 @@
       "bytes": 596,
       "path": "dynamic/数字/2026-06-28 08-01-41 AI模型命名与关系_ebfc4893865b.md",
       "sha256": "d3656b40467bebcac94d2943af78f005d5b319c976da3332a99c39707e13f2bf"
-    },
-    {
-      "bytes": 562,
-      "path": "dynamic/数字/2026-06-28 08-01-42 AI安全与隐私信任_0290ba86860f.md",
-      "sha256": "56a5b29bb2bf7e7865807950605f16327dc85ddf01947754c7b1e12f1ce6f8f7"
     },
     {
       "bytes": 604,
@@ -3538,11 +3553,6 @@
       "sha256": "9012c7b36cc17b1ed9344d70cf514b5610d49f107ed5099fefcb6a14529e0ab2"
     },
     {
-      "bytes": 748,
-      "path": "dynamic/未分类/a21ff5486d5f.md",
-      "sha256": "4770da9f661cbbb533b817169c04e142bc1bbde21d32234e94af36fd772cadcc"
-    },
-    {
       "bytes": 1040,
       "path": "dynamic/未分类/c2588386c54e.md",
       "sha256": "9094a4cdad75ff9d3d9f23c0111f2512607f704cfb709b74d98f820412f85f0d"
@@ -3721,11 +3731,6 @@
       "bytes": 770,
       "path": "dynamic/社交/中文脏话与语言讨论_8b141e017cc8.md",
       "sha256": "d903755bf02c80b129770fc6f621cc9bdd3e4aa818514b4582184fe10db48afe"
-    },
-    {
-      "bytes": 860,
-      "path": "dynamic/社交/日常互动_41e5e4c67355.md",
-      "sha256": "fcaa43862b29c41ffd4e03af32c42d50f12df2574a2bc54c9d9cebbadfa33871"
     },
     {
       "bytes": 501,
@@ -3973,11 +3978,6 @@
       "sha256": "cc48bd696881f33aaf1bf17a1c6325f04705bd4d6158ad3256c992138f3bcdb0"
     },
     {
-      "bytes": 626,
-      "path": "dynamic/饮食/2026-06-28 07-49-36 阑的饮食与消费_84d54bc57555.md",
-      "sha256": "b4b6810771318ecf65f47c74380b5acad843f883b902ce9525c8bf31719ab198"
-    },
-    {
       "bytes": 465,
       "path": "dynamic/饮食/2026-07-04 10-20-54 辣椒是最爱_00e44859459f.md",
       "sha256": "f661d00ac8ff2f0782bfd031bfe11fff64e5739ea47c25fa0ae90a2fb71d46ab"
@@ -4138,10 +4138,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-29T03:35:37+00:00",
+  "generated_at": "2026-08-29T09:35:46+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 599180
+  "total_bytes": 599188
 }
