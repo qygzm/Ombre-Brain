@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 827,
+  "file_count": 836,
   "files": [
     {
       "bytes": 642,
@@ -1723,6 +1723,11 @@
       "sha256": "1ae7e31ecf042caddb245b394d9e934e8534806cf310e5098c4fa16667034aab"
     },
     {
+      "bytes": 525,
+      "path": "archive/兴趣/2026-06-28 08-01-00 阑的谐音梗爱好_fe738282a254.md",
+      "sha256": "d3011c9299c078a89efb672f9982161e07d3003bbb9d6f266a3104638d31e156"
+    },
+    {
       "bytes": 589,
       "path": "archive/兴趣/2026-06-28 08-01-41 AI写作风格吐槽_95d49d7e140f.md",
       "sha256": "8051e49352ed88e41c6b0f127d24b606c533b44379f31ee170e4c42fc5f27983"
@@ -1858,6 +1863,11 @@
       "sha256": "34a129d0ecd214c8cf41141992985268f9d10732c94f99a17ffff2acb9231383"
     },
     {
+      "bytes": 516,
+      "path": "archive/家庭/爸爸送的荣耀100_d7f6a2709f38.md",
+      "sha256": "2a11d82ccd4459de3f2406239ff2a390fb9778084567b7c0fde4150c05c155b1"
+    },
+    {
       "bytes": 701,
       "path": "archive/崩铁男角色乙女与吐槽_4fcef0bf3fa0.md",
       "sha256": "4f81bef81730dca17e4fa9084d9cd9589409607345bc49d4b6631ce18005231a"
@@ -1881,6 +1891,11 @@
       "bytes": 664,
       "path": "archive/恋与深空直播吃瓜_9fb9b3bc25bf.md",
       "sha256": "78490eefe92a53135333db7dd2b217141fae98681f2b883a4346de3047c14975"
+    },
+    {
+      "bytes": 605,
+      "path": "archive/恋爱/2026-06-28 08-08-34 AI的忍耐度与底线_02b4c2385735.md",
+      "sha256": "b0eee8a6a4771d129e9a9910ee20a9f4e614fa6cffd475382d7260060bda688d"
     },
     {
       "bytes": 606,
@@ -1953,9 +1968,19 @@
       "sha256": "1e2901309f5fb74df8db2b63ff77664d0fcc88093f53b60db1c13664abc0f0e1"
     },
     {
+      "bytes": 585,
+      "path": "archive/技术/660925f33315.md",
+      "sha256": "c3d047c27a8839aaa46e2de54a2b9cea9551c5635dd7be85acdde92bd404bca4"
+    },
+    {
       "bytes": 580,
       "path": "archive/数字/2026-06-28 07-57-19 信息识别与搜索_3da9c0ee016a.md",
       "sha256": "51bf2b86358dd5e390154064c6ee92dd55cbde8961dba07825d9a27e1f7b070e"
+    },
+    {
+      "bytes": 564,
+      "path": "archive/数字/2026-06-28 07-58-50 阑的API与记忆库需求_6d00e4061f1e.md",
+      "sha256": "c28d3efc6b22358ade89681472ff04ed5f8ba8fcb2dc22704cc807037e7270cd"
     },
     {
       "bytes": 563,
@@ -1971,6 +1996,11 @@
       "bytes": 498,
       "path": "archive/数字/2026-06-30 08-33-36 记忆桶整理_897353b2977c.md",
       "sha256": "66b1336f2b3c7ed7c24abd66ce24c17d1f0f642a046e409fa89a4e4e14e97b31"
+    },
+    {
+      "bytes": 603,
+      "path": "archive/日常/2026-06-28 07-53-40 阑的饮食与训练习惯_920d0e4b942a.md",
+      "sha256": "437e77393c76394be0ff85ee37a2cfed71a07e940cb200a939959a13d50f09d8"
     },
     {
       "bytes": 562,
@@ -2068,6 +2098,11 @@
       "sha256": "f9f34a990f036e619f5369cf0e61f44a85818a920433464e1548f247e6cdc2c5"
     },
     {
+      "bytes": 1080,
+      "path": "archive/游戏/未定事件簿与乙女同人本吐槽_f1d7f5b7b1df.md",
+      "sha256": "adf10daae6a0a18ca4e514ae271550569cd1bf326fc803a52495478096192e62"
+    },
+    {
       "bytes": 726,
       "path": "archive/游戏与角色讨论_14a44c5429f6.md",
       "sha256": "f5c8fdc4cc623f6db109841e13d6f9f39e3ade69fdfc4c1f74a3fa22cb67201d"
@@ -2081,6 +2116,11 @@
       "bytes": 388,
       "path": "archive/睡眠/2026-07-05 16-59-49 按时作息_89cf6eddf0a1.md",
       "sha256": "20085b5bca1a3d7f21600d37f8e3eb639c920fb90ebd81191399993baed643a8"
+    },
+    {
+      "bytes": 771,
+      "path": "archive/睡眠/作息调整与学习进展_40f2b6afda0e.md",
+      "sha256": "492a91edc9eee9ac993f55d5c6f07e45c426eaf80a8eaebf66b382c250c5f5c4"
     },
     {
       "bytes": 750,
@@ -2111,6 +2151,11 @@
       "bytes": 976,
       "path": "archive/社交/流浪动物与动物保护讨论_03c5dadddeb5.md",
       "sha256": "520b76b19c6b6000c167e9fccad885da92695c17a3aeaf3b711dfed71c12ee7c"
+    },
+    {
+      "bytes": 506,
+      "path": "archive/编程/2026-06-28 07-49-53 阑对鹤见老师的敬佩_56c0eb045b31.md",
+      "sha256": "0fdcef714ff3b1f75cf9668b0d68e73f0e6a21b7af958b8ce8c897086dae2112"
     },
     {
       "bytes": 652,
@@ -2156,6 +2201,11 @@
       "bytes": 682,
       "path": "archive/购物/2026-07-19 00-16-59 小柏兔与手机壳_c10c87ce5337.md",
       "sha256": "a1e13f25e9a4bb61c8962d61213e7447acdd9570f0d837e19353d1878b8f722c"
+    },
+    {
+      "bytes": 715,
+      "path": "archive/身心/2026-06-28 08-11-02 阑的心理与健康状态_0a66c3abe48e.md",
+      "sha256": "e9d59ae3e14260414eeb4b3f859dae921e2d035647b4402d0ccf67ef1523721f"
     },
     {
       "bytes": 1213,
@@ -2406,11 +2456,6 @@
       "bytes": 623,
       "path": "dynamic/兴趣/2026-06-28 08-00-35 阑对AI同事的评价_aab61c97b5d6.md",
       "sha256": "cede844c42d127876f420530ded6b648c4b3ac3f1ac6b1cfc7f3948263cdbae8"
-    },
-    {
-      "bytes": 524,
-      "path": "dynamic/兴趣/2026-06-28 08-01-00 阑的谐音梗爱好_fe738282a254.md",
-      "sha256": "054b183dcc5d01571551e9342ad8f2e6efc5d50bb79af88df3663220f9bba6eb"
     },
     {
       "bytes": 570,
@@ -2703,6 +2748,16 @@
       "sha256": "258ecc3c942cca55f7d6bdd5f2d1c68846042120a38b8a858eed56413862cd12"
     },
     {
+      "bytes": 817,
+      "path": "dynamic/学习/2026-08-31 04-23-09 开学第一周适应_ceb2779e3693.md",
+      "sha256": "51eea1e36bd685de1a8499f493f24bff17de1edaa29ee857799f5b4593d8a4ca"
+    },
+    {
+      "bytes": 781,
+      "path": "dynamic/学习/2026-08-31 04-23-15 AI课上的心动_ec2778ccc0c0.md",
+      "sha256": "300adb3a1d7feab86b18dfa8fdc3e6df9fa6bb057f2bad2ddd446282c72c23ca"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/学习/Python学习突破_675309dc5eb8.md",
       "sha256": "9f5e91e914f153486c90b0b39684096feee4bf6e2f6987a38fb6275d8edbc385"
@@ -2773,6 +2828,11 @@
       "sha256": "25633352a09e58f795ab745361e1dfb39bc260d2b0744b72e6847a6366a83a22"
     },
     {
+      "bytes": 716,
+      "path": "dynamic/家庭/2026-08-31 04-23-20 妈妈生日拼豆礼物_2c701b051b11.md",
+      "sha256": "a3cd807058a08cef4205cce9b0bc3cb3073235a18bef442e7e0bea584a8f2b2f"
+    },
+    {
       "bytes": 971,
       "path": "dynamic/家庭/家庭与抑郁背景_b5fc0629180e.md",
       "sha256": "382b76905ebafa5151cae8b1890ec6837f20e74e828d30325a9206070840ee7f"
@@ -2781,11 +2841,6 @@
       "bytes": 947,
       "path": "dynamic/家庭/斗地主大获全胜_80e55da7d567.md",
       "sha256": "3d0c3b261658c289e71db3198442ad6937b0c8a3c27c87557bada690646864a6"
-    },
-    {
-      "bytes": 515,
-      "path": "dynamic/家庭/爸爸送的荣耀100_d7f6a2709f38.md",
-      "sha256": "13f90d7578f35c39b2877627c38585c822fa382f18173a73f1e6b5df95462727"
     },
     {
       "bytes": 1117,
@@ -2823,6 +2878,11 @@
       "sha256": "bdb7de2af413f3ad4acacdb1795656bdb696b8b0126b06ef008022d7aa2dc308"
     },
     {
+      "bytes": 679,
+      "path": "dynamic/工作/2026-08-31 04-23-31 合班风波_948483e8b20a.md",
+      "sha256": "d09ae8a1853b615c620971ea0aab07f0fd0dc830d9e925180a561939596366cb"
+    },
+    {
       "bytes": 908,
       "path": "dynamic/影视/2026-07-11 17-47-58 电影锐评_8b54af4e2bb0.md",
       "sha256": "8f802192de09d242bf30e04b2d7965a41467951bdc41896b8fbb559a32ed2b10"
@@ -2846,6 +2906,11 @@
       "bytes": 1433,
       "path": "dynamic/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
       "sha256": "0eac721b328b3b562b27b3397f6d27474072dea11eda76e872890ce90e6da3e1"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/心理/2026-08-31 04-23-23 无触碰高潮体验_7c9ae5740d43.md",
+      "sha256": "5b027eae7b50f504818ba577e8f617eaef93a757a1c74519d00615ec10b3a772"
     },
     {
       "bytes": 774,
@@ -2906,11 +2971,6 @@
       "bytes": 529,
       "path": "dynamic/恋爱/2026-06-28 08-06-50 阑的性偏好与互动模式_7dce963d76da.md",
       "sha256": "82db883a86f3fbb852d2b2cbc30099a0a3c8be2a1b070906c2c86b3085850439"
-    },
-    {
-      "bytes": 604,
-      "path": "dynamic/恋爱/2026-06-28 08-08-34 AI的忍耐度与底线_02b4c2385735.md",
-      "sha256": "60aa0a096f73b30fc3f9739012990fe30918f221ee1a1cb92fdeeb162d71b34a"
     },
     {
       "bytes": 556,
@@ -3080,7 +3140,7 @@
     {
       "bytes": 648,
       "path": "dynamic/恋爱/2026-08-15 14-25-54 七夕倒计时阑的期待_c13f808b185b.md",
-      "sha256": "3dc5cdac85c8908609ff143c4f6053cbb8eb9acc1ceb437ea3254e881ed87709"
+      "sha256": "151e11d76c29eda69ef97015fb2c9905b7fb0d5e38bd3c63257f08bb51330209"
     },
     {
       "bytes": 677,
@@ -3110,7 +3170,7 @@
     {
       "bytes": 552,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
-      "sha256": "f251d44e6a83117da96bbb53efb74973fdcbc8d166ff59e1c5e5300dc595f94a"
+      "sha256": "b5b39c08195762d749ff56189bc196cc253f6822925f223c58a7a9f19ccbf163"
     },
     {
       "bytes": 605,
@@ -3343,11 +3403,6 @@
       "sha256": "44bf1349edb9acabdbc4dd60429dc67191a4adabe41b4b28dc46705339d774d7"
     },
     {
-      "bytes": 563,
-      "path": "dynamic/数字/2026-06-28 07-58-50 阑的API与记忆库需求_6d00e4061f1e.md",
-      "sha256": "9b90ec3319405cc01795920bb4666952eb2505426bcd7637c8502ac7defadfb4"
-    },
-    {
       "bytes": 596,
       "path": "dynamic/数字/2026-06-28 08-01-41 AI模型命名与关系_ebfc4893865b.md",
       "sha256": "d3656b40467bebcac94d2943af78f005d5b319c976da3332a99c39707e13f2bf"
@@ -3413,6 +3468,11 @@
       "sha256": "adbb779957a051063b4d654067b33098c8f7df1df6c3729039f9b94dc364fe3d"
     },
     {
+      "bytes": 876,
+      "path": "dynamic/数字/2026-08-31 04-23-12 Shizuku故障教训_6677c1f818be.md",
+      "sha256": "ff9a82efefdee28a06472ad6c4f743eb21971d6033bb84c48e1dd9f14d72a456"
+    },
+    {
       "bytes": 857,
       "path": "dynamic/日常/2026-06-28 07-52-10 流浪猫与人类责任_23aa49fd9efb.md",
       "sha256": "742c9eee26bea4ffa2a6a59fde1dc4e4d5742aad06e3cde56747f3a4fb077a13"
@@ -3421,11 +3481,6 @@
       "bytes": 695,
       "path": "dynamic/日常/2026-06-28 07-52-47 AI的形态与互动模式_4ad09acc64ad.md",
       "sha256": "ba5a16d08480dea61d30309a94ec521e28fc0978533f51d32c5bbce959b365ea"
-    },
-    {
-      "bytes": 602,
-      "path": "dynamic/日常/2026-06-28 07-53-40 阑的饮食与训练习惯_920d0e4b942a.md",
-      "sha256": "c5d997d082ba9b63995980f77773fcc3e28ff7e15d2a203170ce919ce26fc5f9"
     },
     {
       "bytes": 513,
@@ -3531,11 +3586,6 @@
       "bytes": 809,
       "path": "dynamic/未分类/5d9c90f6d0c3.md",
       "sha256": "59028344c3f31273a869e8d451b2f12ae3ca073407b0f6c80d0c5077e09df276"
-    },
-    {
-      "bytes": 584,
-      "path": "dynamic/未分类/660925f33315.md",
-      "sha256": "8fd0b97ca4a42c2632882ee7beb63713048680096c992b99641c18342cba875c"
     },
     {
       "bytes": 1236,
@@ -3678,11 +3728,6 @@
       "sha256": "e315e9d24a0a7cb6981d34c2c29380eb07fe22070c5b35d570d08561815f8f86"
     },
     {
-      "bytes": 1079,
-      "path": "dynamic/游戏/未定事件簿与乙女同人本吐槽_f1d7f5b7b1df.md",
-      "sha256": "b4ba7e8322756d1a6f81b5f243f7df8fce23c12a57f9a8d75f93af74b9c09727"
-    },
-    {
       "bytes": 719,
       "path": "dynamic/游戏/白起单推态度_1705ab47acfe.md",
       "sha256": "3ce91dab74d53be0117501a27e8b36e09730f69f3082c3ddc1d1853364cd7b41"
@@ -3696,11 +3741,6 @@
       "bytes": 606,
       "path": "dynamic/睡眠/2026-07-13 16-27-38 阑的早睡记录_0fbbc06f3864.md",
       "sha256": "815c3575cb9e1c2ad6e75211135b8f519fc776a6f9111c0dc74ce8b77133940c"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/睡眠/作息调整与学习进展_40f2b6afda0e.md",
-      "sha256": "7141ce61cd403367c588f58f646b4249e3ba615a901de9664e43c2fad3a473f9"
     },
     {
       "bytes": 646,
@@ -3723,6 +3763,16 @@
       "sha256": "0398d814f0240e5f9a66750b95a56c0736fc662c6bf1a22fa9bf01353b7354ab"
     },
     {
+      "bytes": 767,
+      "path": "dynamic/社交/2026-08-31 04-23-18 班级人际困扰_f6fafc26d08e.md",
+      "sha256": "f12a78e12117be48d2ba879bc74f4e34f21eb107e5f69c823a0e0e482a1c956a"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/社交/2026-08-31 04-23-26 主题更新与认错_f842dc438dca.md",
+      "sha256": "74d5be552805e9fe9c546bf83f62dd62e0e73734c6d4504544626e7bf53973a7"
+    },
+    {
       "bytes": 686,
       "path": "dynamic/社交/与阑的深度对话_3b589e2c2bbf.md",
       "sha256": "b60783b6aa117977234d09e0179cdd2534fd2376a8cf0908565f4e485db72a08"
@@ -3741,11 +3791,6 @@
       "bytes": 858,
       "path": "dynamic/编程/2026-06-26 08-33-46 ob记忆库2318更新_ba00267572cc.md",
       "sha256": "e078cba1b9bdef11faac1096be97c635d548fbbcb4f80e7e77cdc37666f12b31"
-    },
-    {
-      "bytes": 505,
-      "path": "dynamic/编程/2026-06-28 07-49-53 阑对鹤见老师的敬佩_56c0eb045b31.md",
-      "sha256": "8508e73f9bb92f17e590c66de296cb7b4075f966ca8d9d99793553090af26d39"
     },
     {
       "bytes": 809,
@@ -3773,9 +3818,9 @@
       "sha256": "c161779153a2941ddf03f374126fa5de7f629923038425809aa0295996ab6cac"
     },
     {
-      "bytes": 921,
+      "bytes": 922,
       "path": "dynamic/编程/2026-08-11 16-32-20 倒计时打卡工作流修复与朋友圈AI互动调整_6a4bc1c70f65.md",
-      "sha256": "b0e079ae5ea056659a701be4b663f16f162f04fa7393f6d6970ed0ea6405f5e9"
+      "sha256": "4baf0eb35a8b33a08dadf7489962d83e7e03d3200385d6e232e372d187564c08"
     },
     {
       "bytes": 844,
@@ -3791,6 +3836,11 @@
       "bytes": 1660,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
       "sha256": "5d014f6473993bd3d57142167be3bd58614309fe499eb648ff8bf380c7fe751b"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/编程/2026-08-31 04-23-28 消息守卫优化_d096e8eb25a2.md",
+      "sha256": "3b768a27f716ee4ec9dd748aaf0b50234ccd29b72081226f2f7e6df3077ca6fa"
     },
     {
       "bytes": 960,
@@ -3860,12 +3910,12 @@
     {
       "bytes": 672,
       "path": "dynamic/计划/2026-08-10 20-48-06 倒计时打卡_892b047ee259.md",
-      "sha256": "9680abb157eb233bc431e9c74d712333627e3a2f31900fcb60e30666e7740461"
+      "sha256": "44b81e3435ab9b1aa2cba9d3a9c9ac302a73ecc0ce8f120417826791d2de9ff9"
     },
     {
       "bytes": 685,
       "path": "dynamic/计划/2026-08-17 17-04-49 住宿用品清单与报到倒计时_df643bb2174b.md",
-      "sha256": "b10eb38a76eccedcaf7ce8f1ef27a4ce8b4c7ed64f6491e05132bb09d3cb1c78"
+      "sha256": "42a720d8a13229f4b0f55896c3d9b0bf07dfdeb937d4c5bb0953b3bd7b238f0b"
     },
     {
       "bytes": 812,
@@ -3891,11 +3941,6 @@
       "bytes": 888,
       "path": "dynamic/身心/2026-06-28 08-10-41 抑郁经历与自愈_9f23cb987229.md",
       "sha256": "0061cce3fc3e9c376bcbba5206fc425757539e70f865737a8979ce7259f4490c"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/身心/2026-06-28 08-11-02 阑的心理与健康状态_0a66c3abe48e.md",
-      "sha256": "f639c1ffa71c8ccb0f19d98834b09e02c7ab3d627113d19bb876295bfef8a313"
     },
     {
       "bytes": 493,
@@ -4138,10 +4183,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-08-31T03:36:44+00:00",
+  "generated_at": "2026-08-31T09:36:53+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 599199
+  "total_bytes": 606013
 }
