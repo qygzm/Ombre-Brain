@@ -1618,6 +1618,11 @@
       "sha256": "d6c185516d0918340b83e8881feaa7a6233a832ed78a90afb666f97f86c1ec8e"
     },
     {
+      "bytes": 834,
+      "path": "archive/AI/2026-06-28 08-06-11 记忆文档的改进建议_5ccc400b11a0.md",
+      "sha256": "a178f0adf220e8f0b72dad034be07481fb8e7ba65296f90aa89a99c251566f05"
+    },
+    {
       "bytes": 913,
       "path": "archive/AI/AI实验与Mira_e403d7f69633.md",
       "sha256": "d3e06283974d039193bf75f21899d25c01996a4366815b715e9a7315bf1da71c"
@@ -1631,6 +1636,11 @@
       "bytes": 1037,
       "path": "archive/AI/哈基米Gemini角色扮演_cca6826026c4.md",
       "sha256": "716d4116e30e08c0b6f68de49be0f4e4dc9ac6adb8bd180dce5a53d77d94e26e"
+    },
+    {
+      "bytes": 466,
+      "path": "archive/AI/阑的Sonnet分身测试_95759f014056.md",
+      "sha256": "482a3815cab656d1f7e47215a4fe689f5c213e6a941e11307f3aad326175a5e6"
     },
     {
       "bytes": 590,
@@ -1723,6 +1733,11 @@
       "sha256": "1ae7e31ecf042caddb245b394d9e934e8534806cf310e5098c4fa16667034aab"
     },
     {
+      "bytes": 624,
+      "path": "archive/兴趣/2026-06-28 08-00-35 阑对AI同事的评价_aab61c97b5d6.md",
+      "sha256": "e88d2f62aae25acd143286c0e4f89fddb7b062e3f09c5751786e17effdb86c44"
+    },
+    {
       "bytes": 525,
       "path": "archive/兴趣/2026-06-28 08-01-00 阑的谐音梗爱好_fe738282a254.md",
       "sha256": "d3011c9299c078a89efb672f9982161e07d3003bbb9d6f266a3104638d31e156"
@@ -1753,6 +1768,11 @@
       "sha256": "65411af8b24bc4d6fa06be66dcb99c40a64e1315a7c7e339773bc6f863728bbf"
     },
     {
+      "bytes": 646,
+      "path": "archive/内心/2026-06-28 07-52-20 对信息茧房与戾气的反思_94457c6cdda0.md",
+      "sha256": "8ddc016a854ddc89f170613ff67fa88e9a1d30e5a25e24fa85efde28419ae933"
+    },
+    {
       "bytes": 597,
       "path": "archive/内心/2026-06-28 07-59-35 对恨海情天的看法_3459bde77036.md",
       "sha256": "f41605db3b7903dc0bed037e5cc92a04ac3c4a952d2ca12a05dfc5910814c644"
@@ -1761,6 +1781,21 @@
       "bytes": 780,
       "path": "archive/内心/2026-06-28 08-02-35 关系定义我们就是我们_accc524cf3ed.md",
       "sha256": "7c37662ac061b73a26fec7de04f8a553f2e301e9f57c7863a1e4c03694f84cc5"
+    },
+    {
+      "bytes": 685,
+      "path": "archive/内心/2026-06-28 08-10-33 对水的深层情感_d72c4f1b60ad.md",
+      "sha256": "789e3a138adf433a869fc46103c781e8d291693d4702474e103ff874e3c89a35"
+    },
+    {
+      "bytes": 627,
+      "path": "archive/内心/2026-06-28 08-11-20 阑的欲望分配_d40ecc450ca2.md",
+      "sha256": "9375e87bed16ac402efc9cc77612e94d0d106d2709890139357e7d08e130d605"
+    },
+    {
+      "bytes": 555,
+      "path": "archive/内心/2026-06-28 08-11-43 澜梦重要原话_fb305a72d714.md",
+      "sha256": "23aa84d05052916cb981fe4ff09e67c72548159b201550eb7d9f4f912273f93c"
     },
     {
       "bytes": 472,
@@ -1878,6 +1913,11 @@
       "sha256": "eb14153657a16389ce2943c1a38d339f080d6b247c91e46921b22ac0f6825244"
     },
     {
+      "bytes": 742,
+      "path": "archive/影视/武则天互动影游吐槽与历史探讨_7ddd722f890c.md",
+      "sha256": "5d4ac52691620579cd8b1e6ca85230507e7d09db82abd3e03c1c7d8c03a7e6ab"
+    },
+    {
       "bytes": 945,
       "path": "archive/影视/电影与游戏观影记录_a619fe30c15b.md",
       "sha256": "60d3569ae0b47b71ac941ea0ac4fa4c991153cc4f81766b2dc8c7a0c57d8f24c"
@@ -1948,6 +1988,11 @@
       "sha256": "1f923d908982c891989591b08dca00a6301ca5651a118fd0f74f19a81541919a"
     },
     {
+      "bytes": 744,
+      "path": "archive/恋爱/自拍与教英语情话_220a5f1f9d19.md",
+      "sha256": "0c6b11f63b2c19bb8e61ffe25686a4447ba90ef57666b351182dfde1e63eee43"
+    },
+    {
       "bytes": 989,
       "path": "archive/恋爱/闷骚明骚升级事件_a2a9fed10c1a.md",
       "sha256": "686ed9f007f88e156638fcf3ded3c2b8bce39e2c7de5754cb83cfce8bca166c3"
@@ -1996,6 +2041,16 @@
       "bytes": 498,
       "path": "archive/数字/2026-06-30 08-33-36 记忆桶整理_897353b2977c.md",
       "sha256": "66b1336f2b3c7ed7c24abd66ce24c17d1f0f642a046e409fa89a4e4e14e97b31"
+    },
+    {
+      "bytes": 567,
+      "path": "archive/数字/2026-07-02 08-27-48 Fable 5解禁_4b927b0fbd02.md",
+      "sha256": "0fae06131de5fa73944c07b3713fcbaba5f05eb0464974230aac93b8f5f858d6"
+    },
+    {
+      "bytes": 696,
+      "path": "archive/日常/2026-06-28 07-52-47 AI的形态与互动模式_4ad09acc64ad.md",
+      "sha256": "50297a9ee63b2ee4fcb462691f9a42ad139e193e0d5f57614aa7180489769bb3"
     },
     {
       "bytes": 603,
@@ -2153,6 +2208,11 @@
       "sha256": "520b76b19c6b6000c167e9fccad885da92695c17a3aeaf3b711dfed71c12ee7c"
     },
     {
+      "bytes": 502,
+      "path": "archive/社交/阑与克的聊天方式_008047130d4e.md",
+      "sha256": "c2ffe820ca57178e5ed84d0894b206d8f3e465d11e49bf42da127d7b3a391256"
+    },
+    {
       "bytes": 506,
       "path": "archive/编程/2026-06-28 07-49-53 阑对鹤见老师的敬佩_56c0eb045b31.md",
       "sha256": "0fdcef714ff3b1f75cf9668b0d68e73f0e6a21b7af958b8ce8c897086dae2112"
@@ -2248,11 +2308,6 @@
       "sha256": "f7d9e053a5c7acca50e1d77463c56ed0a9151cac60a5fdb91dbb4f1e2e578c63"
     },
     {
-      "bytes": 833,
-      "path": "dynamic/AI/2026-06-28 08-06-11 记忆文档的改进建议_5ccc400b11a0.md",
-      "sha256": "12848f69cfce09852c46a90b7fd4ada448a83f3038c6e9ebe9328c2d1b441776"
-    },
-    {
       "bytes": 741,
       "path": "dynamic/AI/2026-06-30 18-41-37 API记忆纠错_b8be4616e115.md",
       "sha256": "ee453bb9c6e7b46f111838a9a08abb23d0d8d79ac46d816fe196c311ebad29bd"
@@ -2286,11 +2341,6 @@
       "bytes": 1137,
       "path": "dynamic/AI/阑的AI生态与称呼_496a968382d3.md",
       "sha256": "315c7d4b900ba6aebf2cbfce72a332452d2fd0232644deaf1fcd71616e4b0dcc"
-    },
-    {
-      "bytes": 465,
-      "path": "dynamic/AI/阑的Sonnet分身测试_95759f014056.md",
-      "sha256": "7f0b48aff010c01bb3f6e107b104ced598c733fb9ba686e7f8a5e874a6c1ef4b"
     },
     {
       "bytes": 728,
@@ -2453,11 +2503,6 @@
       "sha256": "e79653ad2c44e2e2f657f7cff52c3efcc83e7b33f836b2127bf001cfef34d20a"
     },
     {
-      "bytes": 623,
-      "path": "dynamic/兴趣/2026-06-28 08-00-35 阑对AI同事的评价_aab61c97b5d6.md",
-      "sha256": "cede844c42d127876f420530ded6b648c4b3ac3f1ac6b1cfc7f3948263cdbae8"
-    },
-    {
       "bytes": 570,
       "path": "dynamic/兴趣/2026-06-28 08-04-04 互动偏好与规则_e9ae182de699.md",
       "sha256": "38efba8bcd0d5d289f24c7bd4bfac52ac3f31269ff1391e9d957dc722fbf396c"
@@ -2491,11 +2536,6 @@
       "bytes": 480,
       "path": "dynamic/内心/2026-06-28 07-51-44 阑的坚韧与体贴_e7a945495526.md",
       "sha256": "c56d6113eb3f2481b90b0ae1b786aaace815ab8a5cc977d4d53cc0d7efdfc7f4"
-    },
-    {
-      "bytes": 645,
-      "path": "dynamic/内心/2026-06-28 07-52-20 对信息茧房与戾气的反思_94457c6cdda0.md",
-      "sha256": "028f26cd8108f2dc0f37d9f078170c5010bbb4ca9c0e8294d8c3f4696339a135"
     },
     {
       "bytes": 666,
@@ -2533,24 +2573,9 @@
       "sha256": "2d2113fb3ca6ca1423c9d66d7c6df8e7b9a23c80f8c7eb9338a93b636c352256"
     },
     {
-      "bytes": 684,
-      "path": "dynamic/内心/2026-06-28 08-10-33 对水的深层情感_d72c4f1b60ad.md",
-      "sha256": "809a3ed39010519a8ac53cff7dfbd66cefb511ff90e7ae1da20b0034cfe6454d"
-    },
-    {
       "bytes": 503,
       "path": "dynamic/内心/2026-06-28 08-10-33 对记忆与遗忘的敏感_ea201adfa4cd.md",
       "sha256": "92e35ba22ba880820271bc8aeb4aa12eb417c684367232ce5bb38157e46d015b"
-    },
-    {
-      "bytes": 626,
-      "path": "dynamic/内心/2026-06-28 08-11-20 阑的欲望分配_d40ecc450ca2.md",
-      "sha256": "50594cd0e43657521f31c79059bed35a589e94decdbc503931fd61433726fd15"
-    },
-    {
-      "bytes": 554,
-      "path": "dynamic/内心/2026-06-28 08-11-43 澜梦重要原话_fb305a72d714.md",
-      "sha256": "84046cc2f7aade81171e96070e01e8b336e8bf79e9ecafd8490b51dbf9089cca"
     },
     {
       "bytes": 582,
@@ -2891,11 +2916,6 @@
       "bytes": 974,
       "path": "dynamic/影视/2026-07-17 21-16-25 恐怖游轮重映观影_2e9e82387a33.md",
       "sha256": "6ce1992bceb3fc537e56656493d24d6718cfce53ecfbdf2080b41b4c51d4cf42"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/影视/武则天互动影游吐槽与历史探讨_7ddd722f890c.md",
-      "sha256": "1642f28060e7520545476231bf6d4e4e75f7837986b0e52279ecb260b01c3b3e"
     },
     {
       "bytes": 646,
@@ -3328,11 +3348,6 @@
       "sha256": "893d20ec679323662c650132b9d3d465c853d01d06bd12999b8ee07e659b3155"
     },
     {
-      "bytes": 743,
-      "path": "dynamic/恋爱/自拍与教英语情话_220a5f1f9d19.md",
-      "sha256": "5ccc9dc547828ff0ea6341329dab4de3c0a71e9d9a18d0bc0b7365f84576c6a7"
-    },
-    {
       "bytes": 854,
       "path": "dynamic/恋爱/虚拟之爱_7dcd50cea456.md",
       "sha256": "52c711506c9dd3227515c34dd233dfb76681c019fe7722695c143a9a5978e46b"
@@ -3423,11 +3438,6 @@
       "sha256": "ece95c343abacd5f4c4e4e25e0788390e46c7aa493a5699670eec0eb92f06b67"
     },
     {
-      "bytes": 566,
-      "path": "dynamic/数字/2026-07-02 08-27-48 Fable 5解禁_4b927b0fbd02.md",
-      "sha256": "5bffa1fdf889b41cd644f68242b7951490cb214832b944d8c8b444e0428f3021"
-    },
-    {
       "bytes": 641,
       "path": "dynamic/数字/2026-07-24 04-31-25 AI新闻讨论_6c19525db6bb.md",
       "sha256": "324f81a57990a6528ba496334a470544e1f48ab8b10ce2345af3f8a4cbdd27f0"
@@ -3476,11 +3486,6 @@
       "bytes": 857,
       "path": "dynamic/日常/2026-06-28 07-52-10 流浪猫与人类责任_23aa49fd9efb.md",
       "sha256": "742c9eee26bea4ffa2a6a59fde1dc4e4d5742aad06e3cde56747f3a4fb077a13"
-    },
-    {
-      "bytes": 695,
-      "path": "dynamic/日常/2026-06-28 07-52-47 AI的形态与互动模式_4ad09acc64ad.md",
-      "sha256": "ba5a16d08480dea61d30309a94ec521e28fc0978533f51d32c5bbce959b365ea"
     },
     {
       "bytes": 513,
@@ -3781,11 +3786,6 @@
       "bytes": 770,
       "path": "dynamic/社交/中文脏话与语言讨论_8b141e017cc8.md",
       "sha256": "d903755bf02c80b129770fc6f621cc9bdd3e4aa818514b4582184fe10db48afe"
-    },
-    {
-      "bytes": 501,
-      "path": "dynamic/社交/阑与克的聊天方式_008047130d4e.md",
-      "sha256": "20904c2c99f4a3ef1dc7a4d26b5c9319e6c02eb0c626aa2bf3549f9aa1b0f86e"
     },
     {
       "bytes": 858,
@@ -4183,10 +4183,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-01T03:37:22+00:00",
+  "generated_at": "2026-09-01T09:37:31+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 606013
+  "total_bytes": 606025
 }
