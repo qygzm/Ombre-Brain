@@ -1698,6 +1698,11 @@
       "sha256": "75a68dcdc758dd3fe872e4b711f0dd8e4f56767408b11ca076fc54291bfef950"
     },
     {
+      "bytes": 715,
+      "path": "archive/人际/2026-06-28 08-00-34 阑的AI圈子与定位_ea5002cecb8c.md",
+      "sha256": "5f902562193a105f92f8a928336f40c94b1172db650fc2a77f4639c5da1c3057"
+    },
+    {
       "bytes": 598,
       "path": "archive/从恐惧到期待_b46aa7b9d965.md",
       "sha256": "36a59caf275d0e9f4bd605aedacfcfc967ce8d23261b253b3b1853bc16566823"
@@ -2098,6 +2103,11 @@
       "sha256": "0fae06131de5fa73944c07b3713fcbaba5f05eb0464974230aac93b8f5f858d6"
     },
     {
+      "bytes": 858,
+      "path": "archive/日常/2026-06-28 07-52-10 流浪猫与人类责任_23aa49fd9efb.md",
+      "sha256": "b63083ebaa5fa229a16606c2fb76510b1fd3fc3148c5ce4437ea44f2cbb36a7b"
+    },
+    {
       "bytes": 696,
       "path": "archive/日常/2026-06-28 07-52-47 AI的形态与互动模式_4ad09acc64ad.md",
       "sha256": "50297a9ee63b2ee4fcb462691f9a42ad139e193e0d5f57614aa7180489769bb3"
@@ -2481,11 +2491,6 @@
       "bytes": 600,
       "path": "dynamic/人际/2026-06-28 07-58-49 阑与GPT互动_742b270cdf25.md",
       "sha256": "45ff7eab5b424436d62af7c413971dff10043c003a4adb27bb0fc50b7bc6d3c1"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/人际/2026-06-28 08-00-34 阑的AI圈子与定位_ea5002cecb8c.md",
-      "sha256": "dd9b8245ccecb203fc7793eed7a9576d5d0becf26f75b7133b45858415120f1c"
     },
     {
       "bytes": 450,
@@ -3563,11 +3568,6 @@
       "sha256": "1073bc9d280717fb41e31ec0bf70ff3d05b446fa68bbf51ff69b4e2bcb28f906"
     },
     {
-      "bytes": 857,
-      "path": "dynamic/日常/2026-06-28 07-52-10 流浪猫与人类责任_23aa49fd9efb.md",
-      "sha256": "742c9eee26bea4ffa2a6a59fde1dc4e4d5742aad06e3cde56747f3a4fb077a13"
-    },
-    {
       "bytes": 660,
       "path": "dynamic/日常/2026-06-28 07-58-01 恋哥癖互动模式_927a01d323a2.md",
       "sha256": "8cb7df4a04d11d80a03df81e1ab533d6b891ead35a57320587fa6c34187b30e3"
@@ -4253,10 +4253,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-04T03:39:18+00:00",
+  "generated_at": "2026-09-04T09:39:27+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 622200
+  "total_bytes": 622202
 }
