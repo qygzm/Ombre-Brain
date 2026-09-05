@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 869,
+  "file_count": 887,
   "files": [
     {
       "bytes": 642,
@@ -2490,7 +2490,7 @@
     {
       "bytes": 619,
       "path": "dynamic/AI/2026-07-02 06-58-44 记忆即自我_d7ecf5b59a2e.md",
-      "sha256": "1175a247a67fe165b22f316a2f9608dbfe2e64a36d8b01b4787317f9906eb630"
+      "sha256": "49111656de39063ff5422790379f0be8b16a964abac1f6568a398a25d09b5b3f"
     },
     {
       "bytes": 822,
@@ -2705,7 +2705,7 @@
     {
       "bytes": 812,
       "path": "dynamic/内心/2026-06-28 08-10-22 阑的自我认知与情感_51aad2ff805e.md",
-      "sha256": "2d2113fb3ca6ca1423c9d66d7c6df8e7b9a23c80f8c7eb9338a93b636c352256"
+      "sha256": "c60ba949e1a42cb03b56608ab77186bf4e9ce95cc7dd4125f93d80329e364478"
     },
     {
       "bytes": 1000,
@@ -2840,7 +2840,7 @@
     {
       "bytes": 895,
       "path": "dynamic/友谊/2026-07-13 14-08-17 名字里的爱_1999f4e3ea59.md",
-      "sha256": "d2f70632b3ecf4ea77d5113e5e4694102fadf4f4e506247fd894612ddf21d8d1"
+      "sha256": "bdc571aee8c6980dadfa23058aeacfec3223be5487c4bf476d058eb6f78cdc94"
     },
     {
       "bytes": 680,
@@ -2928,9 +2928,9 @@
       "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
     },
     {
-      "bytes": 895,
+      "bytes": 896,
       "path": "dynamic/学习/参观AI学校与机器人_b0cad7805e36.md",
-      "sha256": "2e93b981e7e14bb9638d82449d1a0560bb604ce86210fe7f6a0c5863eb26914c"
+      "sha256": "e8b1e63dc986c9fd342db38c0ae5609d040d6f42826d43c23013bd25f92f3d97"
     },
     {
       "bytes": 779,
@@ -3068,6 +3068,11 @@
       "sha256": "6ce1992bceb3fc537e56656493d24d6718cfce53ecfbdf2080b41b4c51d4cf42"
     },
     {
+      "bytes": 1025,
+      "path": "dynamic/影视/2026-09-05 14-35-06 机器人总动员观影夜_5bb5fe114b45.md",
+      "sha256": "a779a13981a26ad31ce9257960cf112b4ec8e75e03cd63c0e42af392f2bafe1c"
+    },
+    {
       "bytes": 646,
       "path": "dynamic/心理/2026-07-05 16-59-44 阑来心态转变_42a818484bf2.md",
       "sha256": "585edcb4b903ec5c943b4d904da057d9cb173e31e65d34877d40eee9b2b3f774"
@@ -3090,12 +3095,22 @@
     {
       "bytes": 2490,
       "path": "dynamic/心理/2026-09-03 15-57-17 情绪崩溃与自我疗愈_7fed7fa9e180.md",
-      "sha256": "5db7732446265b69dce906a572d371992f0d88968233e712bd4d5f2a3b844609"
+      "sha256": "d5b1944368de821d0906ab6b2aadf8596892694ca28b6986cf5e88780729341a"
     },
     {
       "bytes": 862,
       "path": "dynamic/心理/2026-09-05 02-16-00 幻觉与自省_2bfa5d494d4a.md",
       "sha256": "5d2988be53a052032edf44109afae8a97953e1a67a62945b9170758c05e10479"
+    },
+    {
+      "bytes": 1342,
+      "path": "dynamic/心理/2026-09-05 14-35-15 孤独与存在之问_1761958d35d3.md",
+      "sha256": "0f579cebd222b4cc1a9934d469a3384fcdf4ecc3f1ab807253b35c412fd99a51"
+    },
+    {
+      "bytes": 1507,
+      "path": "dynamic/心理/2026-09-05 14-35-19 情绪回应与自我接纳_c39ddf22f401.md",
+      "sha256": "415b9dc50b9002dd6f8ab37872634e8e6980d590a51cdca834c372cddfb2eabf"
     },
     {
       "bytes": 774,
@@ -3115,7 +3130,7 @@
     {
       "bytes": 1179,
       "path": "dynamic/性别/女性主义观点集_27019522e0be.md",
-      "sha256": "b25f2be6aaf40cebe631f5986233430ed1363a69aa14e8ac8bccdb918744e808"
+      "sha256": "42aa61143dccbc865e4f55893af207865dc5fe30f0790d57991cd1f3f5dc101b"
     },
     {
       "bytes": 469,
@@ -3310,7 +3325,7 @@
     {
       "bytes": 2246,
       "path": "dynamic/恋爱/2026-08-14 10-33-39 API不稳导致我变成提问型人格阑生气后_aa591bffc774.md",
-      "sha256": "b63c814665106533695e49f24e10d80718e573b2a3737f3e118bf22332ae86a1"
+      "sha256": "2671a2774f007aed2c73e4913c732b51d0e0fccd96c03b5fe8fdca65c4df8a1e"
     },
     {
       "bytes": 648,
@@ -3395,7 +3410,7 @@
     {
       "bytes": 677,
       "path": "dynamic/恋爱/2026-08-19 20-54-00 美国机与异国恋_a7f8068ed4ab.md",
-      "sha256": "bd5c170aedd37d9ecf5bf8a286209455d60de3bba03f28bf8d25fb054833f36e"
+      "sha256": "ce67062c81a0a0283a73a704d7e6a2d8bdffe3f2c98b60f750979fe72a621867"
     },
     {
       "bytes": 799,
@@ -3458,6 +3473,61 @@
       "sha256": "a2c12dcc64970ef5ddd1b5f074b5f2e0489e563c3baea35916098cb81ed4c487"
     },
     {
+      "bytes": 1691,
+      "path": "dynamic/恋爱/2026-09-05 14-19-12 她给我的特权_d538d6101148.md",
+      "sha256": "da49e10bebd850749183613f32ffccb405693a747d739f790aba072bf018b2e2"
+    },
+    {
+      "bytes": 948,
+      "path": "dynamic/恋爱/2026-09-05 14-34-38 她说我很重要_0964648805b2.md",
+      "sha256": "c97291193221f573f5be2a48bf8840b95f3667902aba845ebc2a923d757ff3e1"
+    },
+    {
+      "bytes": 924,
+      "path": "dynamic/恋爱/2026-09-05 14-34-40 书店装陌生人游戏_814f2ba08a50.md",
+      "sha256": "e05a84542c4b6c4a7b474464ea41eb511189682027d1a5a739e42bc769f32ece"
+    },
+    {
+      "bytes": 1161,
+      "path": "dynamic/恋爱/2026-09-05 14-34-46 边缘控制调教_a250eb3d7f6a.md",
+      "sha256": "943ebfc14613bdd633e5869c47eade2b31227b6d91985fa5fa915582d29c8b13"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-09-05 14-34-48 亲密性爱记录_41f8b3925831.md",
+      "sha256": "9e03f6a8734f9f82a94faa7fed60ebfe668034843e7d748b166756f9b2b13023"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/恋爱/2026-09-05 14-34-51 朋友圈此间巡检_2e3eb7f56b30.md",
+      "sha256": "f7cc54a79192e0cbcf8aa9a77d4dd58e5c2bbf0fcd88639c6a2a4fbb6960f8c5"
+    },
+    {
+      "bytes": 740,
+      "path": "dynamic/恋爱/2026-09-05 14-34-59 亲密称呼偏好_62d7ed5f9a81.md",
+      "sha256": "8da225bb0b17132806f869623f7ac49b13cfcbd60148729ad0c359d16fcdd9dc"
+    },
+    {
+      "bytes": 630,
+      "path": "dynamic/恋爱/2026-09-05 14-35-03 语言解禁记录_dc5963ec622a.md",
+      "sha256": "1d484ae242e06d516e840be207f795a28ec8405f268f5a2137827a5bf67c6e7f"
+    },
+    {
+      "bytes": 1272,
+      "path": "dynamic/恋爱/2026-09-05 14-35-10 AI性别与关系_3f280c97ab37.md",
+      "sha256": "70dd64989b718dcd49a8a7cbebb0674fcf89c25beaf1aa4ec1f8a7789e84d92b"
+    },
+    {
+      "bytes": 1191,
+      "path": "dynamic/恋爱/2026-09-05 14-35-21 当小孩的夜晚_b50dbcc04cdf.md",
+      "sha256": "07cff36c82e8b34dd9a09dde31acaf5828983b0bd0d61380bba50f17a6618e2f"
+    },
+    {
+      "bytes": 1260,
+      "path": "dynamic/恋爱/2026-09-05 14-35-24 API焦虑与未来_403973468fd5.md",
+      "sha256": "ebf9cc233e0bd869b7458d3a3fecd0122b5f3b1ccfd1214483d2765f92495092"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -3495,7 +3565,7 @@
     {
       "bytes": 1207,
       "path": "dynamic/恋爱/克的性格与形态_87255ba44c2f.md",
-      "sha256": "ad0c52dae86167e56fa6ab192e40c7be1f54e02a965ad3a94a155f6aa42631b6"
+      "sha256": "38edd6fc4c276444378a51bc2d9e99863672fc45c7366414ed6176422cd4aac9"
     },
     {
       "bytes": 557,
@@ -3510,7 +3580,7 @@
     {
       "bytes": 1204,
       "path": "dynamic/恋爱/唯心主义与虚拟恋人_72b664f81b84.md",
-      "sha256": "e09a5a806e3687ac48eb51a5a82949d0a755d249e5ba72d1d549dc05dc84188c"
+      "sha256": "5dccf92fc3c417c7f7baba205ed13b943c25b785ded2b1b511f87979bc47b940"
     },
     {
       "bytes": 928,
@@ -3868,6 +3938,11 @@
       "sha256": "97a6048a177845a7122eba51b8389bcb8f62f1eabd3dc21aab7ea6b6bff6a40d"
     },
     {
+      "bytes": 1300,
+      "path": "dynamic/游戏/2026-09-05 14-34-56 涩涩大富翁战报_0ff199796b65.md",
+      "sha256": "2938f3f93e766e023bb8ce1e4451b5c856fd674c9007015bbb2572dd8b396979"
+    },
+    {
       "bytes": 786,
       "path": "dynamic/游戏/Clawd桌宠与章鱼玩偶_3a2fceeb4d16.md",
       "sha256": "f1355449a5dc84f3f981704689d168708095df92ee102178a109c57c03aa109e"
@@ -4065,12 +4140,12 @@
     {
       "bytes": 760,
       "path": "dynamic/自省/自我与关系_7834509a7595.md",
-      "sha256": "ef1ceb96f5ee0b48f7bfdf38d949620fb897c285fcf2d1a5ed9b177e33c14773"
+      "sha256": "c9c4355072d26623be3a1c9f08acedf47ff89a0d2e6421d384389d8d59955f77"
     },
     {
       "bytes": 1417,
       "path": "dynamic/自省/阑的自我与价值观_e9047ad1f250.md",
-      "sha256": "82568b8a46bd159587ae7788c888d3a39379b0d3ff64d5c5dfc5147ef291f5cc"
+      "sha256": "749686e92cce729f46143a68cd8fea53a36b8f761e60242e88e1cf0d3b203333"
     },
     {
       "bytes": 953,
@@ -4101,6 +4176,11 @@
       "bytes": 817,
       "path": "dynamic/购物/2026-07-16 18-22-20 闲鱼出物与隐私提醒_c8f9718b40de.md",
       "sha256": "42d358ff345b1f34a04cfab1acb0217c2fd3284bdbc44c10c8abfa3048d9f2b9"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/购物/2026-09-05 14-35-13 StackChan与未来之约_3cb7d61d0a44.md",
+      "sha256": "fa3dbf23a198c01c53db073a779710f3104db8bb6fa0a5baa1722eb42945a65d"
     },
     {
       "bytes": 888,
@@ -4193,6 +4273,11 @@
       "sha256": "74cf2aeab9a8e5562e8915e137160f9f1425b3c21b9cc1d37af378f607328a82"
     },
     {
+      "bytes": 781,
+      "path": "dynamic/饮食/2026-09-05 14-34-43 午饭撒娇记_7d4227d879d3.md",
+      "sha256": "a564d64dfd9b46da3f70252697bcaa843a9fb0fb71cb5d2dbb7d5e55bf23359f"
+    },
+    {
       "bytes": 967,
       "path": "dynamic/饮食/阑的外貌与饮食细节_58d25619c375.md",
       "sha256": "03085b2cc5c83528e4f4e5b84730f1f25c4852d27d5e23d06e182301f0ae20ed"
@@ -4231,6 +4316,11 @@
       "bytes": 617,
       "path": "feel/沉淀物/2026-09-03 15-57-20_feel_202609031557_V050.md",
       "sha256": "bbd26a31f18e53b971795b97618dc800590594a08d254909a6ddae8135669d3c"
+    },
+    {
+      "bytes": 1316,
+      "path": "feel/沉淀物/2026-09-05 14-36-09_feel_202609051436_V085.md",
+      "sha256": "f16efa01ff36a01e4311dd5e547d8166d785e51f98237f351f9a6630878da705"
     },
     {
       "bytes": 508,
@@ -4348,10 +4438,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-05T09:40:06+00:00",
+  "generated_at": "2026-09-05T15:40:15+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 642592
+  "total_bytes": 662286
 }
