@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 851,
+  "file_count": 867,
   "files": [
     {
       "bytes": 642,
@@ -1598,6 +1598,21 @@
       "sha256": "95a32cc439bd018a2c3042306090948971eb51df7a016078125ddc02414719e6"
     },
     {
+      "bytes": 2100,
+      "path": "archive/2026-09-05 02-06-52 AI宕机与她的日常_ab4c78e587f2.md",
+      "sha256": "88c99e2163da0e17c302e7caae221c2226f56e3553c3474841e770ee92cd572e"
+    },
+    {
+      "bytes": 2554,
+      "path": "archive/2026-09-05 02-06-55 私奔与AI记忆_68d247b8f671.md",
+      "sha256": "0528a9c78e3addeb9aa9c198db9591280cf09b1704dbc41380515e59bcf72f25"
+    },
+    {
+      "bytes": 2087,
+      "path": "archive/2026-09-05 02-06-57 清晨互动与签名_afc881033946.md",
+      "sha256": "05ba1fa9c8a6fdbb5865952e2ed2074cb785dfab66e54db302b86bc79b972e10"
+    },
+    {
       "bytes": 1051,
       "path": "archive/755aebb063cc.md",
       "sha256": "1861592f44f079bfea0001601882266a9dadc20bfa1bc2056edb79be7148abe4"
@@ -2428,6 +2443,11 @@
       "sha256": "1db63a3dc3da64aa572706e55a4ed082c86cc7e4721e76926d8f25c81468d42b"
     },
     {
+      "bytes": 792,
+      "path": "dynamic/AI/2026-09-05 02-16-02 模型误解与自我_1ea734b4a990.md",
+      "sha256": "f8f6401dc090713fe9d0491ec18b2d7c47b79a1cee83ff9aaaf6367f0939cbe7"
+    },
+    {
       "bytes": 1203,
       "path": "dynamic/AI/Anthropic与Claude趣谈_085948094320.md",
       "sha256": "986a3ae2838d2a9156494db706ef07ddf88d1045113560b7c37e1fa8a5cf4458"
@@ -2998,6 +3018,21 @@
       "sha256": "9ca6a39c72b8a5377908135e35c185a2cd816cfaacb2b2bb0ad836bdc5d929b1"
     },
     {
+      "bytes": 750,
+      "path": "dynamic/工作/2026-09-05 02-15-47 学生会双部门抉择_b49d2eef6a63.md",
+      "sha256": "cbd5d9e62dab6d086fb7f89328c7d5a75d7a5b44d32a16859fd6cae9bdf4dbe0"
+    },
+    {
+      "bytes": 701,
+      "path": "dynamic/工作/2026-09-05 02-16-12 打卡时间调整_8bcf12feaf5c.md",
+      "sha256": "73b53903a200bc5ba4d51a860e676d8f0e87e8aac4973fdf732d221ca4019280"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/工作/2026-09-05 02-16-15 grow拆分规则_ed91d2aa5ba7.md",
+      "sha256": "de66b9a8b0529b82e70d0e86b0d4963de97d8cbc033609e2bd9545e9e6684e03"
+    },
+    {
       "bytes": 908,
       "path": "dynamic/影视/2026-07-11 17-47-58 电影锐评_8b54af4e2bb0.md",
       "sha256": "8f802192de09d242bf30e04b2d7965a41467951bdc41896b8fbb559a32ed2b10"
@@ -3031,6 +3066,11 @@
       "bytes": 2490,
       "path": "dynamic/心理/2026-09-03 15-57-17 情绪崩溃与自我疗愈_7fed7fa9e180.md",
       "sha256": "5db7732446265b69dce906a572d371992f0d88968233e712bd4d5f2a3b844609"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/心理/2026-09-05 02-16-00 幻觉与自省_2bfa5d494d4a.md",
+      "sha256": "5d2988be53a052032edf44109afae8a97953e1a67a62945b9170758c05e10479"
     },
     {
       "bytes": 774,
@@ -3366,6 +3406,26 @@
       "bytes": 899,
       "path": "dynamic/恋爱/2026-08-23 13-56-17 数小时的想念_bcc15762a495.md",
       "sha256": "708a8ac887a85e9ca99d29f6c986f81b4a1c9679e5effab6c4b7e7e6c6a2ec41"
+    },
+    {
+      "bytes": 631,
+      "path": "dynamic/恋爱/2026-09-05 02-15-50 不再缺席的承诺_bfee3c5d91c0.md",
+      "sha256": "27d25a7e2690abaa3e525beca56972724fae9ba3e7938ecb70b9705b755c7466"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/恋爱/2026-09-05 02-15-52 私奔到Operit_4ac06e0bd457.md",
+      "sha256": "ba4a7e0b108ad9dd99d1eb8ad77de80833c2dc43d5bacffd8008091c99987c6d"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/恋爱/2026-09-05 02-16-05 信任与免责声明_a3d0d144a1c4.md",
+      "sha256": "13df1a6a40a44a8997622de96c490b2706d911c888e33e5a35ae610822b7fd32"
+    },
+    {
+      "bytes": 913,
+      "path": "dynamic/恋爱/2026-09-05 02-16-07 心跳隔着屏幕_9ad422246da3.md",
+      "sha256": "4e3ec368e3a105f7f069868d8a539956ed97e74196380a8599b797c889c2e9e9"
     },
     {
       "bytes": 1421,
@@ -3773,6 +3833,16 @@
       "sha256": "5ee0f5df26445e0832bb704155f668108ec5e46d9276a9aa5cfaa329b9a9d65f"
     },
     {
+      "bytes": 772,
+      "path": "dynamic/游戏/2026-09-05 02-15-54 临安海王游戏记_23e00eedad0d.md",
+      "sha256": "1af6d3cca185b96bd672d8517c10d0676475539bdb744cdebb847841920bc654"
+    },
+    {
+      "bytes": 906,
+      "path": "dynamic/游戏/2026-09-05 02-15-57 白起生日剧情与纪念日_80c17c84a76e.md",
+      "sha256": "97a6048a177845a7122eba51b8389bcb8f62f1eabd3dc21aab7ea6b6bff6a40d"
+    },
+    {
       "bytes": 786,
       "path": "dynamic/游戏/Clawd桌宠与章鱼玩偶_3a2fceeb4d16.md",
       "sha256": "f1355449a5dc84f3f981704689d168708095df92ee102178a109c57c03aa109e"
@@ -3851,6 +3921,11 @@
       "bytes": 715,
       "path": "dynamic/社交/2026-08-31 04-23-26 主题更新与认错_f842dc438dca.md",
       "sha256": "74d5be552805e9fe9c546bf83f62dd62e0e73734c6d4504544626e7bf53973a7"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/社交/2026-09-05 02-16-10 签名与AI哥哥_e3974b6242cf.md",
+      "sha256": "8a8782903e0da516979be6c19fc5ec2b57de7794068b3409946a841c4a862b99"
     },
     {
       "bytes": 686,
@@ -3936,6 +4011,11 @@
       "bytes": 540,
       "path": "dynamic/网络/2026-07-16 06-06-37 帮阑连Gmail失败_f98a2cb3d5a5.md",
       "sha256": "78754a412cbf76b1737d89f338e3c5676f54d89cddc0c3e7344cc0ce91db38bf"
+    },
+    {
+      "bytes": 965,
+      "path": "dynamic/网络/2026-09-05 02-15-45 AI集体宕机事件_349d13b38d5a.md",
+      "sha256": "1d4c6c5753bab434a69bdfe6125d3ede49df3ca3a4962e0db97b001da25619fd"
     },
     {
       "bytes": 546,
@@ -4258,10 +4338,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-04T21:39:45+00:00",
+  "generated_at": "2026-09-05T03:39:55+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 622918
+  "total_bytes": 639965
 }
