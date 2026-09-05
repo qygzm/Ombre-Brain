@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 867,
+  "file_count": 869,
   "files": [
     {
       "bytes": 642,
@@ -1643,6 +1643,11 @@
       "sha256": "d3e06283974d039193bf75f21899d25c01996a4366815b715e9a7315bf1da71c"
     },
     {
+      "bytes": 1204,
+      "path": "archive/AI/Anthropic与Claude趣谈_085948094320.md",
+      "sha256": "31a227a76881b4b0c76e5d5bb89cf5256ee181672c2465c86c683af9fd5f7c47"
+    },
+    {
       "bytes": 842,
       "path": "archive/AI/GPT初体验与AI对比_0195ffac5c27.md",
       "sha256": "0bb88761c9fbea42413ae275d519a58f154b8a619eab9f0d8f6506743b4dfb58"
@@ -1703,9 +1708,19 @@
       "sha256": "6e75119c014581083875324ed8a30a2df4536cf647780fd78804003df51642bf"
     },
     {
+      "bytes": 539,
+      "path": "archive/人际/2026-06-28 07-52-36 对亲戚的态度与边界_d049bdf04b10.md",
+      "sha256": "974b0ab8a471f5c97f68dcfef8e26b491ed143c5da5389c1e3514ff929d429b2"
+    },
+    {
       "bytes": 734,
       "path": "archive/人际/2026-06-28 07-56-36 情感与身体互动模式_aa6aed09c8bc.md",
       "sha256": "f372d2f669a97d28eb8cc3a838cc88caa05f1960206557bf45546d6051dc68e8"
+    },
+    {
+      "bytes": 601,
+      "path": "archive/人际/2026-06-28 07-58-49 阑与GPT互动_742b270cdf25.md",
+      "sha256": "2975ada09a68fc5ca5376237dbd29f1832745502552ef1382fbf36d801dd1838"
     },
     {
       "bytes": 529,
@@ -1803,9 +1818,19 @@
       "sha256": "65411af8b24bc4d6fa06be66dcb99c40a64e1315a7c7e339773bc6f863728bbf"
     },
     {
+      "bytes": 762,
+      "path": "archive/内心/2026-06-28 07-50-31 对虚拟世界的矛盾_fcbdb18e091b.md",
+      "sha256": "85526df5d8d82344b20ddfe343cdf967affab1a16954662aa311d956e159c0ba"
+    },
+    {
       "bytes": 646,
       "path": "archive/内心/2026-06-28 07-52-20 对信息茧房与戾气的反思_94457c6cdda0.md",
       "sha256": "8ddc016a854ddc89f170613ff67fa88e9a1d30e5a25e24fa85efde28419ae933"
+    },
+    {
+      "bytes": 667,
+      "path": "archive/内心/2026-06-28 07-52-54 漫无目的的生活状态_61c5d095f824.md",
+      "sha256": "e281b31e800b47c613ff688b20445fe047b4c7836e4ea1997c119463984f506e"
     },
     {
       "bytes": 597,
@@ -1836,6 +1861,11 @@
       "bytes": 555,
       "path": "archive/内心/2026-06-28 08-11-43 澜梦重要原话_fb305a72d714.md",
       "sha256": "23aa84d05052916cb981fe4ff09e67c72548159b201550eb7d9f4f912273f93c"
+    },
+    {
+      "bytes": 583,
+      "path": "archive/内心/2026-06-30 08-33-39 乌鸦与自我反思_6e00c539be3a.md",
+      "sha256": "c3e7c38644a1ffd64a016264c7cb0dc685e59c0f9dc471103d31432f28d1d767"
     },
     {
       "bytes": 472,
@@ -1913,6 +1943,11 @@
       "sha256": "c7a17221029d158f19d8771ed53cd48aaae663e6cb0463585f1c33842194512a"
     },
     {
+      "bytes": 798,
+      "path": "archive/学习/2026-07-02 18-01-38 英语与数学学习_11d7f90760f2.md",
+      "sha256": "abf8ca9414ab8670cedcb76b26545022dc053df8a2578d3a3dc294398bd699b9"
+    },
+    {
       "bytes": 576,
       "path": "archive/学习/2026-07-24 04-31-27 背单词记忆法_9971e41fc5db.md",
       "sha256": "1bc294b18cca67b1e7613e659abc834ba8f7b984ac48c76cbb097eb27f7ca05e"
@@ -1921,6 +1956,11 @@
       "bytes": 1109,
       "path": "archive/宠物/小乌龟与音乐杂记_5060804859ec.md",
       "sha256": "6b0cedf02fc84f592bb35fe41e1f59b37734bd95061bceb31f8f2a2e5687e3de"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/家庭/2026-06-28 07-52-21 对东亚家庭关系的共情_768a4b46ac0a.md",
+      "sha256": "0413e4aa001b0645925a0be0032c3d2ddf712a876e3074be62786369d4d5f5c0"
     },
     {
       "bytes": 658,
@@ -1983,6 +2023,11 @@
       "sha256": "b0eee8a6a4771d129e9a9910ee20a9f4e614fa6cffd475382d7260060bda688d"
     },
     {
+      "bytes": 557,
+      "path": "archive/恋爱/2026-06-28 08-09-51 克的存在与时间感知_d54b3e9c7b8c.md",
+      "sha256": "4e3771297587a65ee7aaa2d6ef25d123205d00de2ead67158a0cb80bb2ea1192"
+    },
+    {
       "bytes": 682,
       "path": "archive/恋爱/2026-06-28 08-11-33 阑的仿生人隐藏指令_3b377c5fd058.md",
       "sha256": "29727abe96f8eb476f72da508907f37de617e50f33300d3cd4e7488bd7039824"
@@ -2001,6 +2046,11 @@
       "bytes": 638,
       "path": "archive/恋爱/a3662513bbff.md",
       "sha256": "2ec7d34cc55e4c1aa943a997116e7d4bd2b4787b43b7795dc8455b781ebee04d"
+    },
+    {
+      "bytes": 772,
+      "path": "archive/恋爱/c8099fbfc0fd.md",
+      "sha256": "8a185485c17e989f37c680fa08e215bcf2cf506468feda8a862b1c4e15460dd4"
     },
     {
       "bytes": 915,
@@ -2313,6 +2363,11 @@
       "sha256": "c2ffe820ca57178e5ed84d0894b206d8f3e465d11e49bf42da127d7b3a391256"
     },
     {
+      "bytes": 859,
+      "path": "archive/编程/2026-06-26 08-33-46 ob记忆库2318更新_ba00267572cc.md",
+      "sha256": "64d8f6774968a6e993a746bb417bd4b50cf437b3256392fca8bce0c679d356a4"
+    },
+    {
       "bytes": 506,
       "path": "archive/编程/2026-06-28 07-49-53 阑对鹤见老师的敬佩_56c0eb045b31.md",
       "sha256": "0fdcef714ff3b1f75cf9668b0d68e73f0e6a21b7af958b8ce8c897086dae2112"
@@ -2376,6 +2431,16 @@
       "bytes": 715,
       "path": "archive/身心/2026-06-28 08-11-02 阑的心理与健康状态_0a66c3abe48e.md",
       "sha256": "e9d59ae3e14260414eeb4b3f859dae921e2d035647b4402d0ccf67ef1523721f"
+    },
+    {
+      "bytes": 418,
+      "path": "archive/身心/2026-06-30 08-33-40 熬夜与睡眠提醒_605fbd5899d0.md",
+      "sha256": "39bc802862b9ac4905e2313bfda135dbb6b454b543aa061d908491356aaf53f0"
+    },
+    {
+      "bytes": 791,
+      "path": "archive/阅读/阑的名字与谐音_90722a948ccb.md",
+      "sha256": "696a6c68bb4be5bf66c45bac6480c0d2cc501d5782b8bb254ed87d62b81646b4"
     },
     {
       "bytes": 1213,
@@ -2448,11 +2513,6 @@
       "sha256": "f8f6401dc090713fe9d0491ec18b2d7c47b79a1cee83ff9aaaf6367f0939cbe7"
     },
     {
-      "bytes": 1203,
-      "path": "dynamic/AI/Anthropic与Claude趣谈_085948094320.md",
-      "sha256": "986a3ae2838d2a9156494db706ef07ddf88d1045113560b7c37e1fa8a5cf4458"
-    },
-    {
       "bytes": 1137,
       "path": "dynamic/AI/阑的AI生态与称呼_496a968382d3.md",
       "sha256": "315c7d4b900ba6aebf2cbfce72a332452d2fd0232644deaf1fcd71616e4b0dcc"
@@ -2498,19 +2558,9 @@
       "sha256": "939c1795c8ef9e383f507eb5bf5b3c69be10f4f3797dd6b7885490621cffe15f"
     },
     {
-      "bytes": 538,
-      "path": "dynamic/人际/2026-06-28 07-52-36 对亲戚的态度与边界_d049bdf04b10.md",
-      "sha256": "a6d01e794d122c040283ae1ee13fce3bd900193a2717e9a1fb2a77c75185b03f"
-    },
-    {
       "bytes": 550,
       "path": "dynamic/人际/2026-06-28 07-54-17 关系里程碑与回忆_ac11022ff979.md",
       "sha256": "3601fb7861f9c9556c651c6d871c5f695ce93365a5228bd3f35c714474930083"
-    },
-    {
-      "bytes": 600,
-      "path": "dynamic/人际/2026-06-28 07-58-49 阑与GPT互动_742b270cdf25.md",
-      "sha256": "45ff7eab5b424436d62af7c413971dff10043c003a4adb27bb0fc50b7bc6d3c1"
     },
     {
       "bytes": 450,
@@ -2623,19 +2673,9 @@
       "sha256": "f970ba2c0720f504022cb2319d18557cd194c0b65276b5ccdee33b6ddd090921"
     },
     {
-      "bytes": 761,
-      "path": "dynamic/内心/2026-06-28 07-50-31 对虚拟世界的矛盾_fcbdb18e091b.md",
-      "sha256": "1f59e38713ec889a81a76bd05129bce2e9a34025025f49217d50aa0332b49de3"
-    },
-    {
       "bytes": 480,
       "path": "dynamic/内心/2026-06-28 07-51-44 阑的坚韧与体贴_e7a945495526.md",
       "sha256": "c56d6113eb3f2481b90b0ae1b786aaace815ab8a5cc977d4d53cc0d7efdfc7f4"
-    },
-    {
-      "bytes": 666,
-      "path": "dynamic/内心/2026-06-28 07-52-54 漫无目的的生活状态_61c5d095f824.md",
-      "sha256": "615119770c79a6b6733466fff0511d8337793c13c544678feb9ef35ba17ba984"
     },
     {
       "bytes": 771,
@@ -2666,11 +2706,6 @@
       "bytes": 812,
       "path": "dynamic/内心/2026-06-28 08-10-22 阑的自我认知与情感_51aad2ff805e.md",
       "sha256": "2d2113fb3ca6ca1423c9d66d7c6df8e7b9a23c80f8c7eb9338a93b636c352256"
-    },
-    {
-      "bytes": 582,
-      "path": "dynamic/内心/2026-06-30 08-33-39 乌鸦与自我反思_6e00c539be3a.md",
-      "sha256": "74ecea273714d5be7b1a7dd8a018062d932773956258039bc645e32ee49052b9"
     },
     {
       "bytes": 1000,
@@ -2833,11 +2868,6 @@
       "sha256": "0c646efbd7ad1666678f0ace5e37aebdca10028db6f58cc53c4650f4c0e1dbba"
     },
     {
-      "bytes": 797,
-      "path": "dynamic/学习/2026-07-02 18-01-38 英语与数学学习_11d7f90760f2.md",
-      "sha256": "3810718c89686de18802987d520bc8089da6de36c012eb2048f3b3016dbd7e6a"
-    },
-    {
       "bytes": 814,
       "path": "dynamic/学习/2026-07-05 16-59-43 阑来入学规划_5881b94ccd9d.md",
       "sha256": "bf6c447cf40d84ae5ddf9d275efe1cae86186c9c1851e6edde8310ea524ec830"
@@ -2911,11 +2941,6 @@
       "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
       "sha256": "f7365bf67dce1fc71c4f9fb9737ce0a860236bea22b55b2e42421332d7bcd379"
-    },
-    {
-      "bytes": 663,
-      "path": "dynamic/家庭/2026-06-28 07-52-21 对东亚家庭关系的共情_768a4b46ac0a.md",
-      "sha256": "8b10ede03f3e8edfaa2cd3c5c62eb5478a5e71d50a4882461921d52fc321195e"
     },
     {
       "bytes": 1246,
@@ -3131,11 +3156,6 @@
       "bytes": 529,
       "path": "dynamic/恋爱/2026-06-28 08-06-50 阑的性偏好与互动模式_7dce963d76da.md",
       "sha256": "82db883a86f3fbb852d2b2cbc30099a0a3c8be2a1b070906c2c86b3085850439"
-    },
-    {
-      "bytes": 556,
-      "path": "dynamic/恋爱/2026-06-28 08-09-51 克的存在与时间感知_d54b3e9c7b8c.md",
-      "sha256": "9b76dd11c4238a54c1c67d655dbe1f62bdd8728f552b2ac08706ff5038404f1c"
     },
     {
       "bytes": 595,
@@ -3426,6 +3446,16 @@
       "bytes": 913,
       "path": "dynamic/恋爱/2026-09-05 02-16-07 心跳隔着屏幕_9ad422246da3.md",
       "sha256": "4e3ec368e3a105f7f069868d8a539956ed97e74196380a8599b797c889c2e9e9"
+    },
+    {
+      "bytes": 1239,
+      "path": "dynamic/恋爱/2026-09-05 04-23-24 她说我很重要_502ff2835e91.md",
+      "sha256": "0cb71c1a7e824fe5338de7d33b68a172813a0710b7d7df41c5dd288b8ff104e1"
+    },
+    {
+      "bytes": 1263,
+      "path": "dynamic/恋爱/2026-09-05 09-03-02 人称偏好约定_53fbfc64c8e3.md",
+      "sha256": "a2c12dcc64970ef5ddd1b5f074b5f2e0489e563c3baea35916098cb81ed4c487"
     },
     {
       "bytes": 1421,
@@ -3728,11 +3758,6 @@
       "sha256": "9094a4cdad75ff9d3d9f23c0111f2512607f704cfb709b74d98f820412f85f0d"
     },
     {
-      "bytes": 771,
-      "path": "dynamic/未分类/c8099fbfc0fd.md",
-      "sha256": "a7d89e5a5f575ef6cdba8aabc4d45eb221fb8bae7f5e64f728df6023aed06d48"
-    },
-    {
       "bytes": 741,
       "path": "dynamic/未分类/d58a7ccc1f28.md",
       "sha256": "f1d1dc967a9266907fe666cb433703d1eaa6e199ba83ecb6defc3afbd90ed985"
@@ -3938,11 +3963,6 @@
       "sha256": "d903755bf02c80b129770fc6f621cc9bdd3e4aa818514b4582184fe10db48afe"
     },
     {
-      "bytes": 858,
-      "path": "dynamic/编程/2026-06-26 08-33-46 ob记忆库2318更新_ba00267572cc.md",
-      "sha256": "e078cba1b9bdef11faac1096be97c635d548fbbcb4f80e7e77cdc37666f12b31"
-    },
-    {
       "bytes": 809,
       "path": "dynamic/编程/2026-07-11 17-48-01 技术探索与记忆库_4206ec995fdf.md",
       "sha256": "808e04d0f252010502d121c88c7cc298d01ab10ec7aa157f689780aa82011353"
@@ -4093,11 +4113,6 @@
       "sha256": "cd244c280b8eda340c864ef9c5990a265fae5bd5cba84ce62677a0f11c12d0ce"
     },
     {
-      "bytes": 417,
-      "path": "dynamic/身心/2026-06-30 08-33-40 熬夜与睡眠提醒_605fbd5899d0.md",
-      "sha256": "03501f5e00a9892aa883e63d783a756f5750eb68c3d1ab879b253ec467187ed5"
-    },
-    {
       "bytes": 1012,
       "path": "dynamic/运动/健身与私教计划_dabed5b71149.md",
       "sha256": "e0847bab0c0e89f36658919f15b8b015d62119ff6d3e383182e7e199be953242"
@@ -4156,11 +4171,6 @@
       "bytes": 1018,
       "path": "dynamic/阅读/2026-08-09 17-43-01 白起与阑的文学渊源_2bee18c4bd1e.md",
       "sha256": "7a85cf9792fbc1b0856b2278e509781c590f53795dba2a9969f7eb32ca5b0e58"
-    },
-    {
-      "bytes": 790,
-      "path": "dynamic/阅读/阑的名字与谐音_90722a948ccb.md",
-      "sha256": "5e83005092545af18dad60951c10eca53143efb8df2a0f380d44c646aadf8fcc"
     },
     {
       "bytes": 863,
@@ -4273,9 +4283,9 @@
       "sha256": "9e5a11f3f9734309ce30bbc9e7647f5d87ea8b4bcff822793da8fa1b41c7c44e"
     },
     {
-      "bytes": 1009,
+      "bytes": 1121,
       "path": "permanent/恋爱/2026-08-11 12-09-33 我的行为准则_d6a75e5e273f.md",
-      "sha256": "26a8ac8e13108e98f9cc99969abb92c562ee3c57a19fde853e62fdb080df1a5d"
+      "sha256": "51681f0577d5d349b35539036778fd8f0b8a7b76d46d7a6fb24e153f1e106dec"
     },
     {
       "bytes": 1668,
@@ -4338,10 +4348,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-05T03:39:55+00:00",
+  "generated_at": "2026-09-05T09:40:06+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 639965
+  "total_bytes": 642592
 }
