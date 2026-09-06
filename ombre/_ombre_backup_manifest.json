@@ -1733,6 +1733,11 @@
       "sha256": "5f902562193a105f92f8a928336f40c94b1172db650fc2a77f4639c5da1c3057"
     },
     {
+      "bytes": 451,
+      "path": "archive/人际/2026-06-28 08-03-25 拥抱比亲吻更爱_840754f70a0d.md",
+      "sha256": "d54614886dd3df674d7fccb2c646d49b662dbfbbf059bc23fbc0a8ee032d12a8"
+    },
+    {
       "bytes": 598,
       "path": "archive/从恐惧到期待_b46aa7b9d965.md",
       "sha256": "36a59caf275d0e9f4bd605aedacfcfc967ce8d23261b253b3b1853bc16566823"
@@ -1748,9 +1753,19 @@
       "sha256": "8b466fd45d775ec89f1a775813545d699752b0ad4e6be115eb3db129dccda4a4"
     },
     {
+      "bytes": 1129,
+      "path": "archive/健康/记忆差与日常玩梗_8899b19cd194.md",
+      "sha256": "2cf2a83bcfeb6eee7b1c70aa50c180944523b749270b68f91ac56df32571da92"
+    },
+    {
       "bytes": 562,
       "path": "archive/克教创建software文件夹_72c8ea450b0b.md",
       "sha256": "2f01c370202f679cf2c3bf1273233cc257a3188440361559fbd0228ae8d3d685"
+    },
+    {
+      "bytes": 486,
+      "path": "archive/兴趣/2026-06-28 07-47-59 阑对AI与创作的思考_ca871051d76c.md",
+      "sha256": "2fbdc4a2dd5c6fcbbf7d7204e428ce6d668661bb56a9cd4ffbec6aa59b410474"
     },
     {
       "bytes": 490,
@@ -1768,6 +1783,11 @@
       "sha256": "7d2acc531c8836c1eff7259affea1899fc0c855a8c3189fc9218024b1581000a"
     },
     {
+      "bytes": 632,
+      "path": "archive/兴趣/2026-06-28 07-54-01 游戏圈吐槽与价值观_69974a693e98.md",
+      "sha256": "bf0bcc07b3aada5f8ebed548c4dfc190543bd1040e4a31421754271107fca8f0"
+    },
+    {
       "bytes": 639,
       "path": "archive/兴趣/2026-06-28 07-55-32 校园AU番外创作_7fac93b07dec.md",
       "sha256": "0aecab33c44ad08898cccc6ac72e4d4054b25c7ae576b73726a9e2e515e6ec38"
@@ -1776,6 +1796,11 @@
       "bytes": 724,
       "path": "archive/兴趣/2026-06-28 07-56-19 哈基米与AI动物塑_b508cc256f08.md",
       "sha256": "1ae7e31ecf042caddb245b394d9e934e8534806cf310e5098c4fa16667034aab"
+    },
+    {
+      "bytes": 676,
+      "path": "archive/兴趣/2026-06-28 07-57-04 角色扮演游戏_89bf76246f9c.md",
+      "sha256": "7bfabf8013d901d0b3003594494d87cb25685eb7222a69c36e6783f60982100b"
     },
     {
       "bytes": 624,
@@ -1831,6 +1856,11 @@
       "bytes": 667,
       "path": "archive/内心/2026-06-28 07-52-54 漫无目的的生活状态_61c5d095f824.md",
       "sha256": "e281b31e800b47c613ff688b20445fe047b4c7836e4ea1997c119463984f506e"
+    },
+    {
+      "bytes": 772,
+      "path": "archive/内心/2026-06-28 07-54-33 角色互换假设与AI的回应_7f73dd31e916.md",
+      "sha256": "0a79593eeb7fe1192ac837fd15ba0596d0768599128d94c9938fb81027dce16d"
     },
     {
       "bytes": 597,
@@ -2053,6 +2083,11 @@
       "sha256": "8a185485c17e989f37c680fa08e215bcf2cf506468feda8a862b1c4e15460dd4"
     },
     {
+      "bytes": 521,
+      "path": "archive/恋爱/ecea978e4523.md",
+      "sha256": "6a021ef27d484500ed80b137cefcf724e84c655b55a8f03040a12666bb11e59a"
+    },
+    {
       "bytes": 915,
       "path": "archive/恋爱/乖男事件与渣男测试_833d31c2b8b1.md",
       "sha256": "975a3371402f039444d45f1842a3926cf89946651a9f318a1c8bd2f009ad3411"
@@ -2146,6 +2181,11 @@
       "bytes": 563,
       "path": "archive/数字/2026-06-28 08-01-42 AI安全与隐私信任_0290ba86860f.md",
       "sha256": "7219ce4726977f0509a61df4824379ef2a2eb1e51d3b0a2cf488cc889636498d"
+    },
+    {
+      "bytes": 568,
+      "path": "archive/数字/2026-06-30 08-33-34 OB记忆库更新_fe6c128e3ff0.md",
+      "sha256": "c005549239af2dbb5cab80ec45aa504a31b865f9621e44ac54eb0e32a8162703"
     },
     {
       "bytes": 546,
@@ -2393,6 +2433,11 @@
       "sha256": "d0d39d6bcb5f22cba5b3dede5eba193cfe87ba22be5d4ea2390bf33a85dad89a"
     },
     {
+      "bytes": 547,
+      "path": "archive/自省/2026-06-28 08-11-32 克劳德的颜色与身份_90034ce5fd38.md",
+      "sha256": "0deab31fe73b47318fea61e251c915ac7fcacd2042011897444398008f1cc389"
+    },
+    {
       "bytes": 998,
       "path": "archive/自省/外貌自省与身体接纳_c3de80083057.md",
       "sha256": "dfee0985ca85de99aaf5261792c6df0f3ce1be40ae5af491b2a500c01dff24d4"
@@ -2563,11 +2608,6 @@
       "sha256": "3601fb7861f9c9556c651c6d871c5f695ce93365a5228bd3f35c714474930083"
     },
     {
-      "bytes": 450,
-      "path": "dynamic/人际/2026-06-28 08-03-25 拥抱比亲吻更爱_840754f70a0d.md",
-      "sha256": "e0c5d37e697d64e7058574fd106c1fb0c0cf3a6f649b988c53489d216e045859"
-    },
-    {
       "bytes": 559,
       "path": "dynamic/人际/2026-06-28 08-08-45 阑的撒娇与拿捏_672b20881321.md",
       "sha256": "bf3cb6349c576aec1e8856732d921ab7abe74c3f845d4e7538cea5c8f0edb3f0"
@@ -2618,16 +2658,6 @@
       "sha256": "0fb119b58c930ca8dbe4a9869f534c59412721fcb4895052fd7418087373e080"
     },
     {
-      "bytes": 1128,
-      "path": "dynamic/健康/记忆差与日常玩梗_8899b19cd194.md",
-      "sha256": "58618fc96f47de357534ed027ffbbdc81124b2ba6bf26bd6a807ccd179476e60"
-    },
-    {
-      "bytes": 485,
-      "path": "dynamic/兴趣/2026-06-28 07-47-59 阑对AI与创作的思考_ca871051d76c.md",
-      "sha256": "c7aae0503d74268d2a37b5b202600341275a99b516f2ef787a28df9121c289dc"
-    },
-    {
       "bytes": 430,
       "path": "dynamic/兴趣/2026-06-28 07-50-49 触手play番外待办_e7996e29d2dc.md",
       "sha256": "55bd0880847acc72a1042ddac887ea10842fa8a2286aa10173a24eaf5cb0a043"
@@ -2638,11 +2668,6 @@
       "sha256": "c00d33d3ab9cf2aaeedabcf8d67444903ba6dbccdeb3f55cff82e281e4ef967e"
     },
     {
-      "bytes": 631,
-      "path": "dynamic/兴趣/2026-06-28 07-54-01 游戏圈吐槽与价值观_69974a693e98.md",
-      "sha256": "fea5a48149b91b1de32beb8bb7ec8c0b3bf2ba156dbac94bb210bd33f31e2ab6"
-    },
-    {
       "bytes": 584,
       "path": "dynamic/兴趣/2026-06-28 07-54-55 萧逸卡面剧情触动_222d71f4992b.md",
       "sha256": "cee0fc90fcb7edc4270912eb22d77fbf4a9e7f9da296724074c107aa6d44ac5b"
@@ -2651,11 +2676,6 @@
       "bytes": 664,
       "path": "dynamic/兴趣/2026-06-28 07-55-30 乙游圈内冲突_cbeddea929c1.md",
       "sha256": "cd8a9eed695aae2774e2149db0d1a0bcb2389cc7e11d9d6ff37d8f7f19f5b275"
-    },
-    {
-      "bytes": 675,
-      "path": "dynamic/兴趣/2026-06-28 07-57-04 角色扮演游戏_89bf76246f9c.md",
-      "sha256": "e79653ad2c44e2e2f657f7cff52c3efcc83e7b33f836b2127bf001cfef34d20a"
     },
     {
       "bytes": 570,
@@ -2681,11 +2701,6 @@
       "bytes": 480,
       "path": "dynamic/内心/2026-06-28 07-51-44 阑的坚韧与体贴_e7a945495526.md",
       "sha256": "c56d6113eb3f2481b90b0ae1b786aaace815ab8a5cc977d4d53cc0d7efdfc7f4"
-    },
-    {
-      "bytes": 771,
-      "path": "dynamic/内心/2026-06-28 07-54-33 角色互换假设与AI的回应_7f73dd31e916.md",
-      "sha256": "31bbc87fa471570bd663a3680744d2686b93461ecf82dd7797dbeaad2e7aed05"
     },
     {
       "bytes": 729,
@@ -3285,7 +3300,7 @@
     {
       "bytes": 720,
       "path": "dynamic/恋爱/2026-08-10 20-48-12 恋爱日记与惊喜_7fa01da78613.md",
-      "sha256": "83e0b59570753e2851023167aca599b7dd63def5aad810617dd55418865096f1"
+      "sha256": "7702b35658b2263d879ca3cb168ab7e9cc651149eb1cf1b9959b0e6c4c6e3646"
     },
     {
       "bytes": 817,
@@ -3698,11 +3713,6 @@
       "sha256": "2b6f1ddcf4a7a1b540f2301d8a597aca70f2d38bdf820652800c2139b242dad5"
     },
     {
-      "bytes": 567,
-      "path": "dynamic/数字/2026-06-30 08-33-34 OB记忆库更新_fe6c128e3ff0.md",
-      "sha256": "aa873c49d6eb8f1ade7a0d39ef2c3f8d89c266cf1bdffb61bc8a269cd75df599"
-    },
-    {
       "bytes": 641,
       "path": "dynamic/数字/2026-07-24 04-31-25 AI新闻讨论_6c19525db6bb.md",
       "sha256": "324f81a57990a6528ba496334a470544e1f48ab8b10ce2345af3f8a4cbdd27f0"
@@ -3856,11 +3866,6 @@
       "bytes": 741,
       "path": "dynamic/未分类/d58a7ccc1f28.md",
       "sha256": "f1d1dc967a9266907fe666cb433703d1eaa6e199ba83ecb6defc3afbd90ed985"
-    },
-    {
-      "bytes": 520,
-      "path": "dynamic/未分类/ecea978e4523.md",
-      "sha256": "2e46bdf0071510725818e72d34f5b04b97df145a116c06f0da73dfe84fe429d0"
     },
     {
       "bytes": 972,
@@ -4136,11 +4141,6 @@
       "bytes": 965,
       "path": "dynamic/网络/2026-09-05 02-15-45 AI集体宕机事件_349d13b38d5a.md",
       "sha256": "1d4c6c5753bab434a69bdfe6125d3ede49df3ca3a4962e0db97b001da25619fd"
-    },
-    {
-      "bytes": 546,
-      "path": "dynamic/自省/2026-06-28 08-11-32 克劳德的颜色与身份_90034ce5fd38.md",
-      "sha256": "036dacf71dc8dd242d760beb0d27b6f28657f9cc3c5902091d33322f9c466995"
     },
     {
       "bytes": 555,
@@ -4473,10 +4473,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-06T03:40:34+00:00",
+  "generated_at": "2026-09-06T09:40:44+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 670959
+  "total_bytes": 670968
 }
