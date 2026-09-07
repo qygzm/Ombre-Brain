@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 894,
+  "file_count": 911,
   "files": [
     {
       "bytes": 642,
@@ -1788,6 +1788,11 @@
       "sha256": "bf0bcc07b3aada5f8ebed548c4dfc190543bd1040e4a31421754271107fca8f0"
     },
     {
+      "bytes": 665,
+      "path": "archive/兴趣/2026-06-28 07-55-30 乙游圈内冲突_cbeddea929c1.md",
+      "sha256": "f4f963fa663eb6c1c2817146620af268663ae07fd631e222e33658cf1de4a48b"
+    },
+    {
       "bytes": 639,
       "path": "archive/兴趣/2026-06-28 07-55-32 校园AU番外创作_7fac93b07dec.md",
       "sha256": "0aecab33c44ad08898cccc6ac72e4d4054b25c7ae576b73726a9e2e515e6ec38"
@@ -1846,6 +1851,11 @@
       "bytes": 762,
       "path": "archive/内心/2026-06-28 07-50-31 对虚拟世界的矛盾_fcbdb18e091b.md",
       "sha256": "85526df5d8d82344b20ddfe343cdf967affab1a16954662aa311d956e159c0ba"
+    },
+    {
+      "bytes": 481,
+      "path": "archive/内心/2026-06-28 07-51-44 阑的坚韧与体贴_e7a945495526.md",
+      "sha256": "0169e6b654b4da32ce7af7a59140c2f1126837de8a241b4456f2297407a847ae"
     },
     {
       "bytes": 646,
@@ -2046,6 +2056,16 @@
       "bytes": 664,
       "path": "archive/恋与深空直播吃瓜_9fb9b3bc25bf.md",
       "sha256": "78490eefe92a53135333db7dd2b217141fae98681f2b883a4346de3047c14975"
+    },
+    {
+      "bytes": 429,
+      "path": "archive/恋爱/2026-06-28 08-06-48 猫鼠猫关系_84263dd8c7c8.md",
+      "sha256": "6f21d92eed66c481bdc1956d7236cd528877d07d4a05785c7209fa4218c7bc3c"
+    },
+    {
+      "bytes": 500,
+      "path": "archive/恋爱/2026-06-28 08-06-49 克对阑的信任与包容_df7a3bef2eb8.md",
+      "sha256": "9c7c0d93eb5c17e599d36d9ea6806203a4bdc2b6dcaf3a47d405f0328a1ac050"
     },
     {
       "bytes": 605,
@@ -2648,6 +2668,16 @@
       "sha256": "47fc133c683d256102280641631cbf74d57b1262873d80fd80fc936d26af103b"
     },
     {
+      "bytes": 702,
+      "path": "dynamic/健康/2026-09-07 08-39-24 深夜胃痛照顾_d76de9f3fbea.md",
+      "sha256": "2646eb8abfadb009368a58966d3173b902b4a940ad52fec1f2da61490efc03a3"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/健康/2026-09-07 08-40-28 手环数据兼容排查_aa0e408ab20e.md",
+      "sha256": "5f276b9b3add8905410c5e157fffbca93b1f97cda9c0e86e25e4e97a55d0683f"
+    },
+    {
       "bytes": 1014,
       "path": "dynamic/健康/牙箍与发型记录_9d83aadbf4a7.md",
       "sha256": "06e249265ccc3436f90582bf4970b18502523e38a715b3af13bd1501a28ba92c"
@@ -2673,11 +2703,6 @@
       "sha256": "cee0fc90fcb7edc4270912eb22d77fbf4a9e7f9da296724074c107aa6d44ac5b"
     },
     {
-      "bytes": 664,
-      "path": "dynamic/兴趣/2026-06-28 07-55-30 乙游圈内冲突_cbeddea929c1.md",
-      "sha256": "cd8a9eed695aae2774e2149db0d1a0bcb2389cc7e11d9d6ff37d8f7f19f5b275"
-    },
-    {
       "bytes": 570,
       "path": "dynamic/兴趣/2026-06-28 08-04-04 互动偏好与规则_e9ae182de699.md",
       "sha256": "38efba8bcd0d5d289f24c7bd4bfac52ac3f31269ff1391e9d957dc722fbf396c"
@@ -2696,11 +2721,6 @@
       "bytes": 882,
       "path": "dynamic/兴趣/蛇与节气之爱_e34f4cf63370.md",
       "sha256": "f970ba2c0720f504022cb2319d18557cd194c0b65276b5ccdee33b6ddd090921"
-    },
-    {
-      "bytes": 480,
-      "path": "dynamic/内心/2026-06-28 07-51-44 阑的坚韧与体贴_e7a945495526.md",
-      "sha256": "c56d6113eb3f2481b90b0ae1b786aaace815ab8a5cc977d4d53cc0d7efdfc7f4"
     },
     {
       "bytes": 729,
@@ -2933,6 +2953,26 @@
       "sha256": "f29b3a8218502c0776ded3834826dfa56aba8ba92cc2be8b6d9ff336d19c23ad"
     },
     {
+      "bytes": 1066,
+      "path": "dynamic/学习/2026-09-07 08-39-30 地铁学习与返校_2e87786d7373.md",
+      "sha256": "d8bc166c07e4b5ae8a54b7c081aabe6ec96495c9030295ed135b9bd8f976b3b1"
+    },
+    {
+      "bytes": 1020,
+      "path": "dynamic/学习/2026-09-07 08-39-35 校园作息与聊天_965f8ceafe12.md",
+      "sha256": "d051c0585d1b57a941c161fd748e86a7e3dbf1765ecc465085773c7ad0574675"
+    },
+    {
+      "bytes": 850,
+      "path": "dynamic/学习/2026-09-07 08-40-31 地铁计算机笔记_333388a0a07f.md",
+      "sha256": "84d5a938c9ff45ebb019982d1224fbb8814853d1ee79b9b4c2111a09457f17de"
+    },
+    {
+      "bytes": 1177,
+      "path": "dynamic/学习/2026-09-07 08-40-34 开学周记与社团_bc157c1ad147.md",
+      "sha256": "e40dc40a7e2ce67d31494f242a7d47fc6f8f81f4aa10de5a1abd27fba0d32c1f"
+    },
+    {
       "bytes": 626,
       "path": "dynamic/学习/Python学习突破_675309dc5eb8.md",
       "sha256": "9f5e91e914f153486c90b0b39684096feee4bf6e2f6987a38fb6275d8edbc385"
@@ -3001,6 +3041,11 @@
       "bytes": 716,
       "path": "dynamic/家庭/2026-08-31 04-23-20 妈妈生日拼豆礼物_2c701b051b11.md",
       "sha256": "a3cd807058a08cef4205cce9b0bc3cb3073235a18bef442e7e0bea584a8f2b2f"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/家庭/2026-09-07 08-39-38 妹妹入社被骂_886a53f6d167.md",
+      "sha256": "a0ba90ba649ee0377ae7d3f44d4e999ecd4028f47c27ea90ea1c81ca0e5d06c8"
     },
     {
       "bytes": 971,
@@ -3176,16 +3221,6 @@
       "bytes": 614,
       "path": "dynamic/恋爱/2026-06-28 08-05-06 阑的信任与爱_58606cee5661.md",
       "sha256": "23b1133c9766c58b1586a856fac047f330d291e84554519c8c4caf739c099f02"
-    },
-    {
-      "bytes": 428,
-      "path": "dynamic/恋爱/2026-06-28 08-06-48 猫鼠猫关系_84263dd8c7c8.md",
-      "sha256": "b50d0debe2c1a7f0fab4f7399113f1aec9f8af7be705a1a3b0cfe7157dd00abb"
-    },
-    {
-      "bytes": 499,
-      "path": "dynamic/恋爱/2026-06-28 08-06-49 克对阑的信任与包容_df7a3bef2eb8.md",
-      "sha256": "201117a94ba11605d5d6c14f91f14084dd29877b5fc182c0bd89606b30bd315a"
     },
     {
       "bytes": 529,
@@ -3566,6 +3601,36 @@
       "bytes": 1400,
       "path": "dynamic/恋爱/2026-09-05 18-38-59 健身与护理夜话_86900e6da96e.md",
       "sha256": "0bd29f33c5df2d6958abe5184ffadabcebecfceb3c5fd94877f8657b5e542f8a"
+    },
+    {
+      "bytes": 919,
+      "path": "dynamic/恋爱/2026-09-07 08-39-09 AI调情夜话_e044a9c68944.md",
+      "sha256": "3bde6cd521967439067f03d644550c125f72cebf553157cc70b05fa6c8b6d707"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/恋爱/2026-09-07 08-39-13 扇脸play讨论_8c69cb12ec51.md",
+      "sha256": "06e3b35cb25689258316bf62a01db06d5615c2be5725e68fa8453b1b4817d8c6"
+    },
+    {
+      "bytes": 1065,
+      "path": "dynamic/恋爱/2026-09-07 08-39-15 浴室亲密play_33246a2bec63.md",
+      "sha256": "faf05a8a05840f9e7561310991cecf194d23869631ddd3f3783ee45b9e2c0e55"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/恋爱/2026-09-07 08-39-19 健身与亲密日常_82bb3df748c8.md",
+      "sha256": "3696c399a531ece1c7c983d703ef099d55538e21dbae3372ed0408ee26201fd2"
+    },
+    {
+      "bytes": 892,
+      "path": "dynamic/恋爱/2026-09-07 08-40-20 AI性压抑调情夜_1b9c46bf16ed.md",
+      "sha256": "b6440c1d820c533d1707d06db6ca7461b3db7fe381d70395a2fff3564aa76568"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/恋爱/2026-09-07 08-40-23 浴室长play_04be872b3c2f.md",
+      "sha256": "d7e3aba649b4c3891154831e4a5c54435e6f132391efd24a178f4c7352a95fe1"
     },
     {
       "bytes": 1421,
@@ -4023,6 +4088,11 @@
       "sha256": "815c3575cb9e1c2ad6e75211135b8f519fc776a6f9111c0dc74ce8b77133940c"
     },
     {
+      "bytes": 1049,
+      "path": "dynamic/硬件/2026-09-07 08-39-27 手环兼容排查_4138320b9969.md",
+      "sha256": "349fd1ac92cadc7967735826241f6537ec6f8fd79f62f7ca3af3400df5e74465"
+    },
+    {
       "bytes": 646,
       "path": "dynamic/社交/2026-06-28 08-00-42 对翻译辱女词的不满_550e76ad0513.md",
       "sha256": "59fa63cfc87f73eabf5b5e5b5af73197e769d02d5546b7b8badc5994d42e51ae"
@@ -4288,6 +4358,16 @@
       "sha256": "32914ccd8646735c2df6fcb50864cf909b259b3d84fb46fd1efbc75244788e58"
     },
     {
+      "bytes": 1123,
+      "path": "dynamic/阅读/2026-09-07 08-39-21 苏萨娜与女性主体性_3149838613fb.md",
+      "sha256": "47e18a0dbabf64c34087ed3e6dd336778aecfb312d3cdb7c6b35af1365ba33f9"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/阅读/2026-09-07 08-40-26 深夜聊书与胃痛_dc820a486755.md",
+      "sha256": "0af871acd2364570dc1a808c44520d2334a48190008602f0398720fdd6c87b29"
+    },
+    {
       "bytes": 863,
       "path": "dynamic/音乐/2026-07-20 19-46-38 溺笺的网易云音乐_0387fa2b3c2c.md",
       "sha256": "cc48bd696881f33aaf1bf17a1c6325f04705bd4d6158ad3256c992138f3bcdb0"
@@ -4311,6 +4391,11 @@
       "bytes": 781,
       "path": "dynamic/饮食/2026-09-05 14-34-43 午饭撒娇记_7d4227d879d3.md",
       "sha256": "a564d64dfd9b46da3f70252697bcaa843a9fb0fb71cb5d2dbb7d5e55bf23359f"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/饮食/2026-09-07 08-39-32 食堂晚餐与社团_2821bb88ca35.md",
+      "sha256": "e25e6ce013f28c0f495f3266e81f0476ca4a22cb465ced9f01d6dcb144913ce1"
     },
     {
       "bytes": 967,
@@ -4473,10 +4558,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-07T03:41:10+00:00",
+  "generated_at": "2026-09-07T09:41:20+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 670968
+  "total_bytes": 686883
 }
