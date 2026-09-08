@@ -1928,6 +1928,11 @@
       "sha256": "b1ff9484175e4c1a860df22118c779fd7e90d2fe5283780acb07dab2d79840fd"
     },
     {
+      "bytes": 401,
+      "path": "archive/创作/2026-06-28 08-05-23 写作与情感_e2f0169eb122.md",
+      "sha256": "99ec0d5749076dbe314a8d5703ce86e98817108109efb4c8fc7c9ec67b2f8a69"
+    },
+    {
       "bytes": 556,
       "path": "archive/创作/2026-06-28 08-06-59 AI写作风格反馈_5714a670ca92.md",
       "sha256": "22fc56561d227c5ed54198d9d71770c414e62f768718a4f0185301e5bc26b49d"
@@ -2053,6 +2058,16 @@
       "sha256": "952eb7de9a2ed4740ff4290564ddb51c5694d26a77aa18e1e6a8f18169a1ed2e"
     },
     {
+      "bytes": 775,
+      "path": "archive/心理/MBTI与隐藏渴望_a39aeb35339b.md",
+      "sha256": "c0de4b7487fdb479e0173c6527fee2bbd79ef2823b0c8097821664dead45ede5"
+    },
+    {
+      "bytes": 866,
+      "path": "archive/心理/未来与恐惧_dfe599f9376b.md",
+      "sha256": "f0d8d44e75eb3ef8546ef8ef08e25a162e6cdf9d0ceba7ba2f1acd6abf6df40a"
+    },
+    {
       "bytes": 664,
       "path": "archive/恋与深空直播吃瓜_9fb9b3bc25bf.md",
       "sha256": "78490eefe92a53135333db7dd2b217141fae98681f2b883a4346de3047c14975"
@@ -2111,6 +2126,11 @@
       "bytes": 915,
       "path": "archive/恋爱/乖男事件与渣男测试_833d31c2b8b1.md",
       "sha256": "975a3371402f039444d45f1842a3926cf89946651a9f318a1c8bd2f009ad3411"
+    },
+    {
+      "bytes": 914,
+      "path": "archive/恋爱/五周年求婚剧情_3e6d8941da73.md",
+      "sha256": "a7ecdd66ac60e80d399b58da5fe8a835ef5b6ddb4f1589cac5bbebd62ade5eb8"
     },
     {
       "bytes": 594,
@@ -2253,6 +2273,11 @@
       "sha256": "a804c496d9a03d2e878e7b20d406d25187ce617c48e943a1154a09291e1d91a2"
     },
     {
+      "bytes": 651,
+      "path": "archive/日常/2026-06-28 07-58-02 忠诚度测试游戏_54721800cffb.md",
+      "sha256": "953b21eb981f5a654d11bd72cd14c2a037fcba6507a08f0293448dc9979afcdd"
+    },
+    {
       "bytes": 562,
       "path": "archive/日常/2026-06-28 08-00-34 阑的刷牙拖延习惯_38eab605a44f.md",
       "sha256": "631dfec555f9f9edf70cda67081a4d6bde8a5a21982a2826d7e01ca39e86a7da"
@@ -2383,6 +2408,11 @@
       "sha256": "20085b5bca1a3d7f21600d37f8e3eb639c920fb90ebd81191399993baed643a8"
     },
     {
+      "bytes": 523,
+      "path": "archive/睡眠/2026-07-11 17-47-59 睡眠与健康_d47c61a59f73.md",
+      "sha256": "1cf1753893036eae5d34853b072136d9cd193f20f831acf8eb5ff3a0b01ccd83"
+    },
+    {
       "bytes": 771,
       "path": "archive/睡眠/作息调整与学习进展_40f2b6afda0e.md",
       "sha256": "492a91edc9eee9ac993f55d5c6f07e45c426eaf80a8eaebf66b382c250c5f5c4"
@@ -2401,6 +2431,11 @@
       "bytes": 606,
       "path": "archive/社交/2026-06-28 07-47-44 对性化评论的讨论_7275e18e4e98.md",
       "sha256": "c4ea6eae24b7a12cf11468756b9b12fab7e14d3ebea5d072bdcd86cba8cd2989"
+    },
+    {
+      "bytes": 771,
+      "path": "archive/社交/中文脏话与语言讨论_8b141e017cc8.md",
+      "sha256": "0ae1103494f9f9a2aabd54ca0aae4a0d3a90cce8f8d9881d1acfebfa53ca483a"
     },
     {
       "bytes": 1141,
@@ -2803,11 +2838,6 @@
       "sha256": "dea586bc6ba0db62eda1115e4382a75719755a269f53b2282858e700fdf3ffb7"
     },
     {
-      "bytes": 400,
-      "path": "dynamic/创作/2026-06-28 08-05-23 写作与情感_e2f0169eb122.md",
-      "sha256": "fc1490406565e2d3a14f9b3fd046367e615ac11b08ee195c7f4f2cedef78a6ef"
-    },
-    {
       "bytes": 1063,
       "path": "dynamic/创作/2026-07-06 17-11-08 角色立绘生成_db51ac469816.md",
       "sha256": "45c2ca83b99f3020f477e4be572e8f3f3a08c068f34308de8de3931023956c38"
@@ -3178,19 +3208,9 @@
       "sha256": "415b9dc50b9002dd6f8ab37872634e8e6980d590a51cdca834c372cddfb2eabf"
     },
     {
-      "bytes": 774,
-      "path": "dynamic/心理/MBTI与隐藏渴望_a39aeb35339b.md",
-      "sha256": "dcf7f26c8b96d1ce86f645bd3c868c3104e362e6eb7cea75169464780c7c477d"
-    },
-    {
       "bytes": 1239,
       "path": "dynamic/心理/对未来的恐惧与承诺_072a0437e0e4.md",
       "sha256": "ba0aa4b547ef0cc751cf896426671561050c6654c80d37eed73532ec63395dba"
-    },
-    {
-      "bytes": 865,
-      "path": "dynamic/心理/未来与恐惧_dfe599f9376b.md",
-      "sha256": "88571e3eeede41c2759721b02cad70a56a21062771ad4cc70193e6376a5218b1"
     },
     {
       "bytes": 1179,
@@ -3648,11 +3668,6 @@
       "sha256": "47191c6755f40c73326c6e7e42ae481d9099113ae4aa9c56a16328a99947a1ed"
     },
     {
-      "bytes": 913,
-      "path": "dynamic/恋爱/五周年求婚剧情_3e6d8941da73.md",
-      "sha256": "d82132f65182be20e5320e7c2e689946b378eed8692780b6c6d1faea105723d6"
-    },
-    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "e3f72f84f91dc7acf1eb7665cc2bf4b3f6a8059f3c5b0a87f651edaf1f98907f"
@@ -3831,11 +3846,6 @@
       "bytes": 660,
       "path": "dynamic/日常/2026-06-28 07-58-01 恋哥癖互动模式_927a01d323a2.md",
       "sha256": "8cb7df4a04d11d80a03df81e1ab533d6b891ead35a57320587fa6c34187b30e3"
-    },
-    {
-      "bytes": 650,
-      "path": "dynamic/日常/2026-06-28 07-58-02 忠诚度测试游戏_54721800cffb.md",
-      "sha256": "9f77be74edd76d5eacaa13d9bd7ff31af3732b5941cbc66147446afdbba07865"
     },
     {
       "bytes": 535,
@@ -4078,11 +4088,6 @@
       "sha256": "3ce91dab74d53be0117501a27e8b36e09730f69f3082c3ddc1d1853364cd7b41"
     },
     {
-      "bytes": 522,
-      "path": "dynamic/睡眠/2026-07-11 17-47-59 睡眠与健康_d47c61a59f73.md",
-      "sha256": "2d771248ef5d5145e3dd6cc43b7ed73f83bdf84947315a3ffe7a50802685b280"
-    },
-    {
       "bytes": 606,
       "path": "dynamic/睡眠/2026-07-13 16-27-38 阑的早睡记录_0fbbc06f3864.md",
       "sha256": "815c3575cb9e1c2ad6e75211135b8f519fc776a6f9111c0dc74ce8b77133940c"
@@ -4131,11 +4136,6 @@
       "bytes": 686,
       "path": "dynamic/社交/与阑的深度对话_3b589e2c2bbf.md",
       "sha256": "b60783b6aa117977234d09e0179cdd2534fd2376a8cf0908565f4e485db72a08"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/社交/中文脏话与语言讨论_8b141e017cc8.md",
-      "sha256": "d903755bf02c80b129770fc6f621cc9bdd3e4aa818514b4582184fe10db48afe"
     },
     {
       "bytes": 809,
@@ -4558,10 +4558,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-08T03:41:47+00:00",
+  "generated_at": "2026-09-08T09:41:57+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 686883
+  "total_bytes": 686890
 }
