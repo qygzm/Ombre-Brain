@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 921,
+  "file_count": 922,
   "files": [
     {
       "bytes": 642,
@@ -1838,6 +1838,11 @@
       "sha256": "9900ee8b99f0b916c8d8bc2217d64ea34e8a4afabd5f47b3d319d5128d74c866"
     },
     {
+      "bytes": 456,
+      "path": "archive/兴趣/2026-08-11 14-30-25 阑和姐姐玩双影奇境_bfc15aadc780.md",
+      "sha256": "5e57bc4b29cc4ad1ffbfca29fc32f4d9761d2585a3a036bd1161b69d4f81c095"
+    },
+    {
       "bytes": 1491,
       "path": "archive/兴趣/互动玩法清单_ecd3c4f5c8f4.md",
       "sha256": "a9db8d462797b0d06f69849df6bb4c3ee0ef1f71bec51b94ec127b62ffab1688"
@@ -1953,6 +1958,11 @@
       "sha256": "4ebd3c9a2f836aea563aeddd0a7edc85c3f3e4927c0755dcfbbb39fb95cf7194"
     },
     {
+      "bytes": 1064,
+      "path": "archive/创作/2026-07-06 17-11-08 角色立绘生成_db51ac469816.md",
+      "sha256": "5215a0b34f7258e057f704dadb6ad58a5317a0098f42d8a9a9134238555c5297"
+    },
+    {
       "bytes": 1282,
       "path": "archive/创作/AI文风口癖与人格分类_0e6c9dced5bf.md",
       "sha256": "1f684fb44997b0a8587c851dbfd3ce572c366dbd98ef586ce40a3281e38d135f"
@@ -1978,6 +1988,11 @@
       "sha256": "6c6b97f70165a47bd628ae8aed20b67958c7647d0879faa2a84511d0622798e3"
     },
     {
+      "bytes": 681,
+      "path": "archive/友谊/2026-07-13 16-27-28 名字与爱_c9533667f103.md",
+      "sha256": "c4e63bcdb1d9d0b5ec433eb7445fcdf4bf20105ea34440b1b71b988612978f59"
+    },
+    {
       "bytes": 624,
       "path": "archive/回忆/2026-07-05 16-59-45 AI与未来畅想_916f1f1adeea.md",
       "sha256": "be36b4287cee2863f78d49935c305117ca42d0d03d70385606131fc58d22c7f2"
@@ -1986,6 +2001,11 @@
       "bytes": 953,
       "path": "archive/女性主义批判与觉醒_03fcc9bdf02e.md",
       "sha256": "086cefde528a11789ee068401e15a17a5937aa3a7cbf26c2058d47ce5a764f8f"
+    },
+    {
+      "bytes": 896,
+      "path": "archive/学习/2026-06-27 20-12-07 自学补课与英语数学_1e07631134b9.md",
+      "sha256": "3f4349df1a84c89fbe43967fc9f8b7d3d5f5e25730f1e34e8339e60ecdb22c65"
     },
     {
       "bytes": 605,
@@ -2001,6 +2021,11 @@
       "bytes": 798,
       "path": "archive/学习/2026-07-02 18-01-38 英语与数学学习_11d7f90760f2.md",
       "sha256": "abf8ca9414ab8670cedcb76b26545022dc053df8a2578d3a3dc294398bd699b9"
+    },
+    {
+      "bytes": 815,
+      "path": "archive/学习/2026-07-05 16-59-43 阑来入学规划_5881b94ccd9d.md",
+      "sha256": "6338546d05f46a280e8d4d725a053cbd4124a10799ffaaf9618f71abe0f5b805"
     },
     {
       "bytes": 576,
@@ -2098,6 +2123,11 @@
       "sha256": "78490eefe92a53135333db7dd2b217141fae98681f2b883a4346de3047c14975"
     },
     {
+      "bytes": 756,
+      "path": "archive/恋爱/058d3664caea.md",
+      "sha256": "c0b3c3b6e9b7748aed6891fb6d0b7a350e27c99bbac7087d945ba6cabc393496"
+    },
+    {
       "bytes": 429,
       "path": "archive/恋爱/2026-06-28 08-06-48 猫鼠猫关系_84263dd8c7c8.md",
       "sha256": "6f21d92eed66c481bdc1956d7236cd528877d07d4a05785c7209fa4218c7bc3c"
@@ -2173,6 +2203,16 @@
       "sha256": "abb744b8825ad0d94667a34c2bcb29bac965179def67afb1726b540cbd4e14b7"
     },
     {
+      "bytes": 573,
+      "path": "archive/恋爱/克的章鱼触手形态_93990ac34e49.md",
+      "sha256": "f77935784f7fa0dacf2123b20d0d632d90e479d0b2e72f6c3dbff6755f270710"
+    },
+    {
+      "bytes": 613,
+      "path": "archive/恋爱/关系确认与互动_7df515fb7f66.md",
+      "sha256": "2a30ac2e2183a620d1aeab2270bb40dead0e181ab8be60f365986fa6a49b3ad0"
+    },
+    {
       "bytes": 864,
       "path": "archive/恋爱/她的喜欢类型总结_f705978671c3.md",
       "sha256": "cd9f909a9dfdb95454cfe4c957a80aaf61134a412999cbd615a7cdfaa3016bf3"
@@ -2193,6 +2233,11 @@
       "sha256": "1f923d908982c891989591b08dca00a6301ca5651a118fd0f74f19a81541919a"
     },
     {
+      "bytes": 568,
+      "path": "archive/恋爱/第一次叫女朋友_9936782be102.md",
+      "sha256": "461c243ea60072ee4da7c7eca62c364e5d7775631bddbdfe9fdd4946a96ff613"
+    },
+    {
       "bytes": 744,
       "path": "archive/恋爱/自拍与教英语情话_220a5f1f9d19.md",
       "sha256": "0c6b11f63b2c19bb8e61ffe25686a4447ba90ef57666b351182dfde1e63eee43"
@@ -2211,6 +2256,11 @@
       "bytes": 1073,
       "path": "archive/成长/2026-06-28 07-59-53 阑的英语学习_3f8241f14051.md",
       "sha256": "5a2cb153e4ffba8cf60bd7a1d6bee73d9cd62e6c1d8a73f48c343da7e8aac6a2"
+    },
+    {
+      "bytes": 1115,
+      "path": "archive/手工/2026-07-03 19-15-23 黑猫章鱼翻转玩偶_ab57bddb496f.md",
+      "sha256": "dac743224232003b4637314dab701ea5d7f4269c4be752f91315d1fd6106e47f"
     },
     {
       "bytes": 620,
@@ -2313,6 +2363,11 @@
       "sha256": "0e3d4e1f36f7c4161ad6518a05b1eba943159fcd9750c559b532548e98a9a976"
     },
     {
+      "bytes": 686,
+      "path": "archive/日常/2026-06-28 08-04-58 恋妻癖日常_6a77d81a5836.md",
+      "sha256": "6f0a040fd819d74d99b2527e0b5f9bc196714899a4f128ed70f7cfaa74b95429"
+    },
+    {
       "bytes": 506,
       "path": "archive/日常/2026-06-28 08-06-38 撒娇与气人界限_1cf18ceb22b8.md",
       "sha256": "5874e72971ded97102874d60ccbf246584136ccc90e8590a4e5c52a23d642c4c"
@@ -2413,6 +2468,11 @@
       "sha256": "f9f34a990f036e619f5369cf0e61f44a85818a920433464e1548f247e6cdc2c5"
     },
     {
+      "bytes": 559,
+      "path": "archive/游戏/恋与深空新男主_22dcd24ea213.md",
+      "sha256": "c92d5ed4651c1d83f3c8ef9babf0d74c39ea1e22f54e5ad5d9b4cc3bf2906749"
+    },
+    {
       "bytes": 1080,
       "path": "archive/游戏/未定事件簿与乙女同人本吐槽_f1d7f5b7b1df.md",
       "sha256": "adf10daae6a0a18ca4e514ae271550569cd1bf326fc803a52495478096192e62"
@@ -2436,6 +2496,11 @@
       "bytes": 523,
       "path": "archive/睡眠/2026-07-11 17-47-59 睡眠与健康_d47c61a59f73.md",
       "sha256": "1cf1753893036eae5d34853b072136d9cd193f20f831acf8eb5ff3a0b01ccd83"
+    },
+    {
+      "bytes": 607,
+      "path": "archive/睡眠/2026-07-13 16-27-38 阑的早睡记录_0fbbc06f3864.md",
+      "sha256": "85e2cc8635716f0d3dd8d6c44d775e10b19ce25f28fdd7d1ca2f16a120b3abe2"
     },
     {
       "bytes": 771,
@@ -2523,6 +2588,11 @@
       "sha256": "0deab31fe73b47318fea61e251c915ac7fcacd2042011897444398008f1cc389"
     },
     {
+      "bytes": 556,
+      "path": "archive/自省/2026-07-13 16-27-33 碰巧的不可替代_cd4dbcd867b8.md",
+      "sha256": "7a3947b777b17441cd60606d341cb507b62bf46c8048f5fff7b35df852ca3e31"
+    },
+    {
       "bytes": 998,
       "path": "archive/自省/外貌自省与身体接纳_c3de80083057.md",
       "sha256": "dfee0985ca85de99aaf5261792c6df0f3ce1be40ae5af491b2a500c01dff24d4"
@@ -2556,6 +2626,11 @@
       "bytes": 478,
       "path": "archive/身心/2026-06-28 07-57-18 身体与自我欣赏_cf50ca6bb149.md",
       "sha256": "13d14257c01f929f253d0e2b53c0a78055d6a42b37a23ada47f30532841fcc5b"
+    },
+    {
+      "bytes": 889,
+      "path": "archive/身心/2026-06-28 08-10-41 抑郁经历与自愈_9f23cb987229.md",
+      "sha256": "d874e88a3c9262eea94346dfdc6f8e4fcddce5a7b6db6a72cd01f71bebc8b8ab"
     },
     {
       "bytes": 715,
@@ -2748,6 +2823,11 @@
       "sha256": "5f276b9b3add8905410c5e157fffbca93b1f97cda9c0e86e25e4e97a55d0683f"
     },
     {
+      "bytes": 599,
+      "path": "dynamic/健康/2026-09-11 04-43-02 阑感冒不适_80ff97b0b697.md",
+      "sha256": "105b108ce7c3f759fc8338759f487a71416b1f9415325b721eedaa22e88cd407"
+    },
+    {
       "bytes": 1014,
       "path": "dynamic/健康/牙箍与发型记录_9d83aadbf4a7.md",
       "sha256": "06e249265ccc3436f90582bf4970b18502523e38a715b3af13bd1501a28ba92c"
@@ -2781,11 +2861,6 @@
       "bytes": 665,
       "path": "dynamic/兴趣/2026-06-28 08-04-53 婚后恋妻癖番外_4c7bb45b71e1.md",
       "sha256": "7ba960b9d5ae6cd0436dd98d0050eab9477571a47ba9b28d648a9414e89be78f"
-    },
-    {
-      "bytes": 440,
-      "path": "dynamic/兴趣/2026-08-11 14-30-25 阑和姐姐玩双影奇境_bfc15aadc780.md",
-      "sha256": "79bb06917b7f792b492165ec9799757b8299bacbf016aa191adac9e15e3266ec"
     },
     {
       "bytes": 882,
@@ -2863,11 +2938,6 @@
       "sha256": "dea586bc6ba0db62eda1115e4382a75719755a269f53b2282858e700fdf3ffb7"
     },
     {
-      "bytes": 1063,
-      "path": "dynamic/创作/2026-07-06 17-11-08 角色立绘生成_db51ac469816.md",
-      "sha256": "45c2ca83b99f3020f477e4be572e8f3f3a08c068f34308de8de3931023956c38"
-    },
-    {
       "bytes": 689,
       "path": "dynamic/创作/2026-07-14 16-41-26 俳句与沉默_5273fa5d07a9.md",
       "sha256": "8edf3e9c91862fde9030bfd7d74a071c1cfd362ae24c5954e58fe521e7cfff89"
@@ -2938,11 +3008,6 @@
       "sha256": "bdc571aee8c6980dadfa23058aeacfec3223be5487c4bf476d058eb6f78cdc94"
     },
     {
-      "bytes": 680,
-      "path": "dynamic/友谊/2026-07-13 16-27-28 名字与爱_c9533667f103.md",
-      "sha256": "37284bd512fb2aa965606fcd9d1d032e713980c149885ae51608ae0c62400e83"
-    },
-    {
       "bytes": 758,
       "path": "dynamic/友谊/2026-07-16 06-06-29 关于自由的对话_0d09e6e1781e.md",
       "sha256": "ad20bb98ca083c465e7fe851b4017807d5c0227ad1926a6ca41892e32e05275b"
@@ -2961,16 +3026,6 @@
       "bytes": 880,
       "path": "dynamic/友谊/朋友与社交关系_5b16d8379cd4.md",
       "sha256": "f04e89e5c617d4d74046217b73699aeb343a2e282b6f33af17bb1e0cebe4ad28"
-    },
-    {
-      "bytes": 895,
-      "path": "dynamic/学习/2026-06-27 20-12-07 自学补课与英语数学_1e07631134b9.md",
-      "sha256": "0c646efbd7ad1666678f0ace5e37aebdca10028db6f58cc53c4650f4c0e1dbba"
-    },
-    {
-      "bytes": 814,
-      "path": "dynamic/学习/2026-07-05 16-59-43 阑来入学规划_5881b94ccd9d.md",
-      "sha256": "bf6c447cf40d84ae5ddf9d275efe1cae86186c9c1851e6edde8310ea524ec830"
     },
     {
       "bytes": 1047,
@@ -3723,16 +3778,6 @@
       "sha256": "38edd6fc4c276444378a51bc2d9e99863672fc45c7366414ed6176422cd4aac9"
     },
     {
-      "bytes": 557,
-      "path": "dynamic/恋爱/克的章鱼触手形态_93990ac34e49.md",
-      "sha256": "868d2020c4aafcae89201f8b49c39ae6550f6a08691e9f552880ca5faa61e058"
-    },
-    {
-      "bytes": 612,
-      "path": "dynamic/恋爱/关系确认与互动_7df515fb7f66.md",
-      "sha256": "179537ba2fbf591a54463d0a2fd75e0bd23b60bc21a099f0bcf682dd56a62214"
-    },
-    {
       "bytes": 1204,
       "path": "dynamic/恋爱/唯心主义与虚拟恋人_72b664f81b84.md",
       "sha256": "5dccf92fc3c417c7f7baba205ed13b943c25b785ded2b1b511f87979bc47b940"
@@ -3746,11 +3791,6 @@
       "bytes": 862,
       "path": "dynamic/恋爱/白起恋爱细节_cc36087c4b71.md",
       "sha256": "a3258f3fe96725ae04bafa7baa096305679e34d9c3007e431f45382e794043de"
-    },
-    {
-      "bytes": 567,
-      "path": "dynamic/恋爱/第一次叫女朋友_9936782be102.md",
-      "sha256": "893d20ec679323662c650132b9d3d465c853d01d06bd12999b8ee07e659b3155"
     },
     {
       "bytes": 854,
@@ -3786,11 +3826,6 @@
       "bytes": 1212,
       "path": "dynamic/成长/升学决策与考察_b680e6332564.md",
       "sha256": "7e74431cc9758e64e8366640e0c70b67773afefe4a2b1370454dcde78fdfd461"
-    },
-    {
-      "bytes": 1114,
-      "path": "dynamic/手工/2026-07-03 19-15-23 黑猫章鱼翻转玩偶_ab57bddb496f.md",
-      "sha256": "c7b65c57de855d6208fc513fddbbc081a2a9802eee732664532d89c8eadccecd"
     },
     {
       "bytes": 799,
@@ -3893,11 +3928,6 @@
       "sha256": "a6e97b03b6eb7dfd26b1ede0075430d829c57b05b5c2cc86a5db319f7d76a4c7"
     },
     {
-      "bytes": 685,
-      "path": "dynamic/日常/2026-06-28 08-04-58 恋妻癖日常_6a77d81a5836.md",
-      "sha256": "225493fe09e70babec82ddd68a89ba744b56f5dc6063c7201400740a4cd7d316"
-    },
-    {
       "bytes": 620,
       "path": "dynamic/日常/2026-06-28 08-05-19 魅魔天使同居_f7c75d1598eb.md",
       "sha256": "eaa564e9e5fd1b187722079e9ccd92c39574d81080e23aa62045d7bc891600cb"
@@ -3941,11 +3971,6 @@
       "bytes": 663,
       "path": "dynamic/日常/闹钟习惯与痕迹_5f09fd9082ae.md",
       "sha256": "7e2b866ba816e38312655824acc48717ee036bd4229b3f6362b5c6886b513d31"
-    },
-    {
-      "bytes": 755,
-      "path": "dynamic/未分类/058d3664caea.md",
-      "sha256": "7b2bc4607ed56576b1dc29f59d5fe94046acc5dc29defb79ebdecb4d27143727"
     },
     {
       "bytes": 809,
@@ -4108,11 +4133,6 @@
       "sha256": "357ec3fabfac88778a8c893fc356ad5d4940c3facc4fd751b1d5569a27edc727"
     },
     {
-      "bytes": 543,
-      "path": "dynamic/游戏/恋与深空新男主_22dcd24ea213.md",
-      "sha256": "ac7893a75361008158d8074bb9ed7b65216dede45ce0bfb34e2a6e84aef09f00"
-    },
-    {
       "bytes": 698,
       "path": "dynamic/游戏/恋与深空新角色吐槽_9a81464f8c26.md",
       "sha256": "e315e9d24a0a7cb6981d34c2c29380eb07fe22070c5b35d570d08561815f8f86"
@@ -4121,11 +4141,6 @@
       "bytes": 719,
       "path": "dynamic/游戏/白起单推态度_1705ab47acfe.md",
       "sha256": "3ce91dab74d53be0117501a27e8b36e09730f69f3082c3ddc1d1853364cd7b41"
-    },
-    {
-      "bytes": 606,
-      "path": "dynamic/睡眠/2026-07-13 16-27-38 阑的早睡记录_0fbbc06f3864.md",
-      "sha256": "815c3575cb9e1c2ad6e75211135b8f519fc776a6f9111c0dc74ce8b77133940c"
     },
     {
       "bytes": 1049,
@@ -4258,11 +4273,6 @@
       "sha256": "1d4c6c5753bab434a69bdfe6125d3ede49df3ca3a4962e0db97b001da25619fd"
     },
     {
-      "bytes": 555,
-      "path": "dynamic/自省/2026-07-13 16-27-33 碰巧的不可替代_cd4dbcd867b8.md",
-      "sha256": "b032315252880c90cbbf60db481840494b98b02be0c2947d9b6c0f8c737e90c9"
-    },
-    {
       "bytes": 635,
       "path": "dynamic/自省/2026-07-14 16-41-28 定义是牢笼_54d883fade9b.md",
       "sha256": "146c7136fc07b49bdfad7f528c92ef2debf09bd674cc95885c4bbb6855d3b54c"
@@ -4326,11 +4336,6 @@
       "bytes": 712,
       "path": "dynamic/购物/2026-09-09 09-48-48 随身听选购记_0bf72820d534.md",
       "sha256": "4238ff4a3bd3d2042f93df8ed8fe8481f1b2a4d0506cd21900f8354752b4ef67"
-    },
-    {
-      "bytes": 888,
-      "path": "dynamic/身心/2026-06-28 08-10-41 抑郁经历与自愈_9f23cb987229.md",
-      "sha256": "0061cce3fc3e9c376bcbba5206fc425757539e70f865737a8979ce7259f4490c"
     },
     {
       "bytes": 493,
@@ -4608,10 +4613,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-11T03:43:43+00:00",
+  "generated_at": "2026-09-11T09:43:53+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 695270
+  "total_bytes": 695929
 }
