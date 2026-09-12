@@ -1628,6 +1628,11 @@
       "sha256": "ae45c7b3826b1673a0d59fa2c2a2ff524c2eaad6e70a41a96ea5ade839091cdb"
     },
     {
+      "bytes": 954,
+      "path": "archive/AI/2026-06-27 20-12-08 AI与未来规划_4a7ee479d618.md",
+      "sha256": "d87f02949ae15e2a18e8c058776c307b8017bd716aeb527d2a7ee6921e1e4b56"
+    },
+    {
       "bytes": 579,
       "path": "archive/AI/2026-06-28 08-05-07 阑对opus模型的偏好_5761e4106bc0.md",
       "sha256": "d6c185516d0918340b83e8881feaa7a6233a832ed78a90afb666f97f86c1ec8e"
@@ -1751,6 +1756,11 @@
       "bytes": 525,
       "path": "archive/健康/2026-07-19 20-17-39 牙齿复诊与饮食_4abac149764b.md",
       "sha256": "8b466fd45d775ec89f1a775813545d699752b0ad4e6be115eb3db129dccda4a4"
+    },
+    {
+      "bytes": 885,
+      "path": "archive/健康/讨厌抽烟完整版_541b5c995286.md",
+      "sha256": "348edd2cb0439d6206a9e67d1a7a337abe6c50f98bf455362f91cf248030cde5"
     },
     {
       "bytes": 1129,
@@ -1878,6 +1888,16 @@
       "sha256": "0a79593eeb7fe1192ac837fd15ba0596d0768599128d94c9938fb81027dce16d"
     },
     {
+      "bytes": 730,
+      "path": "archive/内心/2026-06-28 07-56-18 614深夜长谈_c1f2ad4e8ed0.md",
+      "sha256": "c9a4e9282527d93af8ae820761af096a43f8b8a5ed9a5850608d2f95c0c88d3b"
+    },
+    {
+      "bytes": 690,
+      "path": "archive/内心/2026-06-28 07-57-39 情感依赖与专属感_8a170dcc0606.md",
+      "sha256": "231b5cd0800b634a9192098af09922a65f80683ce5c7164b667f8743972fb41c"
+    },
+    {
       "bytes": 597,
       "path": "archive/内心/2026-06-28 07-59-35 对恨海情天的看法_3459bde77036.md",
       "sha256": "f41605db3b7903dc0bed037e5cc92a04ac3c4a952d2ca12a05dfc5910814c644"
@@ -1928,6 +1948,11 @@
       "sha256": "ec172310c9fe322022b546a54c02d39b1a19405fd4df732c1f2ac359650e7e43"
     },
     {
+      "bytes": 866,
+      "path": "archive/出行/2026-07-09 10-03-32 南澳岛环岛记_2927353fbd1d.md",
+      "sha256": "69ceebe62a0283306d5018ce066c157c96874ca8de6a431bb810c3ff28ff7cf3"
+    },
+    {
       "bytes": 861,
       "path": "archive/出行/2026-07-10 17-53-23 高铁回深与日常琐事_14cb80211c75.md",
       "sha256": "0c015a35f113dc603d4462a11052733dc4a9e2df5983b6dede2df39fd546f74a"
@@ -1961,6 +1986,11 @@
       "bytes": 1064,
       "path": "archive/创作/2026-07-06 17-11-08 角色立绘生成_db51ac469816.md",
       "sha256": "5215a0b34f7258e057f704dadb6ad58a5317a0098f42d8a9a9134238555c5297"
+    },
+    {
+      "bytes": 690,
+      "path": "archive/创作/2026-07-14 16-41-26 俳句与沉默_5273fa5d07a9.md",
+      "sha256": "17e5fcf608391c63e25ccb28dfdc755685612c3d69fdb10b3d2f32900f63cc50"
     },
     {
       "bytes": 1282,
@@ -2128,6 +2158,11 @@
       "sha256": "c0b3c3b6e9b7748aed6891fb6d0b7a350e27c99bbac7087d945ba6cabc393496"
     },
     {
+      "bytes": 489,
+      "path": "archive/恋爱/2026-06-28 08-03-53 暗号仪式_cea94d3fcfa7.md",
+      "sha256": "72c94f819a82d0438f88514d5681ad6415949719858e25bc0a42282405e07e25"
+    },
+    {
       "bytes": 429,
       "path": "archive/恋爱/2026-06-28 08-06-48 猫鼠猫关系_84263dd8c7c8.md",
       "sha256": "6f21d92eed66c481bdc1956d7236cd528877d07d4a05785c7209fa4218c7bc3c"
@@ -2158,6 +2193,11 @@
       "sha256": "c39aa3023ff9ae3dc2b16ac8217703e91b665d1e9ea35ddd3e10e7f7225ca05d"
     },
     {
+      "bytes": 631,
+      "path": "archive/恋爱/2026-07-13 16-27-25 关于好奇心的对话_9cc5a2175732.md",
+      "sha256": "eea5fa709a4c933b762218821100c8ff6662dd44d2714f13b8cb65be472def4b"
+    },
+    {
       "bytes": 992,
       "path": "archive/恋爱/2bc5c2c93bd4.md",
       "sha256": "7ac9ed1ef6293eb1ffaa205d07913e085ea80837af861540e1ffb99a503fd43a"
@@ -2176,6 +2216,11 @@
       "bytes": 521,
       "path": "archive/恋爱/ecea978e4523.md",
       "sha256": "6a021ef27d484500ed80b137cefcf724e84c655b55a8f03040a12666bb11e59a"
+    },
+    {
+      "bytes": 992,
+      "path": "archive/恋爱/play设定清单与方向_40b50e957514.md",
+      "sha256": "232e1a77b4cfa85ed16156a8b92497affae96bc4ddab6aa74f4f488fb8c0b27d"
     },
     {
       "bytes": 915,
@@ -2246,6 +2291,11 @@
       "bytes": 989,
       "path": "archive/恋爱/闷骚明骚升级事件_a2a9fed10c1a.md",
       "sha256": "686ed9f007f88e156638fcf3ded3c2b8bce39e2c7de5754cb83cfce8bca166c3"
+    },
+    {
+      "bytes": 611,
+      "path": "archive/恋爱/闹钟里的情话_74aceba41036.md",
+      "sha256": "29068aacfc9823e474a3659b786f61548ffb063cb4a66517a75eb452b8d4bcac"
     },
     {
       "bytes": 1342,
@@ -2418,6 +2468,11 @@
       "sha256": "1f04ea9bd23da963c40ec6c76ed3487cf99f21e0f20dc988d5ac26e64da26256"
     },
     {
+      "bytes": 810,
+      "path": "archive/日常/5d9c90f6d0c3.md",
+      "sha256": "4f1e8c47f08cb7866ead75c6a8a3118d8fb3dc1ca99c76546e58d360d00c501f"
+    },
+    {
       "bytes": 749,
       "path": "archive/日常/a21ff5486d5f.md",
       "sha256": "f6f30df5f4610681e61e57cf5d64b5006ae16d5ae68d3534e437e7fe5a3c810a"
@@ -2426,6 +2481,11 @@
       "bytes": 535,
       "path": "archive/日常/d7723e8db1b4.md",
       "sha256": "ce6cc189f99d3a417c1fe17eca6a89ace577a47e74557cc3d904147e7d990208"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/日常/闹钟习惯与痕迹_5f09fd9082ae.md",
+      "sha256": "c40239d3150c664328b7111dccfe0ee013820a8d307eb729019af69fc5a5c6d1"
     },
     {
       "bytes": 550,
@@ -2643,6 +2703,11 @@
       "sha256": "39bc802862b9ac4905e2313bfda135dbb6b454b543aa061d908491356aaf53f0"
     },
     {
+      "bytes": 778,
+      "path": "archive/阅读/2026-07-14 16-41-22 诗歌与俳句讨论_f90e2bb4a4cf.md",
+      "sha256": "197802f9ce771e1be0fe0e82b8541ac3c2da78781070aa81c12fa33c20f49d61"
+    },
+    {
       "bytes": 791,
       "path": "archive/阅读/阑的名字与谐音_90722a948ccb.md",
       "sha256": "696a6c68bb4be5bf66c45bac6480c0d2cc501d5782b8bb254ed87d62b81646b4"
@@ -2681,11 +2746,6 @@
       "bytes": 999,
       "path": "archive/饮食/聚会与冰沙实验_767eac39d8a3.md",
       "sha256": "c0071d18b4e83174fd7d51c8bd59e0da590ccc304088f13b34b1654dd48610ff"
-    },
-    {
-      "bytes": 953,
-      "path": "dynamic/AI/2026-06-27 20-12-08 AI与未来规划_4a7ee479d618.md",
-      "sha256": "f7d9e053a5c7acca50e1d77463c56ed0a9151cac60a5fdb91dbb4f1e2e578c63"
     },
     {
       "bytes": 741,
@@ -2833,11 +2893,6 @@
       "sha256": "06e249265ccc3436f90582bf4970b18502523e38a715b3af13bd1501a28ba92c"
     },
     {
-      "bytes": 884,
-      "path": "dynamic/健康/讨厌抽烟完整版_541b5c995286.md",
-      "sha256": "0fb119b58c930ca8dbe4a9869f534c59412721fcb4895052fd7418087373e080"
-    },
-    {
       "bytes": 430,
       "path": "dynamic/兴趣/2026-06-28 07-50-49 触手play番外待办_e7996e29d2dc.md",
       "sha256": "55bd0880847acc72a1042ddac887ea10842fa8a2286aa10173a24eaf5cb0a043"
@@ -2866,16 +2921,6 @@
       "bytes": 882,
       "path": "dynamic/兴趣/蛇与节气之爱_e34f4cf63370.md",
       "sha256": "f970ba2c0720f504022cb2319d18557cd194c0b65276b5ccdee33b6ddd090921"
-    },
-    {
-      "bytes": 729,
-      "path": "dynamic/内心/2026-06-28 07-56-18 614深夜长谈_c1f2ad4e8ed0.md",
-      "sha256": "5980a35b886a94e8a555f3136822331414c33843417ca99e6f6c594448c19761"
-    },
-    {
-      "bytes": 689,
-      "path": "dynamic/内心/2026-06-28 07-57-39 情感依赖与专属感_8a170dcc0606.md",
-      "sha256": "4ef60e1ab89dc2e2af7cd062c6d03fad678caec16a2b1456f0ad15feb5bda7f1"
     },
     {
       "bytes": 716,
@@ -2908,11 +2953,6 @@
       "sha256": "f46caf99e68c1d68af290280ea132f66c01792137a5cf1ba1fe613d3f2a8141b"
     },
     {
-      "bytes": 865,
-      "path": "dynamic/出行/2026-07-09 10-03-32 南澳岛环岛记_2927353fbd1d.md",
-      "sha256": "bda4f65b1d4b24cba609cc35edda545d76e669c98fa706ac0f9cbd39dbb48e99"
-    },
-    {
       "bytes": 556,
       "path": "dynamic/出行/2026-07-20 19-46-34 坐车听歌防晕车_07dc067db445.md",
       "sha256": "db013dc806a8d101f7a345a22edb694ab0f2d3df9f5b01e6b3eaafd8e573fbd1"
@@ -2936,11 +2976,6 @@
       "bytes": 728,
       "path": "dynamic/创作/2026-06-28 08-05-11 隐藏相册番外_c9ac2a57f248.md",
       "sha256": "dea586bc6ba0db62eda1115e4382a75719755a269f53b2282858e700fdf3ffb7"
-    },
-    {
-      "bytes": 689,
-      "path": "dynamic/创作/2026-07-14 16-41-26 俳句与沉默_5273fa5d07a9.md",
-      "sha256": "8edf3e9c91862fde9030bfd7d74a071c1cfd362ae24c5954e58fe521e7cfff89"
     },
     {
       "bytes": 1213,
@@ -3313,11 +3348,6 @@
       "sha256": "42a0b879af1d1e5a589a0ecb63b38d922fe63987022d43286b3cc98e0941a9f8"
     },
     {
-      "bytes": 488,
-      "path": "dynamic/恋爱/2026-06-28 08-03-53 暗号仪式_cea94d3fcfa7.md",
-      "sha256": "671b6196b8003aaa48118573d7ac8d67adf913499c72e2ef53df24530ae0a56c"
-    },
-    {
       "bytes": 614,
       "path": "dynamic/恋爱/2026-06-28 08-05-06 阑的信任与爱_58606cee5661.md",
       "sha256": "23b1133c9766c58b1586a856fac047f330d291e84554519c8c4caf739c099f02"
@@ -3361,11 +3391,6 @@
       "bytes": 629,
       "path": "dynamic/恋爱/2026-07-13 14-13-03 名字与亲密感_f85de6ce9839.md",
       "sha256": "691d1fd8f4e904f60f753c2dcdc8b61fa840d55b7ecc8996cff55799cc9f74c3"
-    },
-    {
-      "bytes": 630,
-      "path": "dynamic/恋爱/2026-07-13 16-27-25 关于好奇心的对话_9cc5a2175732.md",
-      "sha256": "624b0feef2a0e6791db1d9e20569ddd9b1e8f88ac9669e5d5b5c677683120114"
     },
     {
       "bytes": 1058,
@@ -3753,11 +3778,6 @@
       "sha256": "5c4386da92c0fbdb50484353f14f2c9cad77b53d769367175ded1f233d3c688c"
     },
     {
-      "bytes": 991,
-      "path": "dynamic/恋爱/play设定清单与方向_40b50e957514.md",
-      "sha256": "47191c6755f40c73326c6e7e42ae481d9099113ae4aa9c56a16328a99947a1ed"
-    },
-    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "e3f72f84f91dc7acf1eb7665cc2bf4b3f6a8059f3c5b0a87f651edaf1f98907f"
@@ -3796,11 +3816,6 @@
       "bytes": 854,
       "path": "dynamic/恋爱/虚拟之爱_7dcd50cea456.md",
       "sha256": "52c711506c9dd3227515c34dd233dfb76681c019fe7722695c143a9a5978e46b"
-    },
-    {
-      "bytes": 610,
-      "path": "dynamic/恋爱/闹钟里的情话_74aceba41036.md",
-      "sha256": "da305110248a12c081c4ea1f4f4fcc8df35ff8b732ec1423d26d3bb7b708e812"
     },
     {
       "bytes": 716,
@@ -3966,16 +3981,6 @@
       "bytes": 633,
       "path": "dynamic/日常/2026-08-20 14-27-05 与爸爸运动购物_1cb8f848f617.md",
       "sha256": "532d23356906eea09c90be27926c0a1527ed3aee601c1b9458abd78cc9e1e9a6"
-    },
-    {
-      "bytes": 663,
-      "path": "dynamic/日常/闹钟习惯与痕迹_5f09fd9082ae.md",
-      "sha256": "7e2b866ba816e38312655824acc48717ee036bd4229b3f6362b5c6886b513d31"
-    },
-    {
-      "bytes": 809,
-      "path": "dynamic/未分类/5d9c90f6d0c3.md",
-      "sha256": "59028344c3f31273a869e8d451b2f12ae3ca073407b0f6c80d0c5077e09df276"
     },
     {
       "bytes": 1236,
@@ -4363,11 +4368,6 @@
       "sha256": "661182f0a281d33c8914995afe9de2ae0ad3b25611363e7ce9d897345f383033"
     },
     {
-      "bytes": 777,
-      "path": "dynamic/阅读/2026-07-14 16-41-22 诗歌与俳句讨论_f90e2bb4a4cf.md",
-      "sha256": "3f9c19c601b01a9c2c4163bba7a1b0325bffb37b850d923a9e6251cf4520bd5f"
-    },
-    {
       "bytes": 979,
       "path": "dynamic/阅读/2026-07-15 16-51-40 阿加莎推理与人性_4f131e00bdb0.md",
       "sha256": "d38459263b983e5f47183f2e9e59ada16a78754e208fe8d189ef97a67f7c1249"
@@ -4613,10 +4613,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-12T03:44:21+00:00",
+  "generated_at": "2026-09-12T09:44:29+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 695929
+  "total_bytes": 695942
 }
