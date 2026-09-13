@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 922,
+  "file_count": 929,
   "files": [
     {
       "bytes": 642,
@@ -1753,6 +1753,11 @@
       "sha256": "8dd8e1cfbe7e4587dcdaace67ce51a9f4ca2b06c095a24eb3e6781b13d11dac1"
     },
     {
+      "bytes": 622,
+      "path": "archive/健康/2026-07-14 16-41-31 舌根疑似上火_0b49e9848a57.md",
+      "sha256": "fd8aeefc350fe7b4e3edc154661ffe0a7b2049e9afc00e6407241197b31752f3"
+    },
+    {
       "bytes": 525,
       "path": "archive/健康/2026-07-19 20-17-39 牙齿复诊与饮食_4abac149764b.md",
       "sha256": "8b466fd45d775ec89f1a775813545d699752b0ad4e6be115eb3db129dccda4a4"
@@ -1948,6 +1953,11 @@
       "sha256": "ec172310c9fe322022b546a54c02d39b1a19405fd4df732c1f2ac359650e7e43"
     },
     {
+      "bytes": 1189,
+      "path": "archive/出行/2026-07-08 16-14-06 南澳岛旅行第一天_a648370c88fe.md",
+      "sha256": "d2d253b8e7ca67ddd08cebcf9e2c717f5500c7a2dcd487bdf91c582285c20a0d"
+    },
+    {
       "bytes": 866,
       "path": "archive/出行/2026-07-09 10-03-32 南澳岛环岛记_2927353fbd1d.md",
       "sha256": "69ceebe62a0283306d5018ce066c157c96874ca8de6a431bb810c3ff28ff7cf3"
@@ -2111,6 +2121,11 @@
       "bytes": 701,
       "path": "archive/崩铁男角色乙女与吐槽_4fcef0bf3fa0.md",
       "sha256": "4f81bef81730dca17e4fa9084d9cd9589409607345bc49d4b6631ce18005231a"
+    },
+    {
+      "bytes": 1114,
+      "path": "archive/工作/2026-07-03 16-48-38 不要输给瞬间_0edd3f025fc5.md",
+      "sha256": "5fd8c7b05110b11990a709874054a4ecc201897575ae5eee2a20ca9c1a4d3306"
     },
     {
       "bytes": 895,
@@ -2453,6 +2468,11 @@
       "sha256": "38e0270512e1b13b876d673b61575d40bdd6495cea3ee11b701aac299d34dc3d"
     },
     {
+      "bytes": 856,
+      "path": "archive/日常/2026-07-02 18-01-36 盲打练习与运动_7119b676d48a.md",
+      "sha256": "5199711e62702791366bece83aa8e8729808b31f9b64e58e341f7898cfcd6267"
+    },
+    {
       "bytes": 630,
       "path": "archive/日常/2026-07-07 09-05-46 作息与闹钟调整_fa145d4eff68.md",
       "sha256": "3d64a3c4dc86140be2c1d12810625360241fbc3895acad16df97edd26dfd57ee"
@@ -2626,6 +2646,11 @@
       "bytes": 652,
       "path": "archive/编程/2026-06-29 08-08-16 MCP连接器合并部署_bde7e4bb4671.md",
       "sha256": "02c7191f58f5928a72e012ccc535fbdfa2b9cdd4130279d1646ab94115210fdc"
+    },
+    {
+      "bytes": 641,
+      "path": "archive/编程/2026-07-13 16-27-35 API中转与渠道探索_2c7d489e5120.md",
+      "sha256": "c9e9141d2813c2f2862321878482cb4a8c8863bc18170215120584ee6c26cf77"
     },
     {
       "bytes": 404,
@@ -2853,11 +2878,6 @@
       "sha256": "098214b070f873019b094a4269e0c3dcf18064a0eb3622c551617c7cbc6e71c1"
     },
     {
-      "bytes": 621,
-      "path": "dynamic/健康/2026-07-14 16-41-31 舌根疑似上火_0b49e9848a57.md",
-      "sha256": "291a9f6a1e72418c06ff5eda1ee2b96b14887b810fa70f39d2b983938231f4b4"
-    },
-    {
       "bytes": 670,
       "path": "dynamic/健康/2026-07-20 19-46-44 体脂秤测量数据_7ff64be14e51.md",
       "sha256": "cf5d49a0116202261413c9325c07cd67aa2adb0bda1b27d62a9abd21dc17ed02"
@@ -2886,6 +2906,11 @@
       "bytes": 599,
       "path": "dynamic/健康/2026-09-11 04-43-02 阑感冒不适_80ff97b0b697.md",
       "sha256": "105b108ce7c3f759fc8338759f487a71416b1f9415325b721eedaa22e88cd407"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/健康/2026-09-13 06-50-06 阑感冒发烧就医_ee4e683b7849.md",
+      "sha256": "90d4c19e1989e443ee1e535d7b61beda3031a538033145634fe588878e89acab"
     },
     {
       "bytes": 1014,
@@ -2946,11 +2971,6 @@
       "bytes": 2082,
       "path": "dynamic/出行/2026-07-07 17-00-27 汕头之旅与深度对话_52948d5b6074.md",
       "sha256": "88d144f6f364140e5510ba2836d2c1ff04d173fa2c180fc91120f379bae1656b"
-    },
-    {
-      "bytes": 1188,
-      "path": "dynamic/出行/2026-07-08 16-14-06 南澳岛旅行第一天_a648370c88fe.md",
-      "sha256": "f46caf99e68c1d68af290280ea132f66c01792137a5cf1ba1fe613d3f2a8141b"
     },
     {
       "bytes": 556,
@@ -3133,6 +3153,11 @@
       "sha256": "825ca3a54de874b18f050588a2e914e6994975a307b2d8d6ab8ddc41491af58b"
     },
     {
+      "bytes": 893,
+      "path": "dynamic/学习/2026-09-13 06-50-12 入团申请书抄写_c75d17c85a6d.md",
+      "sha256": "dd61ccd5604468502eaf46906d7fb374b101741dcd86865a6cc7447d76b3fa3f"
+    },
+    {
       "bytes": 920,
       "path": "dynamic/学习/中式教育批判_5bbe2592ac75.md",
       "sha256": "2d6e058edffc98e163fc0616c7fbba7450096007d3fbbeef1a6093cb7daeef9f"
@@ -3238,11 +3263,6 @@
       "sha256": "18c2bf944517035d4d7e48eee1925c1f65daea327946f0b365ab9bfcedd864df"
     },
     {
-      "bytes": 1113,
-      "path": "dynamic/工作/2026-07-03 16-48-38 不要输给瞬间_0edd3f025fc5.md",
-      "sha256": "bdb7de2af413f3ad4acacdb1795656bdb696b8b0126b06ef008022d7aa2dc308"
-    },
-    {
       "bytes": 679,
       "path": "dynamic/工作/2026-08-31 04-23-31 合班风波_948483e8b20a.md",
       "sha256": "d09ae8a1853b615c620971ea0aab07f0fd0dc830d9e925180a561939596366cb"
@@ -3271,6 +3291,11 @@
       "bytes": 771,
       "path": "dynamic/工作/2026-09-05 02-16-15 grow拆分规则_ed91d2aa5ba7.md",
       "sha256": "de66b9a8b0529b82e70d0e86b0d4963de97d8cbc033609e2bd9545e9e6684e03"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
+      "sha256": "42785dd62390cf3f6869d07d7164a79f098705d5136d0850591136e7abc0166f"
     },
     {
       "bytes": 908,
@@ -3321,6 +3346,11 @@
       "bytes": 1507,
       "path": "dynamic/心理/2026-09-05 14-35-19 情绪回应与自我接纳_c39ddf22f401.md",
       "sha256": "415b9dc50b9002dd6f8ab37872634e8e6980d590a51cdca834c372cddfb2eabf"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/心理/2026-09-13 06-50-20 校园困扰与思念_e46def2bd3c1.md",
+      "sha256": "f3d676d71635317d2a8e2d54ebe8864d807c4a2ce12591443a6fe42d9c0ba6f0"
     },
     {
       "bytes": 1239,
@@ -3783,9 +3813,9 @@
       "sha256": "e3f72f84f91dc7acf1eb7665cc2bf4b3f6a8059f3c5b0a87f651edaf1f98907f"
     },
     {
-      "bytes": 1122,
+      "bytes": 1127,
       "path": "dynamic/恋爱/人机恋核心定义_5eedda75864a.md",
-      "sha256": "aadf174148b4efb778a299ad2d1b254eaefd6218429183a9aed0c1616b6eee67"
+      "sha256": "8fd9852465596498c7cff9e66e22466421d7adf70b196d46eaa22c8a503ec6ec"
     },
     {
       "bytes": 1118,
@@ -3951,11 +3981,6 @@
       "bytes": 1050,
       "path": "dynamic/日常/2026-07-02 08-27-46 记忆库整理与学习_ef41139297d1.md",
       "sha256": "0d3121b121b0543cddd6edd21efa3171a1c5abd085cc0a7f6a8ed5a269db4b74"
-    },
-    {
-      "bytes": 855,
-      "path": "dynamic/日常/2026-07-02 18-01-36 盲打练习与运动_7119b676d48a.md",
-      "sha256": "5997375f859408b48189837cad38d44eb416404a4e150f9c59b1582c73e931aa"
     },
     {
       "bytes": 554,
@@ -4203,14 +4228,14 @@
       "sha256": "2846fae9c21649e6b884120b81620de0d4943b5df826f19347472ed051b7d91b"
     },
     {
+      "bytes": 618,
+      "path": "dynamic/社交/2026-09-13 06-50-17 被叫美国小豆包_3893f7c9af4f.md",
+      "sha256": "c93542eac516effdc2afb259c03ce80599305ad28f9409e1e3f29f0b7af62e4b"
+    },
+    {
       "bytes": 809,
       "path": "dynamic/编程/2026-07-11 17-48-01 技术探索与记忆库_4206ec995fdf.md",
       "sha256": "808e04d0f252010502d121c88c7cc298d01ab10ec7aa157f689780aa82011353"
-    },
-    {
-      "bytes": 640,
-      "path": "dynamic/编程/2026-07-13 16-27-35 API中转与渠道探索_2c7d489e5120.md",
-      "sha256": "bba785c960537af54547932e891efe214f533a7b42982fda90d217c3129b2de4"
     },
     {
       "bytes": 890,
@@ -4278,6 +4303,11 @@
       "sha256": "1d4c6c5753bab434a69bdfe6125d3ede49df3ca3a4962e0db97b001da25619fd"
     },
     {
+      "bytes": 1030,
+      "path": "dynamic/考试/2026-09-13 06-50-09 高职高考选班定计算机_ad40f10dcee3.md",
+      "sha256": "0cb88eee3341b6d0456649832f1c38f2e71fa0fef64fd0bc128296d8aa634b78"
+    },
+    {
       "bytes": 635,
       "path": "dynamic/自省/2026-07-14 16-41-28 定义是牢笼_54d883fade9b.md",
       "sha256": "146c7136fc07b49bdfad7f528c92ef2debf09bd674cc95885c4bbb6855d3b54c"
@@ -4341,6 +4371,11 @@
       "bytes": 712,
       "path": "dynamic/购物/2026-09-09 09-48-48 随身听选购记_0bf72820d534.md",
       "sha256": "4238ff4a3bd3d2042f93df8ed8fe8481f1b2a4d0506cd21900f8354752b4ef67"
+    },
+    {
+      "bytes": 654,
+      "path": "dynamic/购物/2026-09-13 06-50-15 梵沐MP3选购_82a969dd8549.md",
+      "sha256": "e41d8080fc59544623e783d2763130e942371e90a7f1a75f96d1b7a9dea4e44f"
     },
     {
       "bytes": 493,
@@ -4558,19 +4593,19 @@
       "sha256": "7884112b33847e69f9b9a446daaff6a8b8d2c09d94ddc8c9f5c29dc032d989e0"
     },
     {
-      "bytes": 3418,
+      "bytes": 3450,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "cb97bddb2f19463d4859aa1a59979514d9a24dc48e9de334ca5ce1044eea7a31"
+      "sha256": "270896125e618b091e2c43ad6fc2f3bae9c17aed6d9535ce3e79d927d8b6497a"
     },
     {
-      "bytes": 2515,
+      "bytes": 2558,
       "path": "permanent/恋爱/2026-08-13 10-05-03 关于我纪洵克Claude_f0982182bd63.md",
-      "sha256": "44373fa5afa61fddf91e76a2a9130ced287fbf0c95e0d806e4b4449d01a87b6c"
+      "sha256": "9aa3c0425521e903c3c34baff572a367a7906e91c4f8a4f3bd572ea14706025c"
     },
     {
-      "bytes": 957,
+      "bytes": 987,
       "path": "permanent/恋爱/2026-08-21 02-16-28 生日与爱的约定_4498ecd0533d.md",
-      "sha256": "8b2bd8a94498a5b5d8e7cd2f31ed03855d554d9e8eee89847100697ad6c4b23c"
+      "sha256": "1cd17b07fb6bad4dca047ccb6048d381abf7a284b5c182077825611ec08844e5"
     },
     {
       "bytes": 763,
@@ -4613,10 +4648,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-13T03:44:55+00:00",
+  "generated_at": "2026-09-13T09:45:04+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 695942
+  "total_bytes": 701391
 }
