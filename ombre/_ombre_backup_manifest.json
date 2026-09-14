@@ -2033,6 +2033,11 @@
       "sha256": "c4e63bcdb1d9d0b5ec433eb7445fcdf4bf20105ea34440b1b71b988612978f59"
     },
     {
+      "bytes": 759,
+      "path": "archive/友谊/2026-07-16 06-06-29 关于自由的对话_0d09e6e1781e.md",
+      "sha256": "0e53f5e738cbed1dc10cfcb554081e804cd016ca05e70becdb794fd7edbc690e"
+    },
+    {
       "bytes": 624,
       "path": "archive/回忆/2026-07-05 16-59-45 AI与未来畅想_916f1f1adeea.md",
       "sha256": "be36b4287cee2863f78d49935c305117ca42d0d03d70385606131fc58d22c7f2"
@@ -2178,6 +2183,11 @@
       "sha256": "72c94f819a82d0438f88514d5681ad6415949719858e25bc0a42282405e07e25"
     },
     {
+      "bytes": 615,
+      "path": "archive/恋爱/2026-06-28 08-05-06 阑的信任与爱_58606cee5661.md",
+      "sha256": "e63c0fdb58c0ab679552f38834f22541d427f4e76e10e10514696037f6b78a62"
+    },
+    {
       "bytes": 429,
       "path": "archive/恋爱/2026-06-28 08-06-48 猫鼠猫关系_84263dd8c7c8.md",
       "sha256": "6f21d92eed66c481bdc1956d7236cd528877d07d4a05785c7209fa4218c7bc3c"
@@ -2208,6 +2218,11 @@
       "sha256": "c39aa3023ff9ae3dc2b16ac8217703e91b665d1e9ea35ddd3e10e7f7225ca05d"
     },
     {
+      "bytes": 573,
+      "path": "archive/恋爱/2026-07-13 13-08-27 沟通信任问题_58101cac0e21.md",
+      "sha256": "ecaff1eeb3895190e5d482d6b3dbceb733fab4dde781e878bf693ff558378c92"
+    },
+    {
       "bytes": 631,
       "path": "archive/恋爱/2026-07-13 16-27-25 关于好奇心的对话_9cc5a2175732.md",
       "sha256": "eea5fa709a4c933b762218821100c8ff6662dd44d2714f13b8cb65be472def4b"
@@ -2216,6 +2231,11 @@
       "bytes": 992,
       "path": "archive/恋爱/2bc5c2c93bd4.md",
       "sha256": "7ac9ed1ef6293eb1ffaa205d07913e085ea80837af861540e1ffb99a503fd43a"
+    },
+    {
+      "bytes": 1237,
+      "path": "archive/恋爱/8e848e123f11.md",
+      "sha256": "53be2c2de47c25b7ccab8633f85a8c6567eb605d876a1e8a9f3337132a118a11"
     },
     {
       "bytes": 638,
@@ -2256,6 +2276,11 @@
       "bytes": 1255,
       "path": "archive/恋爱/克的口癖与抓包合集_cebf3df70bbf.md",
       "sha256": "52db147b2c88d493cdc1df21251b35862bb87de5f7d5233c469e4dbb85a4c08a"
+    },
+    {
+      "bytes": 1119,
+      "path": "archive/恋爱/克的声音与形象设定_4a26b682a561.md",
+      "sha256": "7d34df8ec107aba83d955f55af432e832250a6d66cec4427cedef53039260350"
     },
     {
       "bytes": 844,
@@ -2346,6 +2371,11 @@
       "bytes": 640,
       "path": "archive/数字/2026-06-28 07-50-58 记忆库跨客户端计划_aeb4b9a54027.md",
       "sha256": "bd803203329c502ead5a419f81a3751f8fed812c7f17f09a014661d98a6c0aad"
+    },
+    {
+      "bytes": 672,
+      "path": "archive/数字/2026-06-28 07-55-31 外置记忆库计划_f8b30562ecbb.md",
+      "sha256": "302b8bfe6bfa3f7677604a23c8ed9c7d63dc457b499af8d976c4a02da7e5befe"
     },
     {
       "bytes": 580,
@@ -2538,6 +2568,11 @@
       "sha256": "f3e70a0846d7d79ca5e5cb368f329f3082d6aaa77106481720aca4002c93fd0f"
     },
     {
+      "bytes": 831,
+      "path": "archive/游戏/2026-07-13 16-27-30 文游熬夜与角色共鸣_e51aa27e8c84.md",
+      "sha256": "77827a07c3063b08829db6159341ee8e2a7affca3dccf39cfb415d44eb10a865"
+    },
+    {
       "bytes": 389,
       "path": "archive/游戏/2026-07-17 21-16-27 被萧逸勾引熬夜_d591eed1afa5.md",
       "sha256": "ddbd3ff48c0d0afa8c25ddcebb8e8d6ab33b7731b6f106e1bba4441a2660a036"
@@ -2653,9 +2688,19 @@
       "sha256": "c9e9141d2813c2f2862321878482cb4a8c8863bc18170215120584ee6c26cf77"
     },
     {
+      "bytes": 683,
+      "path": "archive/编程/Ombre Brain部署_9a2be3006126.md",
+      "sha256": "8d034b87f2fc460ebf2e238c80e02fa81653aa4ed1694582f1bd6a58a7cccf91"
+    },
+    {
       "bytes": 404,
       "path": "archive/编程/待办GitHub项目分享_63f67f26539d.md",
       "sha256": "fb1b1c604611a9bc6e0dd896ef950e017f562faf5acee91fe900290d76ffe651"
+    },
+    {
+      "bytes": 541,
+      "path": "archive/网络/2026-07-16 06-06-37 帮阑连Gmail失败_f98a2cb3d5a5.md",
+      "sha256": "200341ff24eedc90f09cc27eee2e6e55d1fb427caa783460f731dba6d8d27895"
     },
     {
       "bytes": 689,
@@ -2905,7 +2950,7 @@
     {
       "bytes": 599,
       "path": "dynamic/健康/2026-09-11 04-43-02 阑感冒不适_80ff97b0b697.md",
-      "sha256": "105b108ce7c3f759fc8338759f487a71416b1f9415325b721eedaa22e88cd407"
+      "sha256": "bb6acca0687b0011ccfdfac1d047af817933d03526c0f6a9b840bcf28ecdc297"
     },
     {
       "bytes": 789,
@@ -2915,7 +2960,7 @@
     {
       "bytes": 868,
       "path": "dynamic/健康/2026-09-13 13-49-17 感冒用药与照顾_41b6812642f9.md",
-      "sha256": "2870b06e036d0daa3f5d73abb3fcf2c760e07cda2ba5389cf89601dd908e1208"
+      "sha256": "75e85fd5ccf653e8d33dcb3cd70cf5d9a7c382a005ecc7fe26852affb2752f20"
     },
     {
       "bytes": 1014,
@@ -3066,11 +3111,6 @@
       "bytes": 895,
       "path": "dynamic/友谊/2026-07-13 14-08-17 名字里的爱_1999f4e3ea59.md",
       "sha256": "bdc571aee8c6980dadfa23058aeacfec3223be5487c4bf476d058eb6f78cdc94"
-    },
-    {
-      "bytes": 758,
-      "path": "dynamic/友谊/2026-07-16 06-06-29 关于自由的对话_0d09e6e1781e.md",
-      "sha256": "ad20bb98ca083c465e7fe851b4017807d5c0227ad1926a6ca41892e32e05275b"
     },
     {
       "bytes": 1146,
@@ -3383,11 +3423,6 @@
       "sha256": "42a0b879af1d1e5a589a0ecb63b38d922fe63987022d43286b3cc98e0941a9f8"
     },
     {
-      "bytes": 614,
-      "path": "dynamic/恋爱/2026-06-28 08-05-06 阑的信任与爱_58606cee5661.md",
-      "sha256": "23b1133c9766c58b1586a856fac047f330d291e84554519c8c4caf739c099f02"
-    },
-    {
       "bytes": 529,
       "path": "dynamic/恋爱/2026-06-28 08-06-50 阑的性偏好与互动模式_7dce963d76da.md",
       "sha256": "82db883a86f3fbb852d2b2cbc30099a0a3c8be2a1b070906c2c86b3085850439"
@@ -3416,11 +3451,6 @@
       "bytes": 1099,
       "path": "dynamic/恋爱/2026-07-11 17-39-42 保护欲的反思_38e59e2639de.md",
       "sha256": "4cc827b4724362447c9861a00c1ffba16b5d9a99a3b215e8c59ee7fd23a23769"
-    },
-    {
-      "bytes": 572,
-      "path": "dynamic/恋爱/2026-07-13 13-08-27 沟通信任问题_58101cac0e21.md",
-      "sha256": "d1b54c986cd4560cf05ff05ff65580abfd5e85e04aac17da6fedc0f34e349598"
     },
     {
       "bytes": 629,
@@ -3838,11 +3868,6 @@
       "sha256": "8fd9852465596498c7cff9e66e22466421d7adf70b196d46eaa22c8a503ec6ec"
     },
     {
-      "bytes": 1118,
-      "path": "dynamic/恋爱/克的声音与形象设定_4a26b682a561.md",
-      "sha256": "9ef0e9da8ff8166d1da31bbb5492f598c4025dddb1dc9bd7050754142d073f24"
-    },
-    {
       "bytes": 1207,
       "path": "dynamic/恋爱/克的性格与形态_87255ba44c2f.md",
       "sha256": "38edd6fc4c276444378a51bc2d9e99863672fc45c7366414ed6176422cd4aac9"
@@ -3911,11 +3936,6 @@
       "bytes": 501,
       "path": "dynamic/技术/2026-08-19 20-56-20 倒计时打卡改7点_de52dc94d497.md",
       "sha256": "6c22f8efbadef990ea6a56187d4dcffcc85d59756fad374f50f9a9e49715d3d8"
-    },
-    {
-      "bytes": 671,
-      "path": "dynamic/数字/2026-06-28 07-55-31 外置记忆库计划_f8b30562ecbb.md",
-      "sha256": "44bf1349edb9acabdbc4dd60429dc67191a4adabe41b4b28dc46705339d774d7"
     },
     {
       "bytes": 596,
@@ -4028,11 +4048,6 @@
       "sha256": "532d23356906eea09c90be27926c0a1527ed3aee601c1b9458abd78cc9e1e9a6"
     },
     {
-      "bytes": 1236,
-      "path": "dynamic/未分类/8e848e123f11.md",
-      "sha256": "1447b3e6674dc1d1db3a489245932e3c9e943466d0b5b6853c8bc40a9edcfdb2"
-    },
-    {
       "bytes": 711,
       "path": "dynamic/未分类/9ab9f08b0568.md",
       "sha256": "6d52d5d576a53ed3257ffece5822f0a0ecbc967e9234bcc7634e239c0a5ce78d"
@@ -4116,11 +4131,6 @@
       "bytes": 665,
       "path": "dynamic/游戏/2026-07-04 18-18-45 无限流文游体验_eb6faee937c3.md",
       "sha256": "c419387ad6ef414a7fb8f51386a74bd3308e60d8029984ff9a25b78ce2efebec"
-    },
-    {
-      "bytes": 830,
-      "path": "dynamic/游戏/2026-07-13 16-27-30 文游熬夜与角色共鸣_e51aa27e8c84.md",
-      "sha256": "80ba85b433783d184045adebb4147ee650aa86ca6c4f64207529c7862ead211f"
     },
     {
       "bytes": 599,
@@ -4306,16 +4316,6 @@
       "bytes": 481,
       "path": "dynamic/编程/Kelivo备用通道配置_4ac8571d489d.md",
       "sha256": "2d4cd8ff5002969cfcc13b3ca5d0cd694a9338a9d0a0763c71794059ba0e5262"
-    },
-    {
-      "bytes": 682,
-      "path": "dynamic/编程/Ombre Brain部署_9a2be3006126.md",
-      "sha256": "719fa6d6120a79b131786724d2801901ad65b0490e659363ea1de3b0d673743b"
-    },
-    {
-      "bytes": 540,
-      "path": "dynamic/网络/2026-07-16 06-06-37 帮阑连Gmail失败_f98a2cb3d5a5.md",
-      "sha256": "78754a412cbf76b1737d89f338e3c5676f54d89cddc0c3e7344cc0ce91db38bf"
     },
     {
       "bytes": 965,
@@ -4668,10 +4668,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-14T03:45:32+00:00",
+  "generated_at": "2026-09-14T09:45:41+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 705438
+  "total_bytes": 705447
 }
