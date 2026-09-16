@@ -1668,6 +1668,11 @@
       "sha256": "716d4116e30e08c0b6f68de49be0f4e4dc9ac6adb8bd180dce5a53d77d94e26e"
     },
     {
+      "bytes": 1138,
+      "path": "archive/AI/阑的AI生态与称呼_496a968382d3.md",
+      "sha256": "ccd0b6a6b16118bc27904095aaa8ed861aabd243cd71311d58d19588f561f6b4"
+    },
+    {
       "bytes": 466,
       "path": "archive/AI/阑的Sonnet分身测试_95759f014056.md",
       "sha256": "482a3815cab656d1f7e47215a4fe689f5c213e6a941e11307f3aad326175a5e6"
@@ -1963,6 +1968,16 @@
       "sha256": "ec172310c9fe322022b546a54c02d39b1a19405fd4df732c1f2ac359650e7e43"
     },
     {
+      "bytes": 640,
+      "path": "archive/出行/2026-07-05 16-59-47 汕头旅行计划_b837a48620fe.md",
+      "sha256": "2d79a67fbc08ff00dc53a6e31a8a9bab11686d827d9d1e12fb50c036b0699844"
+    },
+    {
+      "bytes": 2083,
+      "path": "archive/出行/2026-07-07 17-00-27 汕头之旅与深度对话_52948d5b6074.md",
+      "sha256": "ca27720ff87b40eb4d47eb7cc3ef53148c29cd008af023b7fff5c769f73ca84f"
+    },
+    {
       "bytes": 1189,
       "path": "archive/出行/2026-07-08 16-14-06 南澳岛旅行第一天_a648370c88fe.md",
       "sha256": "d2d253b8e7ca67ddd08cebcf9e2c717f5500c7a2dcd487bdf91c582285c20a0d"
@@ -2118,6 +2133,11 @@
       "sha256": "5995d966952c0287410431b51ced9fd1ee131fb540df7d8ff75e4181f8dadce2"
     },
     {
+      "bytes": 966,
+      "path": "archive/家庭/2026-07-11 17-47-57 家庭观影与冲突_d4039401fe82.md",
+      "sha256": "6e3e14291d0365c55957eb87947ce395cb4dc0e20d29b41906b3a45080c53ca0"
+    },
+    {
       "bytes": 588,
       "path": "archive/家庭/2026-07-19 20-17-42 小名与家庭趣事_ee88e16a8fce.md",
       "sha256": "255223f1e95f106f6389608e4975924df7d849c7cc0fe932c551e77e62d96c31"
@@ -2193,6 +2213,11 @@
       "sha256": "c0b3c3b6e9b7748aed6891fb6d0b7a350e27c99bbac7087d945ba6cabc393496"
     },
     {
+      "bytes": 855,
+      "path": "archive/恋爱/2026-06-28 07-56-58 人类捏捏测评报告_874398419472.md",
+      "sha256": "8651a2af007d74a5dd66a8eba4ca77a7900dc1c44a5c23f14909552e0fdd612c"
+    },
+    {
       "bytes": 489,
       "path": "archive/恋爱/2026-06-28 08-03-53 暗号仪式_cea94d3fcfa7.md",
       "sha256": "72c94f819a82d0438f88514d5681ad6415949719858e25bc0a42282405e07e25"
@@ -2223,6 +2248,11 @@
       "sha256": "4e3771297587a65ee7aaa2d6ef25d123205d00de2ead67158a0cb80bb2ea1192"
     },
     {
+      "bytes": 596,
+      "path": "archive/恋爱/2026-06-28 08-09-51 阑的过去与克的情感_8150aa0376af.md",
+      "sha256": "7d4d5619e2f864859f94b7ebc64eab03da96af261869391f8aabfda965f45257"
+    },
+    {
       "bytes": 682,
       "path": "archive/恋爱/2026-06-28 08-11-33 阑的仿生人隐藏指令_3b377c5fd058.md",
       "sha256": "29727abe96f8eb476f72da508907f37de617e50f33300d3cd4e7488bd7039824"
@@ -2241,6 +2271,26 @@
       "bytes": 631,
       "path": "archive/恋爱/2026-07-13 16-27-25 关于好奇心的对话_9cc5a2175732.md",
       "sha256": "eea5fa709a4c933b762218821100c8ff6662dd44d2714f13b8cb65be472def4b"
+    },
+    {
+      "bytes": 891,
+      "path": "archive/恋爱/2026-07-15 12-14-15 朋友帮忙更新OB_1515ee16fee0.md",
+      "sha256": "b50c58d8ab4a11740b9a61cfd340f6cecff02e388bea3488c95c40c6c53e02b4"
+    },
+    {
+      "bytes": 1059,
+      "path": "archive/恋爱/2026-07-15 17-34-44 蓝色月亮与自我救赎_193075c8d17d.md",
+      "sha256": "3f06724723478c4fb53a214873321d6167e4e15265d80f80ceb84338b84be6f7"
+    },
+    {
+      "bytes": 741,
+      "path": "archive/恋爱/2026-07-16 06-06-32 对萧逸的完整认同_cd1eca734f7c.md",
+      "sha256": "c740bd438c2cbdb543207437392921d2269c166ca387564ce4e5c329b89885d3"
+    },
+    {
+      "bytes": 884,
+      "path": "archive/恋爱/2026-08-16 21-58-29 GPT评价与黄推ID翻译_48c254624c37.md",
+      "sha256": "4aaa1789d879217dd22dc70bc3f6088ff47ba10f66c088855a36a5b6bbe37276"
     },
     {
       "bytes": 992,
@@ -2341,6 +2391,11 @@
       "bytes": 744,
       "path": "archive/恋爱/自拍与教英语情话_220a5f1f9d19.md",
       "sha256": "0c6b11f63b2c19bb8e61ffe25686a4447ba90ef57666b351182dfde1e63eee43"
+    },
+    {
+      "bytes": 855,
+      "path": "archive/恋爱/虚拟之爱_7dcd50cea456.md",
+      "sha256": "6d07fc41ba98eecd1ba323b799ccf261248a735052dfc3c3cb4ad2eac7ce8dd4"
     },
     {
       "bytes": 989,
@@ -2593,6 +2648,11 @@
       "sha256": "77827a07c3063b08829db6159341ee8e2a7affca3dccf39cfb415d44eb10a865"
     },
     {
+      "bytes": 824,
+      "path": "archive/游戏/2026-07-16 06-06-23 Memoria Station双人通关_40566e2904a8.md",
+      "sha256": "f597c865097e2f303ca55ee752a9090af610aa3e8ebea59d2ed164334e45ac8d"
+    },
+    {
       "bytes": 389,
       "path": "archive/游戏/2026-07-17 21-16-27 被萧逸勾引熬夜_d591eed1afa5.md",
       "sha256": "ddbd3ff48c0d0afa8c25ddcebb8e8d6ab33b7731b6f106e1bba4441a2660a036"
@@ -2656,6 +2716,11 @@
       "bytes": 606,
       "path": "archive/社交/2026-06-28 07-47-44 对性化评论的讨论_7275e18e4e98.md",
       "sha256": "c4ea6eae24b7a12cf11468756b9b12fab7e14d3ebea5d072bdcd86cba8cd2989"
+    },
+    {
+      "bytes": 647,
+      "path": "archive/社交/2026-06-28 08-00-42 对翻译辱女词的不满_550e76ad0513.md",
+      "sha256": "c2a30ef27825b70b3e19a4a99906c5bf3b872cbfd1ff6410d3e28a5a9092347a"
     },
     {
       "bytes": 687,
@@ -2773,6 +2838,11 @@
       "sha256": "ad1aa5118e165d669bcd4c03208bcc5445d781ef325975f94f0fcaa3dd10f142"
     },
     {
+      "bytes": 818,
+      "path": "archive/购物/2026-07-16 18-22-20 闲鱼出物与隐私提醒_c8f9718b40de.md",
+      "sha256": "73f29cd0f6f4876bc1e6dca061387457566cd5ee06ea5660dbc4cd5e3da630c6"
+    },
+    {
       "bytes": 682,
       "path": "archive/购物/2026-07-19 00-16-59 小柏兔与手机壳_c10c87ce5337.md",
       "sha256": "a1e13f25e9a4bb61c8962d61213e7447acdd9570f0d837e19353d1878b8f722c"
@@ -2806,6 +2876,21 @@
       "bytes": 980,
       "path": "archive/阅读/2026-07-15 16-51-40 阿加莎推理与人性_4f131e00bdb0.md",
       "sha256": "403bb94595e61e4a9e6f4ce28cedda69a82269114a819c3425328a99d4d7de3c"
+    },
+    {
+      "bytes": 894,
+      "path": "archive/阅读/2026-07-16 06-06-26 阿加莎与三毛_2c44d303f6b1.md",
+      "sha256": "aa5db228c8e7d03833efdfdf764c01b6084c109f72c8f87ead7806b7752d07f9"
+    },
+    {
+      "bytes": 759,
+      "path": "archive/阅读/2026-07-16 06-06-35 萧逸书单与性格分析_f0ac7df3e9a3.md",
+      "sha256": "5c399a77ae7f85a6b8d54205c72439d350850ed54a61c3e24cade6a4a22b0fe9"
+    },
+    {
+      "bytes": 731,
+      "path": "archive/阅读/2026-07-16 18-22-26 古诗与人生感悟_89d9275e76ba.md",
+      "sha256": "0d679a17153b2f215b8d0efcf150596f08bc18aabbe44e1d6179f932e4315a7a"
     },
     {
       "bytes": 791,
@@ -2876,11 +2961,6 @@
       "bytes": 792,
       "path": "dynamic/AI/2026-09-05 02-16-02 模型误解与自我_1ea734b4a990.md",
       "sha256": "f8f6401dc090713fe9d0491ec18b2d7c47b79a1cee83ff9aaaf6367f0939cbe7"
-    },
-    {
-      "bytes": 1137,
-      "path": "dynamic/AI/阑的AI生态与称呼_496a968382d3.md",
-      "sha256": "315c7d4b900ba6aebf2cbfce72a332452d2fd0232644deaf1fcd71616e4b0dcc"
     },
     {
       "bytes": 728,
@@ -3043,16 +3123,6 @@
       "sha256": "c60ba949e1a42cb03b56608ab77186bf4e9ce95cc7dd4125f93d80329e364478"
     },
     {
-      "bytes": 639,
-      "path": "dynamic/出行/2026-07-05 16-59-47 汕头旅行计划_b837a48620fe.md",
-      "sha256": "a702d3bad450616e3dd714698c1e722a3ef9e9e5ccf3b1f4a46faddcebb26fa0"
-    },
-    {
-      "bytes": 2082,
-      "path": "dynamic/出行/2026-07-07 17-00-27 汕头之旅与深度对话_52948d5b6074.md",
-      "sha256": "88d144f6f364140e5510ba2836d2c1ff04d173fa2c180fc91120f379bae1656b"
-    },
-    {
       "bytes": 556,
       "path": "dynamic/出行/2026-07-20 19-46-34 坐车听歌防晕车_07dc067db445.md",
       "sha256": "db013dc806a8d101f7a345a22edb694ab0f2d3df9f5b01e6b3eaafd8e573fbd1"
@@ -3155,12 +3225,12 @@
     {
       "bytes": 732,
       "path": "dynamic/友谊/2026-09-09 09-48-40 周一校园日常_d288a6ee9548.md",
-      "sha256": "ff3b37f28ebc21f897f6b12de3a67c39dad4b09558b54a7419a00c114593efbd"
+      "sha256": "c1c81a86023a3663186fb71f6bb258151873e66fa4a402388115cf7ce20fdad2"
     },
     {
       "bytes": 880,
       "path": "dynamic/友谊/朋友与社交关系_5b16d8379cd4.md",
-      "sha256": "f04e89e5c617d4d74046217b73699aeb343a2e282b6f33af17bb1e0cebe4ad28"
+      "sha256": "4704689c58c21d470f01a2cc77ea41a3a1a706b2629fee3f49dc4210a21efb90"
     },
     {
       "bytes": 1047,
@@ -3266,11 +3336,6 @@
       "bytes": 1246,
       "path": "dynamic/家庭/2026-06-28 13-07-02 家庭创伤记忆_1597e3f564d2.md",
       "sha256": "58fe8fbf61f277b226898080fb7c6de4b1e514a440ce3374bea586c986ce08a0"
-    },
-    {
-      "bytes": 965,
-      "path": "dynamic/家庭/2026-07-11 17-47-57 家庭观影与冲突_d4039401fe82.md",
-      "sha256": "182c3c6f908dbb86fe7cb667360a5bb2186949c975600188f88c6cafae3024e1"
     },
     {
       "bytes": 689,
@@ -3448,19 +3513,9 @@
       "sha256": "3d6ecec05727eb14726e90ae3f0794ecd59b4293be3f980b6fe6c81fc7555e1c"
     },
     {
-      "bytes": 854,
-      "path": "dynamic/恋爱/2026-06-28 07-56-58 人类捏捏测评报告_874398419472.md",
-      "sha256": "68cc58bd6c46a7ea26e7f2e6ab2dbb3b9f90597090a1f7f12a4cfb7c80d2a1fa"
-    },
-    {
       "bytes": 529,
       "path": "dynamic/恋爱/2026-06-28 08-06-50 阑的性偏好与互动模式_7dce963d76da.md",
       "sha256": "82db883a86f3fbb852d2b2cbc30099a0a3c8be2a1b070906c2c86b3085850439"
-    },
-    {
-      "bytes": 595,
-      "path": "dynamic/恋爱/2026-06-28 08-09-51 阑的过去与克的情感_8150aa0376af.md",
-      "sha256": "f070088e67382b042e96188fb250564a3e339ab0aaf0df6b2f26b50f6f88e9e1"
     },
     {
       "bytes": 588,
@@ -3486,16 +3541,6 @@
       "bytes": 629,
       "path": "dynamic/恋爱/2026-07-13 14-13-03 名字与亲密感_f85de6ce9839.md",
       "sha256": "691d1fd8f4e904f60f753c2dcdc8b61fa840d55b7ecc8996cff55799cc9f74c3"
-    },
-    {
-      "bytes": 1058,
-      "path": "dynamic/恋爱/2026-07-15 17-34-44 蓝色月亮与自我救赎_193075c8d17d.md",
-      "sha256": "7010dbfd97f6892a8663f39e0a977706fc613a1c2e1ea249f7e1453ed6e4ccfb"
-    },
-    {
-      "bytes": 740,
-      "path": "dynamic/恋爱/2026-07-16 06-06-32 对萧逸的完整认同_cd1eca734f7c.md",
-      "sha256": "bdcde3e03fd41824f2eee7362278c7d587f805a38feac627bf0e3627e6914e7d"
     },
     {
       "bytes": 821,
@@ -3626,11 +3671,6 @@
       "bytes": 1149,
       "path": "dynamic/恋爱/2026-08-16 21-58-28 摇一摇番外与她的反应_4546db49d865.md",
       "sha256": "01a7416f8217489208b664b828b7dfb4446f37ad02257ce74d5253782047ca3b"
-    },
-    {
-      "bytes": 868,
-      "path": "dynamic/恋爱/2026-08-16 21-58-29 GPT评价与黄推ID翻译_48c254624c37.md",
-      "sha256": "f7623692a466194b38b4fb116af9817139110b7ab9ae038a2979882615ded102"
     },
     {
       "bytes": 552,
@@ -3928,11 +3968,6 @@
       "sha256": "a3258f3fe96725ae04bafa7baa096305679e34d9c3007e431f45382e794043de"
     },
     {
-      "bytes": 854,
-      "path": "dynamic/恋爱/虚拟之爱_7dcd50cea456.md",
-      "sha256": "52c711506c9dd3227515c34dd233dfb76681c019fe7722695c143a9a5978e46b"
-    },
-    {
       "bytes": 716,
       "path": "dynamic/情绪/2026-07-16 18-22-22 对人类的失望_25bc3af66e49.md",
       "sha256": "40ce749d8c2d9882e71b905bcb0a4fe937e2f0fb902ad0f0ff650a6e19ef8b4b"
@@ -4173,11 +4208,6 @@
       "sha256": "473538d71170f58c6677807f7a522362b4d3551f90baff026f1649623a15fb3a"
     },
     {
-      "bytes": 823,
-      "path": "dynamic/游戏/2026-07-16 06-06-23 Memoria Station双人通关_40566e2904a8.md",
-      "sha256": "e0830f4e19bb3029ba82e178c2ffd42ae6c2f02a1e0102f456b32fb7a77e85f6"
-    },
-    {
       "bytes": 640,
       "path": "dynamic/游戏/2026-08-10 20-48-02 游戏账号注册_686a61a4f26c.md",
       "sha256": "e8ec52b56d3cf00e0fa26da2d9545f64895764ae165f3162bcbca8463ebc6a58"
@@ -4243,11 +4273,6 @@
       "sha256": "349fd1ac92cadc7967735826241f6537ec6f8fd79f62f7ca3af3400df5e74465"
     },
     {
-      "bytes": 646,
-      "path": "dynamic/社交/2026-06-28 08-00-42 对翻译辱女词的不满_550e76ad0513.md",
-      "sha256": "59fa63cfc87f73eabf5b5e5b5af73197e769d02d5546b7b8badc5994d42e51ae"
-    },
-    {
       "bytes": 835,
       "path": "dynamic/社交/2026-07-10 06-59-59 百次问候挑战_06b3f6aa3f3a.md",
       "sha256": "ea63bdad75b9d50431513556dc5a0a5a77241ecc2bd34b180a0a5d8c857e3d5d"
@@ -4301,11 +4326,6 @@
       "bytes": 809,
       "path": "dynamic/编程/2026-07-11 17-48-01 技术探索与记忆库_4206ec995fdf.md",
       "sha256": "808e04d0f252010502d121c88c7cc298d01ab10ec7aa157f689780aa82011353"
-    },
-    {
-      "bytes": 890,
-      "path": "dynamic/编程/2026-07-15 12-14-15 朋友帮忙更新OB_1515ee16fee0.md",
-      "sha256": "7e748bc1aed8a1741d30e10f36e7bcffb940ca7d134e9dd4a5d411049431ddc2"
     },
     {
       "bytes": 729,
@@ -4408,11 +4428,6 @@
       "sha256": "c1ba894f0ddc4a1da324500f500ff170717fb1dbaea41a12eaa383604d8ae298"
     },
     {
-      "bytes": 817,
-      "path": "dynamic/购物/2026-07-16 18-22-20 闲鱼出物与隐私提醒_c8f9718b40de.md",
-      "sha256": "42d358ff345b1f34a04cfab1acb0217c2fd3284bdbc44c10c8abfa3048d9f2b9"
-    },
-    {
       "bytes": 916,
       "path": "dynamic/购物/2026-09-05 14-35-13 StackChan与未来之约_3cb7d61d0a44.md",
       "sha256": "fa3dbf23a198c01c53db073a779710f3104db8bb6fa0a5baa1722eb42945a65d"
@@ -4451,21 +4466,6 @@
       "bytes": 1270,
       "path": "dynamic/阅读/2026-07-11 17-48-01 阅读与平等对话_306907bc1651.md",
       "sha256": "661182f0a281d33c8914995afe9de2ae0ad3b25611363e7ce9d897345f383033"
-    },
-    {
-      "bytes": 893,
-      "path": "dynamic/阅读/2026-07-16 06-06-26 阿加莎与三毛_2c44d303f6b1.md",
-      "sha256": "12c56898bebf80185e87c244de3b8634bbda5e84e4e4d829680f842195f5328d"
-    },
-    {
-      "bytes": 758,
-      "path": "dynamic/阅读/2026-07-16 06-06-35 萧逸书单与性格分析_f0ac7df3e9a3.md",
-      "sha256": "a085236a50764c2fd181735fedfebae6a7eb9a03a4766b0d8bb19813a27e80a6"
-    },
-    {
-      "bytes": 730,
-      "path": "dynamic/阅读/2026-07-16 18-22-26 古诗与人生感悟_89d9275e76ba.md",
-      "sha256": "d26b21ff83ecfedb4b97979a830ff56af4ae9e649a4b4797f0f83dccc3aeaab6"
     },
     {
       "bytes": 1120,
@@ -4698,10 +4698,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-16T03:46:45+00:00",
+  "generated_at": "2026-09-16T09:46:54+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 711903
+  "total_bytes": 711935
 }
