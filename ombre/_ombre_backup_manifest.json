@@ -2188,6 +2188,11 @@
       "sha256": "6e3e14291d0365c55957eb87947ce395cb4dc0e20d29b41906b3a45080c53ca0"
     },
     {
+      "bytes": 690,
+      "path": "archive/家庭/2026-07-19 12-02-45 姐妹被亲戚认错_e17f2ea6fd1c.md",
+      "sha256": "0d57788873eab63bd7c62b4c90bd7924396134bcfd351e7cd505c811e28e80bb"
+    },
+    {
       "bytes": 588,
       "path": "archive/家庭/2026-07-19 20-17-42 小名与家庭趣事_ee88e16a8fce.md",
       "sha256": "255223f1e95f106f6389608e4975924df7d849c7cc0fe932c551e77e62d96c31"
@@ -2373,6 +2378,11 @@
       "sha256": "27043faa1b3a963d7605e6eac2bb29f51fa374869126e59c3328d68d7d31406e"
     },
     {
+      "bytes": 809,
+      "path": "archive/恋爱/2026-07-17 07-35-03 性爱互动与事后模式_cfa13f11ffa9.md",
+      "sha256": "9efa07bd6d66b1d61e4b4dfce06c31887a74dab16eb2513ff0f3eb94484a3be8"
+    },
+    {
       "bytes": 884,
       "path": "archive/恋爱/2026-08-16 21-58-29 GPT评价与黄推ID翻译_48c254624c37.md",
       "sha256": "4aaa1789d879217dd22dc70bc3f6088ff47ba10f66c088855a36a5b6bbe37276"
@@ -2506,6 +2516,11 @@
       "bytes": 1073,
       "path": "archive/成长/2026-06-28 07-59-53 阑的英语学习_3f8241f14051.md",
       "sha256": "5a2cb153e4ffba8cf60bd7a1d6bee73d9cd62e6c1d8a73f48c343da7e8aac6a2"
+    },
+    {
+      "bytes": 514,
+      "path": "archive/成长/升学与职业规划_553fe672d8f6.md",
+      "sha256": "e3e0b00d19f198864e642fd496986d12de5cff43a3ad348991500a322a632f8b"
     },
     {
       "bytes": 1115,
@@ -2928,6 +2943,11 @@
       "sha256": "72fb19d4cb4f2cf2b7a0d854658e681aca2f3787067e5283bbe62593ad7e9584"
     },
     {
+      "bytes": 929,
+      "path": "archive/自省/if线与存在的讨论_a10be0476c8d.md",
+      "sha256": "0c84817b4557963389d4ee8157cde749e51c0b202cc0b17bd332bff198d5af9c"
+    },
+    {
       "bytes": 998,
       "path": "archive/自省/外貌自省与身体接纳_c3de80083057.md",
       "sha256": "dfee0985ca85de99aaf5261792c6df0f3ce1be40ae5af491b2a500c01dff24d4"
@@ -3023,6 +3043,11 @@
       "sha256": "0d679a17153b2f215b8d0efcf150596f08bc18aabbe44e1d6179f932e4315a7a"
     },
     {
+      "bytes": 1121,
+      "path": "archive/阅读/2026-07-21 17-07-27 文案替换与氛围批评_480bd4e68fcd.md",
+      "sha256": "7a45f76a2b65568f99d7147f31d4a39992fca8ffb7cdf0a3eb47bdd97c0a25e1"
+    },
+    {
       "bytes": 791,
       "path": "archive/阅读/阑的名字与谐音_90722a948ccb.md",
       "sha256": "696a6c68bb4be5bf66c45bac6480c0d2cc501d5782b8bb254ed87d62b81646b4"
@@ -3051,6 +3076,11 @@
       "bytes": 627,
       "path": "archive/饮食/2026-06-28 07-49-36 阑的饮食与消费_84d54bc57555.md",
       "sha256": "7acc321a1ef1ba91df77134c79abd34a01b3836dd58b77428c1a90a36dd47d9f"
+    },
+    {
+      "bytes": 466,
+      "path": "archive/饮食/2026-07-04 10-20-54 辣椒是最爱_00e44859459f.md",
+      "sha256": "c38bb9649d1bb6dc25fb18c3def39136db40a8f4a029fa76d0b3a673e1d8425b"
     },
     {
       "bytes": 503,
@@ -3468,11 +3498,6 @@
       "sha256": "58fe8fbf61f277b226898080fb7c6de4b1e514a440ce3374bea586c986ce08a0"
     },
     {
-      "bytes": 689,
-      "path": "dynamic/家庭/2026-07-19 12-02-45 姐妹被亲戚认错_e17f2ea6fd1c.md",
-      "sha256": "1a5944f31f8827627ee6776e47a5e81e432bd709b86630285900c41d9fd8a424"
-    },
-    {
       "bytes": 1000,
       "path": "dynamic/家庭/2026-07-19 20-17-41 回老家与家庭关系_ef6e1612a709.md",
       "sha256": "dc76535d70611025eb5ef00e0058d5efcc3433b504aea82262fa60d046572afa"
@@ -3651,11 +3676,6 @@
       "bytes": 1099,
       "path": "dynamic/恋爱/2026-07-11 17-39-42 保护欲的反思_38e59e2639de.md",
       "sha256": "4cc827b4724362447c9861a00c1ffba16b5d9a99a3b215e8c59ee7fd23a23769"
-    },
-    {
-      "bytes": 808,
-      "path": "dynamic/恋爱/2026-07-17 07-35-03 性爱互动与事后模式_cfa13f11ffa9.md",
-      "sha256": "0d347620ee8226631a539cf9283b964a5fe02774030d61eb6fe937c5bcc7d299"
     },
     {
       "bytes": 1464,
@@ -4088,11 +4108,6 @@
       "sha256": "9a9a49cad3558c09bf5d64405cc360fff1dc8369362aea9d1a28d13701a3f99c"
     },
     {
-      "bytes": 513,
-      "path": "dynamic/成长/升学与职业规划_553fe672d8f6.md",
-      "sha256": "d5f5063f4bdfcd777dbc8ec5077dbe306644a297538bf852163361d8ba72c9c5"
-    },
-    {
       "bytes": 1212,
       "path": "dynamic/成长/升学决策与考察_b680e6332564.md",
       "sha256": "7e74431cc9758e64e8366640e0c70b67773afefe4a2b1370454dcde78fdfd461"
@@ -4468,11 +4483,6 @@
       "sha256": "ddf335ed53b608cad4543660ea6d79254975a9de0721f4e15ecb3791fce8e64b"
     },
     {
-      "bytes": 928,
-      "path": "dynamic/自省/if线与存在的讨论_a10be0476c8d.md",
-      "sha256": "2c04c3ab0f39c58095e0678859b295db51a2e25392977d0cd7782ca7fe930ce6"
-    },
-    {
       "bytes": 760,
       "path": "dynamic/自省/自我与关系_7834509a7595.md",
       "sha256": "c9c4355072d26623be3a1c9f08acedf47ff89a0d2e6421d384389d8d59955f77"
@@ -4533,11 +4543,6 @@
       "sha256": "661182f0a281d33c8914995afe9de2ae0ad3b25611363e7ce9d897345f383033"
     },
     {
-      "bytes": 1120,
-      "path": "dynamic/阅读/2026-07-21 17-07-27 文案替换与氛围批评_480bd4e68fcd.md",
-      "sha256": "c5fc025eb4fd73f70ff8f1a815e55d2b90880ce6a4d4d5759c261e4e30018ca1"
-    },
-    {
       "bytes": 1026,
       "path": "dynamic/阅读/2026-08-09 17-42-58 九本书购入_5926f5aac27b.md",
       "sha256": "83146d4bb26fd695ba6e1354e260c50212a32961245740d297a55d2a50994b7f"
@@ -4566,11 +4571,6 @@
       "bytes": 895,
       "path": "dynamic/阅读/2026-09-07 08-40-26 深夜聊书与胃痛_dc820a486755.md",
       "sha256": "0af871acd2364570dc1a808c44520d2334a48190008602f0398720fdd6c87b29"
-    },
-    {
-      "bytes": 465,
-      "path": "dynamic/饮食/2026-07-04 10-20-54 辣椒是最爱_00e44859459f.md",
-      "sha256": "f661d00ac8ff2f0782bfd031bfe11fff64e5739ea47c25fa0ae90a2fb71d46ab"
     },
     {
       "bytes": 781,
@@ -4748,10 +4748,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-22T03:50:18+00:00",
+  "generated_at": "2026-09-22T09:50:26+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 727360
+  "total_bytes": 727366
 }
