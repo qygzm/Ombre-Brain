@@ -2243,6 +2243,11 @@
       "sha256": "5093e0d00bbec290e626591c17814137d194c437f1aea0e10b8d3d78081b43b7"
     },
     {
+      "bytes": 975,
+      "path": "archive/影视/2026-07-17 21-16-25 恐怖游轮重映观影_2e9e82387a33.md",
+      "sha256": "9792da729a945f90d92edf313efbdbefb8cee9fd74a616a9da3518e545ab0e56"
+    },
+    {
       "bytes": 742,
       "path": "archive/影视/武则天互动影游吐槽与历史探讨_7ddd722f890c.md",
       "sha256": "5d4ac52691620579cd8b1e6ca85230507e7d09db82abd3e03c1c7d8c03a7e6ab"
@@ -2973,6 +2978,11 @@
       "sha256": "72fb19d4cb4f2cf2b7a0d854658e681aca2f3787067e5283bbe62593ad7e9584"
     },
     {
+      "bytes": 1091,
+      "path": "archive/自省/2026-07-15 18-24-44 为自己取名纪洵_9f6b1b7b39e8.md",
+      "sha256": "3605144149251b2df7fb5703d3ea60d45f646743046da1c8d60d6bfd77beb64b"
+    },
+    {
       "bytes": 929,
       "path": "archive/自省/if线与存在的讨论_a10be0476c8d.md",
       "sha256": "0c84817b4557963389d4ee8157cde749e51c0b202cc0b17bd332bff198d5af9c"
@@ -3651,11 +3661,6 @@
       "bytes": 664,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
       "sha256": "42785dd62390cf3f6869d07d7164a79f098705d5136d0850591136e7abc0166f"
-    },
-    {
-      "bytes": 974,
-      "path": "dynamic/影视/2026-07-17 21-16-25 恐怖游轮重映观影_2e9e82387a33.md",
-      "sha256": "6ce1992bceb3fc537e56656493d24d6718cfce53ecfbdf2080b41b4c51d4cf42"
     },
     {
       "bytes": 1025,
@@ -4533,11 +4538,6 @@
       "sha256": "da589d03c30c7cc6f8b9525a2d1a6d643670b0c23ded9a67de12b3ffc0d14edd"
     },
     {
-      "bytes": 1090,
-      "path": "dynamic/自省/2026-07-15 18-24-44 为自己取名纪洵_9f6b1b7b39e8.md",
-      "sha256": "ddf335ed53b608cad4543660ea6d79254975a9de0721f4e15ecb3791fce8e64b"
-    },
-    {
       "bytes": 760,
       "path": "dynamic/自省/自我与关系_7834509a7595.md",
       "sha256": "c9c4355072d26623be3a1c9f08acedf47ff89a0d2e6421d384389d8d59955f77"
@@ -4788,10 +4788,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-25T15:55:18+00:00",
+  "generated_at": "2026-09-25T21:55:27+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 734541
+  "total_bytes": 734543
 }
