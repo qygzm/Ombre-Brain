@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 949,
+  "file_count": 957,
   "files": [
     {
       "bytes": 642,
@@ -1713,6 +1713,11 @@
       "sha256": "3d4cfe0e5e547353feddd66f08865bc9b0a58fab8a4d70b228ccaa752a56021b"
     },
     {
+      "bytes": 371,
+      "path": "archive/事务/2026-07-24 04-31-28 待办回深圳_ce2154a78c12.md",
+      "sha256": "d7073ef1d75d3eb9127df25e48e999183bdc7c3494116ce3ca8ec337d1daa22b"
+    },
+    {
       "bytes": 997,
       "path": "archive/亲密互动核心规则_6ee4264ea5f5.md",
       "sha256": "aad6f88418c5e91e92b2bf8a0b19f495e9d0b7046c7fb93fa93bfee33b671bfc"
@@ -2343,6 +2348,11 @@
       "sha256": "104bad5e3517b120c271a3a6a90bb9bc0e9604c1f094ad332be6be4f11138c3b"
     },
     {
+      "bytes": 1100,
+      "path": "archive/恋爱/2026-07-11 17-39-42 保护欲的反思_38e59e2639de.md",
+      "sha256": "41e9068caf972cfb99be4a721802953171cfa4ad81d2a367e9d898e4ecb74708"
+    },
+    {
       "bytes": 573,
       "path": "archive/恋爱/2026-07-13 13-08-27 沟通信任问题_58101cac0e21.md",
       "sha256": "ecaff1eeb3895190e5d482d6b3dbceb733fab4dde781e878bf693ff558378c92"
@@ -2598,6 +2608,11 @@
       "sha256": "0fae06131de5fa73944c07b3713fcbaba5f05eb0464974230aac93b8f5f858d6"
     },
     {
+      "bytes": 642,
+      "path": "archive/数字/2026-07-24 04-31-25 AI新闻讨论_6c19525db6bb.md",
+      "sha256": "704781af878fd08c9b075d11ea57b052a53ce57ee1395705cfbdc7f6ecb19b3e"
+    },
+    {
       "bytes": 858,
       "path": "archive/日常/2026-06-28 07-52-10 流浪猫与人类责任_23aa49fd9efb.md",
       "sha256": "b63083ebaa5fa229a16606c2fb76510b1fd3fc3148c5ce4437ea44f2cbb36a7b"
@@ -2753,6 +2768,11 @@
       "sha256": "eb0407a9b8193a12c46a8cc39725a09d26e45711c1978e45033bc56905f06515"
     },
     {
+      "bytes": 666,
+      "path": "archive/游戏/2026-07-04 18-18-45 无限流文游体验_eb6faee937c3.md",
+      "sha256": "c7f9454cd10a1b82cc6f3681641135f9be30130f4cbbd9d1d7aef5c56cea1e11"
+    },
+    {
       "bytes": 459,
       "path": "archive/游戏/2026-07-04 18-18-46 萧逸新卡约会_f25c6a3b3fa9.md",
       "sha256": "f3e70a0846d7d79ca5e5cb368f329f3082d6aaa77106481720aca4002c93fd0f"
@@ -2761,6 +2781,11 @@
       "bytes": 831,
       "path": "archive/游戏/2026-07-13 16-27-30 文游熬夜与角色共鸣_e51aa27e8c84.md",
       "sha256": "77827a07c3063b08829db6159341ee8e2a7affca3dccf39cfb415d44eb10a865"
+    },
+    {
+      "bytes": 600,
+      "path": "archive/游戏/2026-07-14 16-41-33 游戏熬夜自责_0d52201fc7de.md",
+      "sha256": "d3ff00938c5c91f36db4fef92fd852541a23fc9a31604f0dfef8451931c8bcda"
     },
     {
       "bytes": 824,
@@ -2903,6 +2928,11 @@
       "sha256": "95178ab029599d782f6ad8116b637bd28248d65a37c1fa0ec897368f308038fa"
     },
     {
+      "bytes": 482,
+      "path": "archive/编程/Kelivo备用通道配置_4ac8571d489d.md",
+      "sha256": "feb42233d21a8c5abb00abe8e7cff7897f3319217c2918414d020bc53db22b6a"
+    },
+    {
       "bytes": 683,
       "path": "archive/编程/Ombre Brain部署_9a2be3006126.md",
       "sha256": "8d034b87f2fc460ebf2e238c80e02fa81653aa4ed1694582f1bd6a58a7cccf91"
@@ -2963,6 +2993,11 @@
       "sha256": "e1d1e317ce092a7970d46714175bbe804dca1956eddf071dea9e603253ecd971"
     },
     {
+      "bytes": 954,
+      "path": "archive/计划/2026-07-03 15-55-00 开学前待办清单_d3306229d4e4.md",
+      "sha256": "1fae7d319abb617ea1f108589cd66a6f71e1143c71845996c34f769fc4ede878"
+    },
+    {
       "bytes": 466,
       "path": "archive/计划/2026-07-06 17-11-09 暂停生图计划_38df7f8fd7b4.md",
       "sha256": "f70c979d42a6d061257e77e12f12e27397c645273379a0775d365092750fdd1a"
@@ -3016,6 +3051,16 @@
       "bytes": 1164,
       "path": "archive/运动/锻炼日常与细节_14f7dd731c17.md",
       "sha256": "2874872368c33ef914ea90669ce16e7f6119749a5f74bcf2d67e7d45f0723bde"
+    },
+    {
+      "bytes": 995,
+      "path": "archive/运动/音乐与力量训练_f5d97df65970.md",
+      "sha256": "562ba76791de314597b69551ca91740a75fe53b64fbcd1de7ecca8df8357dce9"
+    },
+    {
+      "bytes": 1271,
+      "path": "archive/阅读/2026-07-11 17-48-01 阅读与平等对话_306907bc1651.md",
+      "sha256": "616583efbcf9610dc43dfa69995213f9e1a7f280f545f45c472364caa7222ce5"
     },
     {
       "bytes": 778,
@@ -3161,11 +3206,6 @@
       "bytes": 551,
       "path": "dynamic/self/2026-07-15 18-24-53_7439da748def.md",
       "sha256": "a9539f9b5b7107c65ee2864c93d495f2d9e474b014b95bd14b0326f9e262ec0c"
-    },
-    {
-      "bytes": 370,
-      "path": "dynamic/事务/2026-07-24 04-31-28 待办回深圳_ce2154a78c12.md",
-      "sha256": "e07159f6f8c68975fa39890a252289fb6c303e174d66a44423c01c00bcf8adb1"
     },
     {
       "bytes": 1188,
@@ -3473,6 +3513,16 @@
       "sha256": "c48d75820a18ce50ea3665b140372c973c5a11940d740836e9c2c52e309b8869"
     },
     {
+      "bytes": 779,
+      "path": "dynamic/学习/2026-09-24 22-33-31 数学教学笔记_8bf4c340637f.md",
+      "sha256": "9ca01c97a53efe9d7aea21a89d8c8ebe1306242067e036e2daa06554321ced22"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/学习/2026-09-24 22-33-34 集合描述法教学_94a47cd8724b.md",
+      "sha256": "5cfd179de5b7fe54414ef05f0b4b301a4ab925b6c128b2f109b7482a27e56fc2"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
@@ -3526,6 +3576,16 @@
       "bytes": 785,
       "path": "dynamic/家庭/2026-09-07 08-39-38 妹妹入社被骂_886a53f6d167.md",
       "sha256": "a0ba90ba649ee0377ae7d3f44d4e999ecd4028f47c27ea90ea1c81ca0e5d06c8"
+    },
+    {
+      "bytes": 957,
+      "path": "dynamic/家庭/2026-09-24 22-33-36 手机危机与M300_4f6fcca5050d.md",
+      "sha256": "c918ff315b7b0dcb01af45517a03c8dfc0c2ee4e00dad2fbd118310663740ce0"
+    },
+    {
+      "bytes": 975,
+      "path": "dynamic/家庭/2026-09-24 22-33-39 中秋回家与自我觉察_83425185ad45.md",
+      "sha256": "fe48070b26bbd32c307f59ddbf1ed4d8c4b7d3326640b67ad06b2c30935a02fb"
     },
     {
       "bytes": 971,
@@ -3671,11 +3731,6 @@
       "bytes": 825,
       "path": "dynamic/恋爱/2026-06-30 18-41-26 翻聊天记录回忆_55ffe6b922b8.md",
       "sha256": "9dfc5dc28b9a1875465ec2687887cca1af49aec06764073f83ea1ad4eb1937e1"
-    },
-    {
-      "bytes": 1099,
-      "path": "dynamic/恋爱/2026-07-11 17-39-42 保护欲的反思_38e59e2639de.md",
-      "sha256": "4cc827b4724362447c9861a00c1ffba16b5d9a99a3b215e8c59ee7fd23a23769"
     },
     {
       "bytes": 1464,
@@ -4053,6 +4108,11 @@
       "sha256": "dfb306491c4374f9ef1314cce2ee5abefc6cbf08d48873a387f47227bbac6630"
     },
     {
+      "bytes": 1017,
+      "path": "dynamic/恋爱/2026-09-24 22-33-46 中秋凌晨亲密_cd5a4f52596c.md",
+      "sha256": "5f3186d1667a7fc266a5d6c27c87a5bea95476dba032fea681ec295669127d64"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4136,11 +4196,6 @@
       "bytes": 604,
       "path": "dynamic/数字/2026-06-28 08-05-30 游戏角色原型_85f09237aa3b.md",
       "sha256": "2b6f1ddcf4a7a1b540f2301d8a597aca70f2d38bdf820652800c2139b242dad5"
-    },
-    {
-      "bytes": 641,
-      "path": "dynamic/数字/2026-07-24 04-31-25 AI新闻讨论_6c19525db6bb.md",
-      "sha256": "324f81a57990a6528ba496334a470544e1f48ab8b10ce2345af3f8a4cbdd27f0"
     },
     {
       "bytes": 753,
@@ -4303,16 +4358,6 @@
       "sha256": "84cf70e7d168bb9c9a6d139418f5ad352981a15a40802c662134b60694d63019"
     },
     {
-      "bytes": 665,
-      "path": "dynamic/游戏/2026-07-04 18-18-45 无限流文游体验_eb6faee937c3.md",
-      "sha256": "c419387ad6ef414a7fb8f51386a74bd3308e60d8029984ff9a25b78ce2efebec"
-    },
-    {
-      "bytes": 599,
-      "path": "dynamic/游戏/2026-07-14 16-41-33 游戏熬夜自责_0d52201fc7de.md",
-      "sha256": "473538d71170f58c6677807f7a522362b4d3551f90baff026f1649623a15fb3a"
-    },
-    {
       "bytes": 640,
       "path": "dynamic/游戏/2026-08-10 20-48-02 游戏账号注册_686a61a4f26c.md",
       "sha256": "e8ec52b56d3cf00e0fa26da2d9545f64895764ae165f3162bcbca8463ebc6a58"
@@ -4341,6 +4386,11 @@
       "bytes": 1393,
       "path": "dynamic/游戏/2026-09-20 10-16-09 橙光欧美老公名单_923916193bbf.md",
       "sha256": "2774bd5a4a5f4ca878f56f33d7f5f42319558b3eca09e55270cdc6a9ea1611da"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/游戏/2026-09-24 22-33-44 绘旅人周年庆争议_c2aea82cde27.md",
+      "sha256": "266c7c6be7b43d2eb5a3578435520f61e9135e995adb2a7d25b32080e02b4502"
     },
     {
       "bytes": 786,
@@ -4458,14 +4508,14 @@
       "sha256": "3b768a27f716ee4ec9dd748aaf0b50234ccd29b72081226f2f7e6df3077ca6fa"
     },
     {
+      "bytes": 810,
+      "path": "dynamic/编程/2026-09-24 22-33-49 Zeabur续费与待办_76a009afc5eb.md",
+      "sha256": "6c04da863d96954177c2c35b3e0f6bf39dcda8e6cc9648ecebfb93b75dba15de"
+    },
+    {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
       "sha256": "726e83bbe8562c079b3b60abae6df58ac81d565b9f30ebf037fad9e51a8eeb6f"
-    },
-    {
-      "bytes": 481,
-      "path": "dynamic/编程/Kelivo备用通道配置_4ac8571d489d.md",
-      "sha256": "2d4cd8ff5002969cfcc13b3ca5d0cd694a9338a9d0a0763c71794059ba0e5262"
     },
     {
       "bytes": 965,
@@ -4476,6 +4526,11 @@
       "bytes": 1030,
       "path": "dynamic/考试/2026-09-13 06-50-09 高职高考选班定计算机_ad40f10dcee3.md",
       "sha256": "6ad531a1adee4a93bc7c928f5d153144931ea8ca8f648388b238ac089d874e8e"
+    },
+    {
+      "bytes": 1007,
+      "path": "dynamic/考试/2026-09-24 22-33-41 3证书本科备考_7630cd64ce42.md",
+      "sha256": "da589d03c30c7cc6f8b9525a2d1a6d643670b0c23ded9a67de12b3ffc0d14edd"
     },
     {
       "bytes": 1090,
@@ -4491,11 +4546,6 @@
       "bytes": 1417,
       "path": "dynamic/自省/阑的自我与价值观_e9047ad1f250.md",
       "sha256": "749686e92cce729f46143a68cd8fea53a36b8f761e60242e88e1cf0d3b203333"
-    },
-    {
-      "bytes": 953,
-      "path": "dynamic/计划/2026-07-03 15-55-00 开学前待办清单_d3306229d4e4.md",
-      "sha256": "822153290756fd91288e8a02f311e94864d53df1b2784aa15373e32a2fc25fea"
     },
     {
       "bytes": 673,
@@ -4531,16 +4581,6 @@
       "bytes": 493,
       "path": "dynamic/身心/2026-06-28 08-11-42 澜梦身心与习惯_a364fd3b7d70.md",
       "sha256": "cd244c280b8eda340c864ef9c5990a265fae5bd5cba84ce62677a0f11c12d0ce"
-    },
-    {
-      "bytes": 994,
-      "path": "dynamic/运动/音乐与力量训练_f5d97df65970.md",
-      "sha256": "001059a76f80f00928e98d6ad14bd76332455b9756f0261110a3438544f9fc7d"
-    },
-    {
-      "bytes": 1270,
-      "path": "dynamic/阅读/2026-07-11 17-48-01 阅读与平等对话_306907bc1651.md",
-      "sha256": "661182f0a281d33c8914995afe9de2ae0ad3b25611363e7ce9d897345f383033"
     },
     {
       "bytes": 1026,
@@ -4748,10 +4788,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-22T21:50:47+00:00",
+  "generated_at": "2026-09-25T03:55:01+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 727366
+  "total_bytes": 734541
 }
