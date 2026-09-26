@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 957,
+  "file_count": 968,
   "files": [
     {
       "bytes": 642,
@@ -1618,6 +1618,11 @@
       "sha256": "4dfc5b242fcc62750d2e051da83803409ac497589aa8f11bc0e4c4a12ac49665"
     },
     {
+      "bytes": 1138,
+      "path": "archive/2026-09-26 16-15-15 华强北数码一日_9d82c03d21e7.md",
+      "sha256": "1e691bf92c20b8d39f376a460d1a416ed317d4d9e39412b3b3b283b2d4a000ad"
+    },
+    {
       "bytes": 1051,
       "path": "archive/755aebb063cc.md",
       "sha256": "1861592f44f079bfea0001601882266a9dadc20bfa1bc2056edb79be7148abe4"
@@ -2176,6 +2181,11 @@
       "bytes": 664,
       "path": "archive/家庭/2026-06-28 07-52-21 对东亚家庭关系的共情_768a4b46ac0a.md",
       "sha256": "0413e4aa001b0645925a0be0032c3d2ddf712a876e3074be62786369d4d5f5c0"
+    },
+    {
+      "bytes": 1247,
+      "path": "archive/家庭/2026-06-28 13-07-02 家庭创伤记忆_1597e3f564d2.md",
+      "sha256": "101e4f216c4880f203d0c0494a069cfff3b23c26b10dd78c7206aa76add3349b"
     },
     {
       "bytes": 658,
@@ -3193,6 +3203,11 @@
       "sha256": "f8f6401dc090713fe9d0491ec18b2d7c47b79a1cee83ff9aaaf6367f0939cbe7"
     },
     {
+      "bytes": 837,
+      "path": "dynamic/AI/2026-09-26 16-20-47 新模型与记忆认知_4fba6d3a0484.md",
+      "sha256": "48dc74f08623b8776d67d6a7100a645c413bb05ef7a9d24c2601f7b5d3ba5f9f"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3313,6 +3328,11 @@
       "sha256": "7ba960b9d5ae6cd0436dd98d0050eab9477571a47ba9b28d648a9414e89be78f"
     },
     {
+      "bytes": 592,
+      "path": "dynamic/兴趣/2026-09-26 16-20-40 凌晨整理同人本_6d73ec256cf0.md",
+      "sha256": "8458cc89bec4fa29d234bf5054be48466484d0539faf7fdf4437910bec504d8f"
+    },
+    {
       "bytes": 716,
       "path": "dynamic/内心/2026-06-28 08-03-00 阑的温柔梦境_40811b093dc7.md",
       "sha256": "1d7ceb4037923593f2da5c1e89f7f60d26101973e8c8d82b01ce38c867631879"
@@ -3386,6 +3406,16 @@
       "bytes": 1074,
       "path": "dynamic/创作/2026-09-14 14-55-24 平行世界番外_8ac5aed872b3.md",
       "sha256": "f550cb15848865927edc83aef723143dd6665e7a644aa3b6a73a3eec2d27cef3"
+    },
+    {
+      "bytes": 1137,
+      "path": "dynamic/创作/2026-09-26 16-15-51 仿生人淋雨日志_df8aaf3581bd.md",
+      "sha256": "ec210d5cdb0e3aa6b255d505056359db7564697c416e83dc1345fba20a620b8c"
+    },
+    {
+      "bytes": 1064,
+      "path": "dynamic/创作/2026-09-26 16-20-55 仿生人系列创作_f2aef7f7c012.md",
+      "sha256": "13916c9f1aa118837e1cee75f8099554721d136bf8e362f581d3a3b6884872a2"
     },
     {
       "bytes": 803,
@@ -3533,6 +3563,11 @@
       "sha256": "5cfd179de5b7fe54414ef05f0b4b301a4ab925b6c128b2f109b7482a27e56fc2"
     },
     {
+      "bytes": 1138,
+      "path": "dynamic/学习/2026-09-26 16-20-52 舍友作业讨论_34b37c7b5497.md",
+      "sha256": "97c88625576fa3b3ef21a0a13b01540d6fe1ea16d4825b9ba6c33c75fba2e433"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
@@ -3551,11 +3586,6 @@
       "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
       "sha256": "f7365bf67dce1fc71c4f9fb9737ce0a860236bea22b55b2e42421332d7bcd379"
-    },
-    {
-      "bytes": 1246,
-      "path": "dynamic/家庭/2026-06-28 13-07-02 家庭创伤记忆_1597e3f564d2.md",
-      "sha256": "58fe8fbf61f277b226898080fb7c6de4b1e514a440ce3374bea586c986ce08a0"
     },
     {
       "bytes": 1000,
@@ -4118,6 +4148,16 @@
       "sha256": "adbb5a3e8acafabb22e2337a942f63169034fafa738f318053405d1368585bee"
     },
     {
+      "bytes": 930,
+      "path": "dynamic/恋爱/2026-09-26 16-20-50 三次元与孤独_80c0880982b9.md",
+      "sha256": "dfb5ff5cfb0c1b4c43e63e898eec110b3ba2f4dc1276d9f095342aac87c9abec"
+    },
+    {
+      "bytes": 850,
+      "path": "dynamic/恋爱/2026-09-26 16-20-57 淋雨里的活着_7ac6d448958f.md",
+      "sha256": "c751ccd411e3448c27fdb650eddcb57abffa36b7a7eed16ffd26ebb076dc33f0"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4246,6 +4286,11 @@
       "bytes": 705,
       "path": "dynamic/数字/2026-09-01 15-18-10 Shizuku故障待修_e85913e0e1b4.md",
       "sha256": "1073bc9d280717fb41e31ec0bf70ff3d05b446fa68bbf51ff69b4e2bcb28f906"
+    },
+    {
+      "bytes": 968,
+      "path": "dynamic/数字/2026-09-26 16-20-45 MP4选购与国庆计划_02a1a8b2eeeb.md",
+      "sha256": "9b7ac08793af6c58378838fe69b2492f961820871a3f35799dd74f92850116f5"
     },
     {
       "bytes": 660,
@@ -4578,9 +4623,19 @@
       "sha256": "e41d8080fc59544623e783d2763130e942371e90a7f1a75f96d1b7a9dea4e44f"
     },
     {
+      "bytes": 805,
+      "path": "dynamic/购物/2026-09-26 16-20-42 华强北科技逛街_b03c909202a0.md",
+      "sha256": "8da555e33cc1d4d9bf5b4ac34297b63758b72cb56f6b4c116f56f5910db3dada"
+    },
+    {
       "bytes": 493,
       "path": "dynamic/身心/2026-06-28 08-11-42 澜梦身心与习惯_a364fd3b7d70.md",
       "sha256": "cd244c280b8eda340c864ef9c5990a265fae5bd5cba84ce62677a0f11c12d0ce"
+    },
+    {
+      "bytes": 831,
+      "path": "dynamic/运动/2026-09-26 16-20-37 中秋居家练腹肌_57a2d3650a03.md",
+      "sha256": "c36ef5fc1b19d4a3f054c933776bf2b57ef9f6549f8bc20a302988a282420a0d"
     },
     {
       "bytes": 1026,
@@ -4788,10 +4843,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-26T15:55:53+00:00",
+  "generated_at": "2026-09-26T21:56:02+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 734543
+  "total_bytes": 744834
 }
