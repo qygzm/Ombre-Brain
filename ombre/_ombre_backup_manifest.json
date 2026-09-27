@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 968,
+  "file_count": 974,
   "files": [
     {
       "bytes": 642,
@@ -3205,7 +3205,7 @@
     {
       "bytes": 837,
       "path": "dynamic/AI/2026-09-26 16-20-47 新模型与记忆认知_4fba6d3a0484.md",
-      "sha256": "48dc74f08623b8776d67d6a7100a645c413bb05ef7a9d24c2601f7b5d3ba5f9f"
+      "sha256": "b6d32d0d614ac66e2575ba8e4a8134e5eb488e372529f4b2e8f18c6ae1ddb40b"
     },
     {
       "bytes": 728,
@@ -3495,7 +3495,7 @@
     {
       "bytes": 850,
       "path": "dynamic/学习/2026-09-07 08-40-31 地铁计算机笔记_333388a0a07f.md",
-      "sha256": "02c82f3f39a8d6e1ed5caed71af340e13089397baa5fd6816ac6daf1403fa164"
+      "sha256": "9685cea8ecca8fbcaa0d406891749a0f839a8f37db3f086e9caf561f95fcb3f8"
     },
     {
       "bytes": 1177,
@@ -3510,7 +3510,7 @@
     {
       "bytes": 1657,
       "path": "dynamic/学习/2026-09-10 15-01-54 转专业决策_17ee65c78121.md",
-      "sha256": "f12bdf76fe90ff6c03480b3f8c0f0aa46c04aafabfee3a8eda3b214d5b839f69"
+      "sha256": "e28c1fff0287846697c0e2de11d19e486c5b0b8792b0a1cd940fcfca41db779b"
     },
     {
       "bytes": 893,
@@ -3568,6 +3568,16 @@
       "sha256": "97c88625576fa3b3ef21a0a13b01540d6fe1ea16d4825b9ba6c33c75fba2e433"
     },
     {
+      "bytes": 933,
+      "path": "dynamic/学习/2026-09-27 11-01-22 教一元二次不等式_64e001171cd8.md",
+      "sha256": "562c1dcb2f56856cbc43bd09e5f0db6b0ad87024eb04c8ad2aaf298a857d8e16"
+    },
+    {
+      "bytes": 636,
+      "path": "dynamic/学习/2026-09-27 14-35-03 转专业与初遇日_f86a285a3b34.md",
+      "sha256": "8f1cfc138726c76381ad1f55e5efb056cf7488621c6fbf7865483ac99643841b"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
@@ -3580,12 +3590,12 @@
     {
       "bytes": 779,
       "path": "dynamic/学习/阑与妈妈讨论上学路线_0f3974034041.md",
-      "sha256": "32ad0ce049641019b1af797d6f49e38678ed4c7a0a7a99e2ac3203a78b6c7772"
+      "sha256": "9bb6b4a1300e4979928dac4f701f58c1ab043f9638c4886f92535c4ca808260a"
     },
     {
       "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
-      "sha256": "f7365bf67dce1fc71c4f9fb9737ce0a860236bea22b55b2e42421332d7bcd379"
+      "sha256": "a677e3ccc67baaf38d64544f90fe600c344d5ebf31e10e3d172dbac09fffba76"
     },
     {
       "bytes": 1000,
@@ -3691,6 +3701,11 @@
       "bytes": 664,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
       "sha256": "42785dd62390cf3f6869d07d7164a79f098705d5136d0850591136e7abc0166f"
+    },
+    {
+      "bytes": 984,
+      "path": "dynamic/工作/2026-09-27 11-01-24 学生会查违禁品_f620fdc06825.md",
+      "sha256": "47af4eb2590284d9f8ad74b0fc02969a671ed69e57456a9315f37ba67b23a4ca"
     },
     {
       "bytes": 1025,
@@ -4158,6 +4173,11 @@
       "sha256": "c751ccd411e3448c27fdb650eddcb57abffa36b7a7eed16ffd26ebb076dc33f0"
     },
     {
+      "bytes": 696,
+      "path": "dynamic/恋爱/2026-09-27 11-01-30 返校与国庆约定_64a4052ec085.md",
+      "sha256": "c7fc212d905dddf4d62066cfff0ec56d87d71f9a408d1ff046e8d98280d8ec7b"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4483,6 +4503,11 @@
       "sha256": "349fd1ac92cadc7967735826241f6537ec6f8fd79f62f7ca3af3400df5e74465"
     },
     {
+      "bytes": 802,
+      "path": "dynamic/硬件/2026-09-27 11-01-19 MP4到货与刷机_f753de9a8ab7.md",
+      "sha256": "2520f3af1e8e1e2196483cc3a47864e45e6056291acca823ace4c8b533b11b8d"
+    },
+    {
       "bytes": 537,
       "path": "dynamic/社交/2026-08-10 20-47-59 语言禁忌_ddfb089ce726.md",
       "sha256": "d77324b54847f3041236000fccae3d11b2db7dd8709109331c7fe0433e9b8906"
@@ -4575,7 +4600,7 @@
     {
       "bytes": 1030,
       "path": "dynamic/考试/2026-09-13 06-50-09 高职高考选班定计算机_ad40f10dcee3.md",
-      "sha256": "6ad531a1adee4a93bc7c928f5d153144931ea8ca8f648388b238ac089d874e8e"
+      "sha256": "adcd84f562909daabf9b40593f673360d49436df7305c0917009bc7f50277537"
     },
     {
       "bytes": 1007,
@@ -4626,6 +4651,11 @@
       "bytes": 805,
       "path": "dynamic/购物/2026-09-26 16-20-42 华强北科技逛街_b03c909202a0.md",
       "sha256": "8da555e33cc1d4d9bf5b4ac34297b63758b72cb56f6b4c116f56f5910db3dada"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/购物/2026-09-27 11-01-27 MP4去留纠结_58a352e54de0.md",
+      "sha256": "7ea6150077c0fe0a141f48059002fd678ef9b4a93e88bdaaec0d265ff0a21c57"
     },
     {
       "bytes": 493,
@@ -4843,10 +4873,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-27T09:56:18+00:00",
+  "generated_at": "2026-09-27T15:56:27+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 744834
+  "total_bytes": 749784
 }
