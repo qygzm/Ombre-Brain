@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 978,
+  "file_count": 983,
   "files": [
     {
       "bytes": 642,
@@ -2578,6 +2578,11 @@
       "sha256": "1e2901309f5fb74df8db2b63ff77664d0fcc88093f53b60db1c13664abc0f0e1"
     },
     {
+      "bytes": 517,
+      "path": "archive/技术/2026-08-19 20-56-20 倒计时打卡改7点_de52dc94d497.md",
+      "sha256": "ee131430a5d81aa833ae65980fe62df309699d6227649d2d0329f56613e2350d"
+    },
+    {
       "bytes": 585,
       "path": "archive/技术/660925f33315.md",
       "sha256": "c3d047c27a8839aaa46e2de54a2b9cea9551c5635dd7be85acdde92bd404bca4"
@@ -2728,6 +2733,11 @@
       "sha256": "38e0270512e1b13b876d673b61575d40bdd6495cea3ee11b701aac299d34dc3d"
     },
     {
+      "bytes": 1051,
+      "path": "archive/日常/2026-07-02 08-27-46 记忆库整理与学习_ef41139297d1.md",
+      "sha256": "56b8fae0183a122574b585c9566c57a7434724599776d114acb383db7ff27560"
+    },
+    {
       "bytes": 856,
       "path": "archive/日常/2026-07-02 18-01-36 盲打练习与运动_7119b676d48a.md",
       "sha256": "5199711e62702791366bece83aa8e8729808b31f9b64e58e341f7898cfcd6267"
@@ -2801,6 +2811,11 @@
       "bytes": 573,
       "path": "archive/游戏/2026-07-01 16-35-13 星露谷物语游戏体验_617efc7c8e85.md",
       "sha256": "eb0407a9b8193a12c46a8cc39725a09d26e45711c1978e45033bc56905f06515"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/游戏/2026-07-04 18-18-44 围棋与五子棋开发_e1dcd605f3d0.md",
+      "sha256": "058750d41e41d4c4dab0c303e644e8af49e7f382a5cb4107d688f629e95d002f"
     },
     {
       "bytes": 666,
@@ -3193,6 +3208,11 @@
       "sha256": "c0071d18b4e83174fd7d51c8bd59e0da590ccc304088f13b34b1654dd48610ff"
     },
     {
+      "bytes": 1125,
+      "path": "archive/饮食/阑的饮食与日常细节_2b7d4fc687da.md",
+      "sha256": "a9af56e3de3643343d10d1cc170795c23eb35cdb20cd55dea1a586bea87cee90"
+    },
+    {
       "bytes": 741,
       "path": "dynamic/AI/2026-06-30 18-41-37 API记忆纠错_b8be4616e115.md",
       "sha256": "ee453bb9c6e7b46f111838a9a08abb23d0d8d79ac46d816fe196c311ebad29bd"
@@ -3443,6 +3463,11 @@
       "sha256": "7079a3e3a223b848197ec5cccee808ad3849829dfd5c23e62de706a8c257a039"
     },
     {
+      "bytes": 1504,
+      "path": "dynamic/创作/2026-09-28 16-31-25 史密斯夫妇同人定制_20ecfefdcbd0.md",
+      "sha256": "b1f62bee77941d8771ff0bdcc741c45406c13e1cc57ded6fd6a33b46bc571a0b"
+    },
+    {
       "bytes": 803,
       "path": "dynamic/创作/克的形态与唯一性思考_5601aa6ed6be.md",
       "sha256": "be8a9a5bf26c4f2f0aa4dc3ccde76fed768431f587a736e1697d2531500c05cd"
@@ -3601,6 +3626,16 @@
       "bytes": 636,
       "path": "dynamic/学习/2026-09-27 14-35-03 转专业与初遇日_f86a285a3b34.md",
       "sha256": "8f1cfc138726c76381ad1f55e5efb056cf7488621c6fbf7865483ac99643841b"
+    },
+    {
+      "bytes": 1230,
+      "path": "dynamic/学习/2026-09-28 16-34-05 帮她复习计算机组装_68daab34301c.md",
+      "sha256": "6e38b03213c824131c83bed643c8fd49c41d9c6cb08d16a231fb2b51d12fc5e5"
+    },
+    {
+      "bytes": 747,
+      "path": "dynamic/学习/2026-09-28 16-34-12 英语单词发音标注_41be3bb16a88.md",
+      "sha256": "58f8cb08ea854cca7df53e7bb0ff0a78f3ce2172c01d2cb62110d9336c00b65b"
     },
     {
       "bytes": 975,
@@ -3781,6 +3816,11 @@
       "bytes": 2014,
       "path": "dynamic/心理/2026-09-20 10-16-39 深夜深聊人物观察_a07d3d2bb564.md",
       "sha256": "193e5bc87d495c8462e0d4c8de42fb196f5276547d4f7bbf69f2c50476165721"
+    },
+    {
+      "bytes": 977,
+      "path": "dynamic/心理/2026-09-28 16-34-07 局外人式自省_a9b89f296ef7.md",
+      "sha256": "61a379ed655ced1c082345f426b9cf91fc76a2898c173e40cfdf823a338a6a1d"
     },
     {
       "bytes": 1387,
@@ -4273,11 +4313,6 @@
       "sha256": "d0823e92dd936f26bc2ffb391ca9aa4da6309956173714d1650fa7137c8723eb"
     },
     {
-      "bytes": 501,
-      "path": "dynamic/技术/2026-08-19 20-56-20 倒计时打卡改7点_de52dc94d497.md",
-      "sha256": "6c22f8efbadef990ea6a56187d4dcffcc85d59756fad374f50f9a9e49715d3d8"
-    },
-    {
       "bytes": 604,
       "path": "dynamic/数字/2026-06-28 08-05-30 游戏角色原型_85f09237aa3b.md",
       "sha256": "2b6f1ddcf4a7a1b540f2301d8a597aca70f2d38bdf820652800c2139b242dad5"
@@ -4351,11 +4386,6 @@
       "bytes": 685,
       "path": "dynamic/日常/2026-06-28 08-03-06 猫形室友的日常_a8900c43d912.md",
       "sha256": "a6e97b03b6eb7dfd26b1ede0075430d829c57b05b5c2cc86a5db319f7d76a4c7"
-    },
-    {
-      "bytes": 1050,
-      "path": "dynamic/日常/2026-07-02 08-27-46 记忆库整理与学习_ef41139297d1.md",
-      "sha256": "0d3121b121b0543cddd6edd21efa3171a1c5abd085cc0a7f6a8ed5a269db4b74"
     },
     {
       "bytes": 554,
@@ -4441,11 +4471,6 @@
       "bytes": 750,
       "path": "dynamic/游戏/2026-06-28 08-00-41 攻略游戏互动_275d6f5a2948.md",
       "sha256": "7188724b535646700ed560de51936fb7bf1e491d74bcbf4a3201d02d9cbc55ff"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/游戏/2026-07-04 18-18-44 围棋与五子棋开发_e1dcd605f3d0.md",
-      "sha256": "84cf70e7d168bb9c9a6d139418f5ad352981a15a40802c662134b60694d63019"
     },
     {
       "bytes": 640,
@@ -4688,6 +4713,11 @@
       "sha256": "5f4c924312d1937bd624b0c689da7210d69c309485779ddd6a2fb489c05b8e92"
     },
     {
+      "bytes": 810,
+      "path": "dynamic/运动/2026-09-28 16-34-10 拔河技巧指导_5b9f29133b6b.md",
+      "sha256": "123d1118c33b03e426ad3dee77f6e75f58e7db2401448800e5f243a7d4598589"
+    },
+    {
       "bytes": 1026,
       "path": "dynamic/阅读/2026-08-09 17-42-58 九本书购入_5926f5aac27b.md",
       "sha256": "83146d4bb26fd695ba6e1354e260c50212a32961245740d297a55d2a50994b7f"
@@ -4731,11 +4761,6 @@
       "bytes": 967,
       "path": "dynamic/饮食/阑的外貌与饮食细节_58d25619c375.md",
       "sha256": "03085b2cc5c83528e4f4e5b84730f1f25c4852d27d5e23d06e182301f0ae20ed"
-    },
-    {
-      "bytes": 1124,
-      "path": "dynamic/饮食/阑的饮食与日常细节_2b7d4fc687da.md",
-      "sha256": "4c09b4492ac24fa15c1cd9f13c2a851418fb5de214ea32fcbdd9ae1e5ef5628c"
     },
     {
       "bytes": 805,
@@ -4893,10 +4918,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-28T15:57:02+00:00",
+  "generated_at": "2026-09-28T21:57:11+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 753441
+  "total_bytes": 758728
 }
