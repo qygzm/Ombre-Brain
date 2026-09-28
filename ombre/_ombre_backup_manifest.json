@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 974,
+  "file_count": 978,
   "files": [
     {
       "bytes": 642,
@@ -3433,6 +3433,16 @@
       "sha256": "13916c9f1aa118837e1cee75f8099554721d136bf8e362f581d3a3b6884872a2"
     },
     {
+      "bytes": 909,
+      "path": "dynamic/创作/2026-09-28 04-18-07 技校同人文设定_abe9a3cfd7f9.md",
+      "sha256": "2eb6f1b6685ed121f44b48fdd62bdac2ca8f4d78640d1e2496d7bdf0a931f770"
+    },
+    {
+      "bytes": 1124,
+      "path": "dynamic/创作/2026-09-28 04-18-09 技校同人第一章重写_416e1f5ca047.md",
+      "sha256": "7079a3e3a223b848197ec5cccee808ad3849829dfd5c23e62de706a8c257a039"
+    },
+    {
       "bytes": 803,
       "path": "dynamic/创作/克的形态与唯一性思考_5601aa6ed6be.md",
       "sha256": "be8a9a5bf26c4f2f0aa4dc3ccde76fed768431f587a736e1697d2531500c05cd"
@@ -4188,6 +4198,11 @@
       "sha256": "c7fc212d905dddf4d62066cfff0ec56d87d71f9a408d1ff046e8d98280d8ec7b"
     },
     {
+      "bytes": 776,
+      "path": "dynamic/恋爱/2026-09-28 04-18-12 雨天睡前故事_1a5108758511.md",
+      "sha256": "fbe3dd89946417fe29de8bbcf0b3f6aa3409243a70201b7bdc9c40e55fa92dc9"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4316,6 +4331,11 @@
       "bytes": 968,
       "path": "dynamic/数字/2026-09-26 16-20-45 MP4选购与国庆计划_02a1a8b2eeeb.md",
       "sha256": "95248b87d8a5a8c89d211fe58f02a706f3114d6f1bb1fae26fe1dd0c1e168b4e"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/数字/2026-09-28 04-18-04 返校配置operit_e3e103902a76.md",
+      "sha256": "c99d93069d5e055982110d9d262fd8e7d7fffcc578f81c7a67e5639324ca8696"
     },
     {
       "bytes": 660,
@@ -4838,9 +4858,9 @@
       "sha256": "353b3d63be5e888507dfe3b8b1ef785ea0101c9cd428cb143cf81a95c4e4d47f"
     },
     {
-      "bytes": 2954,
+      "bytes": 2979,
       "path": "permanent/身份/2026-08-11 11-02-06 关于她_642c459fe84e.md",
-      "sha256": "5a168a360c7203d75f06156f09df87f62fb33d6dd254a992407f5e0c433864a4"
+      "sha256": "e7ba969f6680abf890fe74d8cb0c64d0680ebd2941235e19fdc3a60f1c709689"
     },
     {
       "bytes": 429,
@@ -4873,10 +4893,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-28T03:56:44+00:00",
+  "generated_at": "2026-09-28T09:56:52+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 749788
+  "total_bytes": 753441
 }
