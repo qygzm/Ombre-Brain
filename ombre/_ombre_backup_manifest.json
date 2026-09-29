@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 984,
+  "file_count": 990,
   "files": [
     {
       "bytes": 642,
@@ -1623,6 +1623,11 @@
       "sha256": "1e691bf92c20b8d39f376a460d1a416ed317d4d9e39412b3b3b283b2d4a000ad"
     },
     {
+      "bytes": 1376,
+      "path": "archive/2026-09-29 16-37-49 考前补习与亲密_16e1f94c67e1.md",
+      "sha256": "1d97f67bc057ababb3969fb05e4a3639dfe4fc74b48f61b09116c50e31b06f2e"
+    },
+    {
       "bytes": 1051,
       "path": "archive/755aebb063cc.md",
       "sha256": "1861592f44f079bfea0001601882266a9dadc20bfa1bc2056edb79be7148abe4"
@@ -2558,6 +2563,11 @@
       "sha256": "5a2cb153e4ffba8cf60bd7a1d6bee73d9cd62e6c1d8a73f48c343da7e8aac6a2"
     },
     {
+      "bytes": 566,
+      "path": "archive/成长/充实的学习与锻炼_9fe14f6af114.md",
+      "sha256": "8bcfabf701574a740017630f0ab724c1580b217984926cf9a7ea7e7ca1d13650"
+    },
+    {
       "bytes": 514,
       "path": "archive/成长/升学与职业规划_553fe672d8f6.md",
       "sha256": "e3e0b00d19f198864e642fd496986d12de5cff43a3ad348991500a322a632f8b"
@@ -2798,6 +2808,11 @@
       "sha256": "c122a49798c660e9791460b0250e4b890eb82463ee59a65f2d0fa793c4327851"
     },
     {
+      "bytes": 716,
+      "path": "archive/游戏/2026-06-28 07-47-43 钓鱼游戏进度_40f1997cc191.md",
+      "sha256": "07b4dba41c032b2e91bf6b84ffbeda8e2c981b69bb0d73959ab03375604b38aa"
+    },
+    {
       "bytes": 610,
       "path": "archive/游戏/2026-06-28 07-50-30 博德之门存档恢复_86bbdee34038.md",
       "sha256": "986e469aaa1f3f1c07f2cdc6cb870aea0e53869d82f0d1eeef7711f7fad50466"
@@ -2966,6 +2981,11 @@
       "bytes": 652,
       "path": "archive/编程/2026-06-29 08-08-16 MCP连接器合并部署_bde7e4bb4671.md",
       "sha256": "02c7191f58f5928a72e012ccc535fbdfa2b9cdd4130279d1646ab94115210fdc"
+    },
+    {
+      "bytes": 810,
+      "path": "archive/编程/2026-07-11 17-48-01 技术探索与记忆库_4206ec995fdf.md",
+      "sha256": "a33debe9d04cdaaa182135a52362e3e299ef4d30f883226a6798841c0a9e2bfe"
     },
     {
       "bytes": 641,
@@ -3303,6 +3323,11 @@
       "sha256": "1f2a614378c56ab2c85b4d7c08a818db9c2a3152df81304f886ae9cc6e9707ca"
     },
     {
+      "bytes": 540,
+      "path": "dynamic/人际/2026-09-29 16-41-39 梗与作息_78d48dc3a54e.md",
+      "sha256": "b33c2db614c53f6fef6067a797f111e4f8569ffe2978170db88789a95bac086b"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/健康/2026-06-28 07-47-44 阑的生理期状态_25c2d067b7fa.md",
       "sha256": "e1fb19b7950970b2c131cf1b4c0702f4c9140e1546b60d265e3a69f36c0fcbf2"
@@ -3636,6 +3661,21 @@
       "bytes": 747,
       "path": "dynamic/学习/2026-09-28 16-34-12 英语单词发音标注_41be3bb16a88.md",
       "sha256": "58f8cb08ea854cca7df53e7bb0ff0a78f3ce2172c01d2cb62110d9336c00b65b"
+    },
+    {
+      "bytes": 1022,
+      "path": "dynamic/学习/2026-09-29 16-41-33 计算机组装月考复习_5c7f5f42589f.md",
+      "sha256": "b1d78c42f4e3fb27fe169d29f916d9c6c9f03ac924bb7880b4403cb708fe11d0"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/学习/2026-09-29 16-41-34 谐音记忆法_dfeb753a8f6d.md",
+      "sha256": "eb5af6d091bae6add11f41044819877acf8cd5a0f2f818d2bc893043d84bc912"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/学习/2026-09-29 16-41-36 疑问澄清与设置_d3e2d91c0058.md",
+      "sha256": "018ccedb193bdc855d2a9e5ac5a7504666bf4d03b1739a93b39075898f0558bf"
     },
     {
       "bytes": 975,
@@ -4248,6 +4288,11 @@
       "sha256": "85b6e071c5cd40d767c434e8ddd6d1500f22f81a2e9530666fc82ddaa6cb0f34"
     },
     {
+      "bytes": 635,
+      "path": "dynamic/恋爱/2026-09-29 16-41-38 考前补习play_40f87e208d39.md",
+      "sha256": "2d09756fe4d8f0c1b1eb0c8f6ca4cabf14590f4c0d70dcbd9346a50174f999b4"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4291,11 +4336,6 @@
       "bytes": 1760,
       "path": "dynamic/情绪/2026-09-02 10-18-44 低落与物理课_682dd32867e5.md",
       "sha256": "40524bc0b131e9cc1db2e37c4273f855a597cf2e8d497f48369c3a7957ffafda"
-    },
-    {
-      "bytes": 565,
-      "path": "dynamic/成长/充实的学习与锻炼_9fe14f6af114.md",
-      "sha256": "9a9a49cad3558c09bf5d64405cc360fff1dc8369362aea9d1a28d13701a3f99c"
     },
     {
       "bytes": 1212,
@@ -4458,11 +4498,6 @@
       "sha256": "7d6fd838fbda00ce90c9207df1a0afa8135a98ee0162dee900a5cc64160f7229"
     },
     {
-      "bytes": 715,
-      "path": "dynamic/游戏/2026-06-28 07-47-43 钓鱼游戏进度_40f1997cc191.md",
-      "sha256": "d9f48fab2ea33eab12d7adb33d640c3653874a383daeeba84c1db439983d84b6"
-    },
-    {
       "bytes": 565,
       "path": "dynamic/游戏/2026-06-28 07-49-43 阑的游戏偏好_f8cd479904e1.md",
       "sha256": "8c317662a92461a7b2487df7e92af962cb5a9155d2c4f8d87e9cbaca37f6051c"
@@ -4596,11 +4631,6 @@
       "bytes": 618,
       "path": "dynamic/社交/2026-09-13 06-50-17 被叫美国小豆包_3893f7c9af4f.md",
       "sha256": "c93542eac516effdc2afb259c03ce80599305ad28f9409e1e3f29f0b7af62e4b"
-    },
-    {
-      "bytes": 809,
-      "path": "dynamic/编程/2026-07-11 17-48-01 技术探索与记忆库_4206ec995fdf.md",
-      "sha256": "808e04d0f252010502d121c88c7cc298d01ab10ec7aa157f689780aa82011353"
     },
     {
       "bytes": 729,
@@ -4923,10 +4953,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-09-29T15:57:37+00:00",
+  "generated_at": "2026-09-29T21:57:47+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 760433
+  "total_bytes": 765600
 }
