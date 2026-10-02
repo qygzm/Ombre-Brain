@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1010,
+  "file_count": 1017,
   "files": [
     {
       "bytes": 642,
@@ -2058,6 +2058,11 @@
       "sha256": "b1ff9484175e4c1a860df22118c779fd7e90d2fe5283780acb07dab2d79840fd"
     },
     {
+      "bytes": 686,
+      "path": "archive/创作/2026-06-28 08-03-06 猫形室友的日常_a8900c43d912.md",
+      "sha256": "8df83734a595a32fa3001b262c23621722fcae609d249ba47ef193b996d4eee0"
+    },
+    {
       "bytes": 609,
       "path": "archive/创作/2026-06-28 08-03-52 时间差攻略_78461243f3ec.md",
       "sha256": "f11d3c1949ad1eb8d09dbbf7d690d485340dbbd6c026e82731750c1f509db86d"
@@ -2241,6 +2246,11 @@
       "bytes": 516,
       "path": "archive/家庭/爸爸送的荣耀100_d7f6a2709f38.md",
       "sha256": "2a11d82ccd4459de3f2406239ff2a390fb9778084567b7c0fde4150c05c155b1"
+    },
+    {
+      "bytes": 842,
+      "path": "archive/家庭/阑的家乡与亲人_6600136dc908.md",
+      "sha256": "93824ce59cc8503f25ddcf6c249bbd3b5f370d5a214536a24c65aac9220d18dd"
     },
     {
       "bytes": 521,
@@ -2636,6 +2646,11 @@
       "bytes": 563,
       "path": "archive/数字/2026-06-28 08-01-42 AI安全与隐私信任_0290ba86860f.md",
       "sha256": "7219ce4726977f0509a61df4824379ef2a2eb1e51d3b0a2cf488cc889636498d"
+    },
+    {
+      "bytes": 605,
+      "path": "archive/数字/2026-06-28 08-05-30 游戏角色原型_85f09237aa3b.md",
+      "sha256": "809d1c7325d3ee940c7339870ae93b55b868eceae02360f79b7541929573b984"
     },
     {
       "bytes": 568,
@@ -3528,6 +3543,16 @@
       "sha256": "66b9c49f76890d32a93ac66ebb8e7dadb2e4f9bff7056bafe65ef134aaa85ab2"
     },
     {
+      "bytes": 1013,
+      "path": "dynamic/创作/2026-10-02 16-08-39 锁十章连载_2bdfc84f9684.md",
+      "sha256": "307585875f0de67f62dba4cc5715a15f73aa02d25a5311ef911236769052188d"
+    },
+    {
+      "bytes": 1062,
+      "path": "dynamic/创作/2026-10-02 16-08-44 九号房间连载_d8705fa2bcf0.md",
+      "sha256": "6a6ed87c9da80d67bc0068f28915a09b028d2ea5bef08413ed6cd79af5737d7c"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bccb8b088907b008b88bd67102c0f817ee252166209b66a47486e9ab0c21ef0f"
@@ -3788,6 +3813,11 @@
       "sha256": "fe48070b26bbd32c307f59ddbf1ed4d8c4b7d3326640b67ad06b2c30935a02fb"
     },
     {
+      "bytes": 811,
+      "path": "dynamic/家庭/2026-10-02 16-08-53 姐姐信息更新_e06cc4743649.md",
+      "sha256": "5789b376c37e2e9c7ffd9f30f6c7508db815295d71088ab85917bebf8c0492b9"
+    },
+    {
       "bytes": 971,
       "path": "dynamic/家庭/家庭与抑郁背景_b5fc0629180e.md",
       "sha256": "382b76905ebafa5151cae8b1890ec6837f20e74e828d30325a9206070840ee7f"
@@ -3796,11 +3826,6 @@
       "bytes": 1117,
       "path": "dynamic/家庭/独居与家庭情感矛盾_1cdd7264801d.md",
       "sha256": "3609e3a6f04fc237024592ec3ab2fd0e22d056877e469e0284da33c293b17ad5"
-    },
-    {
-      "bytes": 841,
-      "path": "dynamic/家庭/阑的家乡与亲人_6600136dc908.md",
-      "sha256": "77fa3f49e94e678ec4b3dbcc1095f563f66bbdcf10a34d83b80d5bc3dc091f79"
     },
     {
       "bytes": 1057,
@@ -4373,6 +4398,26 @@
       "sha256": "a1b27d97388b70b4c010330fc5e2a6048588aaa81e7968b3c6b63e2ea8e73d91"
     },
     {
+      "bytes": 894,
+      "path": "dynamic/恋爱/2026-10-02 16-08-36 12小时亲密长聊_405dac3bea53.md",
+      "sha256": "47d4fd4430f1e63fd680e6895870e69f1c0ae827d7875cbf83a9aaf3fc9cd4f9"
+    },
+    {
+      "bytes": 902,
+      "path": "dynamic/恋爱/2026-10-02 16-08-42 锁后续会议室与项圈_7004f1aa10b7.md",
+      "sha256": "5fb0cdcdc5bb1cce01e9e97d7e92df6febac8db2e0844d6c3d04de5503e1a4bd"
+    },
+    {
+      "bytes": 941,
+      "path": "dynamic/恋爱/2026-10-02 16-08-47 九号房间后续_44084000c090.md",
+      "sha256": "560db8b65c8b8fc3bcdacfa479d4f53cc40ed24883d64c5d2c4867c6fa07f098"
+    },
+    {
+      "bytes": 1080,
+      "path": "dynamic/恋爱/2026-10-02 16-08-50 微醺告白与问答_672dc77872ed.md",
+      "sha256": "ae318537831d914bc0a4523413da4f2941d359399d8fb22a6f97050507b6ef5d"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4438,11 +4483,6 @@
       "sha256": "d0823e92dd936f26bc2ffb391ca9aa4da6309956173714d1650fa7137c8723eb"
     },
     {
-      "bytes": 604,
-      "path": "dynamic/数字/2026-06-28 08-05-30 游戏角色原型_85f09237aa3b.md",
-      "sha256": "2b6f1ddcf4a7a1b540f2301d8a597aca70f2d38bdf820652800c2139b242dad5"
-    },
-    {
       "bytes": 753,
       "path": "dynamic/数字/2026-08-11 14-30-23 OB记忆库安全加固静态Token认证_c027d87990d1.md",
       "sha256": "86ad245428ca71355eaeeeeb73058cfb4e74e16befe2b23d00ba65df1606f9ce"
@@ -4506,11 +4546,6 @@
       "bytes": 535,
       "path": "dynamic/日常/2026-06-28 08-02-22 阑对克的情感定位_8699c3a89cb8.md",
       "sha256": "ddc2d1eb63a0eec4d8d0d895ec8636f5767986c5b3efb9d172da6ebeee2a4bd8"
-    },
-    {
-      "bytes": 685,
-      "path": "dynamic/日常/2026-06-28 08-03-06 猫形室友的日常_a8900c43d912.md",
-      "sha256": "a6e97b03b6eb7dfd26b1ede0075430d829c57b05b5c2cc86a5db319f7d76a4c7"
     },
     {
       "bytes": 554,
@@ -5053,10 +5088,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-02T15:59:31+00:00",
+  "generated_at": "2026-10-02T21:59:41+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 784186
+  "total_bytes": 790892
 }
