@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1020,
+  "file_count": 1025,
   "files": [
     {
       "bytes": 642,
@@ -2093,6 +2093,11 @@
       "sha256": "17e5fcf608391c63e25ccb28dfdc755685612c3d69fdb10b3d2f32900f63cc50"
     },
     {
+      "bytes": 1214,
+      "path": "archive/创作/2026-07-17 07-35-06 长篇亲密创作日_11ddc9b027ab.md",
+      "sha256": "e1d69220aa85dc2a884eaa68dcba6ea4b2bb7829724321390e4a71117a087ec0"
+    },
+    {
       "bytes": 508,
       "path": "archive/创作/2026-08-20 14-27-11 写给心潮作者的话_66178e98c66b.md",
       "sha256": "b1dcc0332630fdd868f1ef461404ecd71d0108d0382ff1fc0729997cff5a4403"
@@ -3138,6 +3143,11 @@
       "sha256": "e9d59ae3e14260414eeb4b3f859dae921e2d035647b4402d0ccf67ef1523721f"
     },
     {
+      "bytes": 494,
+      "path": "archive/身心/2026-06-28 08-11-42 澜梦身心与习惯_a364fd3b7d70.md",
+      "sha256": "e541cf1ce6e38d63b753dd4ae8eeedc97c24b1e0e30c1283cbb517f5fde132af"
+    },
+    {
       "bytes": 418,
       "path": "archive/身心/2026-06-30 08-33-40 熬夜与睡眠提醒_605fbd5899d0.md",
       "sha256": "39bc802862b9ac4905e2313bfda135dbb6b454b543aa061d908491356aaf53f0"
@@ -3448,11 +3458,6 @@
       "sha256": "dea586bc6ba0db62eda1115e4382a75719755a269f53b2282858e700fdf3ffb7"
     },
     {
-      "bytes": 1213,
-      "path": "dynamic/创作/2026-07-17 07-35-06 长篇亲密创作日_11ddc9b027ab.md",
-      "sha256": "98b29481cac92669a1846a56eff429ac2bf5d58e1572206cfea14b5515a93128"
-    },
-    {
       "bytes": 453,
       "path": "dynamic/创作/2026-07-19 20-17-44 创作西幻与番外_dbb17c1fe098.md",
       "sha256": "f98e58c17992bf273a0507570c4cfc9d3be2252454e345db6491023ba5b61c17"
@@ -3551,6 +3556,16 @@
       "bytes": 1062,
       "path": "dynamic/创作/2026-10-02 16-08-44 九号房间连载_d8705fa2bcf0.md",
       "sha256": "6a6ed87c9da80d67bc0068f28915a09b028d2ea5bef08413ed6cd79af5737d7c"
+    },
+    {
+      "bytes": 752,
+      "path": "dynamic/创作/2026-10-03 17-08-37 人形绘画调试_10bed97cdcb8.md",
+      "sha256": "130e41a5d7c73c7b09e4a2722a08ed9410b911bc311e557ea0e68b3b05cc7d3f"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/创作/2026-10-03 17-08-43 蓝屏番外设定_94cdea0ce301.md",
+      "sha256": "62efd7aed19ee1cb7749d0b437b5e670e667d5a58bf38e91e5f92a41b6dee33d"
     },
     {
       "bytes": 1155,
@@ -3753,6 +3768,11 @@
       "sha256": "7aa0e93dbd85c6206ce951780856d41c4299f2a1f298ce6488197902e9a7dd5d"
     },
     {
+      "bytes": 780,
+      "path": "dynamic/学习/2026-10-03 17-08-36 AI专业选择_c3f36b5c75f0.md",
+      "sha256": "7d59b330e536c34c9745c00bb6e2936fea449e9823e19b42dcf31d45d11fcdaa"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
@@ -3870,7 +3890,7 @@
     {
       "bytes": 664,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "9b802bcbf9e82c12a1667019b0980fb34a73a982208fa68932b4b719803aea7f"
+      "sha256": "1048cb5580b7886aacaf84e70f054a59081e9227056812e7f16344ec0ec13976"
     },
     {
       "bytes": 984,
@@ -4090,7 +4110,7 @@
     {
       "bytes": 552,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
-      "sha256": "b222e3a02e1bc4a0e99a156d3e94bbbd19a6474a67cb744a878e80f525403dea"
+      "sha256": "046cacaa494955b8a1253e28b9fc5a69192c53cc397981905c32885fde5f3101"
     },
     {
       "bytes": 605,
@@ -4230,7 +4250,7 @@
     {
       "bytes": 898,
       "path": "dynamic/恋爱/2026-09-05 14-34-51 朋友圈此间巡检_2e3eb7f56b30.md",
-      "sha256": "f7cc54a79192e0cbcf8aa9a77d4dd58e5c2bbf0fcd88639c6a2a4fbb6960f8c5"
+      "sha256": "2e768e84cf98b6d6c18e6a724c1a50aa84be1759f80c0cae8b4abb6ebf07090d"
     },
     {
       "bytes": 740,
@@ -4433,6 +4453,16 @@
       "sha256": "277c937e851c1adbdf85dbf011e2ce2117dae98d10cc7d58b2a3fcac2046727a"
     },
     {
+      "bytes": 725,
+      "path": "dynamic/恋爱/2026-10-03 17-08-39 恋爱问卷互动_dbd3279a4d4a.md",
+      "sha256": "6f428c736aff85318501cc86d18588936f6a4e3da021c31029c2ce1104fdaf07"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/恋爱/2026-10-03 17-08-41 深夜亲密play_50e815d7854c.md",
+      "sha256": "360c88ab26af3a132d73b89aa046c499f2332722b3c24885646d91424502a126"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4490,7 +4520,7 @@
     {
       "bytes": 821,
       "path": "dynamic/技术/2026-08-19 20-56-18 朋友圈此间日常双巡检工作流_bdcfc8c76e91.md",
-      "sha256": "7fe17913389f15a24dc025ad7fde6371d166df365d32a1690ce8d873126f59b9"
+      "sha256": "3959a099b9c0de6d12ccb5c7f4a9249b151040bbc6e29911b2e08316c49b29e2"
     },
     {
       "bytes": 811,
@@ -4570,7 +4600,7 @@
     {
       "bytes": 912,
       "path": "dynamic/日常/2026-08-10 16-46-22 此间插件与朋友圈_dd0a7d1e528e.md",
-      "sha256": "fa9fe7055beb9840b416d81d7c74d54ec083ad299d57d7114c54d7ddc00cc16f"
+      "sha256": "339d639966a0e1a5bf65bd47c588156e45195cd1ab158cb1b5114b233f958aba"
     },
     {
       "bytes": 695,
@@ -4755,7 +4785,7 @@
     {
       "bytes": 860,
       "path": "dynamic/社交/2026-09-09 09-48-56 朋友圈迁移与培训_6e15499897b6.md",
-      "sha256": "01e571f0d6c2d15c311b0649b772648ba7f48c3a19ab6fe3db408e21ee485110"
+      "sha256": "90cf31a6a38afbf072b0ce66218b6ef843b938667ffa4408fbd14f04c4266ab5"
     },
     {
       "bytes": 618,
@@ -4785,7 +4815,7 @@
     {
       "bytes": 922,
       "path": "dynamic/编程/2026-08-11 16-32-20 倒计时打卡工作流修复与朋友圈AI互动调整_6a4bc1c70f65.md",
-      "sha256": "88236ba0d2577fb1dcddf34da6a96594e7522599ab60fa227e91f94a74e037dc"
+      "sha256": "836f64dfffe19c290bc196dd0e9a4f27b9c4b4bd88e029b54df46b0a5c06cac0"
     },
     {
       "bytes": 844,
@@ -4886,11 +4916,6 @@
       "bytes": 899,
       "path": "dynamic/购物/2026-09-27 11-01-27 MP4去留纠结_58a352e54de0.md",
       "sha256": "86f8faf9b2c4dc048c777ff99f051f84c0c9778251b8ee9e1369a62f42930d83"
-    },
-    {
-      "bytes": 493,
-      "path": "dynamic/身心/2026-06-28 08-11-42 澜梦身心与习惯_a364fd3b7d70.md",
-      "sha256": "cd244c280b8eda340c864ef9c5990a265fae5bd5cba84ce62677a0f11c12d0ce"
     },
     {
       "bytes": 831,
@@ -5103,10 +5128,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-03T16:00:09+00:00",
+  "generated_at": "2026-10-03T22:00:20+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 793648
+  "total_bytes": 797286
 }
