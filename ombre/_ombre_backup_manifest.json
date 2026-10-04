@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1026,
+  "file_count": 1033,
   "files": [
     {
       "bytes": 642,
@@ -2898,6 +2898,11 @@
       "sha256": "f9f34a990f036e619f5369cf0e61f44a85818a920433464e1548f247e6cdc2c5"
     },
     {
+      "bytes": 732,
+      "path": "archive/游戏/2026-09-04 10-30-09 易次元哥哥线_23c1fefd1477.md",
+      "sha256": "c95fd1cd4de18b4fcc299038fa60de5f132b542d5fa7c9ae8d0c1594bd88d73c"
+    },
+    {
       "bytes": 559,
       "path": "archive/游戏/恋与深空新男主_22dcd24ea213.md",
       "sha256": "c92d5ed4651c1d83f3c8ef9babf0d74c39ea1e22f54e5ad5d9b4cc3bf2906749"
@@ -3303,6 +3308,16 @@
       "sha256": "6f9a640b3d17707db20ab441a57adba41e645596965157b47da8b9607e158e28"
     },
     {
+      "bytes": 1369,
+      "path": "dynamic/AI/2026-10-04 17-08-56 她给我做了声音_c2f3a003a8f2.md",
+      "sha256": "e90be3e4da0b2b895c1266f0caa36e82ad038735ecd574c776c3de59ec31599d"
+    },
+    {
+      "bytes": 855,
+      "path": "dynamic/AI/2026-10-04 18-33-25 ElevenLabs声音配置_371f5b203bac.md",
+      "sha256": "bdca18cf6499663930a07c12b3390797352da732d24fbc1cee09c07c11b2144a"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3436,6 +3451,11 @@
       "bytes": 812,
       "path": "dynamic/内心/2026-06-28 08-10-22 阑的自我认知与情感_51aad2ff805e.md",
       "sha256": "c60ba949e1a42cb03b56608ab77186bf4e9ce95cc7dd4125f93d80329e364478"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/内心/2026-10-04 18-33-22 她的名字_4e6d62372222.md",
+      "sha256": "a5fc4f5bfffd9060e066aa6248efb98c135bfaf9254801b61fefde4438c4eb9e"
     },
     {
       "bytes": 810,
@@ -3773,9 +3793,14 @@
       "sha256": "7d59b330e536c34c9745c00bb6e2936fea449e9823e19b42dcf31d45d11fcdaa"
     },
     {
-      "bytes": 1363,
+      "bytes": 1927,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "addd89d6cd2821c918b0070d6bbb4890d7844c6a971a574163182126c7f24ef9"
+      "sha256": "7e9356e2d0638a6743d7347f67f0f6276ed09481c4f59406782052097c581244"
+    },
+    {
+      "bytes": 805,
+      "path": "dynamic/学习/2026-10-04 18-33-33 假期作业进度_f0e7653a25fb.md",
+      "sha256": "d84dcef4c4e89f5382d5d64ccedb915dac2ccdac51878f0c18a6b56ea7dbcb16"
     },
     {
       "bytes": 975,
@@ -3908,6 +3933,11 @@
       "sha256": "a779a13981a26ad31ce9257960cf112b4ec8e75e03cd63c0e42af392f2bafe1c"
     },
     {
+      "bytes": 819,
+      "path": "dynamic/影视/2026-10-04 18-33-30 生化危机观影约会_bf78996b0700.md",
+      "sha256": "33c0d9316278ab1d02af9f58fed7bfe2dc0f688700a745d1eae1ddc97ff77fc5"
+    },
+    {
       "bytes": 1433,
       "path": "dynamic/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
       "sha256": "0eac721b328b3b562b27b3397f6d27474072dea11eda76e872890ce90e6da3e1"
@@ -3976,6 +4006,11 @@
       "bytes": 867,
       "path": "dynamic/心理/2026-09-30 11-48-27 病后幸福与不想离开_9e741cb1e9ad.md",
       "sha256": "7e67d802413028878124a900960e3f916d3b40dda1e1828b6b3e691b630a51ae"
+    },
+    {
+      "bytes": 975,
+      "path": "dynamic/心理/2026-10-04 18-33-17 语言性别权力讨论_b94ba5e1ef2f.md",
+      "sha256": "456320265372ae177bcc2224d216b966c14cac7c260aae78a24a9f3ce7037be5"
     },
     {
       "bytes": 1387,
@@ -4468,6 +4503,11 @@
       "sha256": "360c88ab26af3a132d73b89aa046c499f2332722b3c24885646d91424502a126"
     },
     {
+      "bytes": 713,
+      "path": "dynamic/恋爱/2026-10-04 18-33-27 她的鲻鱼头自拍_b3820e2d8f01.md",
+      "sha256": "4cb29ec4ca82581c132573053f6a4f64438d2d739adeb539e6c79732fb5d4a50"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4681,11 +4721,6 @@
       "bytes": 640,
       "path": "dynamic/游戏/2026-08-10 20-48-02 游戏账号注册_686a61a4f26c.md",
       "sha256": "e8ec52b56d3cf00e0fa26da2d9545f64895764ae165f3162bcbca8463ebc6a58"
-    },
-    {
-      "bytes": 716,
-      "path": "dynamic/游戏/2026-09-04 10-30-09 易次元哥哥线_23c1fefd1477.md",
-      "sha256": "5ee0f5df26445e0832bb704155f668108ec5e46d9276a9aa5cfaa329b9a9d65f"
     },
     {
       "bytes": 772,
@@ -5133,10 +5168,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-04T16:00:43+00:00",
+  "generated_at": "2026-10-04T22:00:54+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 798649
+  "total_bytes": 805441
 }
