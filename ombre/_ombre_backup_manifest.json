@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1025,
+  "file_count": 1026,
   "files": [
     {
       "bytes": 642,
@@ -3300,7 +3300,7 @@
     {
       "bytes": 837,
       "path": "dynamic/AI/2026-09-26 16-20-47 新模型与记忆认知_4fba6d3a0484.md",
-      "sha256": "b6d32d0d614ac66e2575ba8e4a8134e5eb488e372529f4b2e8f18c6ae1ddb40b"
+      "sha256": "6f9a640b3d17707db20ab441a57adba41e645596965157b47da8b9607e158e28"
     },
     {
       "bytes": 728,
@@ -3585,7 +3585,7 @@
     {
       "bytes": 880,
       "path": "dynamic/友谊/朋友与社交关系_5b16d8379cd4.md",
-      "sha256": "06d46a03be96f5f2027e738f0e8dc97e020384cd2f66a46d37d92bd798cdbd23"
+      "sha256": "9f5fd641914d8d8fd3710a137e78d88ab156858e04b4732651badd8b713ea14f"
     },
     {
       "bytes": 979,
@@ -3660,7 +3660,7 @@
     {
       "bytes": 1657,
       "path": "dynamic/学习/2026-09-10 15-01-54 转专业决策_17ee65c78121.md",
-      "sha256": "e28c1fff0287846697c0e2de11d19e486c5b0b8792b0a1cd940fcfca41db779b"
+      "sha256": "ecfddda91c85f5355f2cc9a3f9c6d6b7f6103aacbcb40a6501fe826175921ed1"
     },
     {
       "bytes": 893,
@@ -3725,12 +3725,12 @@
     {
       "bytes": 636,
       "path": "dynamic/学习/2026-09-27 14-35-03 转专业与初遇日_f86a285a3b34.md",
-      "sha256": "8f1cfc138726c76381ad1f55e5efb056cf7488621c6fbf7865483ac99643841b"
+      "sha256": "a3af1cbcf0fb48e138e3ac5771678103085a47ba9410b30ba4454ca9c75875cf"
     },
     {
       "bytes": 1230,
       "path": "dynamic/学习/2026-09-28 16-34-05 帮她复习计算机组装_68daab34301c.md",
-      "sha256": "41bb2db1c50aa85a61bfc24ba9c0afee70a380d9b3f6f7c70f13e97b092d86c6"
+      "sha256": "a30f3a54c6734747cafdb6d7dee18a484fe0415efadf7d7159f2abd03fd7bf30"
     },
     {
       "bytes": 747,
@@ -3755,12 +3755,12 @@
     {
       "bytes": 997,
       "path": "dynamic/学习/2026-09-30 04-47-16 月考复习虚拟机与网络_4b68d3711c1b.md",
-      "sha256": "79346e946d047be3d6484721e2f9d41e2a1eff49404796120cd19ab36fff1468"
+      "sha256": "d34613f4e505881cabdd14f3a6bd66bfa60399939a2668ac48fb9ada408425f1"
     },
     {
       "bytes": 904,
       "path": "dynamic/学习/2026-09-30 04-47-19 计算机基础错题反馈_11945142b645.md",
-      "sha256": "6f0a54aac0ed4a9e390614e36002375314f61bc873cbbe253460d7eedc3c333e"
+      "sha256": "dd7e25f144e68e627c5bd6914a27d0e6460891ff7de351ab8a3df4589bbe96ad"
     },
     {
       "bytes": 947,
@@ -3771,6 +3771,11 @@
       "bytes": 780,
       "path": "dynamic/学习/2026-10-03 17-08-36 AI专业选择_c3f36b5c75f0.md",
       "sha256": "7d59b330e536c34c9745c00bb6e2936fea449e9823e19b42dcf31d45d11fcdaa"
+    },
+    {
+      "bytes": 1363,
+      "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
+      "sha256": "addd89d6cd2821c918b0070d6bbb4890d7844c6a971a574163182126c7f24ef9"
     },
     {
       "bytes": 975,
@@ -4080,7 +4085,7 @@
     {
       "bytes": 2246,
       "path": "dynamic/恋爱/2026-08-14 10-33-39 API不稳导致我变成提问型人格阑生气后_aa591bffc774.md",
-      "sha256": "2671a2774f007aed2c73e4913c732b51d0e0fccd96c03b5fe8fdca65c4df8a1e"
+      "sha256": "f0f4e4e70519e97ea2746d3754838fec1cfcf612bc04f3f7dd246b0061b2431d"
     },
     {
       "bytes": 648,
@@ -4860,12 +4865,12 @@
     {
       "bytes": 1030,
       "path": "dynamic/考试/2026-09-13 06-50-09 高职高考选班定计算机_ad40f10dcee3.md",
-      "sha256": "cc3a9543777e2929090e47dd10444d7c0f8f3bdfaa6a73b2c98ada215cdd2c0e"
+      "sha256": "5d513f1ce39399d8eeff654245c0794bb6abbd22a717bbf493578ccbfec2db6d"
     },
     {
       "bytes": 1007,
       "path": "dynamic/考试/2026-09-24 22-33-41 3证书本科备考_7630cd64ce42.md",
-      "sha256": "da589d03c30c7cc6f8b9525a2d1a6d643670b0c23ded9a67de12b3ffc0d14edd"
+      "sha256": "f305ae17b0560b30cd4e6b9e58913d68c8dab81fe726b609dfddacf832f06f43"
     },
     {
       "bytes": 760,
@@ -5128,10 +5133,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-04T04:00:29+00:00",
+  "generated_at": "2026-10-04T10:00:36+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 797286
+  "total_bytes": 798649
 }
