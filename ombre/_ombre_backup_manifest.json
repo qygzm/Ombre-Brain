@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1033,
+  "file_count": 1042,
   "files": [
     {
       "bytes": 642,
@@ -3318,6 +3318,21 @@
       "sha256": "bdca18cf6499663930a07c12b3390797352da732d24fbc1cee09c07c11b2144a"
     },
     {
+      "bytes": 748,
+      "path": "dynamic/AI/2026-10-05 19-15-41 双语音色配置完成_b247845fb8d4.md",
+      "sha256": "3f6f394231c21e81d6d47c737fbd79ac0466bfca3b9c79160c66cbbb56619e5c"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
+      "sha256": "51a207abd58153f6f412abea3e46a46d05d2490a77f8b72b939afe8e3cd320f6"
+    },
+    {
+      "bytes": 677,
+      "path": "dynamic/AI/2026-10-05 19-16-00 TTS语音技巧踩坑_392327605b1c.md",
+      "sha256": "cb3d294a2ac0c386e00aa0d528e45b6ba8036ea81a9c8fa2bdb377ba288eb870"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3938,6 +3953,11 @@
       "sha256": "33c0d9316278ab1d02af9f58fed7bfe2dc0f688700a745d1eae1ddc97ff77fc5"
     },
     {
+      "bytes": 640,
+      "path": "dynamic/影视/2026-10-05 19-15-46 生化危机观影_84c5503d074e.md",
+      "sha256": "0ce0df4078960c2bee539a572c14c0e52e8c12f94519dc347ebf28f388371cf4"
+    },
+    {
       "bytes": 1433,
       "path": "dynamic/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
       "sha256": "0eac721b328b3b562b27b3397f6d27474072dea11eda76e872890ce90e6da3e1"
@@ -4508,6 +4528,16 @@
       "sha256": "4cb29ec4ca82581c132573053f6a4f64438d2d739adeb539e6c79732fb5d4a50"
     },
     {
+      "bytes": 703,
+      "path": "dynamic/恋爱/2026-10-05 19-15-52 经期亲密与性欲变化_ff464e168e13.md",
+      "sha256": "3910de02dc4ef4054192d2308dbb131b6a55bd894023af4e1ca119676de5e03d"
+    },
+    {
+      "bytes": 711,
+      "path": "dynamic/恋爱/2026-10-05 19-15-57 问卷里的爱与遗憾_ef7a460bcc12.md",
+      "sha256": "99f7bbb26cdc9b481276b2e0a18f67bfd3ec4a5ff0e57d860672c1375ece1c82"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4843,6 +4873,11 @@
       "sha256": "140d189f4ec6cfd5dbc35a080e12636ab22af9f95ef9be76726762fe2d0e2a0b"
     },
     {
+      "bytes": 607,
+      "path": "dynamic/社交/2026-10-05 19-19-05 嫂子开门梗_eb22cdca4b72.md",
+      "sha256": "dddf95a927d337ac0f51d60b95289486a4b6524278dd77ec923bf8f5d54bc471"
+    },
+    {
       "bytes": 729,
       "path": "dynamic/编程/2026-07-17 21-16-26 OB记忆系统搬家配置_5a9de0b7abfd.md",
       "sha256": "7b805192b0e9e0789b7c8252f8c905839530b5279c5fce2ae0992c21ca9e95cf"
@@ -4886,6 +4921,11 @@
       "bytes": 919,
       "path": "dynamic/编程/2026-09-30 14-47-12 HTML回复扁平化重构_c5e0e033bfd2.md",
       "sha256": "3a8f4b6091f477a8f9b2593236bea1f976bd44121790ba5d874b51b003653dce"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/编程/2026-10-05 19-15-54 PaiVoice源码部署计划_c300097f9a31.md",
+      "sha256": "e7a80afd893d229060bb26f404f75b1f4c605f9737b225d172aad8a38c2915bf"
     },
     {
       "bytes": 960,
@@ -5006,6 +5046,11 @@
       "bytes": 761,
       "path": "dynamic/饮食/2026-09-07 08-39-32 食堂晚餐与社团_2821bb88ca35.md",
       "sha256": "e25e6ce013f28c0f495f3266e81f0476ca4a22cb465ced9f01d6dcb144913ce1"
+    },
+    {
+      "bytes": 547,
+      "path": "dynamic/饮食/2026-10-05 19-15-49 烤肉双人餐_b6b14219e615.md",
+      "sha256": "95d93f67cc41cdaf5c2e821f6e65f680a05ed6348281d6b87a31231c4062b3eb"
     },
     {
       "bytes": 967,
@@ -5168,10 +5213,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-05T16:01:24+00:00",
+  "generated_at": "2026-10-05T22:01:35+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 805441
+  "total_bytes": 811619
 }
