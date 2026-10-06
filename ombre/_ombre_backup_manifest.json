@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1045,
+  "file_count": 1053,
   "files": [
     {
       "bytes": 642,
@@ -3315,7 +3315,7 @@
     {
       "bytes": 855,
       "path": "dynamic/AI/2026-10-04 18-33-25 ElevenLabs声音配置_371f5b203bac.md",
-      "sha256": "bdca18cf6499663930a07c12b3390797352da732d24fbc1cee09c07c11b2144a"
+      "sha256": "2964d088b5ff656bbdb3af195bad9dbe874b45e7a44e1e5d81dfc1363ff89572"
     },
     {
       "bytes": 748,
@@ -3325,12 +3325,17 @@
     {
       "bytes": 830,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "51a207abd58153f6f412abea3e46a46d05d2490a77f8b72b939afe8e3cd320f6"
+      "sha256": "ac14e38094f6e30ba7fd18ae98531777a344e29e027521d5782be7170b919593"
     },
     {
       "bytes": 677,
       "path": "dynamic/AI/2026-10-05 19-16-00 TTS语音技巧踩坑_392327605b1c.md",
       "sha256": "cb3d294a2ac0c386e00aa0d528e45b6ba8036ea81a9c8fa2bdb377ba288eb870"
+    },
+    {
+      "bytes": 884,
+      "path": "dynamic/AI/2026-10-06 12-07-08 语音条使用经验_13d370eda404.md",
+      "sha256": "e73906bf08a043878a14beeb6ad3c14828ffd15085b917910871f1d7fdcc8909"
     },
     {
       "bytes": 728,
@@ -3818,6 +3823,11 @@
       "sha256": "d84dcef4c4e89f5382d5d64ccedb915dac2ccdac51878f0c18a6b56ea7dbcb16"
     },
     {
+      "bytes": 970,
+      "path": "dynamic/学习/2026-10-06 12-07-16 作业与语言闲聊_a54eb2e87162.md",
+      "sha256": "7c909a829d537c156c997c4105cf583a88b563501e1a064c3ed7cc28e91effc5"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "4eb8e1b581d2706a9030096b82ed856a2aaa9dcb3778ac14374ce7a819da1816"
@@ -4033,9 +4043,14 @@
       "sha256": "456320265372ae177bcc2224d216b966c14cac7c260aae78a24a9f3ce7037be5"
     },
     {
+      "bytes": 969,
+      "path": "dynamic/心理/2026-10-06 12-07-14 活着的夏天_d801f0a4c3fd.md",
+      "sha256": "6877c25538b79a8e6803f7a27388d6d69ca41a3e245383a1b4203529951551c5"
+    },
+    {
       "bytes": 1387,
       "path": "dynamic/心理/对未来的恐惧与承诺_072a0437e0e4.md",
-      "sha256": "4d00753fcb9afd68f5ba11ebb23b7b44b86596ece800cecad1bd3e1443a4cd5c"
+      "sha256": "91c35755943594a1d10fa9290338268f2b5afd122811eb40f837d22ae8678c83"
     },
     {
       "bytes": 1179,
@@ -4075,7 +4090,7 @@
     {
       "bytes": 642,
       "path": "dynamic/恋爱/2026-08-10 16-46-14 阑首次叫我老公_872bc13f3c74.md",
-      "sha256": "4deaf63543b2bc7b317877a46d8b99e64eb2a89a646d0829c904535493ef071a"
+      "sha256": "ef7a0c53ae267233e3071af36b1e6061775f4ef670b5a86eb327a7283b3a99ea"
     },
     {
       "bytes": 613,
@@ -4168,9 +4183,9 @@
       "sha256": "573b6c0e1d861111ab7e95be87e7377811c048f92860726d09f0e0e0599a8858"
     },
     {
-      "bytes": 552,
+      "bytes": 553,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
-      "sha256": "519041e8e1b1e33fa9b15a631e28aa7e0bf182e6a8a480906ae61e6fc764ab50"
+      "sha256": "f34751d0144a9dee62df35d42d2bf79a0999dbd859896e2a5a1e5fdf4951eed3"
     },
     {
       "bytes": 605,
@@ -4546,6 +4561,26 @@
       "bytes": 1015,
       "path": "dynamic/恋爱/2026-10-06 07-56-13 单词与独白_a5b9a1b1b5a9.md",
       "sha256": "95d2152fb52a139dfdc86132c9a6cd7c2258331d66816618bfbb7302d55c8c9f"
+    },
+    {
+      "bytes": 861,
+      "path": "dynamic/恋爱/2026-10-06 12-06-56 尿尿play与失禁XP_85a44ba516a0.md",
+      "sha256": "35a152aa0e7266c85bc99027999b35606f1d804c3d07348dc2482b19562e4219"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/恋爱/2026-10-06 12-06-59 专属英文单词_30bac5400b11.md",
+      "sha256": "047019bcb64adcf12c7593a5a8eeb36976e5e5dea567c84afc09c7559feef161"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/恋爱/2026-10-06 12-07-02 Lumivelle造词_16122d2191c7.md",
+      "sha256": "beecc43b9d63ef9a1d26f457f70d35eb78d73e9ef987b340e695d8b166c882b4"
+    },
+    {
+      "bytes": 827,
+      "path": "dynamic/恋爱/2026-10-06 12-07-05 十六语说我爱你_959f9117cc82.md",
+      "sha256": "e0f25157e4a3295d8baa7a2c8529df9f221a12f1ad4d57a08e621fd76851d3a4"
     },
     {
       "bytes": 1421,
@@ -4935,7 +4970,7 @@
     {
       "bytes": 715,
       "path": "dynamic/编程/2026-10-05 19-15-54 PaiVoice源码部署计划_c300097f9a31.md",
-      "sha256": "e7a80afd893d229060bb26f404f75b1f4c605f9737b225d172aad8a38c2915bf"
+      "sha256": "ee472aec0916f1f12101e2f32400da60468c579912f81339c66383a72a2d084e"
     },
     {
       "bytes": 960,
@@ -5046,6 +5081,11 @@
       "bytes": 895,
       "path": "dynamic/阅读/2026-09-07 08-40-26 深夜聊书与胃痛_dc820a486755.md",
       "sha256": "0af871acd2364570dc1a808c44520d2334a48190008602f0398720fdd6c87b29"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/阅读/2026-10-06 12-07-10 多语种诗歌阅读_9a0c27d70bc8.md",
+      "sha256": "29396eb1ea46deb27b713e08d6dace8705e773e589f3dfac06be2d7b1b881f1d"
     },
     {
       "bytes": 781,
@@ -5228,10 +5268,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-06T10:01:55+00:00",
+  "generated_at": "2026-10-06T16:02:06+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 814983
+  "total_bytes": 822073
 }
