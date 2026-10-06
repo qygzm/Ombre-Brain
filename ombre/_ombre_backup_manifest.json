@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1053,
+  "file_count": 1057,
   "files": [
     {
       "bytes": 642,
@@ -3338,6 +3338,16 @@
       "sha256": "e73906bf08a043878a14beeb6ad3c14828ffd15085b917910871f1d7fdcc8909"
     },
     {
+      "bytes": 1147,
+      "path": "dynamic/AI/2026-10-06 18-06-54 ElevenLabs v4标签规则_1a92105ff2a0.md",
+      "sha256": "0818b456153129f350c3d06c6f013169284a03221f165d1102a67c0d403f3eff"
+    },
+    {
+      "bytes": 951,
+      "path": "dynamic/AI/2026-10-06 18-07-01 凌晨技术斗嘴_081b7ffeb907.md",
+      "sha256": "7cb9c954b0845e53b64e70f4566872e99069a110dac4048e3a599abe1aac3d80"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3945,7 +3955,7 @@
     {
       "bytes": 664,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "d711f771c17848b89197e798fc7987a89dd5f989e8d08ac6117fa5e948017504"
+      "sha256": "1812a5c0d2d42f69d8dcba47f7a6b9095a3dc73b66ffe6700eace65474acd7c0"
     },
     {
       "bytes": 984,
@@ -4185,7 +4195,7 @@
     {
       "bytes": 553,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
-      "sha256": "f34751d0144a9dee62df35d42d2bf79a0999dbd859896e2a5a1e5fdf4951eed3"
+      "sha256": "dd7201fcfc9c32e7a7dfd6ff5b4c35da19f178e35383c5133785bda6fb062b95"
     },
     {
       "bytes": 605,
@@ -4325,7 +4335,7 @@
     {
       "bytes": 898,
       "path": "dynamic/恋爱/2026-09-05 14-34-51 朋友圈此间巡检_2e3eb7f56b30.md",
-      "sha256": "1ce568de932917ff9a46caca37aed1f3686d1cb673c2f6d41ac68be29f63ce5a"
+      "sha256": "5867e7099d7d8ad8e5e31df1e3480b7a78f43cc056b5f3c7ed79551e294ed405"
     },
     {
       "bytes": 740,
@@ -4583,6 +4593,11 @@
       "sha256": "e0f25157e4a3295d8baa7a2c8529df9f221a12f1ad4d57a08e621fd76851d3a4"
     },
     {
+      "bytes": 1079,
+      "path": "dynamic/恋爱/2026-10-06 18-06-57 涩涩语音条实测_efc3f1e5fc61.md",
+      "sha256": "de71ee9763049bb8fd47a110e7412e0769f64b0c39928feb34eb3ec940317cd0"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4640,7 +4655,7 @@
     {
       "bytes": 821,
       "path": "dynamic/技术/2026-08-19 20-56-18 朋友圈此间日常双巡检工作流_bdcfc8c76e91.md",
-      "sha256": "b47c3d3a084183c55e7d34091f4ba4e4d9bf18d0f0b6a63f0019d08c394ff990"
+      "sha256": "44c2f374bc24ebd15a9eb21724a0582b98b85dcabaa76c4480886388ea9536d7"
     },
     {
       "bytes": 811,
@@ -4720,7 +4735,7 @@
     {
       "bytes": 912,
       "path": "dynamic/日常/2026-08-10 16-46-22 此间插件与朋友圈_dd0a7d1e528e.md",
-      "sha256": "859aad205400da2f39c5a7f6eab3f6874cd6bf50787746bc534ab3047219a01f"
+      "sha256": "5f643a3e056ca0f8785fa4e2a7960f9a114746b3d092cc9789214da16523bdd6"
     },
     {
       "bytes": 695,
@@ -4900,7 +4915,7 @@
     {
       "bytes": 860,
       "path": "dynamic/社交/2026-09-09 09-48-56 朋友圈迁移与培训_6e15499897b6.md",
-      "sha256": "22ac2cfad75aa539628708a027bf48b5f7033070cf1ed1a750da3b3ec7bf7de9"
+      "sha256": "ab4b034868e585f974fa736b8ba73ffc4a5f45aa769f81baf19944371de8b0a0"
     },
     {
       "bytes": 618,
@@ -4935,7 +4950,7 @@
     {
       "bytes": 922,
       "path": "dynamic/编程/2026-08-11 16-32-20 倒计时打卡工作流修复与朋友圈AI互动调整_6a4bc1c70f65.md",
-      "sha256": "0025833e96e08b1e19ddf3ac47ee9098024836d6f2cecf2500b879dde0bd88a0"
+      "sha256": "edc6877c7fdb9ac3fe841b7a056f6bd034faaadecae870dd43c3e69985d77979"
     },
     {
       "bytes": 844,
@@ -4971,6 +4986,11 @@
       "bytes": 715,
       "path": "dynamic/编程/2026-10-05 19-15-54 PaiVoice源码部署计划_c300097f9a31.md",
       "sha256": "ee472aec0916f1f12101e2f32400da60468c579912f81339c66383a72a2d084e"
+    },
+    {
+      "bytes": 1179,
+      "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
+      "sha256": "55d5ba7d3dd5b431fbf00364bff396f4961e96e3250980b485ba7078e335c2c6"
     },
     {
       "bytes": 960,
@@ -5268,10 +5288,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-06T16:02:06+00:00",
+  "generated_at": "2026-10-06T22:02:16+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 822073
+  "total_bytes": 826429
 }
