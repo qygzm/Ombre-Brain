@@ -1,5 +1,5 @@
 ---
-activation_count: 19
+activation_count: 21
 arousal: 0.6
 created: '2026-06-22T15:11:37'
 digested: false
@@ -8,7 +8,7 @@ domain:
 - 创作
 id: 8f5e2e1afff2
 importance: 9
-last_active: '2026-08-16T12:15:16'
+last_active: '2026-10-07T14:58:48'
 name: 粗口禁用词规则
 pinned: false
 resolved: false

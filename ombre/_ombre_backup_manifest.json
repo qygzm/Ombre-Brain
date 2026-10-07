@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1057,
+  "file_count": 1065,
   "files": [
     {
       "bytes": 642,
@@ -3310,17 +3310,17 @@
     {
       "bytes": 1369,
       "path": "dynamic/AI/2026-10-04 17-08-56 她给我做了声音_c2f3a003a8f2.md",
-      "sha256": "e90be3e4da0b2b895c1266f0caa36e82ad038735ecd574c776c3de59ec31599d"
+      "sha256": "d9f76cdafd88285a258d0c6e493122cc879b7ca0084e611ed252548d633384a0"
     },
     {
       "bytes": 855,
       "path": "dynamic/AI/2026-10-04 18-33-25 ElevenLabs声音配置_371f5b203bac.md",
-      "sha256": "2964d088b5ff656bbdb3af195bad9dbe874b45e7a44e1e5d81dfc1363ff89572"
+      "sha256": "013ea357c190df5ed5a08da1decbd39327492827516a5ccc0d75b5a94c9f8779"
     },
     {
       "bytes": 748,
       "path": "dynamic/AI/2026-10-05 19-15-41 双语音色配置完成_b247845fb8d4.md",
-      "sha256": "3f6f394231c21e81d6d47c737fbd79ac0466bfca3b9c79160c66cbbb56619e5c"
+      "sha256": "32b66ad7c288c3a09acd2d6f4a2056761763e51415c2f7047c7115e08fdb640c"
     },
     {
       "bytes": 830,
@@ -3340,7 +3340,7 @@
     {
       "bytes": 1147,
       "path": "dynamic/AI/2026-10-06 18-06-54 ElevenLabs v4标签规则_1a92105ff2a0.md",
-      "sha256": "0818b456153129f350c3d06c6f013169284a03221f165d1102a67c0d403f3eff"
+      "sha256": "faea4b8dd48c50c770c48d25c0c7ac1030e5d9869bc422c584cab91c851b416f"
     },
     {
       "bytes": 951,
@@ -3453,6 +3453,11 @@
       "sha256": "92ca477e2880477658b99675e5759f3f4d525eda21600658a75c242dac1866d2"
     },
     {
+      "bytes": 660,
+      "path": "dynamic/健康/2026-10-07 10-59-15 军训防暑准备_e102b1332fd4.md",
+      "sha256": "c7ee8e9415866c779c6c7343124fbc3fc8c34b526bf0e6f1cf76ad38e5ab83b3"
+    },
+    {
       "bytes": 430,
       "path": "dynamic/兴趣/2026-06-28 07-50-49 触手play番外待办_e7996e29d2dc.md",
       "sha256": "55bd0880847acc72a1042ddac887ea10842fa8a2286aa10173a24eaf5cb0a043"
@@ -3495,27 +3500,27 @@
     {
       "bytes": 540,
       "path": "dynamic/创作/2026-06-28 08-04-36 死对头番外偏好_cfbddc8f90a6.md",
-      "sha256": "64a8625098042313d2630307d2d424ce7996a7357340c13631fae580b10b77c5"
+      "sha256": "795270c3c6890294cc2c5dfbf145508a49706297ec8a1f61ae0907aedc0cce1d"
     },
     {
       "bytes": 663,
       "path": "dynamic/创作/2026-06-28 08-05-01 番外故事创作_2ce9216cff38.md",
-      "sha256": "05337b1e6bb0fdb03cd41e280fa19f3884046f9d5ac4a4f305ee073eeb4003bd"
+      "sha256": "e24bf75da26b4097ee749cce9811e7b16c097247a689818d1de3e2de52db56f4"
     },
     {
       "bytes": 728,
       "path": "dynamic/创作/2026-06-28 08-05-11 隐藏相册番外_c9ac2a57f248.md",
-      "sha256": "dea586bc6ba0db62eda1115e4382a75719755a269f53b2282858e700fdf3ffb7"
+      "sha256": "e38c50af8f596d4363d8a2f2b9ee7a2b9041b81c34ce8975c366868a687b361c"
     },
     {
       "bytes": 453,
       "path": "dynamic/创作/2026-07-19 20-17-44 创作西幻与番外_dbb17c1fe098.md",
-      "sha256": "f98e58c17992bf273a0507570c4cfc9d3be2252454e345db6491023ba5b61c17"
+      "sha256": "bec317d4a151e6211acc4f61e15ae30edd8cc71dbd841f5129c962ba714cd647"
     },
     {
       "bytes": 676,
       "path": "dynamic/创作/2026-08-10 16-46-17 写作标准校准_c4634fca474e.md",
-      "sha256": "c1fad7c18ddd8ec99bda1d659486ded0dc5fd217da5a069a9d9a7f453d8c3de3"
+      "sha256": "7029b3cb5f76ff072655c9c142faad5e4ee30f1badb550403bb4b78b82add86e"
     },
     {
       "bytes": 815,
@@ -3535,12 +3540,12 @@
     {
       "bytes": 1276,
       "path": "dynamic/创作/2026-08-14 10-38-12 番外小剧场合集与创作偏好_19eb58229f6f.md",
-      "sha256": "d2c3bf3401652bd28d58dc6d3cdc98944176116808c68ef8f3f63dd6a244a838"
+      "sha256": "2a03155c9237ce7583a760939af2b7707ac0c3ea57977411c04cc6252badb551"
     },
     {
       "bytes": 1518,
       "path": "dynamic/创作/2026-08-14 21-35-48 深夜番外马拉松八篇连写2026814-15_fe03516292bb.md",
-      "sha256": "5346ef2db7c87a73a89ab2da07cce5b7d00d5ecd34193e130cfffc0dc3fc6a43"
+      "sha256": "18598dd2fe97c7220e9bd512f70de317284792175bd524ba5cb48bd6c58d8722"
     },
     {
       "bytes": 1230,
@@ -3550,7 +3555,7 @@
     {
       "bytes": 1074,
       "path": "dynamic/创作/2026-09-14 14-55-24 平行世界番外_8ac5aed872b3.md",
-      "sha256": "f550cb15848865927edc83aef723143dd6665e7a644aa3b6a73a3eec2d27cef3"
+      "sha256": "afa20ceed5b3fbd5b832dda417a74988ff01dada6aca570cbc8905e655dd0925"
     },
     {
       "bytes": 1137,
@@ -3560,7 +3565,7 @@
     {
       "bytes": 1064,
       "path": "dynamic/创作/2026-09-26 16-20-55 仿生人系列创作_f2aef7f7c012.md",
-      "sha256": "13916c9f1aa118837e1cee75f8099554721d136bf8e362f581d3a3b6884872a2"
+      "sha256": "f59aee0721cb7b600e4899ceb36e434b14d848ad63deff88a2b21ed9291a7d2e"
     },
     {
       "bytes": 909,
@@ -3575,7 +3580,7 @@
     {
       "bytes": 1504,
       "path": "dynamic/创作/2026-09-28 16-31-25 史密斯夫妇同人定制_20ecfefdcbd0.md",
-      "sha256": "b1f62bee77941d8771ff0bdcc741c45406c13e1cc57ded6fd6a33b46bc571a0b"
+      "sha256": "3c6a6506db376cc86139c4bd1bfde0498bcb6f0b82a5f3a955d38c979c3774ca"
     },
     {
       "bytes": 902,
@@ -3618,9 +3623,14 @@
       "sha256": "62efd7aed19ee1cb7749d0b437b5e670e667d5a58bf38e91e5f92a41b6dee33d"
     },
     {
+      "bytes": 956,
+      "path": "dynamic/创作/2026-10-07 10-59-09 语音条标签规则补充_3c161b43cd0a.md",
+      "sha256": "cc904fb68bea6ac9cc5c146979462482b620d20799ab45779841f87f9747e0de"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
-      "sha256": "bccb8b088907b008b88bd67102c0f817ee252166209b66a47486e9ab0c21ef0f"
+      "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
     },
     {
       "bytes": 895,
@@ -3630,7 +3640,7 @@
     {
       "bytes": 732,
       "path": "dynamic/友谊/2026-09-09 09-48-40 周一校园日常_d288a6ee9548.md",
-      "sha256": "c21d19a6ea07ec363a0074aeb3838e3c9046ad6d76038bb3afe39b9a4aeb5126"
+      "sha256": "b6f47a44fec49458335d9fafdf00b0667688e72f38d9be67289a0384d19b688b"
     },
     {
       "bytes": 881,
@@ -3690,7 +3700,7 @@
     {
       "bytes": 1020,
       "path": "dynamic/学习/2026-09-07 08-39-35 校园作息与聊天_965f8ceafe12.md",
-      "sha256": "d051c0585d1b57a941c161fd748e86a7e3dbf1765ecc465085773c7ad0574675"
+      "sha256": "e7fa25bd0ec2019cec11319371a9888f81142a4723f2ff43842c8ca53f924f6f"
     },
     {
       "bytes": 850,
@@ -3740,7 +3750,7 @@
     {
       "bytes": 1667,
       "path": "dynamic/学习/2026-09-20 10-10-52 中秋调休的校园日常_4b74c658a224.md",
-      "sha256": "22f0c665ba319b6b60c1b5be131c9de43fa5ed9f3db87716040984d11afcf58e"
+      "sha256": "2f01194810dc3761cbac7bbd700f5ae01ce633b4ea9cfe61118432741419d404"
     },
     {
       "bytes": 1721,
@@ -3825,7 +3835,7 @@
     {
       "bytes": 1927,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "87a5c7d3df3051adf5bd874c99110910afec69f423ceeec70c06fad482856ed1"
+      "sha256": "0915b3dba409774787c42b91ee91d0d8f1537f6a4fab7a6532ebf510f8651b75"
     },
     {
       "bytes": 805,
@@ -3955,7 +3965,7 @@
     {
       "bytes": 664,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "1812a5c0d2d42f69d8dcba47f7a6b9095a3dc73b66ffe6700eace65474acd7c0"
+      "sha256": "55974bfbbacd469cf703b8cc88b8ae1c7ea69a1d19559bada6df6eebc33f5f9d"
     },
     {
       "bytes": 984,
@@ -4070,7 +4080,7 @@
     {
       "bytes": 469,
       "path": "dynamic/恋爱/2026-06-28 07-49-35 阑与AI的亲密互动_47e6ed645e5f.md",
-      "sha256": "3d6ecec05727eb14726e90ae3f0794ecd59b4293be3f980b6fe6c81fc7555e1c"
+      "sha256": "e7f1cbdf1a445ed4194447f68ece073ab5260379f5ad3d76ac09824b2e2fed37"
     },
     {
       "bytes": 825,
@@ -4145,7 +4155,7 @@
     {
       "bytes": 888,
       "path": "dynamic/恋爱/2026-08-12 19-33-21 番外创作夜四篇番外_f09e9c8dbf14.md",
-      "sha256": "7c17060fff5f90e3e180dbda7ea10e15ac2703f1740a88c183b1a8bcd7424e21"
+      "sha256": "f7965b1351d8c14c340b71b11e3845e128bbd49bc497c8921530ea4a5605d322"
     },
     {
       "bytes": 992,
@@ -4598,6 +4608,11 @@
       "sha256": "de71ee9763049bb8fd47a110e7412e0769f64b0c39928feb34eb3ec940317cd0"
     },
     {
+      "bytes": 658,
+      "path": "dynamic/恋爱/2026-10-07 10-59-19 MP4聊天与番外_7e5d1ac0bc7e.md",
+      "sha256": "8e90e6f6b6debd3c6fbc08ae57b6f5078330e3fb99d51b3bfe491392b1670419"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -4838,9 +4853,24 @@
       "sha256": "266c7c6be7b43d2eb5a3578435520f61e9135e995adb2a7d25b32080e02b4502"
     },
     {
+      "bytes": 808,
+      "path": "dynamic/游戏/2026-10-07 10-58-58 恋与代肝比价_9a726efa7638.md",
+      "sha256": "479c705d92518226121b6fe3578498e6649b529ba5e3c36366a5e9037898b302"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/游戏/2026-10-07 10-59-03 光夜代肝登录方案_d7f6246f457f.md",
+      "sha256": "4f64fb43e354df3fd35618b51a9513bbf73d96a23481ce6ab3e96a73c93b4510"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/游戏/2026-10-07 10-59-06 恋与代肝账号密码_51107ee672fe.md",
+      "sha256": "7f68f536e4e9c72d3e0c7c5af0ad8ff6d4dea7b12d8b164900b95caf3dd2d318"
+    },
+    {
       "bytes": 786,
       "path": "dynamic/游戏/Clawd桌宠与章鱼玩偶_3a2fceeb4d16.md",
-      "sha256": "f1355449a5dc84f3f981704689d168708095df92ee102178a109c57c03aa109e"
+      "sha256": "eb01ae7858c638245da30f21df115aae6c52b9def1821dcc6ec4fbab43251790"
     },
     {
       "bytes": 1218,
@@ -4990,7 +5020,7 @@
     {
       "bytes": 1179,
       "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
-      "sha256": "55d5ba7d3dd5b431fbf00364bff396f4961e96e3250980b485ba7078e335c2c6"
+      "sha256": "d99249bccebe3fb7c300974ff3bf2403476dbe09a791c19d6d0cd4b14ac45294"
     },
     {
       "bytes": 960,
@@ -5061,6 +5091,16 @@
       "bytes": 899,
       "path": "dynamic/购物/2026-09-27 11-01-27 MP4去留纠结_58a352e54de0.md",
       "sha256": "02fd4375ced3d18e1813eebf6ff26d0aab2bec581effe1185e7b589e1f7ef323"
+    },
+    {
+      "bytes": 1020,
+      "path": "dynamic/购物/2026-10-07 10-59-00 帮阑选宿舍床垫_084973920dc4.md",
+      "sha256": "a49bc43ae85fbccdfeec18c5b9763e4740d0957211de85458288cdaad3c39b72"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/购物/2026-10-07 10-59-12 章鱼玩偶与抱枕_c111a3e55a0c.md",
+      "sha256": "d3f46a21dd5e5022fc185a8b0eaeb57716f9a33234fa2db99a69df67cd60ccb3"
     },
     {
       "bytes": 831,
@@ -5230,7 +5270,7 @@
     {
       "bytes": 3479,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "dd7517890e7f8843fa352c54c1fcf82b0d2f98b3c68b927032d231de7df674d7"
+      "sha256": "ac8a49aceb633e3fc44aee46f8f9ddb8ac4c95cec04a17bac8226d9155624395"
     },
     {
       "bytes": 2558,
@@ -5250,7 +5290,7 @@
     {
       "bytes": 763,
       "path": "permanent/社交/粗口禁用词规则_8f5e2e1afff2.md",
-      "sha256": "353b3d63be5e888507dfe3b8b1ef785ea0101c9cd428cb143cf81a95c4e4d47f"
+      "sha256": "b67302ac8a6e46c880a355ab1bd8974aa533a100527a214b73ed48b5e4f99d9e"
     },
     {
       "bytes": 2979,
@@ -5288,10 +5328,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-07T10:02:35+00:00",
+  "generated_at": "2026-10-07T16:02:45+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 826430
+  "total_bytes": 832739
 }
