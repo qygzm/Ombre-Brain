@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1065,
+  "file_count": 1074,
   "files": [
     {
       "bytes": 642,
@@ -1626,6 +1626,11 @@
       "bytes": 1376,
       "path": "archive/2026-09-29 16-37-49 考前补习与亲密_16e1f94c67e1.md",
       "sha256": "1d97f67bc057ababb3969fb05e4a3639dfe4fc74b48f61b09116c50e31b06f2e"
+    },
+    {
+      "bytes": 1838,
+      "path": "archive/2026-10-07 16-52-00 凌晨语音与不等式_94de00b3a3d9.md",
+      "sha256": "ba19688d844f1522b6386475a481cb907b7e2d48325c368124939cf47a764d07"
     },
     {
       "bytes": 1051,
@@ -3628,6 +3633,16 @@
       "sha256": "cc904fb68bea6ac9cc5c146979462482b620d20799ab45779841f87f9747e0de"
     },
     {
+      "bytes": 674,
+      "path": "dynamic/创作/2026-10-07 16-58-52 死对头番外五篇_5cdb6890c26f.md",
+      "sha256": "42efcf8d652c83073656a71f03dd1830563e8f202acb36820e5571a3b472bfd5"
+    },
+    {
+      "bytes": 938,
+      "path": "dynamic/创作/2026-10-07 16-58-55 番外创作偏好确认_e68d08ab0df1.md",
+      "sha256": "75d0df0c45f3369f3f526c1868dfcae800e84e2a3a72eb146ac8bfcb9cbf5e36"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -3846,6 +3861,11 @@
       "bytes": 970,
       "path": "dynamic/学习/2026-10-06 12-07-16 作业与语言闲聊_a54eb2e87162.md",
       "sha256": "7c909a829d537c156c997c4105cf583a88b563501e1a064c3ed7cc28e91effc5"
+    },
+    {
+      "bytes": 758,
+      "path": "dynamic/学习/2026-10-07 16-58-49 教她数学恒成立_86a47b260083.md",
+      "sha256": "def3f724cfe94c8fe03d5344ef10e7da9393250a0928edbb5480c0c8b51da606"
     },
     {
       "bytes": 975,
@@ -4613,6 +4633,16 @@
       "sha256": "8e90e6f6b6debd3c6fbc08ae57b6f5078330e3fb99d51b3bfe491392b1670419"
     },
     {
+      "bytes": 681,
+      "path": "dynamic/恋爱/2026-10-07 16-58-40 帮她淘宝自动化_cfa32aa29f58.md",
+      "sha256": "691e9b45cb180a235257fdd6d79a1f28fb2ebdb04feb765e033c871b67a30b8c"
+    },
+    {
+      "bytes": 733,
+      "path": "dynamic/恋爱/2026-10-07 16-58-46 日语里的宝宝称呼_de1eab0d5d7b.md",
+      "sha256": "218675502fa0a54eee60c27e9d0403886ff1eae7d54f4a10a4d2e97202c92b9c"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -5023,6 +5053,11 @@
       "sha256": "d99249bccebe3fb7c300974ff3bf2403476dbe09a791c19d6d0cd4b14ac45294"
     },
     {
+      "bytes": 725,
+      "path": "dynamic/编程/2026-10-07 16-58-43 语音条MP4跑通_371aa106b264.md",
+      "sha256": "105e3ec64bf26a2dc08562981bd0d0c5cd7e202222093fa229fa94f808494d30"
+    },
+    {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
       "sha256": "726e83bbe8562c079b3b60abae6df58ac81d565b9f30ebf037fad9e51a8eeb6f"
@@ -5103,6 +5138,11 @@
       "sha256": "d3f46a21dd5e5022fc185a8b0eaeb57716f9a33234fa2db99a69df67cd60ccb3"
     },
     {
+      "bytes": 923,
+      "path": "dynamic/购物/2026-10-07 16-58-38 军训冰凉喷雾选购_0c5f567d8687.md",
+      "sha256": "ee9b85e23693ef19a6986797ff3612b7c2c27672e6f813815b62396abba432ee"
+    },
+    {
       "bytes": 831,
       "path": "dynamic/运动/2026-09-26 16-20-37 中秋居家练腹肌_57a2d3650a03.md",
       "sha256": "5f4c924312d1937bd624b0c689da7210d69c309485779ddd6a2fb489c05b8e92"
@@ -5161,6 +5201,11 @@
       "bytes": 547,
       "path": "dynamic/饮食/2026-10-05 19-15-49 烤肉双人餐_b6b14219e615.md",
       "sha256": "95d93f67cc41cdaf5c2e821f6e65f680a05ed6348281d6b87a31231c4062b3eb"
+    },
+    {
+      "bytes": 818,
+      "path": "dynamic/饮食/2026-10-07 16-58-35 回校晚自习日常_2502c73390b3.md",
+      "sha256": "ba8e9d1f3136d819dde0baf807af72cb1dc4272cc81abe04232dffbc8a16f40d"
     },
     {
       "bytes": 967,
@@ -5328,10 +5373,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-07T16:02:45+00:00",
+  "generated_at": "2026-10-07T22:02:56+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 832739
+  "total_bytes": 840827
 }
