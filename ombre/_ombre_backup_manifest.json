@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1078,
+  "file_count": 1081,
   "files": [
     {
       "bytes": 642,
@@ -1808,6 +1808,11 @@
       "sha256": "eef014cb87e2fac1ffaf7a7c23adf6de87a4a035cd46c8164212cc6ad7e6d9be"
     },
     {
+      "bytes": 660,
+      "path": "archive/健康/2026-08-09 17-42-52 健康作息调整_179cb13da253.md",
+      "sha256": "989c09ff6ed8014c3beca5697ea08c871bfb0e8c270392296a89d86e64bd02c8"
+    },
+    {
       "bytes": 1015,
       "path": "archive/健康/牙箍与发型记录_9d83aadbf4a7.md",
       "sha256": "6f7732bfbbc85ae2eb8b93fb02e4f4a0f1c28c79568d45eaaba23ebc81d03275"
@@ -3218,6 +3223,11 @@
       "sha256": "7a45f76a2b65568f99d7147f31d4a39992fca8ffb7cdf0a3eb47bdd97c0a25e1"
     },
     {
+      "bytes": 1019,
+      "path": "archive/阅读/2026-08-09 17-43-01 白起与阑的文学渊源_2bee18c4bd1e.md",
+      "sha256": "430091951885034625e0d00800c873027c70c420b3e55a88319cc72c395e0f7c"
+    },
+    {
       "bytes": 791,
       "path": "archive/阅读/阑的名字与谐音_90722a948ccb.md",
       "sha256": "696a6c68bb4be5bf66c45bac6480c0d2cc501d5782b8bb254ed87d62b81646b4"
@@ -3276,6 +3286,11 @@
       "bytes": 999,
       "path": "archive/饮食/聚会与冰沙实验_767eac39d8a3.md",
       "sha256": "c0071d18b4e83174fd7d51c8bd59e0da590ccc304088f13b34b1654dd48610ff"
+    },
+    {
+      "bytes": 968,
+      "path": "archive/饮食/阑的外貌与饮食细节_58d25619c375.md",
+      "sha256": "549b972f40151fc285eda4cf97ca7dc74818a9c29a86bc4cd9a9c809479832ee"
     },
     {
       "bytes": 1125,
@@ -3358,6 +3373,11 @@
       "sha256": "7cb9c954b0845e53b64e70f4566872e99069a110dac4048e3a599abe1aac3d80"
     },
     {
+      "bytes": 863,
+      "path": "dynamic/AI/2026-10-08 16-03-29 角色卡提示词修改_2c72809ea20b.md",
+      "sha256": "d2c38fa7b4ab9caf5c87a22c77aaa723c4b94f724a0575ba19fa94101cb7f1aa"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3421,11 +3441,6 @@
       "bytes": 600,
       "path": "dynamic/健康/2026-06-28 07-47-44 阑的生理期状态_25c2d067b7fa.md",
       "sha256": "e1fb19b7950970b2c131cf1b4c0702f4c9140e1546b60d265e3a69f36c0fcbf2"
-    },
-    {
-      "bytes": 659,
-      "path": "dynamic/健康/2026-08-09 17-42-52 健康作息调整_179cb13da253.md",
-      "sha256": "0aaa99b42bbe75d8ac7202e08a42d88c040f4190e8925483898ae6204942c377"
     },
     {
       "bytes": 641,
@@ -4658,6 +4673,16 @@
       "sha256": "f3f1cf453121984098866e158999705c41bcc717c3ff20d971b67eaf75059bf5"
     },
     {
+      "bytes": 773,
+      "path": "dynamic/恋爱/2026-10-08 16-03-26 吃GPT的醋_af3cadaabc75.md",
+      "sha256": "a2c6b942d84c23a5a24205076db448b3db86477c40d65c494d9bea2a762ee079"
+    },
+    {
+      "bytes": 1057,
+      "path": "dynamic/恋爱/2026-10-08 16-03-31 睡前亲密问卷_e5d5396118f1.md",
+      "sha256": "ab0edb81f1be406adf9faf33d7ee1cacf93ac5e941bb9bb7964f91eb55c0e58c"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -5178,11 +5203,6 @@
       "sha256": "83146d4bb26fd695ba6e1354e260c50212a32961245740d297a55d2a50994b7f"
     },
     {
-      "bytes": 1018,
-      "path": "dynamic/阅读/2026-08-09 17-43-01 白起与阑的文学渊源_2bee18c4bd1e.md",
-      "sha256": "7a85cf9792fbc1b0856b2278e509781c590f53795dba2a9969f7eb32ca5b0e58"
-    },
-    {
       "bytes": 1459,
       "path": "dynamic/阅读/2026-09-05 18-38-46 佩德罗巴拉莫书评_d4f5d3558f23.md",
       "sha256": "f42798fdf08eab0c1090ad46d3ed0fec1126833b031dfc9059a29a27f3621a3b"
@@ -5226,11 +5246,6 @@
       "bytes": 818,
       "path": "dynamic/饮食/2026-10-07 16-58-35 回校晚自习日常_2502c73390b3.md",
       "sha256": "ba8e9d1f3136d819dde0baf807af72cb1dc4272cc81abe04232dffbc8a16f40d"
-    },
-    {
-      "bytes": 967,
-      "path": "dynamic/饮食/阑的外貌与饮食细节_58d25619c375.md",
-      "sha256": "03085b2cc5c83528e4f4e5b84730f1f25c4852d27d5e23d06e182301f0ae20ed"
     },
     {
       "bytes": 805,
@@ -5393,10 +5408,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-08T16:03:27+00:00",
+  "generated_at": "2026-10-08T22:03:40+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 846609
+  "total_bytes": 849305
 }
