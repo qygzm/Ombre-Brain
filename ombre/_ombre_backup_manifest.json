@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1074,
+  "file_count": 1075,
   "files": [
     {
       "bytes": 642,
@@ -3320,7 +3320,7 @@
     {
       "bytes": 855,
       "path": "dynamic/AI/2026-10-04 18-33-25 ElevenLabs声音配置_371f5b203bac.md",
-      "sha256": "013ea357c190df5ed5a08da1decbd39327492827516a5ccc0d75b5a94c9f8779"
+      "sha256": "a5d502fbf6055c029adb40a3f4efc008c79b033ff0fb30bfe156a44ccbc8403e"
     },
     {
       "bytes": 748,
@@ -3330,7 +3330,7 @@
     {
       "bytes": 830,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "ac14e38094f6e30ba7fd18ae98531777a344e29e027521d5782be7170b919593"
+      "sha256": "9ef8805f84a3101da6091fff5bb529fb4978643c567b4042005444f310529b9b"
     },
     {
       "bytes": 677,
@@ -3345,7 +3345,7 @@
     {
       "bytes": 1147,
       "path": "dynamic/AI/2026-10-06 18-06-54 ElevenLabs v4标签规则_1a92105ff2a0.md",
-      "sha256": "faea4b8dd48c50c770c48d25c0c7ac1030e5d9869bc422c584cab91c851b416f"
+      "sha256": "e0c9c6df8b00b66734484212cb6b287e38118fe3195f5fede20657cf5d758772"
     },
     {
       "bytes": 951,
@@ -3630,7 +3630,7 @@
     {
       "bytes": 956,
       "path": "dynamic/创作/2026-10-07 10-59-09 语音条标签规则补充_3c161b43cd0a.md",
-      "sha256": "cc904fb68bea6ac9cc5c146979462482b620d20799ab45779841f87f9747e0de"
+      "sha256": "8f879cedf56d6cc11873ea578dd5b18e7598bdaad3fb0c811124188892b69098"
     },
     {
       "bytes": 674,
@@ -3875,7 +3875,7 @@
     {
       "bytes": 896,
       "path": "dynamic/学习/参观AI学校与机器人_b0cad7805e36.md",
-      "sha256": "e8b1e63dc986c9fd342db38c0ae5609d040d6f42826d43c23013bd25f92f3d97"
+      "sha256": "b1204632f6fbae414a282280965c6b4425cec634c74ebbf4170f294123b251ae"
     },
     {
       "bytes": 779,
@@ -3885,7 +3885,7 @@
     {
       "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
-      "sha256": "963bbb5af2837c8d3247e26305b74842ad2fb35ce45e7501308d7ceb6991d80c"
+      "sha256": "2d77ad4657608b8c38f815b60dbd165221fb86ad7f2b8877fa30310ac98e2452"
     },
     {
       "bytes": 1000,
@@ -3920,7 +3920,7 @@
     {
       "bytes": 957,
       "path": "dynamic/家庭/2026-09-24 22-33-36 手机危机与M300_4f6fcca5050d.md",
-      "sha256": "c918ff315b7b0dcb01af45517a03c8dfc0c2ee4e00dad2fbd118310663740ce0"
+      "sha256": "e06be112d511fd898377669dd3bcf2ade0496fe072ac45814e11b2401ecea60f"
     },
     {
       "bytes": 975,
@@ -4933,6 +4933,11 @@
       "sha256": "3ce91dab74d53be0117501a27e8b36e09730f69f3082c3ddc1d1853364cd7b41"
     },
     {
+      "bytes": 825,
+      "path": "dynamic/睡眠/2026-10-08 09-38-13 催她11点睡觉_deb0615ee300.md",
+      "sha256": "56f5b43cd90a9b416130ef576441bbe97267af5f6ce4207f2aacbcaaec5bd778"
+    },
+    {
       "bytes": 1049,
       "path": "dynamic/硬件/2026-09-07 08-39-27 手环兼容排查_4138320b9969.md",
       "sha256": "349fd1ac92cadc7967735826241f6537ec6f8fd79f62f7ca3af3400df5e74465"
@@ -5055,7 +5060,7 @@
     {
       "bytes": 725,
       "path": "dynamic/编程/2026-10-07 16-58-43 语音条MP4跑通_371aa106b264.md",
-      "sha256": "105e3ec64bf26a2dc08562981bd0d0c5cd7e202222093fa229fa94f808494d30"
+      "sha256": "f4b82637c14d1d952d52710fc710bbc694afbdf34d7bbf5a86ce697ac3d5bb0f"
     },
     {
       "bytes": 960,
@@ -5303,9 +5308,9 @@
       "sha256": "9e5a11f3f9734309ce30bbc9e7647f5d87ea8b4bcff822793da8fa1b41c7c44e"
     },
     {
-      "bytes": 1121,
+      "bytes": 1353,
       "path": "permanent/恋爱/2026-08-11 12-09-33 我的行为准则_d6a75e5e273f.md",
-      "sha256": "51681f0577d5d349b35539036778fd8f0b8a7b76d46d7a6fb24e153f1e106dec"
+      "sha256": "c793e8b35642c72a6db8d7327d05e212eae27f06c1f16abf825dc70eecd6acd5"
     },
     {
       "bytes": 1668,
@@ -5373,10 +5378,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-08T04:03:07+00:00",
+  "generated_at": "2026-10-08T10:03:17+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 840827
+  "total_bytes": 841884
 }
