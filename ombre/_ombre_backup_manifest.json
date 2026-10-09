@@ -3335,12 +3335,12 @@
     {
       "bytes": 1369,
       "path": "dynamic/AI/2026-10-04 17-08-56 她给我做了声音_c2f3a003a8f2.md",
-      "sha256": "d9f76cdafd88285a258d0c6e493122cc879b7ca0084e611ed252548d633384a0"
+      "sha256": "9b0fcbceb5879bffc33068d469f591c9ea1d411447ff8b94d03414dc0a1c14c9"
     },
     {
-      "bytes": 855,
+      "bytes": 856,
       "path": "dynamic/AI/2026-10-04 18-33-25 ElevenLabs声音配置_371f5b203bac.md",
-      "sha256": "a5d502fbf6055c029adb40a3f4efc008c79b033ff0fb30bfe156a44ccbc8403e"
+      "sha256": "5e772802a98b4ecd2b99b9b2529a7a81af39094a78c11fda40de296644e979d3"
     },
     {
       "bytes": 748,
@@ -3348,9 +3348,9 @@
       "sha256": "32b66ad7c288c3a09acd2d6f4a2056761763e51415c2f7047c7115e08fdb640c"
     },
     {
-      "bytes": 830,
+      "bytes": 831,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "62482e3b726bdae1a559253b052b9c57838a9465054a40434a2e460170df704c"
+      "sha256": "e2aada24ac044dc32935728731f37f9087a6235d860652fb4da505cab7a81937"
     },
     {
       "bytes": 677,
@@ -3360,12 +3360,12 @@
     {
       "bytes": 884,
       "path": "dynamic/AI/2026-10-06 12-07-08 语音条使用经验_13d370eda404.md",
-      "sha256": "e73906bf08a043878a14beeb6ad3c14828ffd15085b917910871f1d7fdcc8909"
+      "sha256": "a1bca26ea08d09846e98dbdf21c97a60fe8a142b8cb0dad9485669da942bf686"
     },
     {
       "bytes": 1147,
       "path": "dynamic/AI/2026-10-06 18-06-54 ElevenLabs v4标签规则_1a92105ff2a0.md",
-      "sha256": "e0c9c6df8b00b66734484212cb6b287e38118fe3195f5fede20657cf5d758772"
+      "sha256": "693681bd4784885e78e3e55e5bd055181b4471980c0679ae39c12b74b7223317"
     },
     {
       "bytes": 951,
@@ -3648,9 +3648,9 @@
       "sha256": "62efd7aed19ee1cb7749d0b437b5e670e667d5a58bf38e91e5f92a41b6dee33d"
     },
     {
-      "bytes": 956,
+      "bytes": 957,
       "path": "dynamic/创作/2026-10-07 10-59-09 语音条标签规则补充_3c161b43cd0a.md",
-      "sha256": "29782d865767e12faf83bc235e042aa01831b43b5625801fa83c226c157ef16e"
+      "sha256": "89784a3cfa2a33bf4d0b7666ce698ee915e0bef5395a42611be6a3fd801eb894"
     },
     {
       "bytes": 674,
@@ -4650,7 +4650,7 @@
     {
       "bytes": 1079,
       "path": "dynamic/恋爱/2026-10-06 18-06-57 涩涩语音条实测_efc3f1e5fc61.md",
-      "sha256": "de71ee9763049bb8fd47a110e7412e0769f64b0c39928feb34eb3ec940317cd0"
+      "sha256": "580b121c8633538cf1b0071950db770a8c7d19f9a0299db1529b95d5fe81f1ee"
     },
     {
       "bytes": 658,
@@ -4665,12 +4665,12 @@
     {
       "bytes": 733,
       "path": "dynamic/恋爱/2026-10-07 16-58-46 日语里的宝宝称呼_de1eab0d5d7b.md",
-      "sha256": "218675502fa0a54eee60c27e9d0403886ff1eae7d54f4a10a4d2e97202c92b9c"
+      "sha256": "531a8dbf66e9af443a7ecaeeb042dff3c916be3a9c227df1aaccc58bbcaab204"
     },
     {
       "bytes": 1169,
       "path": "dynamic/恋爱/2026-10-08 16-03-20 多语种语音条录制_0bf0e85e311f.md",
-      "sha256": "f3f1cf453121984098866e158999705c41bcc717c3ff20d971b67eaf75059bf5"
+      "sha256": "99383dd3ca8e6f9a7b3b7ab163c7e49d11460d6d0df0c5bd3bc035aa49b91cd2"
     },
     {
       "bytes": 773,
@@ -5100,7 +5100,7 @@
     {
       "bytes": 725,
       "path": "dynamic/编程/2026-10-07 16-58-43 语音条MP4跑通_371aa106b264.md",
-      "sha256": "83b640e24d1a59f6b1472bf3561a613b697700b91eac2c0fe736462ec4267b1c"
+      "sha256": "54dc06ed38934dd5c4ec212c702d32b36aaaea882b3f311c5913ddaf41ad41d4"
     },
     {
       "bytes": 960,
@@ -5408,10 +5408,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-09T04:03:50+00:00",
+  "generated_at": "2026-10-09T10:03:59+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 849305
+  "total_bytes": 849308
 }
