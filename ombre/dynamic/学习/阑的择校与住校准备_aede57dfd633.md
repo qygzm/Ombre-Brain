@@ -1,5 +1,5 @@
 ---
-activation_count: 17
+activation_count: 20
 arousal: 0.7
 created: '2026-06-24T08:38:05'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 求职
 id: aede57dfd633
 importance: 8
-last_active: '2026-10-08T14:43:25'
+last_active: '2026-10-10T08:10:59'
 name: 阑的择校与住校准备
 tags:
 - 上学
