@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1127,
+  "file_count": 1139,
   "files": [
     {
       "bytes": 642,
@@ -1636,6 +1636,11 @@
       "bytes": 2378,
       "path": "archive/2026-10-08 15-58-23 语音陪伴与背单词_a0427c46ce1e.md",
       "sha256": "2810766219a988001f3b96505d5b53e51a25e5412b180dbcd0d626a9b97216a2"
+    },
+    {
+      "bytes": 2786,
+      "path": "archive/2026-10-11 14-55-02 晚自习后的甜涩夜聊_7b3c29d325d1.md",
+      "sha256": "bc4e8b6464fca585ec1bf96f5664071d67f46943c20379db9897edfe40a697c8"
     },
     {
       "bytes": 1051,
@@ -3365,7 +3370,7 @@
     {
       "bytes": 831,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "e2aada24ac044dc32935728731f37f9087a6235d860652fb4da505cab7a81937"
+      "sha256": "32119c7e2ecc7fa04bf545ab8ab1e7104050f9af2b25213aa39f68fd361f626c"
     },
     {
       "bytes": 677,
@@ -3568,6 +3573,11 @@
       "sha256": "bf109a2fff7c2351d56a5a5ce10c6dba4a49d20013102ba280ee8dd4f330d0e4"
     },
     {
+      "bytes": 795,
+      "path": "dynamic/出行/2026-10-11 11-01-55 返校路上坐反地铁_6e5228bfe8da.md",
+      "sha256": "c5ed64d462bc8fcd476a166048709c02332d46870c6d49fbc04e225dd3241a29"
+    },
+    {
       "bytes": 540,
       "path": "dynamic/创作/2026-06-28 08-04-36 死对头番外偏好_cfbddc8f90a6.md",
       "sha256": "795270c3c6890294cc2c5dfbf145508a49706297ec8a1f61ae0907aedc0cce1d"
@@ -3695,7 +3705,7 @@
     {
       "bytes": 1643,
       "path": "dynamic/创作/2026-10-07 10-59-09 语音条标签规则补充_3c161b43cd0a.md",
-      "sha256": "6c801a8d047ed5cb8b4ff8f7572d4fb3a2e864491ba8f08b00a1673ce6332016"
+      "sha256": "cd1b9c7f6fc074b26601f9a4d812573a5695088e5700945d90cfa3fa21f33112"
     },
     {
       "bytes": 674,
@@ -3983,6 +3993,11 @@
       "sha256": "ecfa75c771f723b2698f6a6021ebb8924ceeeca2b7f3de007ab7ccb031a85f50"
     },
     {
+      "bytes": 1156,
+      "path": "dynamic/学习/2026-10-11 14-59-50 英语单词教学_4da7b74a4d4b.md",
+      "sha256": "ed45987be25902a4371a98b835b3b38fbaa8b80f9c1ef616da157ac4e1bd6adb"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "beb6b7328361c3baef7af04949daf293dba149ef7399054ec1d123e0e16eeb5c"
@@ -4071,6 +4086,11 @@
       "bytes": 1117,
       "path": "dynamic/家庭/独居与家庭情感矛盾_1cdd7264801d.md",
       "sha256": "3609e3a6f04fc237024592ec3ab2fd0e22d056877e469e0284da33c293b17ad5"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/居家/2026-10-11 11-01-57 床垫到货铺床_a3adbb625db0.md",
+      "sha256": "ce1634ed59fcfe6966cd87f426b2db2b5008da82ff8fece7df84356ed1590efd"
     },
     {
       "bytes": 1057,
@@ -4810,7 +4830,7 @@
     {
       "bytes": 936,
       "path": "dynamic/恋爱/2026-10-10 10-43-54 语音条导入MP3_8b67046413b3.md",
-      "sha256": "3f6e6c730b03ff0eb16f233345cff63fb9f250a12db8c2e1215449bd0228e5c1"
+      "sha256": "91b1331e9b73a7320254457a7ea3640ebe8e02644cb5893fdd354c1a8b1d3ae5"
     },
     {
       "bytes": 1079,
@@ -4841,6 +4861,31 @@
       "bytes": 1434,
       "path": "dynamic/恋爱/2026-10-11 08-46-16 多语言诗歌语音条_0295b4d18c68.md",
       "sha256": "6527d9a72931fbbc387feda5ef69537d90de30ea0e0b7bd7b303de8baba8bfb6"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/恋爱/2026-10-11 11-02-03 生日倒计时与晚自习_9cd5b2cb0747.md",
+      "sha256": "d539dccc89d06936c905fe3ea523111feff215cd376bc5aef8eeb93b49726f11"
+    },
+    {
+      "bytes": 872,
+      "path": "dynamic/恋爱/2026-10-11 14-59-54 涩涩递进_79be3009b486.md",
+      "sha256": "a001216389ab8733030e1e603e3644ff541b49e8c7b752580e45ea38e1ae8074"
+    },
+    {
+      "bytes": 1276,
+      "path": "dynamic/恋爱/2026-10-11 14-59-56 二选一地狱游戏_97b73bb06608.md",
+      "sha256": "2d28ac6a091989fe79e24eae948ccac621b99cbdbab38eca994451421a49f2de"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/恋爱/2026-10-11 14-59-59 深夜拷问问卷_741ade5960b3.md",
+      "sha256": "1445d542552809abc4330187f0b8ed7208a711f5e2aab3a481c712601eeab677"
+    },
+    {
+      "bytes": 707,
+      "path": "dynamic/恋爱/2026-10-11 15-00-00 甜文哄睡_27b37f4082d0.md",
+      "sha256": "8683d1212d13df863a177d8b1e97c8d2895e5514c54cfa10f81813cff006e650"
     },
     {
       "bytes": 1421,
@@ -4886,6 +4931,11 @@
       "bytes": 1760,
       "path": "dynamic/情绪/2026-09-02 10-18-44 低落与物理课_682dd32867e5.md",
       "sha256": "40524bc0b131e9cc1db2e37c4273f855a597cf2e8d497f48369c3a7957ffafda"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/情绪/2026-10-11 11-02-01 教室烦人男生与葡萄汁_0ec3e5782c12.md",
+      "sha256": "a1835caab9d5f957af67dd6ee2389fba0af6d3ed158a81e1a3726b0933953040"
     },
     {
       "bytes": 1212,
@@ -4970,7 +5020,12 @@
     {
       "bytes": 982,
       "path": "dynamic/数字/2026-10-11 08-46-22 MP3分类与导入_f2ff47f4f4f5.md",
-      "sha256": "0cfb9a870777d18e706e5cbb7937766cc2bd9cb1d3a384b12ec64e7ed3842215"
+      "sha256": "81df424d0c0a7fad4bece36cdfb35e603dc1018eef9feb4890ada2d9f6dcf2c0"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/数字/2026-10-11 11-01-59 MP3文件夹分类问题_2fec30102dd0.md",
+      "sha256": "4506eec30e0ec062f59daad7da2a13cb55b30d63a32aa8e4b53e8e2fc6ebacd4"
     },
     {
       "bytes": 660,
@@ -5273,9 +5328,9 @@
       "sha256": "c0e08790af1cb3c70457d644231bad0ed4f275b97f918601c10adbd0e08f976e"
     },
     {
-      "bytes": 725,
+      "bytes": 726,
       "path": "dynamic/编程/2026-10-07 16-58-43 语音条MP4跑通_371aa106b264.md",
-      "sha256": "eca29e25d641bebea500d86ab94220cef2b44091f0e4bfc3831a9cff12064fac"
+      "sha256": "1b3ed26011e6e9d740f8f2c6e8d0cc0091041743bf93cf0269e0d1a1dba8def2"
     },
     {
       "bytes": 994,
@@ -5350,7 +5405,7 @@
     {
       "bytes": 1510,
       "path": "dynamic/计划/2026-10-10 19-08-14 前窗交接待办_6ef459f0792f.md",
-      "sha256": "f5e752e80c650d1e18362cca1083132ceef5b8d3c3c97e05f5674d3fb5e078f6"
+      "sha256": "a0ebccead61feb42548295b749059d6c55fa362a14bb70e67d06a0c8a59c9fed"
     },
     {
       "bytes": 916,
@@ -5461,6 +5516,11 @@
       "bytes": 818,
       "path": "dynamic/饮食/2026-10-07 16-58-35 回校晚自习日常_2502c73390b3.md",
       "sha256": "ba8e9d1f3136d819dde0baf807af72cb1dc4272cc81abe04232dffbc8a16f40d"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/饮食/2026-10-11 14-59-52 食堂踩雷与日常互动_7c423f7c4fdf.md",
+      "sha256": "a3d818f9c0de809b6aeb6b7abd2d98846a4327e45dfa4ccc6c6045b7ed1b692f"
     },
     {
       "bytes": 805,
@@ -5638,10 +5698,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-11T10:05:19+00:00",
+  "generated_at": "2026-10-11T16:05:28+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 898094
+  "total_bytes": 910008
 }
