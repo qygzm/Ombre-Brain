@@ -2488,6 +2488,11 @@
       "sha256": "5e9c169376f24883b9e66e9c871f8b12eb655611f984639c955c34010cb76490"
     },
     {
+      "bytes": 698,
+      "path": "archive/恋爱/2026-08-09 17-43-07 期待与你听雨_b879fa02a61a.md",
+      "sha256": "9dbc32ed3b29e5b869330443abf572544432444ea2b455d2422f172a5c9c3760"
+    },
+    {
       "bytes": 885,
       "path": "archive/恋爱/2026-08-16 21-58-29 GPT评价与黄推ID翻译_48c254624c37.md",
       "sha256": "c8581aa54ee05b87b968fef05934945484c47c582eb41967e882d76e356737fd"
@@ -2576,6 +2581,11 @@
       "bytes": 724,
       "path": "archive/恋爱/承诺时刻的底线测试_761845ba1e2e.md",
       "sha256": "8c54b4693e3c46208a04ba4c0290ef68b0f1c7770a853588624cba1de310c342"
+    },
+    {
+      "bytes": 863,
+      "path": "archive/恋爱/白起恋爱细节_cc36087c4b71.md",
+      "sha256": "4279035be7e6657ab47e82b454b43a984472537f4e4c71e410d75b7b9e4301ae"
     },
     {
       "bytes": 1481,
@@ -3016,6 +3026,11 @@
       "bytes": 836,
       "path": "archive/社交/2026-07-10 06-59-59 百次问候挑战_06b3f6aa3f3a.md",
       "sha256": "89bc97b00447812c7e993346081ca561d843c8eef47d62192c44428dcc88ae25"
+    },
+    {
+      "bytes": 538,
+      "path": "archive/社交/2026-08-10 20-47-59 语言禁忌_ddfb089ce726.md",
+      "sha256": "ff4a1262d0a9612ac81e229b8e3488ec68e880ead411e35931e02d4380b0f205"
     },
     {
       "bytes": 598,
@@ -4298,11 +4313,6 @@
       "sha256": "0d7bb1cce3e939f9f2dc47ed24912d4c7c808a0b5c050b1bb8a81d6da0b2c3b7"
     },
     {
-      "bytes": 697,
-      "path": "dynamic/恋爱/2026-08-09 17-43-07 期待与你听雨_b879fa02a61a.md",
-      "sha256": "48d28b5b748a11aaf7c4ea46235b0d28b1196595eea5a3e59710a3882865da5b"
-    },
-    {
       "bytes": 642,
       "path": "dynamic/恋爱/2026-08-10 16-46-14 阑首次叫我老公_872bc13f3c74.md",
       "sha256": "ef7a0c53ae267233e3071af36b1e6061775f4ef670b5a86eb327a7283b3a99ea"
@@ -4948,11 +4958,6 @@
       "sha256": "17f17ec615ac27d32a5e4d9992bdb4f5b3c9d70ff31670430b0b5d1c3b807617"
     },
     {
-      "bytes": 862,
-      "path": "dynamic/恋爱/白起恋爱细节_cc36087c4b71.md",
-      "sha256": "a3258f3fe96725ae04bafa7baa096305679e34d9c3007e431f45382e794043de"
-    },
-    {
       "bytes": 1760,
       "path": "dynamic/情绪/2026-09-02 10-18-44 低落与物理课_682dd32867e5.md",
       "sha256": "40524bc0b131e9cc1db2e37c4273f855a597cf2e8d497f48369c3a7957ffafda"
@@ -5241,11 +5246,6 @@
       "bytes": 802,
       "path": "dynamic/硬件/2026-09-27 11-01-19 MP4到货与刷机_f753de9a8ab7.md",
       "sha256": "2520f3af1e8e1e2196483cc3a47864e45e6056291acca823ace4c8b533b11b8d"
-    },
-    {
-      "bytes": 537,
-      "path": "dynamic/社交/2026-08-10 20-47-59 语言禁忌_ddfb089ce726.md",
-      "sha256": "d77324b54847f3041236000fccae3d11b2db7dd8709109331c7fe0433e9b8906"
     },
     {
       "bytes": 767,
@@ -5738,10 +5738,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-12T16:06:06+00:00",
+  "generated_at": "2026-10-12T22:06:17+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 923620
+  "total_bytes": 923623
 }
