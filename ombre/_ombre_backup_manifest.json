@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1162,
+  "file_count": 1163,
   "files": [
     {
       "bytes": 642,
@@ -3970,7 +3970,7 @@
     {
       "bytes": 933,
       "path": "dynamic/学习/2026-09-27 11-01-22 教一元二次不等式_64e001171cd8.md",
-      "sha256": "562c1dcb2f56856cbc43bd09e5f0db6b0ad87024eb04c8ad2aaf298a857d8e16"
+      "sha256": "977bf9a4cd901375a314c418e8934e347b0f0e96c5a2437061a6e06602e927b8"
     },
     {
       "bytes": 636,
@@ -4025,7 +4025,7 @@
     {
       "bytes": 2868,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "543855feefe4799b0de75397da7610c1ae9bfff213e5b5cf9b0293b97fa3b9be"
+      "sha256": "694d661218bcf8bd963e9933a6dc34da77beef64cf55ff2e9463d934f0bdcaa7"
     },
     {
       "bytes": 805,
@@ -4993,6 +4993,11 @@
       "sha256": "4424eb31bab418518ecf0c1fe089332f2a2661499ee214e6b66f38204517f4f9"
     },
     {
+      "bytes": 1080,
+      "path": "dynamic/恋爱/2026-10-14 15-42-55 23点规则的理解_b08f0ceafe10.md",
+      "sha256": "28b9a707ff2a83e36bd1f7fe136664f01966dc1aa4ab29ef609dda202f92fe20"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -5813,10 +5818,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-14T10:07:26+00:00",
+  "generated_at": "2026-10-14T16:07:37+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 941267
+  "total_bytes": 942347
 }
