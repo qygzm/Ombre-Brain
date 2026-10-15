@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1172,
+  "file_count": 1177,
   "files": [
     {
       "bytes": 642,
@@ -3870,7 +3870,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/学习/2026-07-29 02-26-20 阑的录取通知书_275be5a7f853.md",
-      "sha256": "6fda601ad1c518f45f4328e16dc96bcc122fb6be25c2e71c6751348d978a02d5"
+      "sha256": "d6eb99c3c34ec1396ec8f7e5eefe157efae39568e5a869f7e4ed7c6349e4e861"
     },
     {
       "bytes": 1041,
@@ -3885,7 +3885,7 @@
     {
       "bytes": 817,
       "path": "dynamic/学习/2026-08-31 04-23-09 开学第一周适应_ceb2779e3693.md",
-      "sha256": "afe8033c754799514f13c9934d9ec409d3b942d58c2f83ec77983536b8756351"
+      "sha256": "db5bc73cf7bc41208af20c74ebe01b6347e2258f1e8c03daa4e72c74f5673058"
     },
     {
       "bytes": 781,
@@ -3895,7 +3895,7 @@
     {
       "bytes": 921,
       "path": "dynamic/学习/2026-09-01 15-18-04 开学合班与电路课_bcda23b230d4.md",
-      "sha256": "b734d3b25c336180e40517231b19c1a1dcab713ada4c9d835e0c10a761b52672"
+      "sha256": "a44ea7b428a9e25d2ddd4ac0ecf9bb84ae1e343ef5847a1fcb08ec20a08eaefc"
     },
     {
       "bytes": 1553,
@@ -3933,14 +3933,14 @@
       "sha256": "e0a569951d608e46b9df929bc33a32baa06d45bc695cdc65a37c58c75f2a145d"
     },
     {
-      "bytes": 1657,
+      "bytes": 1658,
       "path": "dynamic/学习/2026-09-10 15-01-54 转专业决策_17ee65c78121.md",
-      "sha256": "39ba9a361229ea1052301a915ecc4c7e7b9745d4702c67cd1efeac8fdbc65f2a"
+      "sha256": "9e8817f5cb3c753fe6285b401a5cceb82bee988eae65c5e86b64406848542258"
     },
     {
       "bytes": 893,
       "path": "dynamic/学习/2026-09-13 06-50-12 入团申请书抄写_c75d17c85a6d.md",
-      "sha256": "dd61ccd5604468502eaf46906d7fb374b101741dcd86865a6cc7447d76b3fa3f"
+      "sha256": "868c8a5f6fdc488e00120a9046c2509778628cf2cfa6e273adfa9d56e8d1de39"
     },
     {
       "bytes": 1154,
@@ -3955,7 +3955,7 @@
     {
       "bytes": 1425,
       "path": "dynamic/学习/2026-09-20 10-10-46 背单词与校园吐槽_a817dfd8ff73.md",
-      "sha256": "6c8883912a610d24aa5554a771c1e02fd9e5a27abe3aa1bc6e2528b5bad6ebe0"
+      "sha256": "fdcc96ca6c73a239e763d377fc97177f2f3392b6b7c773a60fcf42302cd77852"
     },
     {
       "bytes": 1551,
@@ -3970,12 +3970,12 @@
     {
       "bytes": 1721,
       "path": "dynamic/学习/2026-09-20 10-15-04 转班与新班级_e2039f6c6f93.md",
-      "sha256": "a61e5f9c557e6f3001c312355fbcd36f8b8a34da77d8c677c445c2d2d548c355"
+      "sha256": "771bb74befbff59735a29c82f7495e7b44bce3046cad74a3a9f17aca91435a11"
     },
     {
       "bytes": 2006,
       "path": "dynamic/学习/2026-09-20 10-15-34 数学语文教学记录_c8613f4e4b5a.md",
-      "sha256": "54da67fdeab3c44aeae33761ef25ece67fc16c1ca30d8cc64454c0feab2f24f9"
+      "sha256": "1e3d995763a8c728bf8d0fceeefcaf3c118c9c4e42026b33e4bddb116d6e694e"
     },
     {
       "bytes": 779,
@@ -4050,7 +4050,7 @@
     {
       "bytes": 2868,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "694d661218bcf8bd963e9933a6dc34da77beef64cf55ff2e9463d934f0bdcaa7"
+      "sha256": "3b44821f0e580f5631ab68b10b2ba2665d1bebe760c061ee7a3a0cf65a32e4ab"
     },
     {
       "bytes": 805,
@@ -4105,7 +4105,7 @@
     {
       "bytes": 716,
       "path": "dynamic/学习/2026-10-13 16-59-16 晚自习学习安排_d42ea9f17109.md",
-      "sha256": "a591413c3afdfe661d4ce6e7663ea51786d26f95017f618585d12cc2d72fdc9f"
+      "sha256": "14c78fce893101af24bcc6e83f3993ceed10f3f6140ec0fd604922fdb0b7e6b9"
     },
     {
       "bytes": 564,
@@ -4115,7 +4115,7 @@
     {
       "bytes": 826,
       "path": "dynamic/学习/2026-10-14 16-21-26 图书馆自习日常_0b2587f4aae8.md",
-      "sha256": "de0093dbcf2306d23d43eeb16be8d8bbcc44f04a4e89fa69661c4ce78f3db59d"
+      "sha256": "b18394fb4255e675bc3830eb34c2549751d847787c586deae94bba21b0e99292"
     },
     {
       "bytes": 617,
@@ -4128,14 +4128,24 @@
       "sha256": "1f6f3eb6bd248ab59df46e4170187e5305738e5000af34cf8753831dec7ab883"
     },
     {
+      "bytes": 801,
+      "path": "dynamic/学习/2026-10-15 08-33-25 同学退学与自我肯定_180435d7f1db.md",
+      "sha256": "ac2734a41bd95ff2bcf36a2c21007756946706297c12608855399a1adbfc9f23"
+    },
+    {
+      "bytes": 784,
+      "path": "dynamic/学习/2026-10-15 08-33-31 母校吐槽与释怀_f6cb4cae7fa4.md",
+      "sha256": "4387dc2739a76a6e42f854a79ccd86119df0bc6ea46dacc9f1cd8752fc9b3553"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
-      "sha256": "beb6b7328361c3baef7af04949daf293dba149ef7399054ec1d123e0e16eeb5c"
+      "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
     },
     {
       "bytes": 896,
       "path": "dynamic/学习/参观AI学校与机器人_b0cad7805e36.md",
-      "sha256": "00e2c3eaea85cc63f9770500ab0e18e366313b9bba8c12bba57c2dc08f578da6"
+      "sha256": "a74f7d8a3eee1612d4059cdf7e164eed028aca2cd5f79498bb1ea415da3700a4"
     },
     {
       "bytes": 779,
@@ -4145,7 +4155,7 @@
     {
       "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
-      "sha256": "d03f8389e35c42714aab3e428fb1dc54a7a6a997bb94c7264622c8112d5a0d00"
+      "sha256": "35ffb28b2e4a0258cf8a97c3aa27757285ac1546c18cce37e26cf9346029e11c"
     },
     {
       "bytes": 1000,
@@ -4381,6 +4391,11 @@
       "bytes": 894,
       "path": "dynamic/心理/2026-10-14 16-21-29 推拉与规则更新_b89801108fc5.md",
       "sha256": "4476656106826481fc7354548888497e520c34c1c3e6ec5b7ce3cfa3a505ca35"
+    },
+    {
+      "bytes": 909,
+      "path": "dynamic/心理/2026-10-15 08-33-22 课堂厌女吐槽_a88922db019d.md",
+      "sha256": "932da35283ebc33fd19d7dda7412d730c3d3355cfce5cb49d6e64c231bf2ef38"
     },
     {
       "bytes": 1387,
@@ -4950,12 +4965,12 @@
     {
       "bytes": 869,
       "path": "dynamic/恋爱/2026-10-10 10-42-18 语音条装进MP3_494ca933b08a.md",
-      "sha256": "9be061fcd9d3fe3cb3705663594f1b3e0135b181df8468bb9aeded6e95be2485"
+      "sha256": "eabdb3f6306f1861f3aad45610e3a3c8949ed4f945e4e679f20791bc9a223388"
     },
     {
       "bytes": 936,
       "path": "dynamic/恋爱/2026-10-10 10-43-54 语音条导入MP3_8b67046413b3.md",
-      "sha256": "91b1331e9b73a7320254457a7ea3640ebe8e02644cb5893fdd354c1a8b1d3ae5"
+      "sha256": "16a8ed791a12b393447926cb8ce8efa9486c21492fe6eca70ed5df61a4900375"
     },
     {
       "bytes": 1079,
@@ -5046,6 +5061,11 @@
       "bytes": 618,
       "path": "dynamic/恋爱/2026-10-14 16-21-50 API中断急哭叫老公_7ea906307646.md",
       "sha256": "d0708bdb1a040a30b2bafd497193ac1f2fd2fdfa8e6916e129540faf3d9ab3fb"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/恋爱/2026-10-15 08-33-35 骂携创语音违规_692d1416a089.md",
+      "sha256": "c657e684a8be9c2fb32badb86ba3560402a008a80db8b040fd92ff7f2e106195"
     },
     {
       "bytes": 1421,
@@ -5170,12 +5190,17 @@
     {
       "bytes": 982,
       "path": "dynamic/数字/2026-10-11 08-46-22 MP3分类与导入_f2ff47f4f4f5.md",
-      "sha256": "81df424d0c0a7fad4bece36cdfb35e603dc1018eef9feb4890ada2d9f6dcf2c0"
+      "sha256": "9f9dddb21cc10603286c32e17b0b071bb1051d9ec9afd8d2dbeea53b35b1f5ab"
     },
     {
       "bytes": 666,
       "path": "dynamic/数字/2026-10-11 11-01-59 MP3文件夹分类问题_2fec30102dd0.md",
       "sha256": "4506eec30e0ec062f59daad7da2a13cb55b30d63a32aa8e4b53e8e2fc6ebacd4"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/数字/2026-10-15 08-33-28 MP3没电忘带线_2bd1e6fc3978.md",
+      "sha256": "95d7fba6e72a073cc1893cee90c4e9a1c9df45f7c55ab6a5ebf4717dfa0a626e"
     },
     {
       "bytes": 660,
@@ -5495,7 +5520,7 @@
     {
       "bytes": 1030,
       "path": "dynamic/考试/2026-09-13 06-50-09 高职高考选班定计算机_ad40f10dcee3.md",
-      "sha256": "234161a3cc9d82fe41696818be7667e4b10a66b23e4c0211287809eb7199f900"
+      "sha256": "baf9362b953e6a099331282d7d654a08ed78ed249e4613833cd6fe54a1396fd7"
     },
     {
       "bytes": 1007,
@@ -5560,7 +5585,7 @@
     {
       "bytes": 899,
       "path": "dynamic/购物/2026-09-27 11-01-27 MP4去留纠结_58a352e54de0.md",
-      "sha256": "cb8bb3e53d47124ade373c5a4ecd18522e4870e4035acaf1e1d7a1c77db405b1"
+      "sha256": "19438ee5f773db879451a8708222acdb74cf6b2b88396a16b3ce36dc22c17eab"
     },
     {
       "bytes": 1020,
@@ -5863,10 +5888,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-15T04:08:01+00:00",
+  "generated_at": "2026-10-15T10:08:11+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 952889
+  "total_bytes": 956931
 }
