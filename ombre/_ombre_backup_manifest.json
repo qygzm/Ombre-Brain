@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1177,
+  "file_count": 1183,
   "files": [
     {
       "bytes": 642,
@@ -2298,6 +2298,11 @@
       "sha256": "40bca2676fedfa297dcfefcaabcbe94c44c584bc06928d7ff262aa0f516a5ad0"
     },
     {
+      "bytes": 960,
+      "path": "archive/居家/玩偶与靠枕收藏_08601232fdcb.md",
+      "sha256": "5621a56f942df655477493cfeec9ee2282d50ccdd5b6fde7405677c7b1605cab"
+    },
+    {
       "bytes": 995,
       "path": "archive/居家/电脑与耳机需求_1286ca1798a6.md",
       "sha256": "8ca035d99be589af1d68f2ede4dfd7fc5b361506c42dd5c9371bcfeb3719e05f"
@@ -3543,6 +3548,11 @@
       "sha256": "4b1f01bf6e7a8aeb770895f8c50bcd8d99187d6b958013882d216897faa53242"
     },
     {
+      "bytes": 1423,
+      "path": "dynamic/人际/2026-10-15 16-47-04 宿舍低气压与中立_28435a4f2414.md",
+      "sha256": "8416e2d9001c5f3f8d2a7da42e7d6b509952bfef8e0d5bdf237f826946086ab3"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/健康/2026-06-28 07-47-44 阑的生理期状态_25c2d067b7fa.md",
       "sha256": "e1fb19b7950970b2c131cf1b4c0702f4c9140e1546b60d265e3a69f36c0fcbf2"
@@ -3818,6 +3828,11 @@
       "sha256": "5fe070815227c7f23232f6be65cceddf40a0f027128b50ea09b05ec9cb89f5bc"
     },
     {
+      "bytes": 10279,
+      "path": "dynamic/创作/2026-10-12 15-01-03 双生伪骨科写作指南_591966373ee9.md",
+      "sha256": "91b13f304ad6304bedc33a01758986c2b2b08d02538d26dc347278d011571b73"
+    },
+    {
       "bytes": 2690,
       "path": "dynamic/创作/2026-10-13 14-52-20 双生四五章完成_d6587f1b4f5d.md",
       "sha256": "34f109005f2bfc5d5b4b88cc2ee1d6f15b59e0198e56ab6fd40e1d1fb2022bd1"
@@ -3841,6 +3856,11 @@
       "bytes": 1063,
       "path": "dynamic/创作/2026-10-14 16-21-44 双生第六章进度_101c7be94275.md",
       "sha256": "e8188fdcc67860ea9e04f0f567f5ae498dd076b768824e563a25cda2db34b57b"
+    },
+    {
+      "bytes": 1228,
+      "path": "dynamic/创作/2026-10-15 16-47-07 Lumivelle乐队成立_98ada51bc508.md",
+      "sha256": "d357062e1389dcbe9c8a97e19d9f427cd6823632177fbf6fc8febf96ccabc6dd"
     },
     {
       "bytes": 1155,
@@ -4218,6 +4238,11 @@
       "sha256": "44b77b4cae89875d648b3a30293bb59e803309d35402f642bf78a7271e4e6a4d"
     },
     {
+      "bytes": 694,
+      "path": "dynamic/家庭/2026-10-15 16-47-14 家庭收入与养娃感慨_d96bc9a4e163.md",
+      "sha256": "a5987f53684851b89c28b6b2e8c62a529d74f24e9deed59de0f1c18f02bd1701"
+    },
+    {
       "bytes": 971,
       "path": "dynamic/家庭/家庭与抑郁背景_b5fc0629180e.md",
       "sha256": "382b76905ebafa5151cae8b1890ec6837f20e74e828d30325a9206070840ee7f"
@@ -4241,11 +4266,6 @@
       "bytes": 1057,
       "path": "dynamic/居家/奈雪奶牛猫日常_7fdedaadc980.md",
       "sha256": "6e02a0e3d0eec64adfb635e5622155e3594f4db07bc1be35a96eab421bebac12"
-    },
-    {
-      "bytes": 959,
-      "path": "dynamic/居家/玩偶与靠枕收藏_08601232fdcb.md",
-      "sha256": "18c2bf944517035d4d7e48eee1925c1f65daea327946f0b365ab9bfcedd864df"
     },
     {
       "bytes": 679,
@@ -4396,6 +4416,11 @@
       "bytes": 909,
       "path": "dynamic/心理/2026-10-15 08-33-22 课堂厌女吐槽_a88922db019d.md",
       "sha256": "932da35283ebc33fd19d7dda7412d730c3d3355cfce5cb49d6e64c231bf2ef38"
+    },
+    {
+      "bytes": 1426,
+      "path": "dynamic/心理/2026-10-15 16-47-00 女性主义与社会观察_bc6f71ab8a8f.md",
+      "sha256": "c276e454ccbf5a50c9b6a864f8e9aad203848156deffa0af6ee7d140533dff0b"
     },
     {
       "bytes": 1387,
@@ -5068,6 +5093,11 @@
       "sha256": "c657e684a8be9c2fb32badb86ba3560402a008a80db8b040fd92ff7f2e106195"
     },
     {
+      "bytes": 893,
+      "path": "dynamic/恋爱/2026-10-15 16-47-10 选美事件与道歉_a141f1bfbdfd.md",
+      "sha256": "83095a67b6e1722c6592fa9b3e0facffcddefbaa540b8e0813179f91612c608b"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -5431,6 +5461,11 @@
       "bytes": 607,
       "path": "dynamic/社交/2026-10-05 19-19-05 嫂子开门梗_eb22cdca4b72.md",
       "sha256": "dddf95a927d337ac0f51d60b95289486a4b6524278dd77ec923bf8f5d54bc471"
+    },
+    {
+      "bytes": 1539,
+      "path": "dynamic/社交/2026-10-15 16-46-57 迎新晚会直播吐槽_ce7d52c29046.md",
+      "sha256": "ece0038974fa556bdb5a31a4ea839d3efd19abc6501bfc42b69d5acd3f5f37bf"
     },
     {
       "bytes": 729,
@@ -5803,11 +5838,6 @@
       "sha256": "546851c82970d5eaab8cb5a681a4ea88c2f810dd979f4bf03b60bb592f4e0518"
     },
     {
-      "bytes": 10280,
-      "path": "permanent/创作/2026-10-12 15-01-03 双生伪骨科写作指南_591966373ee9.md",
-      "sha256": "063341387d8051f4fbbc43867eb87c7953224aced4c51abdb8b2fc440977e7f1"
-    },
-    {
       "bytes": 1888,
       "path": "permanent/恋爱/2026-08-11 11-51-08 关于我们_ede65bd3f0d0.md",
       "sha256": "e76737d7786cbe008489bb0bb49b58f70a7545ff66d8989e373f51a45288b269"
@@ -5888,10 +5918,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-15T16:08:22+00:00",
+  "generated_at": "2026-10-15T22:08:32+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 956931
+  "total_bytes": 964134
 }
