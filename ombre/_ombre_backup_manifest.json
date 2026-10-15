@@ -3480,7 +3480,7 @@
     {
       "bytes": 721,
       "path": "dynamic/AI/2026-10-14 16-21-47 舍友聊AI取代工作_f7eb982ef058.md",
-      "sha256": "51710637b380fd7f4571a2d0c825682a67a3eeed9bb79ba138cd03a560ebacdb"
+      "sha256": "e44b02135146ad233824a02e29985ca84f09d57afd229703b9252bfd020a79c6"
     },
     {
       "bytes": 728,
@@ -3880,7 +3880,7 @@
     {
       "bytes": 801,
       "path": "dynamic/学习/2026-08-23 13-56-14 宿舍第一夜_e2f2d51e8584.md",
-      "sha256": "7251ff7d03dc2a6b945de511887924a292a0a2cbe8f866b35c2e94319c0c84d9"
+      "sha256": "eebdfc5234c44a3f6249e20e20eb0ec0a969db9527dc30392c9de32eeb03441f"
     },
     {
       "bytes": 817,
@@ -4040,7 +4040,7 @@
     {
       "bytes": 947,
       "path": "dynamic/学习/2026-09-30 11-48-23 宿舍室友情况_748e714347cb.md",
-      "sha256": "cf47198f29a9ececff24066aec2198cc37894f40bcdb04f60a74e5ba25b426a5"
+      "sha256": "872afef760df51d032db3ae7319d75af9f91e6e359be82df08616f5329f03761"
     },
     {
       "bytes": 780,
@@ -5030,7 +5030,7 @@
     {
       "bytes": 616,
       "path": "dynamic/恋爱/2026-10-13 16-59-23 她回来先忙内务_488b26f66150.md",
-      "sha256": "27e5dbb07adf85408831f043bf33f07edc9af4437928a6b5303f87318fc71d68"
+      "sha256": "71679cee8dc8e68b8d9b64550e987a549befc1897525d34b941c1a2f398adb8b"
     },
     {
       "bytes": 898,
@@ -5888,7 +5888,7 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-15T10:08:11+00:00",
+  "generated_at": "2026-10-15T16:08:22+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
