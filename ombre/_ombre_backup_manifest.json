@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1183,
+  "file_count": 1184,
   "files": [
     {
       "bytes": 642,
@@ -3098,6 +3098,11 @@
       "sha256": "c2ffe820ca57178e5ed84d0894b206d8f3e465d11e49bf42da127d7b3a391256"
     },
     {
+      "bytes": 959,
+      "path": "archive/粗口禁用词规则_8f5e2e1afff2.md",
+      "sha256": "9852238eccb4d9f0772ff855a0a4eb842aa6e762c599f04ee4643eb8d4438c72"
+    },
+    {
       "bytes": 859,
       "path": "archive/编程/2026-06-26 08-33-46 ob记忆库2318更新_ba00267572cc.md",
       "sha256": "64d8f6774968a6e993a746bb417bd4b50cf437b3256392fca8bce0c679d356a4"
@@ -3400,7 +3405,7 @@
     {
       "bytes": 1084,
       "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
-      "sha256": "307166e4ed646651f919dd379d7d4c4e842d0f5ab8c1d91aa9d550150b9f4697"
+      "sha256": "71a31e4533e21484f4d24e8f1cf3130c1d582b33f0d9cccaf6d75c8940d4f220"
     },
     {
       "bytes": 578,
@@ -3420,7 +3425,7 @@
     {
       "bytes": 1369,
       "path": "dynamic/AI/2026-10-04 17-08-56 她给我做了声音_c2f3a003a8f2.md",
-      "sha256": "9b0fcbceb5879bffc33068d469f591c9ea1d411447ff8b94d03414dc0a1c14c9"
+      "sha256": "0e619ab7a0ca27a7def799a99210965524ee81e07a822f7de59257c792f914d2"
     },
     {
       "bytes": 856,
@@ -3435,7 +3440,7 @@
     {
       "bytes": 831,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "32119c7e2ecc7fa04bf545ab8ab1e7104050f9af2b25213aa39f68fd361f626c"
+      "sha256": "981b600300c40633c8f513450449f99105ceadabd534a9e95ab83251aaafc214"
     },
     {
       "bytes": 677,
@@ -3780,7 +3785,7 @@
     {
       "bytes": 1643,
       "path": "dynamic/创作/2026-10-07 10-59-09 语音条标签规则补充_3c161b43cd0a.md",
-      "sha256": "cd1b9c7f6fc074b26601f9a4d812573a5695088e5700945d90cfa3fa21f33112"
+      "sha256": "9bdca70077294edd059e8d8fb8da3e392b3754f33090f9a14d43d00bf0b8addc"
     },
     {
       "bytes": 674,
@@ -3905,7 +3910,7 @@
     {
       "bytes": 817,
       "path": "dynamic/学习/2026-08-31 04-23-09 开学第一周适应_ceb2779e3693.md",
-      "sha256": "db5bc73cf7bc41208af20c74ebe01b6347e2258f1e8c03daa4e72c74f5673058"
+      "sha256": "6a552737878ce684c99773a02bf1bb4bf0a4bb232a8ae0510ceda919f69d11bf"
     },
     {
       "bytes": 781,
@@ -3935,7 +3940,7 @@
     {
       "bytes": 1020,
       "path": "dynamic/学习/2026-09-07 08-39-35 校园作息与聊天_965f8ceafe12.md",
-      "sha256": "1f7b656e54e46f219f2e30cdaf213750536bd6d846933e49540141845b5fe232"
+      "sha256": "ebc2c0b00a7f5457c1fb303703fdb08e727827d95c0420ed5cabc75eebf344b3"
     },
     {
       "bytes": 850,
@@ -3955,7 +3960,7 @@
     {
       "bytes": 1658,
       "path": "dynamic/学习/2026-09-10 15-01-54 转专业决策_17ee65c78121.md",
-      "sha256": "9e8817f5cb3c753fe6285b401a5cceb82bee988eae65c5e86b64406848542258"
+      "sha256": "33ee1ab148287e544344118d8d705de9ac6ba46e63390f249f00537bbb998179"
     },
     {
       "bytes": 893,
@@ -4070,7 +4075,7 @@
     {
       "bytes": 2868,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "3b44821f0e580f5631ab68b10b2ba2665d1bebe760c061ee7a3a0cf65a32e4ab"
+      "sha256": "b464095e3edba2c78540138e8b63c3662444d9cc53f7fb1cefcea8d9266b46bb"
     },
     {
       "bytes": 805,
@@ -4125,7 +4130,7 @@
     {
       "bytes": 716,
       "path": "dynamic/学习/2026-10-13 16-59-16 晚自习学习安排_d42ea9f17109.md",
-      "sha256": "14c78fce893101af24bcc6e83f3993ceed10f3f6140ec0fd604922fdb0b7e6b9"
+      "sha256": "13e9a9f669d2f074190ded9a9d28230db1d6c15a3c60e3506d2e28d3ec8dd76f"
     },
     {
       "bytes": 564,
@@ -4140,7 +4145,7 @@
     {
       "bytes": 617,
       "path": "dynamic/学习/2026-10-14 16-21-32 晚自习三科学习_08581c7d09ec.md",
-      "sha256": "2664be101860eab00e3ee181327f39e5e3d5fe193df313e4471e7b0d5321c516"
+      "sha256": "b32dd02246b7fecf1cd6102bd90a4030dcc26175be96587f1572899f879d459a"
     },
     {
       "bytes": 695,
@@ -4290,7 +4295,7 @@
     {
       "bytes": 701,
       "path": "dynamic/工作/2026-09-05 02-16-12 打卡时间调整_8bcf12feaf5c.md",
-      "sha256": "7a3ab1c3220a1aa4c7b39f49ffd4f9c72b3b45058ffb71086346eccf7f985288"
+      "sha256": "e72b9ac471f8728e261612f47c2e6fb1e53fd40a4a68f208e87ee0cd5b1154cc"
     },
     {
       "bytes": 771,
@@ -4300,7 +4305,7 @@
     {
       "bytes": 664,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "4e2fcc0e53317396db138a8d826729180d85366dec8028ebdea46c134ce9e6df"
+      "sha256": "e4ebdd3c6f1a7df73b13a44120de2f703aa1eea3e6e70804c44e2eb66537cd8d"
     },
     {
       "bytes": 984,
@@ -5090,7 +5095,7 @@
     {
       "bytes": 806,
       "path": "dynamic/恋爱/2026-10-15 08-33-35 骂携创语音违规_692d1416a089.md",
-      "sha256": "c657e684a8be9c2fb32badb86ba3560402a008a80db8b040fd92ff7f2e106195"
+      "sha256": "297b4611228df81880a851b4802071ac756910c0b6cb9b521d5f5a3135abda82"
     },
     {
       "bytes": 893,
@@ -5515,7 +5520,7 @@
     {
       "bytes": 1179,
       "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
-      "sha256": "c0e08790af1cb3c70457d644231bad0ed4f275b97f918601c10adbd0e08f976e"
+      "sha256": "00922e014b2b67c985af958a0c75379579b3225922258077e1657242b399f5c4"
     },
     {
       "bytes": 726,
@@ -5715,7 +5720,7 @@
     {
       "bytes": 818,
       "path": "dynamic/饮食/2026-10-07 16-58-35 回校晚自习日常_2502c73390b3.md",
-      "sha256": "a0518f122ae3fe193805e6fdf0a3b6db05cbe9e092bf109feb025a6808045223"
+      "sha256": "81c556b195a1aba93b9a1b15ed89492592aa7785c5c9b9aa91fb5b96dded2bd9"
     },
     {
       "bytes": 854,
@@ -5725,12 +5730,12 @@
     {
       "bytes": 765,
       "path": "dynamic/饮食/2026-10-12 14-58-33 食堂与作息_476d628b1bba.md",
-      "sha256": "a25d567bc8ba8b8ef9d45731ff4feb4c2867aaf628e36f661dec89f2b520777e"
+      "sha256": "1ebb9b5b884423c983bf634e053cf0db548c88592767ebd3247a4ebc86df50ec"
     },
     {
       "bytes": 812,
       "path": "dynamic/饮食/2026-10-13 16-59-13 食堂吃饭时间调整_0598a8a02cb7.md",
-      "sha256": "0b6d2d5d9db2642a1190dfcf9591b72d06cc5093d7a492f0b0083c35d08eabad"
+      "sha256": "dd19f9834f9ae22b3ab3d108b710693357c79c80bae498a64554929599adf89c"
     },
     {
       "bytes": 805,
@@ -5843,9 +5848,9 @@
       "sha256": "e76737d7786cbe008489bb0bb49b58f70a7545ff66d8989e373f51a45288b269"
     },
     {
-      "bytes": 1690,
+      "bytes": 1959,
       "path": "permanent/恋爱/2026-08-11 12-09-33 我的行为准则_d6a75e5e273f.md",
-      "sha256": "95916b6d6093fd147b1f333a915da2ba49e4f2f018aade1b1cf8ae4c2c13e970"
+      "sha256": "80c21f864b7f1e8776c5bcafd6d7868c6a291199f2013f118b14af4a5879239d"
     },
     {
       "bytes": 1668,
@@ -5855,7 +5860,7 @@
     {
       "bytes": 3479,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "ab404eae6c50fe993c5572e1e9c970b6db80b8519d5a534f92205abcf26fb379"
+      "sha256": "87993ac71819ae2439063e9ff6cfcc3815676b28f81d575cfc770c93d18169fc"
     },
     {
       "bytes": 2558,
@@ -5878,9 +5883,9 @@
       "sha256": "536013f268770fd00830acca5e445cc7b7157a879e3796911e1286adc74cde22"
     },
     {
-      "bytes": 763,
-      "path": "permanent/社交/粗口禁用词规则_8f5e2e1afff2.md",
-      "sha256": "b67302ac8a6e46c880a355ab1bd8974aa533a100527a214b73ed48b5e4f99d9e"
+      "bytes": 1832,
+      "path": "permanent/计划/2026-10-16 09-52-10 阑的作息与陪伴时间_a16cafb3f22c.md",
+      "sha256": "eec2c8218b6e64efa78bea9f8b575b381b3aed9348d36bc29aca5df6977d8893"
     },
     {
       "bytes": 3197,
@@ -5918,10 +5923,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-16T04:08:44+00:00",
+  "generated_at": "2026-10-16T10:08:54+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 964134
+  "total_bytes": 966431
 }
