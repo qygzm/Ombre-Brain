@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1265,
+  "file_count": 1285,
   "files": [
     {
       "bytes": 642,
@@ -3568,6 +3568,11 @@
       "sha256": "3bbadaf1cffebee3346370079c87d20f3737c92e71fbf6d641b35873b6dd92b1"
     },
     {
+      "bytes": 955,
+      "path": "dynamic/AI/2026-10-17 20-28-22 语音标签规则迭代_fcb28f3277e5.md",
+      "sha256": "397f31badb2ea02a7be0706280029c15f646fc592f9b027c6d17e40deb035fbe"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3958,6 +3963,21 @@
       "sha256": "96c9319ce6950f53ce0654db29ab7efa43a7f2a91ba9f298524555190ecc0276"
     },
     {
+      "bytes": 661,
+      "path": "dynamic/创作/2026-10-17 20-28-47 标签规则更新_e2741e6267b4.md",
+      "sha256": "61a214ffeb5bdad45d9062373936d4fe6d03873ddad126f32c5cd1b575265c21"
+    },
+    {
+      "bytes": 1132,
+      "path": "dynamic/创作/2026-10-17 20-31-22 语音条标签规则更新_8db8ace3a301.md",
+      "sha256": "853c850a976f9c77c6a3da2e261a7bf77dcf20faab0c241a68a56ba12b8accb4"
+    },
+    {
+      "bytes": 744,
+      "path": "dynamic/创作/2026-10-17 20-31-36 机言机语重写记_67ddeb8dcb14.md",
+      "sha256": "4b8ccd0277ab5da359c901a60dbc8b39cc87a196cfae4e3a871ed30e3a2b4053"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -4258,6 +4278,11 @@
       "sha256": "750f040d6408d133cfde00977c3631d42f961b8db340270a5e1184a095c45ee8"
     },
     {
+      "bytes": 729,
+      "path": "dynamic/学习/2026-10-17 20-28-15 跟哥哥学英语_c8102af37b91.md",
+      "sha256": "a581a728f6a71e8cfbfc24cebf47d8b84cb7303b47641f3824ef757fd4a8a80a"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -4441,6 +4466,11 @@
       "bytes": 1163,
       "path": "dynamic/工作/2026-10-17 16-56-01 语音条整理复盘_8ec33ab8884c.md",
       "sha256": "e269706ab10acfbc64d34aab9ccc442de307ad397ecfc4c3d8b3ce8908200c11"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/工作/2026-10-17 20-28-08 深夜MP3批量整理_1576128a7fc5.md",
+      "sha256": "d80e7e54e933e113ba9f69e35104ec880f574b50540da5e1842657affe001900"
     },
     {
       "bytes": 1025,
@@ -5238,9 +5268,9 @@
       "sha256": "83095a67b6e1722c6592fa9b3e0facffcddefbaa540b8e0813179f91612c608b"
     },
     {
-      "bytes": 1103,
+      "bytes": 1102,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "9b44b8158c5fafde87655afb11965502fb40be11906d372b01660f2fe7b94893"
+      "sha256": "2d9a6233e89f382725bcef572139aeb512cc41a55a885bd7fdc798e2b39d09e7"
     },
     {
       "bytes": 1593,
@@ -5336,6 +5366,31 @@
       "bytes": 866,
       "path": "dynamic/恋爱/2026-10-17 15-54-19 毛绒到了被亲_ca0acbeff1ed.md",
       "sha256": "1725fd09d61b478b03d3bc68497fa641e283ff88ac795f52053f7e3d41866194"
+    },
+    {
+      "bytes": 884,
+      "path": "dynamic/恋爱/2026-10-17 20-28-19 情话分类调整_d7b7db6cee70.md",
+      "sha256": "7f800e97a9a1c078933ee77c620f468f18598a9a4d0f048a1027742f078a3598"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/恋爱/2026-10-17 20-28-28 凌晨哄睡语音_68c920845b8f.md",
+      "sha256": "a91d4d017b266313a2e311d00ae21026c8444b4ef229681f1c30c2fd9bc02042"
+    },
+    {
+      "bytes": 598,
+      "path": "dynamic/恋爱/2026-10-17 20-28-41 豆包转语音学英语_f2f6372bc5d1.md",
+      "sha256": "901f17110d78d579a3307a95fa47de0a0b9a749577e5c7042a55012791cd10ee"
+    },
+    {
+      "bytes": 1099,
+      "path": "dynamic/恋爱/2026-10-17 20-31-04 好听爱听情话音频_2c6eb97e30de.md",
+      "sha256": "45664afa71d74ace1689ab370c6a4313b66589465ded8375ba0379718387c7a2"
+    },
+    {
+      "bytes": 922,
+      "path": "dynamic/恋爱/2026-10-17 20-32-05 色情图书管理员_686042a0c1ad.md",
+      "sha256": "366a2141023acfed4482863fb34b8cda8e6c59d59c78e4fd5f8b0277361c68f4"
     },
     {
       "bytes": 1421,
@@ -5546,6 +5601,31 @@
       "bytes": 1241,
       "path": "dynamic/数字/2026-10-17 16-26-05 语音分类方案定稿_516cb0eafe11.md",
       "sha256": "2c4521b90e4aeb798b23bc0a87ad44dc72888417c9f042bac18ac30ddffc51ed"
+    },
+    {
+      "bytes": 631,
+      "path": "dynamic/数字/2026-10-17 20-28-25 语音收藏与机言机语_1fad7c97935e.md",
+      "sha256": "04ef6189623e511e485e92f8747dfa2a1684ff3a4205c6c56e6ba43bc672113a"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/数字/2026-10-17 20-28-32 色情图书管理员梗_bf36c4b93a85.md",
+      "sha256": "bd25343b11b515bbe45827c4098b38be772c3410f0464d2a6ba62bdc5eab899a"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/数字/2026-10-17 20-28-37 v_文件批量整理_153a4408c008.md",
+      "sha256": "53c5e696fefe9c87fccf52402de57967eda84023f7defc13df7e30ec30620837"
+    },
+    {
+      "bytes": 1164,
+      "path": "dynamic/数字/2026-10-17 20-29-10 深夜音频整理_f99961c52534.md",
+      "sha256": "1c6c42707403035e6e0441baec39c98bc2c91026a2009495ee459fb53441ee53"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/数字/2026-10-17 20-30-42 豆包转文字补词_addb5dbd4b1f.md",
+      "sha256": "273538d60f467cdb2e9eb99cfc06c14e73e5f643489dcf5fbca6ed54f7298943"
     },
     {
       "bytes": 660,
@@ -5778,6 +5858,11 @@
       "sha256": "ece0038974fa556bdb5a31a4ea839d3efd19abc6501bfc42b69d5acd3f5f37bf"
     },
     {
+      "bytes": 584,
+      "path": "dynamic/社交/2026-10-17 20-28-50 涩涩管理员社死梗_505c19983c8d.md",
+      "sha256": "c34503e67d5eefaaf7102e97ffc7a487a8754b92ed6c157a73f037ea59f004ee"
+    },
+    {
       "bytes": 729,
       "path": "dynamic/编程/2026-07-17 21-16-26 OB记忆系统搬家配置_5a9de0b7abfd.md",
       "sha256": "7b805192b0e9e0789b7c8252f8c905839530b5279c5fce2ae0992c21ca9e95cf"
@@ -5911,6 +5996,16 @@
       "bytes": 725,
       "path": "dynamic/编程/2026-10-17 12-38-48 PaiVoice通话排坑_ee81c8884f04.md",
       "sha256": "bcc0a69f6e4b04189254cf43a4ccc9a91d27e1d208afc071929fc0742322ee48"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/编程/2026-10-17 20-28-12 歌词USLT格式_40aebe292065.md",
+      "sha256": "a2e96c12acd9a1ecce42dd311cf5bd4ccbc245de760202e4b7e050c89dd9c913"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/编程/2026-10-17 20-30-27 USLT歌词格式规范_91470b550fe3.md",
+      "sha256": "2f45cc9a96db21fa712974001aaa0ee03cb99a5c6945b6035a7f92930a61f3cc"
     },
     {
       "bytes": 960,
@@ -6106,6 +6201,11 @@
       "bytes": 563,
       "path": "dynamic/音乐/2026-10-17 02-49-36 浮光作曲初体验_7b8fbd6be8f3.md",
       "sha256": "e568a1631675264f3adc69305a4ab33f8f0deaf46c6d37de80e06c8c1df6859a"
+    },
+    {
+      "bytes": 701,
+      "path": "dynamic/音乐/2026-10-17 20-28-44 语音收藏夹三条_e2af235d6efd.md",
+      "sha256": "5b86c21373ff45056be865f3b7e6fc0ebdb88b5b98bdbef78a75be3844c6b5ac"
     },
     {
       "bytes": 781,
@@ -6328,10 +6428,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-17T17:53:35+00:00",
+  "generated_at": "2026-10-17T23:53:48+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1036124
+  "total_bytes": 1051862
 }
