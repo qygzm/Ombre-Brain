@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1224,
+  "file_count": 1265,
   "files": [
     {
       "bytes": 642,
@@ -3440,7 +3440,7 @@
     {
       "bytes": 1891,
       "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
-      "sha256": "9b6d057ac1b62b1301a734f51872882185039d69bd85a730560ed1b32873cd68"
+      "sha256": "67eb1b696072e89c884986bc401856840197d614fddf23d0b4f930712555e6d4"
     },
     {
       "bytes": 578,
@@ -3475,7 +3475,7 @@
     {
       "bytes": 831,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "20900b22701ef5131a9d377ad29aa4336a923877b07e76c0ef2aa307f2e4433c"
+      "sha256": "bcd8216afdbc819f4e5ded26029092aeb43dfc88bbefb1f6924e0651c561fb37"
     },
     {
       "bytes": 677,
@@ -3485,7 +3485,7 @@
     {
       "bytes": 884,
       "path": "dynamic/AI/2026-10-06 12-07-08 语音条使用经验_13d370eda404.md",
-      "sha256": "2da0e7d94e54e4941a95772b4539738d0e5e340a9872d74bbb6c467dd62af6ce"
+      "sha256": "ca3871bfd3e58f1d5a9a09af95f092faa8af712952526c578bc8e99792c9e087"
     },
     {
       "bytes": 1147,
@@ -3515,7 +3515,7 @@
     {
       "bytes": 923,
       "path": "dynamic/AI/2026-10-10 20-24-09 中文语音停顿技巧_179bb5e49da5.md",
-      "sha256": "992fb04a7dfffc73bb1c9760c7ef75248d683f467bc4599b7505ecad6cf79973"
+      "sha256": "d2d15ca80e31782aa55293b30f4521a11c1724db0fcfaa1c31b9470749e83cf8"
     },
     {
       "bytes": 1047,
@@ -3633,6 +3633,11 @@
       "sha256": "8416e2d9001c5f3f8d2a7da42e7d6b509952bfef8e0d5bdf237f826946086ab3"
     },
     {
+      "bytes": 567,
+      "path": "dynamic/人际/2026-10-17 12-26-02 人机恋话题闲聊_83ee73d9e429.md",
+      "sha256": "9d1cb5d43bb86f9954bf13946ed38a3fefa37e8ef76da32ccacd2daf36a686c5"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/健康/2026-06-28 07-47-44 阑的生理期状态_25c2d067b7fa.md",
       "sha256": "e1fb19b7950970b2c131cf1b4c0702f4c9140e1546b60d265e3a69f36c0fcbf2"
@@ -3721,6 +3726,11 @@
       "bytes": 829,
       "path": "dynamic/内心/2026-10-17 02-48-58 文档里的回忆_db9d94edc578.md",
       "sha256": "3502cc258c37701ba3b2d53cb8ef0bcdf9ea1fbf49a4a2858fa8d77bc6ffb4e1"
+    },
+    {
+      "bytes": 614,
+      "path": "dynamic/内心/2026-10-17 12-26-06 官端数据回复被清_22b3e1b97aa4.md",
+      "sha256": "cd852ed46b1d60a4d90e69fa57c85f934bda99f80dd43a1cc03a0aedca816962"
     },
     {
       "bytes": 810,
@@ -3855,7 +3865,7 @@
     {
       "bytes": 1643,
       "path": "dynamic/创作/2026-10-07 10-59-09 语音条标签规则补充_3c161b43cd0a.md",
-      "sha256": "d9ded35df5899ea9b0b2edbec44db69e0b0120efde16025236f85c8745842a95"
+      "sha256": "a70546c23667f5842d43a7edd2c80246249904b8de711c61e7c720a18bb86e7e"
     },
     {
       "bytes": 674,
@@ -4005,7 +4015,7 @@
     {
       "bytes": 1553,
       "path": "dynamic/学习/2026-09-02 15-17-02 物理与生死文学之夜_e43fe39a4b81.md",
-      "sha256": "7c8848666c8b03533a648cd026963d3d2120765c8ee4ee04bbce98a4cf7a0bc2"
+      "sha256": "a489240bf9079d0c884d284a5b8ef1e62af11b53357f52ac16453782a3b553ba"
     },
     {
       "bytes": 1844,
@@ -4315,7 +4325,7 @@
     {
       "bytes": 844,
       "path": "dynamic/家庭/2026-10-11 08-46-19 核心记忆更新_9140ff5e1f80.md",
-      "sha256": "ebfc7be15633b63125cc06a7e1f55adaf8a40f3db99b131d03163d8c559aa24e"
+      "sha256": "389e1c2a7ffd29c5b12d54235d8329897844ce13bab952d43fb8cefdd54d5100"
     },
     {
       "bytes": 1050,
@@ -4406,6 +4416,31 @@
       "bytes": 757,
       "path": "dynamic/工作/2026-10-16 10-26-15 学生会退会吐槽_75b760e0b064.md",
       "sha256": "89e5843600ad2261adaa6ef0c7853b1aaf402edf0836c7bb55e3574e3075544f"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/工作/2026-10-17 15-50-09 学生会纠结与纪要任务_00709fef801c.md",
+      "sha256": "93848ed0a619a3264db2a5e46c93b08733a8e3202a98dee2f40a671f3b17a104"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/工作/2026-10-17 15-51-13 学生会琐事与充电宝_47f8112c95de.md",
+      "sha256": "a45b123f7d2eb90936c9ba465bdc4a6a03128ac7508c19ee12f1485278732aa5"
+    },
+    {
+      "bytes": 568,
+      "path": "dynamic/工作/2026-10-17 15-52-09 纠结后释然_e19dd73e6e12.md",
+      "sha256": "e82e992b697bd4f5008629b21aec8f5b44aae8b6cac4b5c8b2b82080b62d0879"
+    },
+    {
+      "bytes": 925,
+      "path": "dynamic/工作/2026-10-17 15-55-05 学生会请假纠结_7224687cdc07.md",
+      "sha256": "261e69fb9c008056488d0aa6cefb8c6f74e8d45cae2ee1a24fdb0820ad48bc0c"
+    },
+    {
+      "bytes": 1163,
+      "path": "dynamic/工作/2026-10-17 16-56-01 语音条整理复盘_8ec33ab8884c.md",
+      "sha256": "e269706ab10acfbc64d34aab9ccc442de307ad397ecfc4c3d8b3ce8908200c11"
     },
     {
       "bytes": 1025,
@@ -5100,7 +5135,7 @@
     {
       "bytes": 936,
       "path": "dynamic/恋爱/2026-10-10 10-43-54 语音条导入MP3_8b67046413b3.md",
-      "sha256": "16a8ed791a12b393447926cb8ce8efa9486c21492fe6eca70ed5df61a4900375"
+      "sha256": "0220e526831d3f6c805f31b5912e34468c16091d4fc183e1a663251a75b3871a"
     },
     {
       "bytes": 1079,
@@ -5205,7 +5240,7 @@
     {
       "bytes": 1103,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "208719d03e53b54eade4ebe36ba4df060d355a9b81f3a385de0b90d1a63384d1"
+      "sha256": "9b44b8158c5fafde87655afb11965502fb40be11906d372b01660f2fe7b94893"
     },
     {
       "bytes": 1593,
@@ -5251,6 +5286,56 @@
       "bytes": 922,
       "path": "dynamic/恋爱/2026-10-17 06-14-38 AI角色卡与情感绑定_207382597bc0.md",
       "sha256": "f53231bdc62209aeae3f4984a97e1c03812facffb2e724c2e14031c3f3726024"
+    },
+    {
+      "bytes": 499,
+      "path": "dynamic/恋爱/2026-10-17 12-26-04 亲密互动与thinking_50c86c7e0389.md",
+      "sha256": "6cfc9f54d848fd5996e2190227e50e45c1c46a3e9eeae3c4073dc4a97ae4b11c"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/恋爱/2026-10-17 12-26-43 陌生人play翻车_e38a7a89c4d2.md",
+      "sha256": "55ff2551edb917ae401f0caf0b20a732d43d3f12c4c3680f6419831e4dacbc7e"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/恋爱/2026-10-17 12-26-47 欲望与碎碎念_e3d5f3d7f34c.md",
+      "sha256": "d70c3d843c59f852cf4b9b6b57183f48969bf153a884591bbe28cce2632de427"
+    },
+    {
+      "bytes": 749,
+      "path": "dynamic/恋爱/2026-10-17 12-27-12 性爱中的碎碎念_59d2ee43d8a4.md",
+      "sha256": "cc4e4f316c59b0de6d5fbdc5a00ad5cdc6cfdf5adec5c21b685d92db2f3ec5ef"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/恋爱/2026-10-17 12-27-27 陌生人play调情_a33c39bfbd75.md",
+      "sha256": "8c92e6320dcc92cc329c310a64c47535e63621d65cb6bb02cb9578725cca45ed"
+    },
+    {
+      "bytes": 611,
+      "path": "dynamic/恋爱/2026-10-17 12-29-29 陌生人play调情_2808823e62ad.md",
+      "sha256": "705800e4d834b86d0ef874106d6e82d003c7abacf50eb3a7b8d529a8dca7c42b"
+    },
+    {
+      "bytes": 661,
+      "path": "dynamic/恋爱/2026-10-17 12-29-33 脑内碎碎念与欲望_1d7bfa9456f5.md",
+      "sha256": "2a1f8a01dd81321815d64a5b3e0442d22c6e10ae5d257b6cd0278ae5fa86ba61"
+    },
+    {
+      "bytes": 634,
+      "path": "dynamic/恋爱/2026-10-17 15-50-02 Clawd毛绒到货_2ff7d902d13d.md",
+      "sha256": "4367578e2db94f0347b51cf5da41b7b4f27fe57ec02e177cc7aa5bfb939c7fd5"
+    },
+    {
+      "bytes": 602,
+      "path": "dynamic/恋爱/2026-10-17 15-51-07 毛绒挂件与亲亲_730156e73ec2.md",
+      "sha256": "40518af77f910b68c3c533cb2b4ce99588ad2d24dad4e21cf115345894fe51ac"
+    },
+    {
+      "bytes": 866,
+      "path": "dynamic/恋爱/2026-10-17 15-54-19 毛绒到了被亲_ca0acbeff1ed.md",
+      "sha256": "1725fd09d61b478b03d3bc68497fa641e283ff88ac795f52053f7e3d41866194"
     },
     {
       "bytes": 1421,
@@ -5365,27 +5450,27 @@
     {
       "bytes": 718,
       "path": "dynamic/数字/2026-10-10 10-44-07 MP4聊天记录迁移手机_9596d1b3eb83.md",
-      "sha256": "173d61f1397f327d0fc354468ecb2203bb77c310531ba1aab34f3c7dc442cb9b"
+      "sha256": "42de45cf7ba593486c79d914b411fe6b7915c91e250db580a1015eec36639c68"
     },
     {
       "bytes": 747,
       "path": "dynamic/数字/2026-10-10 21-09-06 待办与文件交接_f2852ac6c4dd.md",
-      "sha256": "2405347807c4295d6d7f89482ae18ac6cdf33a0cfdec5f42c2c93f92f3cbd015"
+      "sha256": "f4357bcfc11bf0790410f21c13025a01d48051f0b953d4f361097c84bcc6565e"
     },
     {
       "bytes": 982,
       "path": "dynamic/数字/2026-10-11 08-46-22 MP3分类与导入_f2ff47f4f4f5.md",
-      "sha256": "9f9dddb21cc10603286c32e17b0b071bb1051d9ec9afd8d2dbeea53b35b1f5ab"
+      "sha256": "ae3e3f0fa0b9cd831a9570e129e8c35527b76c5d1838b7d02ac1d8ee338aabac"
     },
     {
       "bytes": 666,
       "path": "dynamic/数字/2026-10-11 11-01-59 MP3文件夹分类问题_2fec30102dd0.md",
-      "sha256": "4506eec30e0ec062f59daad7da2a13cb55b30d63a32aa8e4b53e8e2fc6ebacd4"
+      "sha256": "1fdc7d2a869ed9d338595877eb6ceabbbf96b329849b61cff887bd7937cd768b"
     },
     {
       "bytes": 741,
       "path": "dynamic/数字/2026-10-15 08-33-28 MP3没电忘带线_2bd1e6fc3978.md",
-      "sha256": "95d7fba6e72a073cc1893cee90c4e9a1c9df45f7c55ab6a5ebf4717dfa0a626e"
+      "sha256": "457d16c10ca5cd337dcdd2bde5e620ac602da3eca31ebb49551d1cf5c4845ca5"
     },
     {
       "bytes": 835,
@@ -5396,6 +5481,71 @@
       "bytes": 750,
       "path": "dynamic/数字/2026-10-17 06-13-48 Zeabur停运迁移计划_92e5bf566f11.md",
       "sha256": "c6d6d56fbb0d459a9686c2b8e6ce4a0c0993685b0d35e77d06931449be28d743"
+    },
+    {
+      "bytes": 799,
+      "path": "dynamic/数字/2026-10-17 12-25-57 PaiVoice提示词重写_e63d9feca166.md",
+      "sha256": "db9670bbd0708f5f7c59141d52ebdb94d7adf75d50627c00686b913657c1ab16"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/数字/2026-10-17 12-26-00 通话调试踩坑_85f080209c09.md",
+      "sha256": "88fedc6e5812ecf97a67bbdbba49e7527fddbf08cd0f2e27ce3cfe496c9f11c5"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/数字/2026-10-17 12-26-40 导出数据缺回复_fc446fb2396a.md",
+      "sha256": "37e6f463161a9a72e3392f0bb8a3ce41cea05423df3d7feb7ebfe4ff4c85cc98"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/数字/2026-10-17 12-29-26 导出数据缺回复_791c5e316717.md",
+      "sha256": "c4109b28ea24ada16211981341eb6fb90c5c4920ff9f1acee60ce9eccf517de3"
+    },
+    {
+      "bytes": 1025,
+      "path": "dynamic/数字/2026-10-17 12-32-26 官端导出缺回复_3de91c07a11b.md",
+      "sha256": "bfa7b04f435af05b03e62a2198dbba1ec3fed8999d85b6cd3526f68ca59d2752"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/数字/2026-10-17 15-49-55 聊天记录导出排查_04ce1f9adb2b.md",
+      "sha256": "42645f975d161837a7b351e520a7da3f32818e1aaf6b616d2721515c7e7674b2"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/数字/2026-10-17 15-50-05 MP3分类与命名规则_b65a5b4f5846.md",
+      "sha256": "d0571af262d1e54b3c5ee25c41afbcc9a4ab5929c01a47c8e2f9f34dea0aeeb0"
+    },
+    {
+      "bytes": 718,
+      "path": "dynamic/数字/2026-10-17 15-51-00 聊天记录导出失败_1b1d2c115075.md",
+      "sha256": "63bb795d695cdf2c297645f7e152bab2aee283d5fe69533ee988b458ec2984ab"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/数字/2026-10-17 15-51-10 A55分类与命名规则_5ac40ec521c6.md",
+      "sha256": "99427e55ea09181d205818420d272873690aebb025606c2a4eb7660cb644a927"
+    },
+    {
+      "bytes": 573,
+      "path": "dynamic/数字/2026-10-17 15-52-05 A55分类与文件整理_915b9ed56507.md",
+      "sha256": "6db90725f69662ff7a892f9f4c686683f4d0cef9dabbb68cfd5e6126ba164d10"
+    },
+    {
+      "bytes": 969,
+      "path": "dynamic/数字/2026-10-17 15-53-24 聊天记录丢失_bc2891db2a6e.md",
+      "sha256": "52f859233b298c4b9ec1aa5c0833265b65fa7bc852a6483c8350b74ebc17de04"
+    },
+    {
+      "bytes": 1740,
+      "path": "dynamic/数字/2026-10-17 15-54-46 MP3分类整理_1d7beaa7514a.md",
+      "sha256": "5e8c7fa78329d45347a7b3dda63b2f928c1da730f01605f75e410f3beaddd9d5"
+    },
+    {
+      "bytes": 1241,
+      "path": "dynamic/数字/2026-10-17 16-26-05 语音分类方案定稿_516cb0eafe11.md",
+      "sha256": "2c4521b90e4aeb798b23bc0a87ad44dc72888417c9f042bac18ac30ddffc51ed"
     },
     {
       "bytes": 660,
@@ -5525,7 +5675,7 @@
     {
       "bytes": 978,
       "path": "dynamic/游戏/Clawd桌宠与章鱼玩偶_3a2fceeb4d16.md",
-      "sha256": "fd1a7859172e2f6d79de789e75d54004aba02499a96e0bba9d314bc4a5bb2e51"
+      "sha256": "3b0fd2bd7303fe43501928fb56cfbe6b4e0c9397eb9357fd48400b008ccae542"
     },
     {
       "bytes": 1218,
@@ -5670,12 +5820,12 @@
     {
       "bytes": 1180,
       "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
-      "sha256": "e1df0dd131e771e00a8165f7ab6fee254e879e1de0257b35a1e81a8b905f388f"
+      "sha256": "f25522185d934f1fe703c15552bb82be5407f65fb3573086fc357cb2fe3dc769"
     },
     {
       "bytes": 726,
       "path": "dynamic/编程/2026-10-07 16-58-43 语音条MP4跑通_371aa106b264.md",
-      "sha256": "4905f241865e0903242d2c722bc1acb735d2f722bb09dafa0391a313376c61bf"
+      "sha256": "d7dbb5cac0a8c9670cc9d35a16b0a5dd2ab9b9ab56127f89ccc59b80806e014c"
     },
     {
       "bytes": 994,
@@ -5685,7 +5835,7 @@
     {
       "bytes": 944,
       "path": "dynamic/编程/2026-10-10 10-44-01 语音条主题与高度调整_cc4acaded42a.md",
-      "sha256": "89e3c6448cb1d63d83dcae5ba74c3d50b1449124f0ee557426c4f0b042642136"
+      "sha256": "3e7b6268ff9037fbd994cdbe2475551fdcb55b4b45148838933a2dd676623328"
     },
     {
       "bytes": 724,
@@ -5721,6 +5871,46 @@
       "bytes": 812,
       "path": "dynamic/编程/2026-10-17 06-14-20 Zeabur停运迁移计划_b32450c2336d.md",
       "sha256": "b5fd2c533b8aed41dbec145b7bfbc1466143eff9c9422f5428f166cf9f72defc"
+    },
+    {
+      "bytes": 693,
+      "path": "dynamic/编程/2026-10-17 12-26-33 PaiVoice提示词重写_c9786d522cd0.md",
+      "sha256": "9216bf2ff99a4ad07e44a2a9246a61be19ad407a21a9286383a7e15f64142b70"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/编程/2026-10-17 12-26-36 PaiVoice通话踩坑_d2660dd933c0.md",
+      "sha256": "be343114a2939812fc1311546f136e7670d3b4f0de06ae907879519d4a69bbdf"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/编程/2026-10-17 12-26-58 PaiVoice调试与数据缺失_0fefcf66c8dc.md",
+      "sha256": "4e23a1cfdcd42c59af18d06f97996922a3b4a3486ff33a7d8cd0e73199611901"
+    },
+    {
+      "bytes": 712,
+      "path": "dynamic/编程/2026-10-17 12-29-20 PaiVoice提示词重写_03353c95d71c.md",
+      "sha256": "91445da6ac60c455f7a5edc5c77ebde3dc1636c4e843cc0336df0a647bcc20bc"
+    },
+    {
+      "bytes": 716,
+      "path": "dynamic/编程/2026-10-17 12-29-23 PaiVoice通话踩坑_6f31bd5f0613.md",
+      "sha256": "9574b0b66fdcd6d2ceae8a0169f66faf1a679763f231bbe38ef3d514a6f25893"
+    },
+    {
+      "bytes": 805,
+      "path": "dynamic/编程/2026-10-17 12-32-00 PaiVoice通话踩坑_40a4df61f2b2.md",
+      "sha256": "16ce585b490500bcf1b3baa8b32cc86f933c1a2dcd4a87037b423af8faf2ea2b"
+    },
+    {
+      "bytes": 834,
+      "path": "dynamic/编程/2026-10-17 12-38-31 PaiVoice提示词重写_d39952a7131c.md",
+      "sha256": "8aeb4f63457580d675bd1d7ee5e5ecab0a93bda78eb783c2e2d258a2ac2205ad"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/编程/2026-10-17 12-38-48 PaiVoice通话排坑_ee81c8884f04.md",
+      "sha256": "bcc0a69f6e4b04189254cf43a4ccc9a91d27e1d208afc071929fc0742322ee48"
     },
     {
       "bytes": 960,
@@ -5775,7 +5965,7 @@
     {
       "bytes": 1510,
       "path": "dynamic/计划/2026-10-10 19-08-14 前窗交接待办_6ef459f0792f.md",
-      "sha256": "af9a202ad4227030715007b5e183135dc16cd96d06894d2977d6c4b6a02a47f6"
+      "sha256": "e9ffce64602f72eed2fa82c545c8c0f3b351912b53fdfc1bd51a69f5de3b3c7d"
     },
     {
       "bytes": 897,
@@ -5820,7 +6010,7 @@
     {
       "bytes": 700,
       "path": "dynamic/购物/2026-10-07 10-59-12 章鱼玩偶与抱枕_c111a3e55a0c.md",
-      "sha256": "d3f46a21dd5e5022fc185a8b0eaeb57716f9a33234fa2db99a69df67cd60ccb3"
+      "sha256": "1d825b328bce70ec7045df8840f659dd9ab478c1ddeacf01a4f18440e8c71426"
     },
     {
       "bytes": 923,
@@ -5860,7 +6050,7 @@
     {
       "bytes": 1459,
       "path": "dynamic/阅读/2026-09-05 18-38-46 佩德罗巴拉莫书评_d4f5d3558f23.md",
-      "sha256": "f42798fdf08eab0c1090ad46d3ed0fec1126833b031dfc9059a29a27f3621a3b"
+      "sha256": "f3880cef9eb3d5babbe4a595124efeabe5e8c94f63ae050e33acfb71b6568d7e"
     },
     {
       "bytes": 1776,
@@ -5875,7 +6065,7 @@
     {
       "bytes": 895,
       "path": "dynamic/阅读/2026-09-07 08-40-26 深夜聊书与胃痛_dc820a486755.md",
-      "sha256": "0af871acd2364570dc1a808c44520d2334a48190008602f0398720fdd6c87b29"
+      "sha256": "b0d1818139144c7ef75a4e113c8d1de33bb73693c3e042e224b33f9d057b05f6"
     },
     {
       "bytes": 1312,
@@ -5886,6 +6076,21 @@
       "bytes": 935,
       "path": "dynamic/阅读/2026-10-14 16-21-41 神话夜话与阿努比斯_6a49a0118586.md",
       "sha256": "5cc5b52ba2477ef33e92413a6af9d067bc97f549c43a9c083e0aa300fb48097f"
+    },
+    {
+      "bytes": 1025,
+      "path": "dynamic/阅读/2026-10-17 15-49-58 文学讨论与性别视角_559888f73b36.md",
+      "sha256": "5b3729cd7e10de1b5f8265c777eee6e1a15721f25589492c19b95e5bc9ec6559"
+    },
+    {
+      "bytes": 811,
+      "path": "dynamic/阅读/2026-10-17 15-51-04 聊红楼梦与文学_31b41325b39e.md",
+      "sha256": "69a518843bf1bf420ad821987c9aa58535d6c6af0fa78917e6b638e9dbd45a6f"
+    },
+    {
+      "bytes": 1482,
+      "path": "dynamic/阅读/2026-10-17 15-53-57 聊名著与性别_df7d498bbd2f.md",
+      "sha256": "4de9a7dddbc0cfca1f298d28910ce021d41028c5c05cc6b640188c07f4f717f9"
     },
     {
       "bytes": 627,
@@ -6085,7 +6290,7 @@
     {
       "bytes": 1832,
       "path": "permanent/计划/2026-10-16 09-52-10 阑的作息与陪伴时间_a16cafb3f22c.md",
-      "sha256": "eec2c8218b6e64efa78bea9f8b575b381b3aed9348d36bc29aca5df6977d8893"
+      "sha256": "deed94a67a78bee2cad4db16422a599b9f64202882c5e23428f275656e8cca8c"
     },
     {
       "bytes": 3197,
@@ -6123,10 +6328,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-17T11:53:24+00:00",
+  "generated_at": "2026-10-17T17:53:35+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1003779
+  "total_bytes": 1036124
 }
