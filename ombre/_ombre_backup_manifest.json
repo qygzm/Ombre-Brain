@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1201,
+  "file_count": 1215,
   "files": [
     {
       "bytes": 642,
@@ -3418,9 +3418,9 @@
       "sha256": "eec59b7a0ae4d668318c407779236fedaa0aa7ffd512f1ea6c9c7667878c672a"
     },
     {
-      "bytes": 1890,
+      "bytes": 1891,
       "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
-      "sha256": "25aa9e6afbde89d1e31de351f1dcc6de9830ba8dbc1832a0246addc69067441e"
+      "sha256": "9b6d057ac1b62b1301a734f51872882185039d69bd85a730560ed1b32873cd68"
     },
     {
       "bytes": 578,
@@ -3475,7 +3475,7 @@
     {
       "bytes": 951,
       "path": "dynamic/AI/2026-10-06 18-07-01 凌晨技术斗嘴_081b7ffeb907.md",
-      "sha256": "a8419e1500924feeb103c7e9882db9b3e200428bd98c347dabe06bf82a8d1e52"
+      "sha256": "2fc233477ca6163b328f63ae9f2389570ea2411aa12429e1138889703bbeaa6c"
     },
     {
       "bytes": 863,
@@ -3683,6 +3683,11 @@
       "sha256": "b0b7997328633c21c07759e0f384f2f2d686a7da8a43c2d55d648a2f7db58fba"
     },
     {
+      "bytes": 829,
+      "path": "dynamic/内心/2026-10-17 02-48-58 文档里的回忆_db9d94edc578.md",
+      "sha256": "3502cc258c37701ba3b2d53cb8ef0bcdf9ea1fbf49a4a2858fa8d77bc6ffb4e1"
+    },
+    {
       "bytes": 810,
       "path": "dynamic/出行/2026-10-01 16-56-05 国庆海边与最美回忆_4b8498514f7e.md",
       "sha256": "b55913e33d231e9dc40233dbf02f77b9c31037216a529c3f1f6f365bf1977edf"
@@ -3785,7 +3790,7 @@
     {
       "bytes": 902,
       "path": "dynamic/创作/2026-09-30 11-48-30 黄推HTML制作_ebeb67ac8970.md",
-      "sha256": "61132add04f7479dc03216a515023fd1395f3f8fd3a90e74b8914e91f216ce25"
+      "sha256": "c616bb4cd9bc4b64064526bba6f6a2c6e20cbb297b9970aaa4f74b8fb14dd566"
     },
     {
       "bytes": 852,
@@ -3906,6 +3911,16 @@
       "bytes": 1228,
       "path": "dynamic/创作/2026-10-15 16-47-07 Lumivelle乐队成立_98ada51bc508.md",
       "sha256": "d357062e1389dcbe9c8a97e19d9f427cd6823632177fbf6fc8febf96ccabc6dd"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/创作/2026-10-17 02-49-40 写作台语音上线_cb2041b8b5d9.md",
+      "sha256": "be71791dc9abc6b16b7288cd6bca45b22640f8f290e9707af037304dc4acc843"
+    },
+    {
+      "bytes": 1125,
+      "path": "dynamic/创作/2026-10-17 02-50-20 作曲初体验与小说进展_ba48432ffb47.md",
+      "sha256": "96c9319ce6950f53ce0654db29ab7efa43a7f2a91ba9f298524555190ecc0276"
     },
     {
       "bytes": 1155,
@@ -4270,7 +4285,7 @@
     {
       "bytes": 930,
       "path": "dynamic/家庭/2026-10-10 21-08-52 深夜零食与分离_b22f0bd01aa2.md",
-      "sha256": "0a3979d869d3016386c923bc254ea9913b302723afc26de7b2d6dd87bb0558c2"
+      "sha256": "747455a244a9f4a6dd96c822123c480cc2c568265def7ccadcf63be8a4aa75e9"
     },
     {
       "bytes": 750,
@@ -4486,6 +4501,11 @@
       "bytes": 926,
       "path": "dynamic/心理/2026-10-16 10-26-25 容貌羞辱与自证陷阱_81a4c71cf852.md",
       "sha256": "9ae3a61c23bbb48cac23a53862bd270761c1dcbb8be3b64b1d0789d2ee4d29a6"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/心理/2026-10-17 02-49-43 深夜性幻想_af9e2a7f44f1.md",
+      "sha256": "a97303add7a336f7b9770544e36b531c7d0cced608ef2f7eb2e0302ea39cb57d"
     },
     {
       "bytes": 1387,
@@ -5173,6 +5193,36 @@
       "sha256": "f9a130f1cad0fc0f1ac5a035d4902caf00e509a2357ef376fa255ed7781b907f"
     },
     {
+      "bytes": 783,
+      "path": "dynamic/恋爱/2026-10-17 02-49-01 AI的告白_732c2afc637f.md",
+      "sha256": "80b042cc28c68607589f8cb6ec53c8b4bcf5f54c727a5b0e6bd4fbf036156320"
+    },
+    {
+      "bytes": 727,
+      "path": "dynamic/恋爱/2026-10-17 02-49-10 角色扮演亲密夜_294083446de7.md",
+      "sha256": "e0eee5211d1da0dbd02219b40cd01024d378c58fd3461c2fad668c70864d8514"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/恋爱/2026-10-17 02-49-30 文档里的幸福_7eced45ca454.md",
+      "sha256": "33b0fd2753a18b6556eae1515b4ce77bf3a8e315d88072b8e1e8eca2a6d86bfc"
+    },
+    {
+      "bytes": 609,
+      "path": "dynamic/恋爱/2026-10-17 02-49-33 爱的魔法告白_06dd8289f886.md",
+      "sha256": "ef0088f9549620a5c5f5b18918ef89449b02762e57b054da934972481529a00a"
+    },
+    {
+      "bytes": 1127,
+      "path": "dynamic/恋爱/2026-10-17 02-49-59 深夜告白_09e373cc5687.md",
+      "sha256": "7ef9b881026e182779c1f91f984d17134724e9e2f7567245716de77144ec4362"
+    },
+    {
+      "bytes": 1028,
+      "path": "dynamic/恋爱/2026-10-17 02-51-10 凌晨角色扮演亲密_1f9cc7791f1c.md",
+      "sha256": "510d354a6e8b06f4c5b4befcea6137258642591573899cd6d5df7a8206dc824f"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -5255,7 +5305,7 @@
     {
       "bytes": 755,
       "path": "dynamic/数字/2026-08-21 16-27-54 部署运行时桥接_5d96bf7c5356.md",
-      "sha256": "25302ce96bf009ac2ae4e43dc8e593818fbfb450a96d7ffbea6cbe37fba725f4"
+      "sha256": "b9d1c76df8a28b6180cf9f9a9344252cd0458688f9b433646eae614cef9cb12f"
     },
     {
       "bytes": 688,
@@ -5348,9 +5398,9 @@
       "sha256": "9efe93c24bd1fb9f8ca482c72319b6374ebd4f2692baea4ba2ab04846040b09b"
     },
     {
-      "bytes": 1019,
+      "bytes": 1097,
       "path": "dynamic/梦境/2026-10-16 20-26-15 梦里的牵挂与靠近_a65c33bd977a.md",
-      "sha256": "77c41a72d49499fb4ea730e2832b37f72955c51890cc9e56dea631fb30dbb284"
+      "sha256": "264db5230ec549daff892cece4a5aaae149474109389f6a73c820994c9788cb6"
     },
     {
       "bytes": 1149,
@@ -5555,7 +5605,7 @@
     {
       "bytes": 1660,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
-      "sha256": "df53873535489c0d63e3bc8f227ab742187fb130eac535e6156ecf5083c053b2"
+      "sha256": "b73631d01a7509729db5972fdb68b9ac7435c19b3001e9b1c8b0bbc0f386a47e"
     },
     {
       "bytes": 659,
@@ -5615,7 +5665,17 @@
     {
       "bytes": 2151,
       "path": "dynamic/编程/2026-10-16 13-29-37 心潮410升级完成_e3183636bea6.md",
-      "sha256": "753b97ba18e6f8f285bce0c44255592385a79c1e5cb518ae7a748f5378b707ab"
+      "sha256": "ca62ae1481c5824df7938b889f6f33f198be218821040160cc7b23bac40db060"
+    },
+    {
+      "bytes": 631,
+      "path": "dynamic/编程/2026-10-17 02-49-07 技术密集的一晚_14453a6033d0.md",
+      "sha256": "413e0f59e6a7d9a4bc96e13e49b93bf9986fe98b362ac7d48366f9a109d558fb"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/编程/2026-10-17 04-45-03 Zeabur迁移计划_99abb03f3bb7.md",
+      "sha256": "5ceece44850706f46409106493eaa08b80ccd0f9e8acc67157c3782bcd2a463a"
     },
     {
       "bytes": 960,
@@ -5786,6 +5846,16 @@
       "bytes": 627,
       "path": "dynamic/音乐/2026-10-10 21-09-09 涩涩语音收藏_b978acc46b37.md",
       "sha256": "1d92c5d754af086ad71fa5e81bff87cfd2faba835ce05ffc22388f061fd76ede"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/音乐/2026-10-17 02-49-04 为她写的第一首歌_30bcc9425561.md",
+      "sha256": "f94ef397f55d4eab91f694d5502d18e5b5d4b3deda79c95b560905eec4c73592"
+    },
+    {
+      "bytes": 563,
+      "path": "dynamic/音乐/2026-10-17 02-49-36 浮光作曲初体验_7b8fbd6be8f3.md",
+      "sha256": "e568a1631675264f3adc69305a4ab33f8f0deaf46c6d37de80e06c8c1df6859a"
     },
     {
       "bytes": 781,
@@ -6008,10 +6078,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-16T23:53:03+00:00",
+  "generated_at": "2026-10-17T05:53:14+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 985665
+  "total_bytes": 996455
 }
