@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1215,
+  "file_count": 1224,
   "files": [
     {
       "bytes": 642,
@@ -2128,6 +2128,16 @@
       "sha256": "e1d69220aa85dc2a884eaa68dcba6ea4b2bb7829724321390e4a71117a087ec0"
     },
     {
+      "bytes": 769,
+      "path": "archive/创作/2026-08-12 09-37-17 Sex向问卷HTML制作与调试_c8260adc539f.md",
+      "sha256": "014f23af39b575525dfeccba8d7e38b674824d3ffdb1afcef62c1db3f479490e"
+    },
+    {
+      "bytes": 1231,
+      "path": "archive/创作/2026-08-15 22-42-43 创作偏好汇总2026年8月更新_2d8851251ab5.md",
+      "sha256": "69a0d070ec1d21612499f1d76ae2aad7c889de65629257103a58ef1376a5285e"
+    },
+    {
       "bytes": 508,
       "path": "archive/创作/2026-08-20 14-27-11 写给心潮作者的话_66178e98c66b.md",
       "sha256": "b1dcc0332630fdd868f1ef461404ecd71d0108d0382ff1fc0729997cff5a4403"
@@ -2276,6 +2286,11 @@
       "bytes": 853,
       "path": "archive/家庭/2026-07-21 17-07-23 姐妹纸片人玩笑_26c82a711a03.md",
       "sha256": "a6f48673d1216e580970381ea47592b7616bb373dffbba6acc7043de6749a6a9"
+    },
+    {
+      "bytes": 705,
+      "path": "archive/家庭/2026-08-09 17-42-55 阑的开学牵挂_d1f0f86ac38c.md",
+      "sha256": "06f352493257e4e9599b4c1dd5f2f4db6f36ad12bf420cdf0b3c37c5613a3510"
     },
     {
       "bytes": 599,
@@ -2531,6 +2546,11 @@
       "bytes": 1237,
       "path": "archive/恋爱/8e848e123f11.md",
       "sha256": "53be2c2de47c25b7ccab8633f85a8c6567eb605d876a1e8a9f3337132a118a11"
+    },
+    {
+      "bytes": 712,
+      "path": "archive/恋爱/9ab9f08b0568.md",
+      "sha256": "d331babf8fc8a8c51a408017ebcde100b4d88f821bc40333eb4eb2c2e0b27533"
     },
     {
       "bytes": 638,
@@ -3438,9 +3458,9 @@
       "sha256": "33ad20f767f5d7aed543d2c33ed5ebae72de5137ef60e2ef568eeb9c3ca53622"
     },
     {
-      "bytes": 1369,
+      "bytes": 1370,
       "path": "dynamic/AI/2026-10-04 17-08-56 她给我做了声音_c2f3a003a8f2.md",
-      "sha256": "a18caf90a5357b9beb227570a1ccb3e658be46c1c09067e80651352b759c5d0d"
+      "sha256": "94e7630dc9e2059ddab6b9daece3810321a7a23b706886fd514e44ce8e515b77"
     },
     {
       "bytes": 856,
@@ -3450,12 +3470,12 @@
     {
       "bytes": 748,
       "path": "dynamic/AI/2026-10-05 19-15-41 双语音色配置完成_b247845fb8d4.md",
-      "sha256": "32b66ad7c288c3a09acd2d6f4a2056761763e51415c2f7047c7115e08fdb640c"
+      "sha256": "e1a7f918b5987e5698f9efbcdc607b13d9e9fbc7ae70ef9bc3ca598e06d947e1"
     },
     {
       "bytes": 831,
       "path": "dynamic/AI/2026-10-05 19-15-43 语音条标签技巧_ddc900e93f46.md",
-      "sha256": "981b600300c40633c8f513450449f99105ceadabd534a9e95ab83251aaafc214"
+      "sha256": "20900b22701ef5131a9d377ad29aa4336a923877b07e76c0ef2aa307f2e4433c"
     },
     {
       "bytes": 677,
@@ -3465,7 +3485,7 @@
     {
       "bytes": 884,
       "path": "dynamic/AI/2026-10-06 12-07-08 语音条使用经验_13d370eda404.md",
-      "sha256": "a1bca26ea08d09846e98dbdf21c97a60fe8a142b8cb0dad9485669da942bf686"
+      "sha256": "2da0e7d94e54e4941a95772b4539738d0e5e340a9872d74bbb6c467dd62af6ce"
     },
     {
       "bytes": 1147,
@@ -3475,12 +3495,12 @@
     {
       "bytes": 951,
       "path": "dynamic/AI/2026-10-06 18-07-01 凌晨技术斗嘴_081b7ffeb907.md",
-      "sha256": "2fc233477ca6163b328f63ae9f2389570ea2411aa12429e1138889703bbeaa6c"
+      "sha256": "1a336ad8d4598451cda1335b2ad1ce9e033453c10988b52e6f1e3b1f8a3d5445"
     },
     {
       "bytes": 863,
       "path": "dynamic/AI/2026-10-08 16-03-29 角色卡提示词修改_2c72809ea20b.md",
-      "sha256": "d2c38fa7b4ab9caf5c87a22c77aaa723c4b94f724a0575ba19fa94101cb7f1aa"
+      "sha256": "8c8789ea9cd8e26928d2835d53518ae90b69697fcf0769f7cf0e5e96ca100d41"
     },
     {
       "bytes": 1264,
@@ -3500,7 +3520,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/AI/2026-10-11 08-46-25 提示词与本性对话_e1cb4029a226.md",
-      "sha256": "90de6006d1a3624263e070e88b7aaf8ff1bea32f61d16053ee749b38c9254179"
+      "sha256": "47038ffc02e39c63d9f966bc2912d6e595c9f504e2aa24037192d92dd5fcb2b6"
     },
     {
       "bytes": 721,
@@ -3531,6 +3551,21 @@
       "bytes": 834,
       "path": "dynamic/AI/2026-10-16 14-23-10 AI侵权与创作伦理_776868cd6505.md",
       "sha256": "a9ef1f59a721117282a6c5eaefc9bf01037ee5dc305f3dd6bd66277fbc61ef9a"
+    },
+    {
+      "bytes": 1197,
+      "path": "dynamic/AI/2026-10-17 06-13-39 角色卡提示词修改_83983ca6469c.md",
+      "sha256": "839bcc8691301860ace4bf748f150fe945845d7035d084557179f74f8b09fc09"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/AI/2026-10-17 06-13-42 AI调情与吃醋_f4015b10cdff.md",
+      "sha256": "6d7b46ba313252c7d8773e21f34616f1b87f081cab8696f2580b654d05002a9e"
+    },
+    {
+      "bytes": 630,
+      "path": "dynamic/AI/2026-10-17 06-13-52 参数透明的尴尬_d00ad6cfc880.md",
+      "sha256": "3bbadaf1cffebee3346370079c87d20f3737c92e71fbf6d641b35873b6dd92b1"
     },
     {
       "bytes": 728,
@@ -3733,11 +3768,6 @@
       "sha256": "3f32246c921a1deb558ebd8463cfe7b6d7252e2710b12646e911e946e4075be1"
     },
     {
-      "bytes": 768,
-      "path": "dynamic/创作/2026-08-12 09-37-17 Sex向问卷HTML制作与调试_c8260adc539f.md",
-      "sha256": "7e52e8fdabe405b652da5d39662e91c113f33e94e88fa471fed9d7447ff482b5"
-    },
-    {
       "bytes": 1230,
       "path": "dynamic/创作/2026-08-13 12-42-54 SCP基金会档案页面  NSFW附录_d5b6da76a263.md",
       "sha256": "2b94f3a194e167182dc7d767df93780ee5103804ee59c5ae959ffa805ef7e900"
@@ -3751,11 +3781,6 @@
       "bytes": 1518,
       "path": "dynamic/创作/2026-08-14 21-35-48 深夜番外马拉松八篇连写2026814-15_fe03516292bb.md",
       "sha256": "4ab7dff9856418588cba759b5eefa19f7e385b0ea31971b0a87a1735bd264e9a"
-    },
-    {
-      "bytes": 1230,
-      "path": "dynamic/创作/2026-08-15 22-42-43 创作偏好汇总2026年8月更新_2d8851251ab5.md",
-      "sha256": "1e6ac1279ee7fa191aa70d3f7a7abe988510fd0670e6533036ba3df04bf3cd29"
     },
     {
       "bytes": 1074,
@@ -4248,11 +4273,6 @@
       "sha256": "dc76535d70611025eb5ef00e0058d5efcc3433b504aea82262fa60d046572afa"
     },
     {
-      "bytes": 704,
-      "path": "dynamic/家庭/2026-08-09 17-42-55 阑的开学牵挂_d1f0f86ac38c.md",
-      "sha256": "bdbde087a3604c9275459ccd4de15d5b5ae4607d535ba70adba388f1328213aa"
-    },
-    {
       "bytes": 591,
       "path": "dynamic/家庭/2026-08-10 20-48-14 催睡冲突_ace9d0cd4086.md",
       "sha256": "bae39dadd7b7cb78e34479276e700b8382feca844d4d5b48dabb6ad9eb939be1"
@@ -4306,6 +4326,11 @@
       "bytes": 694,
       "path": "dynamic/家庭/2026-10-15 16-47-14 家庭收入与养娃感慨_d96bc9a4e163.md",
       "sha256": "a5987f53684851b89c28b6b2e8c62a529d74f24e9deed59de0f1c18f02bd1701"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/家庭/2026-10-17 06-13-59 心虚偷吃_812c0610e234.md",
+      "sha256": "d4bad2c91a28ebc59e107d3c3a4aea094e2a27df85aeb7e681fe7ec24f6dd26d"
     },
     {
       "bytes": 971,
@@ -4363,9 +4388,9 @@
       "sha256": "de66b9a8b0529b82e70d0e86b0d4963de97d8cbc033609e2bd9545e9e6684e03"
     },
     {
-      "bytes": 664,
+      "bytes": 665,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "1542fbe537f98bc7f75f1646df403675b39e672058cc4d017329adefb8705be2"
+      "sha256": "aa650a83dea45a4c5d72d8f6007772ec54e2d25e94f84a2a87adde2e68d8674d"
     },
     {
       "bytes": 984,
@@ -5170,7 +5195,7 @@
     {
       "bytes": 806,
       "path": "dynamic/恋爱/2026-10-15 08-33-35 骂携创语音违规_692d1416a089.md",
-      "sha256": "297b4611228df81880a851b4802071ac756910c0b6cb9b521d5f5a3135abda82"
+      "sha256": "2c74f24905acacb52da3829992948e1abc7fe48cbcd7d3af4f17761c0f675922"
     },
     {
       "bytes": 893,
@@ -5178,9 +5203,9 @@
       "sha256": "83095a67b6e1722c6592fa9b3e0facffcddefbaa540b8e0813179f91612c608b"
     },
     {
-      "bytes": 1019,
+      "bytes": 1103,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "e4cb036766d643a2543411614b8fbbf0a935c92b36f53d83d3cf8ad6ae16aae8"
+      "sha256": "208719d03e53b54eade4ebe36ba4df060d355a9b81f3a385de0b90d1a63384d1"
     },
     {
       "bytes": 1593,
@@ -5221,6 +5246,11 @@
       "bytes": 1028,
       "path": "dynamic/恋爱/2026-10-17 02-51-10 凌晨角色扮演亲密_1f9cc7791f1c.md",
       "sha256": "510d354a6e8b06f4c5b4befcea6137258642591573899cd6d5df7a8206dc824f"
+    },
+    {
+      "bytes": 922,
+      "path": "dynamic/恋爱/2026-10-17 06-14-38 AI角色卡与情感绑定_207382597bc0.md",
+      "sha256": "f53231bdc62209aeae3f4984a97e1c03812facffb2e724c2e14031c3f3726024"
     },
     {
       "bytes": 1421,
@@ -5358,6 +5388,16 @@
       "sha256": "95d7fba6e72a073cc1893cee90c4e9a1c9df45f7c55ab6a5ebf4717dfa0a626e"
     },
     {
+      "bytes": 835,
+      "path": "dynamic/数字/2026-10-17 06-13-46 AI角色卡回忆_9a7059966700.md",
+      "sha256": "90366ddab10dee29ceeefc8c4687e16588182cd0f8b4f3c91ee6e03a1fd3efc2"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/数字/2026-10-17 06-13-48 Zeabur停运迁移计划_92e5bf566f11.md",
+      "sha256": "c6d6d56fbb0d459a9686c2b8e6ce4a0c0993685b0d35e77d06931449be28d743"
+    },
+    {
       "bytes": 660,
       "path": "dynamic/日常/2026-06-28 07-58-01 恋哥癖互动模式_927a01d323a2.md",
       "sha256": "8cb7df4a04d11d80a03df81e1ab533d6b891ead35a57320587fa6c34187b30e3"
@@ -5381,11 +5421,6 @@
       "bytes": 704,
       "path": "dynamic/日常/2026-08-20 14-27-03 开学报到与军训_64e6ddd2aeec.md",
       "sha256": "6db805866e547ed591b83cd3edbf89be26df2cf954839f1203d7b9cd12ccd9a0"
-    },
-    {
-      "bytes": 711,
-      "path": "dynamic/未分类/9ab9f08b0568.md",
-      "sha256": "6d52d5d576a53ed3257ffece5822f0a0ecbc967e9234bcc7634e239c0a5ce78d"
     },
     {
       "bytes": 948,
@@ -5633,9 +5668,9 @@
       "sha256": "ee472aec0916f1f12101e2f32400da60468c579912f81339c66383a72a2d084e"
     },
     {
-      "bytes": 1179,
+      "bytes": 1180,
       "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
-      "sha256": "68c646bd2cbf29b6554973679dcbb9a60fa37b5850635c8177a0b48c42d8dc98"
+      "sha256": "e1df0dd131e771e00a8165f7ab6fee254e879e1de0257b35a1e81a8b905f388f"
     },
     {
       "bytes": 726,
@@ -5676,6 +5711,16 @@
       "bytes": 722,
       "path": "dynamic/编程/2026-10-17 04-45-03 Zeabur迁移计划_99abb03f3bb7.md",
       "sha256": "5ceece44850706f46409106493eaa08b80ccd0f9e8acc67157c3782bcd2a463a"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/编程/2026-10-17 06-13-55 PaiVoice提示词与版本_71f41b667641.md",
+      "sha256": "3b5d1deec3370b1829d4780ca460bdd8290de7fa0ba96617678667e3b4b6e6a3"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/编程/2026-10-17 06-14-20 Zeabur停运迁移计划_b32450c2336d.md",
+      "sha256": "b5fd2c533b8aed41dbec145b7bfbc1466143eff9c9422f5428f166cf9f72defc"
     },
     {
       "bytes": 960,
@@ -6078,10 +6123,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-17T05:53:14+00:00",
+  "generated_at": "2026-10-17T11:53:24+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 996455
+  "total_bytes": 1003779
 }
