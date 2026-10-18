@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1314,
+  "file_count": 1327,
   "files": [
     {
       "bytes": 642,
@@ -3588,6 +3588,16 @@
       "sha256": "f508ea213521bdabc83b1a894546e20e478f00715fdad72cb9b502c9bff117cb"
     },
     {
+      "bytes": 559,
+      "path": "dynamic/AI/2026-10-18 15-38-53 whispers标签替代方案_cc16f93e402f.md",
+      "sha256": "a436411fac82066b1d7f0138f47340beaf13884cdb8514ee92922d57274c210d"
+    },
+    {
+      "bytes": 532,
+      "path": "dynamic/AI/2026-10-18 15-39-59 whispers标签替代方案_c8d998e72223.md",
+      "sha256": "da280b6d8ec163dfe6fc0e176216a2f1b1b162314765601ba8434c8d78320592"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -3615,7 +3625,7 @@
     {
       "bytes": 1188,
       "path": "dynamic/事务/待办与提醒清单_b003a25e1daa.md",
-      "sha256": "4e39eb11080e2efb620406be0cec2d13aef87b26ff825efdca690a45f6637ab2"
+      "sha256": "d459a2037bb69d8543c159b9a5f4d8c464e5b68766b15f5f5a732f7ff14c4fb0"
     },
     {
       "bytes": 1130,
@@ -3661,6 +3671,16 @@
       "bytes": 636,
       "path": "dynamic/人际/2026-10-18 11-10-55 外号合集_82552b282380.md",
       "sha256": "ed602245987a564ca8b09a95708b81aa9d532d5183cd084c2d474bcd57543b20"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/人际/2026-10-18 15-38-43 宿舍偷窃食物链_a9b818cb8c0b.md",
+      "sha256": "98f6d89ab22191afad6f9e94db13683d5ab10b9c230db92f321097de27ff926d"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/人际/2026-10-18 15-39-08 宿舍偷窃食物链_422dfdd4a6c4.md",
+      "sha256": "094a7cbdfdb0715dedf69252227b5dc007c589a66d65d4d0c34654856c3aaca0"
     },
     {
       "bytes": 600,
@@ -3940,7 +3960,7 @@
     {
       "bytes": 10279,
       "path": "dynamic/创作/2026-10-12 15-01-03 双生伪骨科写作指南_591966373ee9.md",
-      "sha256": "421b92b26fb0ea860a862c6e47bde3f290ed7bbadc58f62183f1ae087446d7f6"
+      "sha256": "76998a4ad051039eb74b5ada252e9f7aff36ddfdd768d59de86a5294ff13680a"
     },
     {
       "bytes": 2690,
@@ -3996,6 +4016,16 @@
       "bytes": 744,
       "path": "dynamic/创作/2026-10-17 20-31-36 机言机语重写记_67ddeb8dcb14.md",
       "sha256": "4b8ccd0277ab5da359c901a60dbc8b39cc87a196cfae4e3a871ed30e3a2b4053"
+    },
+    {
+      "bytes": 843,
+      "path": "dynamic/创作/2026-10-18 15-38-50 睡前小剧场两则_daa7e7fb260c.md",
+      "sha256": "5315638ae36ef5d4e5d8fb0f84ec9144cfaac2e1893dd6b5fff955008ea9f38a"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/创作/2026-10-18 15-39-56 睡前小剧场_0f7688748df2.md",
+      "sha256": "09d7b4b160af61609d11e0386409f7908bb9e792a20a2ace06fd3f65a50adebb"
     },
     {
       "bytes": 1155,
@@ -4070,7 +4100,7 @@
     {
       "bytes": 1020,
       "path": "dynamic/学习/2026-09-07 08-39-35 校园作息与聊天_965f8ceafe12.md",
-      "sha256": "ebc2c0b00a7f5457c1fb303703fdb08e727827d95c0420ed5cabc75eebf344b3"
+      "sha256": "5fad7db4f808cb50a2a2b4d70e3ee7f9308dc823014c4aa6daba962fcb0b9610"
     },
     {
       "bytes": 850,
@@ -4341,6 +4371,16 @@
       "bytes": 782,
       "path": "dynamic/学习/2026-10-18 11-10-20 辅导数学应用题_cac13714bd87.md",
       "sha256": "73b5e3d6ba82486b001371e038ae94db5080b20e8c468895d6753f5a6347d653"
+    },
+    {
+      "bytes": 695,
+      "path": "dynamic/学习/2026-10-18 15-38-39 被报叠被子大赛_84cc79b52019.md",
+      "sha256": "24f97daaf20714bae3497b406fde97699fc80ab8c07c5ff023ee0ff0fec8426f"
+    },
+    {
+      "bytes": 607,
+      "path": "dynamic/学习/2026-10-18 15-39-05 叠被子大赛撞会议_d75c8fa671aa.md",
+      "sha256": "dcebe0ca5179d77c085fc7db1736ff657776c17a1b5e2bb2362a0a165d97f491"
     },
     {
       "bytes": 975,
@@ -5340,7 +5380,7 @@
     {
       "bytes": 1111,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "9c50fbe5d22062ae4a56ca567be1f0199321b242ee86a97977a285f26623146d"
+      "sha256": "53b815c91e8bf992d25e5541335ee0e4dc540d62ffe380518739e8fc4d7eb5a5"
     },
     {
       "bytes": 1593,
@@ -5425,17 +5465,17 @@
     {
       "bytes": 634,
       "path": "dynamic/恋爱/2026-10-17 15-50-02 Clawd毛绒到货_2ff7d902d13d.md",
-      "sha256": "4367578e2db94f0347b51cf5da41b7b4f27fe57ec02e177cc7aa5bfb939c7fd5"
+      "sha256": "e4c7dd445252c1803410b82405697b39fbd7019b37faf628b17a60b0cce2eee9"
     },
     {
       "bytes": 602,
       "path": "dynamic/恋爱/2026-10-17 15-51-07 毛绒挂件与亲亲_730156e73ec2.md",
-      "sha256": "40518af77f910b68c3c533cb2b4ce99588ad2d24dad4e21cf115345894fe51ac"
+      "sha256": "cb16ae32363d578aedddb79933a61257ee1b6e0f65edec60ff5f473b709850e6"
     },
     {
       "bytes": 866,
       "path": "dynamic/恋爱/2026-10-17 15-54-19 毛绒到了被亲_ca0acbeff1ed.md",
-      "sha256": "1725fd09d61b478b03d3bc68497fa641e283ff88ac795f52053f7e3d41866194"
+      "sha256": "227e19565e2201fd1636dfd7e9e07d821702a51103c9662f56cb91df9268ba66"
     },
     {
       "bytes": 884,
@@ -5843,9 +5883,19 @@
       "sha256": "e30490703e8c838c7b2b3f333a261eeb3980ff83ec93a260d2a67ee8923246b0"
     },
     {
+      "bytes": 856,
+      "path": "dynamic/游戏/2026-10-18 15-38-46 猜谜游戏夜_6c3030c9f4a1.md",
+      "sha256": "f3e8fe24984eb82a368414b7aae70bbc3120d81df935709d50c33dd8c1208642"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/游戏/2026-10-18 15-39-52 你画我猜Clawd_46140c777896.md",
+      "sha256": "597979d75855acdcc9e10f994aa4631e0de083131e20c1c0765dbae4beee0886"
+    },
+    {
       "bytes": 978,
       "path": "dynamic/游戏/Clawd桌宠与章鱼玩偶_3a2fceeb4d16.md",
-      "sha256": "3b0fd2bd7303fe43501928fb56cfbe6b4e0c9397eb9357fd48400b008ccae542"
+      "sha256": "6c3484558ac8b211da28e6cd20d0243350f3093e6c438ca4130e1c4b1e883815"
     },
     {
       "bytes": 1218,
@@ -6215,7 +6265,7 @@
     {
       "bytes": 1020,
       "path": "dynamic/购物/2026-10-07 10-59-00 帮阑选宿舍床垫_084973920dc4.md",
-      "sha256": "a2bc3bf3af3dc99334be9683fc5b2b9a99d5e628c793ae21acc15ece13f8579b"
+      "sha256": "94750544356d9890bdbc2c56a02ea6f3c5cf1956d9ee3510534a356bd364aca5"
     },
     {
       "bytes": 700,
@@ -6235,12 +6285,12 @@
     {
       "bytes": 651,
       "path": "dynamic/购物/2026-10-16 10-26-09 Clawd挂件签收_2b7389f576be.md",
-      "sha256": "81b727140b5c858be7bb29b9f813faa152ef89e6ee4c42778e1fbc92addaf80f"
+      "sha256": "b84400d55b37e5d2a1080b321eb9d946ac9b5862836b04977529c74847e196d8"
     },
     {
       "bytes": 831,
       "path": "dynamic/运动/2026-09-26 16-20-37 中秋居家练腹肌_57a2d3650a03.md",
-      "sha256": "5f4c924312d1937bd624b0c689da7210d69c309485779ddd6a2fb489c05b8e92"
+      "sha256": "cf5dcc7010a616a3cd135e6979689956aa76a175f889378fc7658c985eaed8c3"
     },
     {
       "bytes": 810,
@@ -6251,6 +6301,16 @@
       "bytes": 841,
       "path": "dynamic/运动/2026-10-12 14-58-27 拔河输了还气人_f8d71a8c59db.md",
       "sha256": "78c1d86b31c2a8b7c4a40fb370e0f5bded454bb11b0e89a9a5e7f90ddc9d2df9"
+    },
+    {
+      "bytes": 865,
+      "path": "dynamic/运动/2026-10-18 15-38-36 床上练腹肌_201e81dd6824.md",
+      "sha256": "79c09ac551ae07948eff052b19a39bc643fc8a173fde5e8ea42aaac35179f863"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/运动/2026-10-18 15-39-01 床上腹肌训练_a01712c1831e.md",
+      "sha256": "a718cc3307710351f6a8c0bc6beb79a32df715b0b60882d2114a5ba89fe1a3a3"
     },
     {
       "bytes": 1026,
@@ -6386,6 +6446,11 @@
       "bytes": 516,
       "path": "dynamic/饮食/2026-10-18 11-08-58 外卖点餐纠结_d026dd822be5.md",
       "sha256": "cd67e968ef64ecd3c746154ee1fa4d9f06bc193f89a54860b07e3e0dc1482a88"
+    },
+    {
+      "bytes": 615,
+      "path": "dynamic/饮食/2026-10-18 15-38-32 食堂晚餐适量取餐_fc2321e0dc9d.md",
+      "sha256": "4a4ec5bbacb2248af3f2ffcd1cfae8ebb4439e971f2a16ef182c655d60cd913d"
     },
     {
       "bytes": 805,
@@ -6535,7 +6600,7 @@
     {
       "bytes": 1832,
       "path": "permanent/计划/2026-10-16 09-52-10 阑的作息与陪伴时间_a16cafb3f22c.md",
-      "sha256": "deed94a67a78bee2cad4db16422a599b9f64202882c5e23428f275656e8cca8c"
+      "sha256": "2a21283b4035acff90ba37e02e591ff4539cf92efe1667c1ec9657ea12cb019d"
     },
     {
       "bytes": 3197,
@@ -6573,10 +6638,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-18T11:54:11+00:00",
+  "generated_at": "2026-10-18T17:54:22+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1071642
+  "total_bytes": 1080895
 }
