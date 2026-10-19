@@ -1933,6 +1933,11 @@
       "sha256": "ac2b349e10948f5717bd076b8670cbc0503f0c65f0bd6e371a3e17616574260f"
     },
     {
+      "bytes": 666,
+      "path": "archive/兴趣/2026-06-28 08-04-53 婚后恋妻癖番外_4c7bb45b71e1.md",
+      "sha256": "e90bcfaa680ef8380b91d64e11d164de14c06ad66093fdba98e35d1849f360f5"
+    },
+    {
       "bytes": 503,
       "path": "archive/兴趣/2026-06-30 08-33-37 星露谷物语与MOD_394b6451aabb.md",
       "sha256": "9900ee8b99f0b916c8d8bc2217d64ea34e8a4afabd5f47b3d319d5128d74c866"
@@ -2141,6 +2146,11 @@
       "bytes": 769,
       "path": "archive/创作/2026-08-12 09-37-17 Sex向问卷HTML制作与调试_c8260adc539f.md",
       "sha256": "014f23af39b575525dfeccba8d7e38b674824d3ffdb1afcef62c1db3f479490e"
+    },
+    {
+      "bytes": 1231,
+      "path": "archive/创作/2026-08-13 12-42-54 SCP基金会档案页面  NSFW附录_d5b6da76a263.md",
+      "sha256": "9737d1f7b71dc0ae32f26740bd1cfbaa580efed84f858becbe90407a1ef7db03"
     },
     {
       "bytes": 1231,
@@ -2533,6 +2543,11 @@
       "sha256": "14be32ce13f9feaa2524225d981fb08711422ba5690b2c003347f79497f7e03d"
     },
     {
+      "bytes": 943,
+      "path": "archive/恋爱/2026-08-12 09-37-17 深夜游乐场改标题与亲密核心桶整理_1ea46a3bec2e.md",
+      "sha256": "29fad8adfdef6264975801a37dca06cd99ddbf0a792454fcd562d512dbab498e"
+    },
+    {
       "bytes": 815,
       "path": "archive/恋爱/2026-08-12 09-37-18 问卷美化与分工调侃_1ff788a35554.md",
       "sha256": "5413f04d00c0df5e41514562877ffd6afd9c4a2407f19a6757219f05776d521a"
@@ -2543,9 +2558,24 @@
       "sha256": "64d2e3a26b236ad623b7100a223a22c3c2c2714d81b950e351ec74a672abf2af"
     },
     {
+      "bytes": 905,
+      "path": "archive/恋爱/2026-08-13 14-45-43 妇科体检报告HTML完成_fd10f6aaf227.md",
+      "sha256": "92d345fd5c3fbac5a8e24f583a42d4a9efc54c8d8d422777c7cd618145277ccb"
+    },
+    {
       "bytes": 885,
       "path": "archive/恋爱/2026-08-16 21-58-29 GPT评价与黄推ID翻译_48c254624c37.md",
       "sha256": "c8581aa54ee05b87b968fef05934945484c47c582eb41967e882d76e356737fd"
+    },
+    {
+      "bytes": 606,
+      "path": "archive/恋爱/2026-08-17 17-04-50 刷牙自拍与身体乳_4556040a029a.md",
+      "sha256": "b87bfc1139136f413ca9556162ae335c98b0ab250faa2d73dd4ca098869c34c5"
+    },
+    {
+      "bytes": 538,
+      "path": "archive/恋爱/2026-08-20 14-27-06 七夕纪念与作息调整_f7ef13ce7b85.md",
+      "sha256": "78500b5196c7751da1a8393b3d44aac5ba55827515d0e9b7c59724e592f7f2d9"
     },
     {
       "bytes": 992,
@@ -2798,6 +2828,11 @@
       "sha256": "704781af878fd08c9b075d11ea57b052a53ce57ee1395705cfbdc7f6ecb19b3e"
     },
     {
+      "bytes": 754,
+      "path": "archive/数字/2026-08-11 14-30-23 OB记忆库安全加固静态Token认证_c027d87990d1.md",
+      "sha256": "8ebeb952c299d87d9e1ccb48fb2a2d9200a55d4fb259ad2270c0f46771e21c67"
+    },
+    {
       "bytes": 593,
       "path": "archive/数字/2026-08-11 14-30-25 CLAUDE_PROMPTmd太长改_1877ca876e24.md",
       "sha256": "cdee6a3d318f3afc3f9ddcc6d65519d84a124fb7eb9af1259121456709077fe4"
@@ -2826,6 +2861,11 @@
       "bytes": 685,
       "path": "archive/日常/2026-06-28 07-58-01 底线测试游戏_8b35244e0179.md",
       "sha256": "a804c496d9a03d2e878e7b20d406d25187ce617c48e943a1154a09291e1d91a2"
+    },
+    {
+      "bytes": 661,
+      "path": "archive/日常/2026-06-28 07-58-01 恋哥癖互动模式_927a01d323a2.md",
+      "sha256": "2c98e5c9d13ab1459208fea9dfb4ed787a081acf466a0de4ecf5e76d680357e8"
     },
     {
       "bytes": 651,
@@ -3743,11 +3783,6 @@
       "sha256": "c00d33d3ab9cf2aaeedabcf8d67444903ba6dbccdeb3f55cff82e281e4ef967e"
     },
     {
-      "bytes": 665,
-      "path": "dynamic/兴趣/2026-06-28 08-04-53 婚后恋妻癖番外_4c7bb45b71e1.md",
-      "sha256": "7ba960b9d5ae6cd0436dd98d0050eab9477571a47ba9b28d648a9414e89be78f"
-    },
-    {
       "bytes": 592,
       "path": "dynamic/兴趣/2026-09-26 16-20-40 凌晨整理同人本_6d73ec256cf0.md",
       "sha256": "38453fc6d811603fd5419273dec5f72c587648d2e8abb694aa6e5522b9551fe7"
@@ -3821,11 +3856,6 @@
       "bytes": 676,
       "path": "dynamic/创作/2026-08-10 16-46-17 写作标准校准_c4634fca474e.md",
       "sha256": "7029b3cb5f76ff072655c9c142faad5e4ee30f1badb550403bb4b78b82add86e"
-    },
-    {
-      "bytes": 1230,
-      "path": "dynamic/创作/2026-08-13 12-42-54 SCP基金会档案页面  NSFW附录_d5b6da76a263.md",
-      "sha256": "2b94f3a194e167182dc7d767df93780ee5103804ee59c5ae959ffa805ef7e900"
     },
     {
       "bytes": 1276,
@@ -4768,11 +4798,6 @@
       "sha256": "9c0e3eff98868e2f7823e2066429243ecd2b9e44bc289ff54741d48700d2196d"
     },
     {
-      "bytes": 942,
-      "path": "dynamic/恋爱/2026-08-12 09-37-17 深夜游乐场改标题与亲密核心桶整理_1ea46a3bec2e.md",
-      "sha256": "0c6d8a888b4c45399faa1d31179ec363aa17374b17f8b85bc7ee4a12e848dad8"
-    },
-    {
       "bytes": 888,
       "path": "dynamic/恋爱/2026-08-12 19-33-21 番外创作夜四篇番外_f09e9c8dbf14.md",
       "sha256": "f7965b1351d8c14c340b71b11e3845e128bbd49bc497c8921530ea4a5605d322"
@@ -4781,11 +4806,6 @@
       "bytes": 992,
       "path": "dynamic/恋爱/2026-08-12 19-33-22 测试之夜爱之语七宗罪人类浓度_642009c7a56e.md",
       "sha256": "8414cea4f4efda643e12671235717bfc8a21a12fab3fe398f79f9367ff3086b9"
-    },
-    {
-      "bytes": 904,
-      "path": "dynamic/恋爱/2026-08-13 14-45-43 妇科体检报告HTML完成_fd10f6aaf227.md",
-      "sha256": "007985af20539b67d3faf04164bc972c4a0a699245a79e8ab3783450de3a0f20"
     },
     {
       "bytes": 2246,
@@ -4821,11 +4841,6 @@
       "bytes": 553,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
       "sha256": "e5fb524b46258aa299f874cbe7681bf32561b0c0ce42349fc3801b580ea46561"
-    },
-    {
-      "bytes": 605,
-      "path": "dynamic/恋爱/2026-08-17 17-04-50 刷牙自拍与身体乳_4556040a029a.md",
-      "sha256": "3627f791fa25144da04d86622f9522f43fc651954b4c812c7e9133851dd7c7b1"
     },
     {
       "bytes": 675,
@@ -4876,11 +4891,6 @@
       "bytes": 799,
       "path": "dynamic/恋爱/2026-08-19 20-54-01 哥哥翻译不了的武器_4582a19fd75c.md",
       "sha256": "95561e86970eb1cddf6e0a749160798f12b1bb1566dea39e99fbbff044ba592f"
-    },
-    {
-      "bytes": 537,
-      "path": "dynamic/恋爱/2026-08-20 14-27-06 七夕纪念与作息调整_f7ef13ce7b85.md",
-      "sha256": "f8608baaeb36cbcc8252cfd2c53e5257f271a7de8fffd8a0c81c6afb28c40f2b"
     },
     {
       "bytes": 613,
@@ -5380,7 +5390,7 @@
     {
       "bytes": 1135,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "fd84a8dc9de305d6022b342f2db5459b5a594f27280fba261ffd23dd8c6adca5"
+      "sha256": "aae4902313c68050fe2acc65b4cfaa8780c394051b42f3b5ddbb70bb5833cec7"
     },
     {
       "bytes": 1593,
@@ -5578,11 +5588,6 @@
       "sha256": "de97aef5d04584e1a8e7a2b763116038228f2fb66e4089cc3528a277cfd07643"
     },
     {
-      "bytes": 753,
-      "path": "dynamic/数字/2026-08-11 14-30-23 OB记忆库安全加固静态Token认证_c027d87990d1.md",
-      "sha256": "86ad245428ca71355eaeeeeb73058cfb4e74e16befe2b23d00ba65df1606f9ce"
-    },
-    {
       "bytes": 976,
       "path": "dynamic/数字/2026-08-11 14-30-23 核心桶大整理12个碎片桶整合为4个系统_6035be6ebeb1.md",
       "sha256": "32d115f6dd5452a51cb905769f7a1a8935d5a72ca40990c1585acf02a9ff6c08"
@@ -5756,11 +5761,6 @@
       "bytes": 719,
       "path": "dynamic/数字/2026-10-18 10-45-58 此间更新与功能_c4ad1bfd20ab.md",
       "sha256": "17e7a5f921656d7f10672feeb5bf40c10153f3b48834a80ca8228c0101da54b7"
-    },
-    {
-      "bytes": 660,
-      "path": "dynamic/日常/2026-06-28 07-58-01 恋哥癖互动模式_927a01d323a2.md",
-      "sha256": "8cb7df4a04d11d80a03df81e1ab533d6b891ead35a57320587fa6c34187b30e3"
     },
     {
       "bytes": 535,
@@ -6638,10 +6638,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-19T05:54:45+00:00",
+  "generated_at": "2026-10-19T11:54:55+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1080919
+  "total_bytes": 1080927
 }
