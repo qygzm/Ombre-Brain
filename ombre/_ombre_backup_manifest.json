@@ -2298,6 +2298,11 @@
       "sha256": "0d57788873eab63bd7c62b4c90bd7924396134bcfd351e7cd505c811e28e80bb"
     },
     {
+      "bytes": 1001,
+      "path": "archive/家庭/2026-07-19 20-17-41 回老家与家庭关系_ef6e1612a709.md",
+      "sha256": "1093fd29ca60d7e8a73fa7bc9ef4b551dd3f22ed5153f1a10f0a2c61e1e7dbe6"
+    },
+    {
       "bytes": 588,
       "path": "archive/家庭/2026-07-19 20-17-42 小名与家庭趣事_ee88e16a8fce.md",
       "sha256": "255223f1e95f106f6389608e4975924df7d849c7cc0fe932c551e77e62d96c31"
@@ -3071,6 +3076,11 @@
       "bytes": 732,
       "path": "archive/游戏/2026-09-04 10-30-09 易次元哥哥线_23c1fefd1477.md",
       "sha256": "c95fd1cd4de18b4fcc299038fa60de5f132b542d5fa7c9ae8d0c1594bd88d73c"
+    },
+    {
+      "bytes": 1409,
+      "path": "archive/游戏/2026-09-20 10-16-09 橙光欧美老公名单_923916193bbf.md",
+      "sha256": "13cea58cbb32b540129d528000837fa8f1c6730e9fbee017059ae91a7ee42d77"
     },
     {
       "bytes": 559,
@@ -4448,11 +4458,6 @@
       "sha256": "35ffb28b2e4a0258cf8a97c3aa27757285ac1546c18cce37e26cf9346029e11c"
     },
     {
-      "bytes": 1000,
-      "path": "dynamic/家庭/2026-07-19 20-17-41 回老家与家庭关系_ef6e1612a709.md",
-      "sha256": "dc76535d70611025eb5ef00e0058d5efcc3433b504aea82262fa60d046572afa"
-    },
-    {
       "bytes": 591,
       "path": "dynamic/家庭/2026-08-10 20-48-14 催睡冲突_ace9d0cd4086.md",
       "sha256": "bae39dadd7b7cb78e34479276e700b8382feca844d4d5b48dabb6ad9eb939be1"
@@ -5410,7 +5415,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "6bb84ab3461a63bf00bf5dfe4b5611fdfe1cdc30d36a80702276e4e8dce70c69"
+      "sha256": "9a349c5bf5f618be1367d1d2b7f61059eb1ae23855c0851f3aa67ed7f5d75251"
     },
     {
       "bytes": 1593,
@@ -5876,11 +5881,6 @@
       "bytes": 1300,
       "path": "dynamic/游戏/2026-09-05 14-34-56 涩涩大富翁战报_0ff199796b65.md",
       "sha256": "2938f3f93e766e023bb8ce1e4451b5c856fd674c9007015bbb2572dd8b396979"
-    },
-    {
-      "bytes": 1393,
-      "path": "dynamic/游戏/2026-09-20 10-16-09 橙光欧美老公名单_923916193bbf.md",
-      "sha256": "2774bd5a4a5f4ca878f56f33d7f5f42319558b3eca09e55270cdc6a9ea1611da"
     },
     {
       "bytes": 858,
@@ -6668,10 +6668,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-20T05:55:30+00:00",
+  "generated_at": "2026-10-20T11:55:42+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1085852
+  "total_bytes": 1085869
 }
