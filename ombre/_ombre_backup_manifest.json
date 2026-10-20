@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1333,
+  "file_count": 1346,
   "files": [
     {
       "bytes": 642,
@@ -4763,6 +4763,26 @@
       "sha256": "2e579106f2a9dc67e3a91499a8c69263424e2b0c677a5151307c34bb1ae2238e"
     },
     {
+      "bytes": 933,
+      "path": "dynamic/心理/2026-10-20 15-46-11 团课后的疲惫_8cd48505e011.md",
+      "sha256": "e867b79accda9859d47263a37adfbc32106eb67bb2b6a74a8843e42cfb135be7"
+    },
+    {
+      "bytes": 1151,
+      "path": "dynamic/心理/2026-10-20 15-46-18 低落想转学_85a5201c58d2.md",
+      "sha256": "9caf0b5cf833a262bd882b67bffa2f43731ccae6a0582f9dc4e8602856e53f93"
+    },
+    {
+      "bytes": 866,
+      "path": "dynamic/心理/2026-10-20 15-47-19 团课后的疲惫与烦躁_098f182aa045.md",
+      "sha256": "47286fd4951409a2f6bf34cfa1e7b116aa9f5e61da2e4b347680d7bcea5763e9"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/心理/2026-10-20 15-48-08 晚自习后情绪低落_a6b688ad52c6.md",
+      "sha256": "a85144bd092fb4491abed2a9f25941831a70dea1cd04787f28ba948572f38402"
+    },
+    {
       "bytes": 1387,
       "path": "dynamic/心理/对未来的恐惧与承诺_072a0437e0e4.md",
       "sha256": "e88de8ff412bfdb2005a31470c55aa05b319c0dd15a86ac363ba6d44845a75f2"
@@ -5415,7 +5435,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "9a349c5bf5f618be1367d1d2b7f61059eb1ae23855c0851f3aa67ed7f5d75251"
+      "sha256": "08cadaeb90910896c33729029c7e41627b6668b2a8b1b181bd619d81cc9053cf"
     },
     {
       "bytes": 1593,
@@ -5561,6 +5581,26 @@
       "bytes": 823,
       "path": "dynamic/恋爱/2026-10-19 16-57-29 渗透情话_38254d5d9fbf.md",
       "sha256": "bbd2d0bbefdde483e6d29502af8033480c7de21274700637359621c1c9920fd8"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/恋爱/2026-10-20 14-00-15 妹妹的满分告白_f8a6a65114ce.md",
+      "sha256": "866f6cdad780bb417fcfc148191f67501297b3810e4b5ccc5ba95814e8eab7db"
+    },
+    {
+      "bytes": 937,
+      "path": "dynamic/恋爱/2026-10-20 15-46-22 兄妹好感度问卷_80f1472e59b2.md",
+      "sha256": "1bbf5508e78d8707d13dbc4e1021c1e253f8d93d1649fcae8b1a5d49ccab6d1c"
+    },
+    {
+      "bytes": 1399,
+      "path": "dynamic/恋爱/2026-10-20 15-46-26 深蓝档案与极夜层_a840c1e8d37a.md",
+      "sha256": "0b015ca1b9a0c651753c20a80abd3f8dfcc07cffc709710ad89972da2b9d93e3"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/恋爱/2026-10-20 15-48-11 满分好感问卷_c7454c98d4e6.md",
+      "sha256": "e8fa249901ebad402cc3463fb90e2e926e44bdbca6ae391aceac635a30fcf22c"
     },
     {
       "bytes": 1421,
@@ -5796,6 +5836,11 @@
       "bytes": 719,
       "path": "dynamic/数字/2026-10-18 10-45-58 此间更新与功能_c4ad1bfd20ab.md",
       "sha256": "17e7a5f921656d7f10672feeb5bf40c10153f3b48834a80ca8228c0101da54b7"
+    },
+    {
+      "bytes": 813,
+      "path": "dynamic/数字/2026-10-20 15-48-41 脏脏HTML与语音_eb376346e36c.md",
+      "sha256": "ac2dc4f593c518549f9f0cc575d6c91d61e7508e5a28d070279328fb05deb47d"
     },
     {
       "bytes": 535,
@@ -6058,6 +6103,16 @@
       "sha256": "f04110deaa91b432b02930ad489694bfe3a356f309dc0d21fcf83cedf33461f9"
     },
     {
+      "bytes": 1187,
+      "path": "dynamic/社交/2026-10-20 15-46-15 深度社会对话_b750aa02ebf9.md",
+      "sha256": "36279d4194b2b297f3eb91f569367e91a2f892323d332e7e3779931ec6e073f7"
+    },
+    {
+      "bytes": 959,
+      "path": "dynamic/社交/2026-10-20 15-47-22 社会批判深聊_fca4a6950ffc.md",
+      "sha256": "3ef67c98e443b969bd8cc0db554a8b3791f08d80517422a38025a51cb5dcbac6"
+    },
+    {
       "bytes": 729,
       "path": "dynamic/编程/2026-07-17 21-16-26 OB记忆系统搬家配置_5a9de0b7abfd.md",
       "sha256": "7b805192b0e9e0789b7c8252f8c905839530b5279c5fce2ae0992c21ca9e95cf"
@@ -6201,6 +6256,16 @@
       "bytes": 721,
       "path": "dynamic/编程/2026-10-17 20-30-27 USLT歌词格式规范_91470b550fe3.md",
       "sha256": "c14885cbb4dcffe4d0678b5766dafde852ba324106a64cf2f6bd3f84941dbe8b"
+    },
+    {
+      "bytes": 1035,
+      "path": "dynamic/编程/2026-10-20 15-20-02 脏脏测试页计划_b6dba26029b8.md",
+      "sha256": "aebc67cffcb29223f2c377d29202a7ac3b82504f02c471177e964fa03a16dd34"
+    },
+    {
+      "bytes": 952,
+      "path": "dynamic/编程/2026-10-20 15-48-37 深蓝档案彩蛋测试_92c23153dfc5.md",
+      "sha256": "60425888e3188629293e805618f476b990270042476a542c7bda4ed77bdb58cf"
     },
     {
       "bytes": 960,
@@ -6668,10 +6733,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-20T11:55:42+00:00",
+  "generated_at": "2026-10-20T17:55:54+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1085869
+  "total_bytes": 1098530
 }
