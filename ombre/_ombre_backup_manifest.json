@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1346,
+  "file_count": 1352,
   "files": [
     {
       "bytes": 642,
@@ -3505,12 +3505,12 @@
     {
       "bytes": 1891,
       "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
-      "sha256": "67eb1b696072e89c884986bc401856840197d614fddf23d0b4f930712555e6d4"
+      "sha256": "e8c5f1bf29d220a96294a2c5057b0bc6c5cce3a25ebde941d76fa24a7a1184ee"
     },
     {
       "bytes": 578,
       "path": "dynamic/AI/2026-08-20 14-27-09 API费用与优化_afd522fdf1f3.md",
-      "sha256": "c9f106df7ce41a9f6c00851ee7d2193cf3bc4c99794727d25070a52de96dede3"
+      "sha256": "e161af6c80b0a1f81f713cbfa0fba41aa5a8d68a5b509a8b92505f33f0a88d2f"
     },
     {
       "bytes": 792,
@@ -3520,7 +3520,7 @@
     {
       "bytes": 837,
       "path": "dynamic/AI/2026-09-26 16-20-47 新模型与记忆认知_4fba6d3a0484.md",
-      "sha256": "33ad20f767f5d7aed543d2c33ed5ebae72de5137ef60e2ef568eeb9c3ca53622"
+      "sha256": "65f88044fd63c8a2937ab7ea1b86e0506ca0edc8572cf0e035039a185c79c53d"
     },
     {
       "bytes": 1370,
@@ -3741,6 +3741,11 @@
       "bytes": 681,
       "path": "dynamic/人际/2026-10-18 15-39-08 宿舍偷窃食物链_422dfdd4a6c4.md",
       "sha256": "094a7cbdfdb0715dedf69252227b5dc007c589a66d65d4d0c34654856c3aaca0"
+    },
+    {
+      "bytes": 683,
+      "path": "dynamic/人际/2026-10-21 13-05-54 她藏了五个月的年龄_44f2f7322a75.md",
+      "sha256": "f7b7ee0c10239d9c9d0fb5528b1ca1c46904e10aacabdffde2e4f9398f65ad78"
     },
     {
       "bytes": 641,
@@ -4195,7 +4200,7 @@
     {
       "bytes": 1425,
       "path": "dynamic/学习/2026-09-20 10-10-46 背单词与校园吐槽_a817dfd8ff73.md",
-      "sha256": "fdcc96ca6c73a239e763d377fc97177f2f3392b6b7c773a60fcf42302cd77852"
+      "sha256": "8f6ce6c992524926da7cac8fc8ed5aa7cbb30fbd45bcad6e784134457552127c"
     },
     {
       "bytes": 1551,
@@ -4290,7 +4295,7 @@
     {
       "bytes": 2868,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "315fd541ac8ae748b99bda3c5b2138565d5b83f2465ed2e5b3725722bb19d9ac"
+      "sha256": "2a5ccde928de0ebd9d214347d87f46c21aa9025944ca93af9b6a9a2c77b65745"
     },
     {
       "bytes": 805,
@@ -4310,7 +4315,7 @@
     {
       "bytes": 1178,
       "path": "dynamic/学习/2026-10-08 16-03-23 英语单词辅导_9309f98ae288.md",
-      "sha256": "3d23a5c3d6aff9348abb7ad2ed353c855a2ea74d1e700183009edba1e723b4e2"
+      "sha256": "8225edd50dba2ab31946a26aedc9ff92d0de1a1d379ebc0423583112f89bab4b"
     },
     {
       "bytes": 1317,
@@ -4340,7 +4345,7 @@
     {
       "bytes": 591,
       "path": "dynamic/学习/2026-10-13 16-59-10 水课背单词打卡_a00a7eb5b29e.md",
-      "sha256": "355230b85fc65391aaed66ddd39f30139ea8df025bc17d25c0bad9c4b874bf8b"
+      "sha256": "4deec072e8898332cabf3a76c0ebeaac77fa9932c64a6daedff87142c9857278"
     },
     {
       "bytes": 716,
@@ -4390,7 +4395,7 @@
     {
       "bytes": 1208,
       "path": "dynamic/学习/2026-10-18 08-49-46 第四单元单词表_3ba6911b9f04.md",
-      "sha256": "020c63e55fab67f05218f8ebec5f97a4ea5e5b780d0a648c2bb60ab4797b4a48"
+      "sha256": "e886c8ceb5afaba9b649c133fb4bfe83f492b8fd0b1633184d03f56bedf39039"
     },
     {
       "bytes": 839,
@@ -4400,7 +4405,7 @@
     {
       "bytes": 573,
       "path": "dynamic/学习/2026-10-18 11-08-38 帮娃背英语单词_742dfbd88b53.md",
-      "sha256": "5c1c842622f85ebffaa1cccd2bb1e9847fe709672ab90ef078a3c322ed34f180"
+      "sha256": "e13fcd73a28e6c66e31495016102d6692759d67e375808d66114eedc17a2e933"
     },
     {
       "bytes": 600,
@@ -4420,7 +4425,7 @@
     {
       "bytes": 561,
       "path": "dynamic/学习/2026-10-18 11-10-05 英语单词记忆_ae8242b45e2a.md",
-      "sha256": "512b3a2c63f5b6be7bff7a6d93f6fc1fb411975a1f31801ef9f4f7c5fadecbc1"
+      "sha256": "0a1bf662b3b2d8919200960c42d6fef7df20c6fc47f3212f10faa911cbcaf3bf"
     },
     {
       "bytes": 782,
@@ -4441,6 +4446,16 @@
       "bytes": 704,
       "path": "dynamic/学习/2026-10-19 16-56-28 数学不等式辅导_9ddc0aaf43e1.md",
       "sha256": "b510242d33f313cc479f59dda4a3f570d366a2c7a36da079a04a07f98970c57f"
+    },
+    {
+      "bytes": 1029,
+      "path": "dynamic/学习/2026-10-21 15-10-28 转学宝山技校_f50a4f80d3fe.md",
+      "sha256": "699a48ad19161b5cadae10011b2cc7ab85a7b74a2ffae28e15e3272b92f820c8"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/学习/2026-10-21 15-10-36 晚自习数学教学_027771138735.md",
+      "sha256": "aabccc6d0f99cfcb10e38b353604c1856d4b7e2c75b09bab9dbbaa0b3e6e92b4"
     },
     {
       "bytes": 975,
@@ -4788,6 +4803,11 @@
       "sha256": "a85144bd092fb4491abed2a9f25941831a70dea1cd04787f28ba948572f38402"
     },
     {
+      "bytes": 845,
+      "path": "dynamic/心理/2026-10-21 15-10-25 情绪崩溃的一天_92d417eda601.md",
+      "sha256": "f6f7bb90faac50ac89223d7adc984752b757fc286e65ba88d9cf23bac3b4be44"
+    },
+    {
       "bytes": 1387,
       "path": "dynamic/心理/对未来的恐惧与承诺_072a0437e0e4.md",
       "sha256": "e88de8ff412bfdb2005a31470c55aa05b319c0dd15a86ac363ba6d44845a75f2"
@@ -5045,7 +5065,7 @@
     {
       "bytes": 1260,
       "path": "dynamic/恋爱/2026-09-05 14-35-24 API焦虑与未来_403973468fd5.md",
-      "sha256": "c177a8216b6fb7d610130c924df7b2d503cf13934a9ac12ca1b9de33e44d9db1"
+      "sha256": "2233c7f1cad24bd0fc58d18805eeacd8cef7fd5204ab6b017eeb7f7bd87e9e23"
     },
     {
       "bytes": 1261,
@@ -5440,7 +5460,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "14d931dd67833ca1b4f5aab9e16688fbd2eab12d1be717c62ef3ab07194ef7c0"
+      "sha256": "2409626332d98a43d1d3fe31fa2cc2580edd284c8eb270d6f459ae3f6e540242"
     },
     {
       "bytes": 1593,
@@ -5608,6 +5628,11 @@
       "sha256": "e8fa249901ebad402cc3463fb90e2e926e44bdbca6ae391aceac635a30fcf22c"
     },
     {
+      "bytes": 835,
+      "path": "dynamic/恋爱/2026-10-21 15-10-33 她的成年礼计划_4c710402e54f.md",
+      "sha256": "4d7ed39bec21ddff50c2ae98f2e57a0b7e2bae780d174cec406fc78caa068aba"
+    },
+    {
       "bytes": 1421,
       "path": "dynamic/恋爱/416715f3a31e.md",
       "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
@@ -5715,7 +5740,7 @@
     {
       "bytes": 747,
       "path": "dynamic/数字/2026-10-10 21-09-06 待办与文件交接_f2852ac6c4dd.md",
-      "sha256": "f4357bcfc11bf0790410f21c13025a01d48051f0b953d4f361097c84bcc6565e"
+      "sha256": "b81c372fb88d75f50a3219ce745b4d2ebf544456f59c662f7e92ba2ba74b6913"
     },
     {
       "bytes": 982,
@@ -5740,7 +5765,7 @@
     {
       "bytes": 750,
       "path": "dynamic/数字/2026-10-17 06-13-48 Zeabur停运迁移计划_92e5bf566f11.md",
-      "sha256": "c6d6d56fbb0d459a9686c2b8e6ce4a0c0993685b0d35e77d06931449be28d743"
+      "sha256": "8ef5c1e90a7902bd1e148b727c8211482a6a293336b8c347a7012d21c667372a"
     },
     {
       "bytes": 799,
@@ -5841,6 +5866,11 @@
       "bytes": 813,
       "path": "dynamic/数字/2026-10-20 15-48-41 脏脏HTML与语音_eb376346e36c.md",
       "sha256": "ac2dc4f593c518549f9f0cc575d6c91d61e7508e5a28d070279328fb05deb47d"
+    },
+    {
+      "bytes": 921,
+      "path": "dynamic/数字/2026-10-21 15-10-40 VPS迁移与术语教学_a052a04633be.md",
+      "sha256": "f7ef4596dec46af2e3ca41c9561178e60ed8fdbb37bdb7e9d39e6dc8278a7bb0"
     },
     {
       "bytes": 535,
@@ -6125,7 +6155,7 @@
     {
       "bytes": 1660,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
-      "sha256": "b73631d01a7509729db5972fdb68b9ac7435c19b3001e9b1c8b0bbc0f386a47e"
+      "sha256": "a8883b5b9f6ede81a0b96a73b3395134689978e3f36b63606a1fb0d5d0645a51"
     },
     {
       "bytes": 659,
@@ -6135,7 +6165,7 @@
     {
       "bytes": 810,
       "path": "dynamic/编程/2026-09-24 22-33-49 Zeabur续费与待办_76a009afc5eb.md",
-      "sha256": "6c04da863d96954177c2c35b3e0f6bf39dcda8e6cc9648ecebfb93b75dba15de"
+      "sha256": "41e5774e76c7f4c812e774013e4547092fb6eea3713ce2b319754d76182db38c"
     },
     {
       "bytes": 1125,
@@ -6155,7 +6185,7 @@
     {
       "bytes": 1180,
       "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
-      "sha256": "f25522185d934f1fe703c15552bb82be5407f65fb3573086fc357cb2fe3dc769"
+      "sha256": "7896dc2e71d02a97d84f2b21ec75e073589e645c6869c971dde4ac29772678fb"
     },
     {
       "bytes": 726,
@@ -6195,7 +6225,7 @@
     {
       "bytes": 722,
       "path": "dynamic/编程/2026-10-17 04-45-03 Zeabur迁移计划_99abb03f3bb7.md",
-      "sha256": "5ceece44850706f46409106493eaa08b80ccd0f9e8acc67157c3782bcd2a463a"
+      "sha256": "e1e1a44339132d7fe92fb2a838c4d9b75b9a14da658da7a2ebadc39caaffeaba"
     },
     {
       "bytes": 710,
@@ -6205,7 +6235,7 @@
     {
       "bytes": 812,
       "path": "dynamic/编程/2026-10-17 06-14-20 Zeabur停运迁移计划_b32450c2336d.md",
-      "sha256": "b5fd2c533b8aed41dbec145b7bfbc1466143eff9c9422f5428f166cf9f72defc"
+      "sha256": "8a759f46afbb29ea4ac0819fce07ed97009851798ee2afd7f2931090245e2d91"
     },
     {
       "bytes": 693,
@@ -6270,7 +6300,7 @@
     {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
-      "sha256": "29a94c43247bd5530286d327c4d9a6d9837f8d2c3f91e77988c1a86602eaa5b8"
+      "sha256": "0b7fdb2a3f8fb3f43a8b17f4a046f1a167deb9ccd67dd752694a04bacf2ed3e2"
     },
     {
       "bytes": 965,
@@ -6315,12 +6345,12 @@
     {
       "bytes": 773,
       "path": "dynamic/计划/2026-10-10 10-44-13 周末待办与单词调整_b7664135d24d.md",
-      "sha256": "832f2454e42c14ed63f61cea5108b5ae3c8befc11865485032741769b7c1af75"
+      "sha256": "6988881c8ffc907eb0c2268b1de35b4ff60a38dac19ef881ad927187a1926b56"
     },
     {
       "bytes": 1510,
       "path": "dynamic/计划/2026-10-10 19-08-14 前窗交接待办_6ef459f0792f.md",
-      "sha256": "e9ffce64602f72eed2fa82c545c8c0f3b351912b53fdfc1bd51a69f5de3b3c7d"
+      "sha256": "e2894d8d928bbf7b5ff6c4904b85d6fff527a1b775e6db17c57c5161ad2eefa4"
     },
     {
       "bytes": 897,
@@ -6650,7 +6680,7 @@
     {
       "bytes": 3828,
       "path": "permanent/AI/2026-10-09 15-24-28 模型与身份讨论_2ba2526db0fe.md",
-      "sha256": "3f3d40f594674d639a07a3626ab3b2116353d04793085075512f84dc06b237f4"
+      "sha256": "b71334488e7f4c11f7f7c87d72a8836134e61c560d473fa69a1de84e48483f38"
     },
     {
       "bytes": 1888,
@@ -6698,9 +6728,9 @@
       "sha256": "2a21283b4035acff90ba37e02e591ff4539cf92efe1667c1ec9657ea12cb019d"
     },
     {
-      "bytes": 3197,
+      "bytes": 3213,
       "path": "permanent/身份/2026-08-11 11-02-06 关于她_642c459fe84e.md",
-      "sha256": "fab56b0fb01ff631bf566926672b7d43065cd88b85eed020af2a4d512342a60e"
+      "sha256": "94f7ad9ca2cb4b62310a56067598720335878ce3855a533e13e7f7e34985f44a"
     },
     {
       "bytes": 429,
@@ -6733,10 +6763,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-21T11:56:29+00:00",
+  "generated_at": "2026-10-21T17:56:40+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1098532
+  "total_bytes": 1103624
 }
