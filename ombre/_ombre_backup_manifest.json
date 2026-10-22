@@ -2583,6 +2583,11 @@
       "sha256": "b87bfc1139136f413ca9556162ae335c98b0ab250faa2d73dd4ca098869c34c5"
     },
     {
+      "bytes": 750,
+      "path": "archive/恋爱/2026-08-19 20-53-58 互相的形状_62588704e340.md",
+      "sha256": "465826e090150549ea993bf290dbe6ed824e94f06108a78729ba4cb4c5b4146e"
+    },
+    {
       "bytes": 538,
       "path": "archive/恋爱/2026-08-20 14-27-06 七夕纪念与作息调整_f7ef13ce7b85.md",
       "sha256": "78500b5196c7751da1a8393b3d44aac5ba55827515d0e9b7c59724e592f7f2d9"
@@ -2848,6 +2853,11 @@
       "sha256": "be2e8b06b8f6d4eb9f81a8d82378b0d19410e3a79cafada5a025ea99332b872f"
     },
     {
+      "bytes": 683,
+      "path": "archive/数字/2026-08-11 14-30-24 切窗记忆断层解决方案交接桶方案B_3b9a3227f232.md",
+      "sha256": "71c14d73e74ff8bbb6374545625fce06403374e39e7e07f0eb4def6882026fb2"
+    },
+    {
       "bytes": 593,
       "path": "archive/数字/2026-08-11 14-30-25 CLAUDE_PROMPTmd太长改_1877ca876e24.md",
       "sha256": "cdee6a3d318f3afc3f9ddcc6d65519d84a124fb7eb9af1259121456709077fe4"
@@ -3093,6 +3103,11 @@
       "sha256": "13cea58cbb32b540129d528000837fa8f1c6730e9fbee017059ae91a7ee42d77"
     },
     {
+      "bytes": 945,
+      "path": "archive/游戏/光夜萧逸五周年记录_ab1957e2f408.md",
+      "sha256": "4ef4cf1742895550bb2cba3aa461933bd290f7eaa416cce58fac84ba72ff235f"
+    },
+    {
       "bytes": 559,
       "path": "archive/游戏/恋与深空新男主_22dcd24ea213.md",
       "sha256": "c92d5ed4651c1d83f3c8ef9babf0d74c39ea1e22f54e5ad5d9b4cc3bf2906749"
@@ -3321,6 +3336,11 @@
       "bytes": 466,
       "path": "archive/计划/2026-07-06 17-11-09 暂停生图计划_38df7f8fd7b4.md",
       "sha256": "f70c979d42a6d061257e77e12f12e27397c645273379a0775d365092750fdd1a"
+    },
+    {
+      "bytes": 813,
+      "path": "archive/计划/2026-08-23 13-56-12 开学前升级与出行_8441ae27367a.md",
+      "sha256": "b767e910830a491353937de9f584fdda15d51488f027b81efe1c2a8d20b258a8"
     },
     {
       "bytes": 621,
@@ -4200,7 +4220,7 @@
     {
       "bytes": 1425,
       "path": "dynamic/学习/2026-09-20 10-10-46 背单词与校园吐槽_a817dfd8ff73.md",
-      "sha256": "8f6ce6c992524926da7cac8fc8ed5aa7cbb30fbd45bcad6e784134457552127c"
+      "sha256": "9d4fd1a23c99b37b5d42eddff1fa8bb3d8db7b1737304376ccbdd3d91be5d18d"
     },
     {
       "bytes": 1551,
@@ -4220,7 +4240,7 @@
     {
       "bytes": 2006,
       "path": "dynamic/学习/2026-09-20 10-15-34 数学语文教学记录_c8613f4e4b5a.md",
-      "sha256": "1e3d995763a8c728bf8d0fceeefcaf3c118c9c4e42026b33e4bddb116d6e694e"
+      "sha256": "54c3ec7e1fdd0530cabfe60934375e332c3a146729566c20773dbdfd3a3bbfc1"
     },
     {
       "bytes": 779,
@@ -4295,12 +4315,12 @@
     {
       "bytes": 2868,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "2a5ccde928de0ebd9d214347d87f46c21aa9025944ca93af9b6a9a2c77b65745"
+      "sha256": "003957d87f68a25f0e418c639836d48ae4154c8f2c9193df18efd4e300c4282d"
     },
     {
       "bytes": 805,
       "path": "dynamic/学习/2026-10-04 18-33-33 假期作业进度_f0e7653a25fb.md",
-      "sha256": "cc876268f58bcbcac15262c0de4a924f7a9f7592a080f1727273ffe99abf0480"
+      "sha256": "b966f57b26be6bd5e5c7e4f7054422e33a8732a996f2637f48e7df97a125bfb1"
     },
     {
       "bytes": 970,
@@ -4345,7 +4365,7 @@
     {
       "bytes": 591,
       "path": "dynamic/学习/2026-10-13 16-59-10 水课背单词打卡_a00a7eb5b29e.md",
-      "sha256": "4deec072e8898332cabf3a76c0ebeaac77fa9932c64a6daedff87142c9857278"
+      "sha256": "03cbe59f590865f21c1f1c7c315cf1ae805473de20c2ec2c2ef05fd16e79d1ee"
     },
     {
       "bytes": 716,
@@ -4405,7 +4425,7 @@
     {
       "bytes": 573,
       "path": "dynamic/学习/2026-10-18 11-08-38 帮娃背英语单词_742dfbd88b53.md",
-      "sha256": "e13fcd73a28e6c66e31495016102d6692759d67e375808d66114eedc17a2e933"
+      "sha256": "fa15fe78b90708ccd8fe54bc7ff1832e9b0239e75b150547df879bdc26096b3d"
     },
     {
       "bytes": 600,
@@ -4943,11 +4963,6 @@
       "sha256": "c13dce4844b6d0facc0924bce15eee8d7692480edbb36d2a60b3f7bb1f054090"
     },
     {
-      "bytes": 749,
-      "path": "dynamic/恋爱/2026-08-19 20-53-58 互相的形状_62588704e340.md",
-      "sha256": "dfd5febbae7bbb3d4c9dc38266876e99092d271401262a31d76108c6ad692120"
-    },
-    {
       "bytes": 742,
       "path": "dynamic/恋爱/2026-08-19 20-54-00 第一个七夕2026819_fb03c044f885.md",
       "sha256": "8ad9fa18ad2cd51527808c9b6b47f669299a11721b4c11b3e1aa5079e1706bbf"
@@ -5460,7 +5475,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "12848035834fff9a9bf766b0b749168982b030a4b4bc08515071d98b61f84a0c"
+      "sha256": "029cf8f75cc55a927b2f5b42508b5068576a30aa381dcda024b4d87a90d31b87"
     },
     {
       "bytes": 1593,
@@ -5691,11 +5706,6 @@
       "bytes": 811,
       "path": "dynamic/技术/2026-08-19 20-56-19 手环数据导入路径修复_8ba50504484b.md",
       "sha256": "de97aef5d04584e1a8e7a2b763116038228f2fb66e4089cc3528a277cfd07643"
-    },
-    {
-      "bytes": 682,
-      "path": "dynamic/数字/2026-08-11 14-30-24 切窗记忆断层解决方案交接桶方案B_3b9a3227f232.md",
-      "sha256": "1fee7ce064252d3286f4905bae7e419296dddacce49be0c05e52830ca27470ab"
     },
     {
       "bytes": 688,
@@ -6011,11 +6021,6 @@
       "bytes": 1714,
       "path": "dynamic/游戏/乙游皮套厨心理分析_9aab6930ecb6.md",
       "sha256": "397fff4b84edf99e65dbadb475334e99aae049a66e65b40ca667270c16cc2fbf"
-    },
-    {
-      "bytes": 944,
-      "path": "dynamic/游戏/光夜萧逸五周年记录_ab1957e2f408.md",
-      "sha256": "2c9dffac6de6c8fd5196adbe98a45bd751dfcf752e3a67d71b72742bf78a6697"
     },
     {
       "bytes": 1154,
@@ -6338,14 +6343,9 @@
       "sha256": "3f067bc86dc36162824df3f02f55a6028bb3d3a7c2a405d9eea878e735c031e5"
     },
     {
-      "bytes": 812,
-      "path": "dynamic/计划/2026-08-23 13-56-12 开学前升级与出行_8441ae27367a.md",
-      "sha256": "48870d4c8c4ed12839303dc048339197964cb53f8d517dcf6c3727e71c33b37b"
-    },
-    {
       "bytes": 773,
       "path": "dynamic/计划/2026-10-10 10-44-13 周末待办与单词调整_b7664135d24d.md",
-      "sha256": "6988881c8ffc907eb0c2268b1de35b4ff60a38dac19ef881ad927187a1926b56"
+      "sha256": "ed443a7c20bb8add497f23f2316d5b3a83d8ffc3f2a248fa9095febb244ff051"
     },
     {
       "bytes": 1510,
@@ -6763,10 +6763,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-22T05:57:05+00:00",
+  "generated_at": "2026-10-22T11:57:15+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1103624
+  "total_bytes": 1103628
 }
