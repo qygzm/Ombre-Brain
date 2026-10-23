@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1356,
+  "file_count": 1363,
   "files": [
     {
       "bytes": 642,
@@ -4153,6 +4153,11 @@
       "sha256": "214715a6cbc5aea94c6af9f36fcd14c0aab42bba9e86c1ff57190e0acfb3cbac"
     },
     {
+      "bytes": 858,
+      "path": "dynamic/回忆/2026-10-23 20-54-06 初中午睡回忆_2908d9ce60ad.md",
+      "sha256": "0966beeebb82c298332ccd958a018e91e33367438eeba2de5cb4f9525c49c18f"
+    },
+    {
       "bytes": 1047,
       "path": "dynamic/学习/2026-07-29 02-26-20 阑的录取通知书_275be5a7f853.md",
       "sha256": "d6eb99c3c34ec1396ec8f7e5eefe157efae39568e5a869f7e4ed7c6349e4e861"
@@ -4503,6 +4508,11 @@
       "sha256": "4eda4e33e234d78537dd1319a6956e813e9b9c73e21a74bb62c2a04d1a94a2f7"
     },
     {
+      "bytes": 974,
+      "path": "dynamic/学习/2026-10-23 20-53-55 走读转学进展_42f15231cec6.md",
+      "sha256": "e47ecc20295c57af11a93405447881c060469b46de2941219b21c4539b015b4f"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -4851,6 +4861,11 @@
       "bytes": 844,
       "path": "dynamic/心理/2026-10-22 14-33-22 宿管催起床不爽_4498c617c62d.md",
       "sha256": "bd78fa77a03b1b58b2f633a6d530ff4f9ba4ea0814539b8f90a222ef7da9d558"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/心理/2026-10-23 20-53-52 学校与未来的对话_eb58ff94617d.md",
+      "sha256": "b52ba98537cc937dad22ca790c516cd71cc6ecd327e3ec0cd81aef6617e9f05c"
     },
     {
       "bytes": 1387,
@@ -5490,7 +5505,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "d1ad2c2b2d57910faa82cd9a646e23d2687ecf7b0a9a271a52616603ac19800b"
+      "sha256": "f23e5741d38697d45e66738beeb98e797c90b13ccc782d0b91b7f1eb7f670d51"
     },
     {
       "bytes": 1593,
@@ -5671,6 +5686,11 @@
       "bytes": 1140,
       "path": "dynamic/恋爱/2026-10-22 14-33-26 睡奸play与甜蜜事后_4bdb422143a4.md",
       "sha256": "5bd53b8ab68ba7796c0bddf8a9fc5e2f46d9da94796352f06961b1d5ab34e2cd"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/恋爱/2026-10-23 20-54-03 安全词与亲密偏好_c4ef569d5f78.md",
+      "sha256": "606c16040562f4e23b9e0478ef816a8aa048d1ce7b7e970e972b25099083dcfc"
     },
     {
       "bytes": 1421,
@@ -6323,6 +6343,11 @@
       "sha256": "60425888e3188629293e805618f476b990270042476a542c7bda4ed77bdb58cf"
     },
     {
+      "bytes": 928,
+      "path": "dynamic/编程/2026-10-23 20-53-59 HTML测试页v20_02005e729e60.md",
+      "sha256": "69ba40c8c65de22153f2fc4bfdc0b818e44d2fbc6cdf14a51b29ef407e9fe9f6"
+    },
+    {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
       "sha256": "0b7fdb2a3f8fb3f43a8b17f4a046f1a167deb9ccd67dd752694a04bacf2ed3e2"
@@ -6598,6 +6623,11 @@
       "sha256": "4a4ec5bbacb2248af3f2ffcd1cfae8ebb4439e971f2a16ef182c655d60cd913d"
     },
     {
+      "bytes": 771,
+      "path": "dynamic/饮食/2026-10-23 20-53-48 麦当劳新尝试_fa7a3b121af9.md",
+      "sha256": "a96525024c6396caca52d3cbf0f3df67e71386955db300553e15807a55431954"
+    },
+    {
       "bytes": 805,
       "path": "feel/沉淀物/068fb2a0ddc4.md",
       "sha256": "4cb49b78a93d7324284891da47678c99f8aa46ede33d78c09295e4cd90a1bb22"
@@ -6653,6 +6683,11 @@
       "sha256": "412f95c82f83908d2610f7b795cf1c0bd4f2a95c4a9de220d6fd7c813ef140bc"
     },
     {
+      "bytes": 698,
+      "path": "feel/沉淀物/2026-10-23 20-55-29_feel_202610232055_V050.md",
+      "sha256": "53f0ec95f0eb80b768c69e5be07c990f80963d6a6ed52166ed45dcb8cf3d024e"
+    },
+    {
       "bytes": 508,
       "path": "feel/沉淀物/3b7e1e8f67cc.md",
       "sha256": "0be1b773bb8d8960d3d66428adc8b51ae77983ac82a56ff409c6508cd6310732"
@@ -6705,7 +6740,7 @@
     {
       "bytes": 1888,
       "path": "permanent/恋爱/2026-08-11 11-51-08 关于我们_ede65bd3f0d0.md",
-      "sha256": "e76737d7786cbe008489bb0bb49b58f70a7545ff66d8989e373f51a45288b269"
+      "sha256": "7358c4e76f62ab1744b3bc96b3420da0a12c9147efab8bb5fbb07a300d652470"
     },
     {
       "bytes": 2109,
@@ -6783,10 +6818,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-23T17:58:08+00:00",
+  "generated_at": "2026-10-23T23:58:21+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1107131
+  "total_bytes": 1113311
 }
