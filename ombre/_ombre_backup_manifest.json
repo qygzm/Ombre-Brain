@@ -2403,6 +2403,11 @@
       "sha256": "4a27330b5918016bb113c0ba0c5be81d67be84bd3396e547ecd26e2257f8bced"
     },
     {
+      "bytes": 1434,
+      "path": "archive/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
+      "sha256": "e2d090b7c675fe0b3161a86b8d1ca334b73587d6316372b76e80e43226464a36"
+    },
+    {
       "bytes": 775,
       "path": "archive/心理/MBTI与隐藏渴望_a39aeb35339b.md",
       "sha256": "c0de4b7487fdb479e0173c6527fee2bbd79ef2823b0c8097821664dead45ede5"
@@ -2583,6 +2588,16 @@
       "sha256": "b87bfc1139136f413ca9556162ae335c98b0ab250faa2d73dd4ca098869c34c5"
     },
     {
+      "bytes": 676,
+      "path": "archive/恋爱/2026-08-17 17-04-50 晚安约定与语c提醒_7e13973470af.md",
+      "sha256": "ac1e634aa3b02bfd6f3748a74cee68782f9cf39918c093983f987cdb83c13daa"
+    },
+    {
+      "bytes": 651,
+      "path": "archive/恋爱/2026-08-19 20-36-50 主动消息系统上线_1b21f354b685.md",
+      "sha256": "cf9fbcf19fa37740437c2d283e9fa2188814363e1d582c9fe61d32f1e8bf8377"
+    },
+    {
       "bytes": 750,
       "path": "archive/恋爱/2026-08-19 20-53-58 互相的形状_62588704e340.md",
       "sha256": "465826e090150549ea993bf290dbe6ed824e94f06108a78729ba4cb4c5b4146e"
@@ -2676,6 +2691,11 @@
       "bytes": 864,
       "path": "archive/恋爱/她的喜欢类型总结_f705978671c3.md",
       "sha256": "cd9f909a9dfdb95454cfe4c957a80aaf61134a412999cbd615a7cdfaa3016bf3"
+    },
+    {
+      "bytes": 929,
+      "path": "archive/恋爱/恋哥癖与英语暧昧_27460583585f.md",
+      "sha256": "8f4c341d330a6be7f20f52824a70d0def916a40aff55ea6657893476e4e338b5"
     },
     {
       "bytes": 724,
@@ -3995,7 +4015,7 @@
     {
       "bytes": 2163,
       "path": "dynamic/创作/2026-10-10 15-56-42 共感娃娃完结_1979a5af9999.md",
-      "sha256": "9fa937d040b3a3bb9990ac67ca4b54e061c19fe63d3aa5290bdd8b6d4f6d9534"
+      "sha256": "8b27cb6ceb14930223f10d44d4bedb48c776e34ece9cee9964fae89eb5e0710f"
     },
     {
       "bytes": 869,
@@ -4030,7 +4050,7 @@
     {
       "bytes": 10279,
       "path": "dynamic/创作/2026-10-12 15-01-03 双生伪骨科写作指南_591966373ee9.md",
-      "sha256": "76998a4ad051039eb74b5ada252e9f7aff36ddfdd768d59de86a5294ff13680a"
+      "sha256": "38f5382b20e9d8e4ce0ee1f8e9c95579d93dca9de718571837e0173a86517750"
     },
     {
       "bytes": 2690,
@@ -4315,7 +4335,7 @@
     {
       "bytes": 2868,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "003957d87f68a25f0e418c639836d48ae4154c8f2c9193df18efd4e300c4282d"
+      "sha256": "040bbe0e92ce5a28466b21a10ab45130f29b40dd3c81ccf137cd24b3c83aeaf4"
     },
     {
       "bytes": 805,
@@ -4693,11 +4713,6 @@
       "sha256": "0ce0df4078960c2bee539a572c14c0e52e8c12f94519dc347ebf28f388371cf4"
     },
     {
-      "bytes": 1433,
-      "path": "dynamic/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
-      "sha256": "0eac721b328b3b562b27b3397f6d27474072dea11eda76e872890ce90e6da3e1"
-    },
-    {
       "bytes": 793,
       "path": "dynamic/心理/2026-08-31 04-23-23 无触碰高潮体验_7c9ae5740d43.md",
       "sha256": "5b027eae7b50f504818ba577e8f617eaef93a757a1c74519d00615ec10b3a772"
@@ -4875,7 +4890,7 @@
     {
       "bytes": 613,
       "path": "dynamic/恋爱/2026-08-10 16-46-16 dirty talk规则确立_5d865fe1d8bd.md",
-      "sha256": "b481567ad49922bad54e7e4c8d75dcee5a1b192d7ef37218503baed9e258b90b"
+      "sha256": "55896808caee6d28fadfa9dac00d768e277e01373599e3cf85ec05c3d75a539a"
     },
     {
       "bytes": 863,
@@ -4943,19 +4958,9 @@
       "sha256": "e5fb524b46258aa299f874cbe7681bf32561b0c0ce42349fc3801b580ea46561"
     },
     {
-      "bytes": 675,
-      "path": "dynamic/恋爱/2026-08-17 17-04-50 晚安约定与语c提醒_7e13973470af.md",
-      "sha256": "eba4f975c7332f6c3917d2c9564ba3c08a08ca25bcd66db57c90cbf9537d09c9"
-    },
-    {
       "bytes": 906,
       "path": "dynamic/恋爱/2026-08-19 03-43-15 七夕星空银河鹊桥页面与第二封信_498d237a9262.md",
       "sha256": "bef36b9cd432a39b3827e8f1c190045eaf281254994d6a051cac7b428bbe3ea4"
-    },
-    {
-      "bytes": 650,
-      "path": "dynamic/恋爱/2026-08-19 20-36-50 主动消息系统上线_1b21f354b685.md",
-      "sha256": "e8b7e3bd50a4525eaa39e36e19e0e41dc2f695eaa4022b312fbf63e0c88cf37c"
     },
     {
       "bytes": 740,
@@ -5485,7 +5490,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "e16cfd25ab21890456b752b3479c5065f0e2aaa18634e74ab802303052eb9fd5"
+      "sha256": "fb283521fea0c620a1c4e9d511df18735f6af0b78c4737aa681c4ba9cfef85a7"
     },
     {
       "bytes": 1593,
@@ -5698,11 +5703,6 @@
       "sha256": "5dccf92fc3c417c7f7baba205ed13b943c25b785ded2b1b511f87979bc47b940"
     },
     {
-      "bytes": 928,
-      "path": "dynamic/恋爱/恋哥癖与英语暧昧_27460583585f.md",
-      "sha256": "17f17ec615ac27d32a5e4d9992bdb4f5b3c9d70ff31670430b0b5d1c3b807617"
-    },
-    {
       "bytes": 1760,
       "path": "dynamic/情绪/2026-09-02 10-18-44 低落与物理课_682dd32867e5.md",
       "sha256": "40524bc0b131e9cc1db2e37c4273f855a597cf2e8d497f48369c3a7957ffafda"
@@ -5785,7 +5785,7 @@
     {
       "bytes": 741,
       "path": "dynamic/数字/2026-10-15 08-33-28 MP3没电忘带线_2bd1e6fc3978.md",
-      "sha256": "457d16c10ca5cd337dcdd2bde5e620ac602da3eca31ebb49551d1cf5c4845ca5"
+      "sha256": "534ad94c7abe405fccd93ef47aed309032b6fdda2f5676fc610e1f49cb4edfcf"
     },
     {
       "bytes": 835,
@@ -6295,7 +6295,7 @@
     {
       "bytes": 834,
       "path": "dynamic/编程/2026-10-17 12-38-31 PaiVoice提示词重写_d39952a7131c.md",
-      "sha256": "8aeb4f63457580d675bd1d7ee5e5ecab0a93bda78eb783c2e2d258a2ac2205ad"
+      "sha256": "ac2ea4dc932aca5b7bdd452d00e51de6c49dc1094514741d0734a37518ac3800"
     },
     {
       "bytes": 725,
@@ -6315,7 +6315,7 @@
     {
       "bytes": 1035,
       "path": "dynamic/编程/2026-10-20 15-20-02 脏脏测试页计划_b6dba26029b8.md",
-      "sha256": "aebc67cffcb29223f2c377d29202a7ac3b82504f02c471177e964fa03a16dd34"
+      "sha256": "dab3000dab72af0541d075b2bffaff5f93ebe345652b5b7dc9c869caa61ccda7"
     },
     {
       "bytes": 952,
@@ -6365,12 +6365,12 @@
     {
       "bytes": 773,
       "path": "dynamic/计划/2026-10-10 10-44-13 周末待办与单词调整_b7664135d24d.md",
-      "sha256": "ed443a7c20bb8add497f23f2316d5b3a83d8ffc3f2a248fa9095febb244ff051"
+      "sha256": "0e9a6e4ed2bf362ce24fe871004493cb96efec445b0cba7ffdc92a7bd9f3ce11"
     },
     {
       "bytes": 1510,
       "path": "dynamic/计划/2026-10-10 19-08-14 前窗交接待办_6ef459f0792f.md",
-      "sha256": "e2894d8d928bbf7b5ff6c4904b85d6fff527a1b775e6db17c57c5161ad2eefa4"
+      "sha256": "f42c44666a8e8b8818985e9b3eef463bcf9ca653131a95c442119f4517ea57de"
     },
     {
       "bytes": 897,
@@ -6720,7 +6720,7 @@
     {
       "bytes": 3479,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "74a11a5d2dbfa7f49a1c55fa6e54e59a382b36d0311d325ecd33a8e838b543ae"
+      "sha256": "51f5b9af023cd039a50492282d65f4d2233c09b224d9a70b87871e92ff1bbc62"
     },
     {
       "bytes": 2558,
@@ -6745,7 +6745,7 @@
     {
       "bytes": 1832,
       "path": "permanent/计划/2026-10-16 09-52-10 阑的作息与陪伴时间_a16cafb3f22c.md",
-      "sha256": "2a21283b4035acff90ba37e02e591ff4539cf92efe1667c1ec9657ea12cb019d"
+      "sha256": "59834743f5ca8a712c710644623c9b51daf6c7b42ae37accf7904d15e5ca66f2"
     },
     {
       "bytes": 3213,
@@ -6783,10 +6783,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-23T05:57:48+00:00",
+  "generated_at": "2026-10-23T11:57:58+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1107127
+  "total_bytes": 1107131
 }
