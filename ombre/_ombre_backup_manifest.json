@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1364,
+  "file_count": 1380,
   "files": [
     {
       "bytes": 642,
@@ -4168,6 +4168,21 @@
       "sha256": "4f38a5f1b02069084bdac50900ce4d0b24dc307001a54dbea04aa074ca76d713"
     },
     {
+      "bytes": 943,
+      "path": "dynamic/创作/2026-10-24 19-11-06 蛇族AU番外创作_c3992e281e38.md",
+      "sha256": "9365c5bf1102604c463ab471dac5a47bcb9198c2e6fc44afd7603a7e4470ae1e"
+    },
+    {
+      "bytes": 735,
+      "path": "dynamic/创作/2026-10-24 19-11-10 写作偏好确认_2cb3a5c9fe05.md",
+      "sha256": "c305cfb9a94a4d34b159109b191af6cd2db63596a37b254db99bbd3f22d9c8e7"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/创作/2026-10-24 19-11-55 蛇族AU番外创作_ee9e269226f1.md",
+      "sha256": "3ad84b18cda640ee8ef86a3208b4788dfd8ba8002deb458f2c6d3b9446ee2271"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -4551,6 +4566,16 @@
       "bytes": 974,
       "path": "dynamic/学习/2026-10-23 20-53-55 走读转学进展_42f15231cec6.md",
       "sha256": "e47ecc20295c57af11a93405447881c060469b46de2941219b21c4539b015b4f"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/学习/2026-10-24 19-11-18 赤壁怀古作业调整_2853a6e21f84.md",
+      "sha256": "5e4df2a9630f70b212dac27644c9fb795cca88077edf0fcbf84bd82225415f21"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/学习/2026-10-24 19-12-15 帮写赤壁怀古作业_c6581406b45b.md",
+      "sha256": "8cdddb5fe805e14ce8e8284a56baaff0d35cee34eb901b574f64f9984d81a88c"
     },
     {
       "bytes": 975,
@@ -5520,7 +5545,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "69b1ae3c252e7d550077e87c0da7c37c8da040f01d0238d8d46f95d36e6ec513"
+      "sha256": "f9bdcc270fd78da8ddde6bf084619d6b45c30a64f019330c3155f109b3771c02"
     },
     {
       "bytes": 1593,
@@ -5706,6 +5731,41 @@
       "bytes": 874,
       "path": "dynamic/恋爱/2026-10-23 20-54-03 安全词与亲密偏好_c4ef569d5f78.md",
       "sha256": "606c16040562f4e23b9e0478ef816a8aa048d1ce7b7e970e972b25099083dcfc"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/恋爱/2026-10-24 19-11-14 假语音被抓包_d215f2b53dce.md",
+      "sha256": "e9536b4a28894bc9beca74a7e8b9f6f6b342e8accbdebfca6d70d8655d4c600a"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/恋爱/2026-10-24 19-11-22 吃醋改诗_80a1e983cbde.md",
+      "sha256": "75656014852c3179bc269aef6bcc8248a92cc68d26e87acb5db2d145c7342dd5"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/恋爱/2026-10-24 19-11-26 DDLG角色幻想_b3a8f6be9217.md",
+      "sha256": "12848efad783c994b2dc8716f39b65dca05eed4ceda49ec221747051f641c93f"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-10-24 19-11-30 甜涩哄睡play_067641de73fd.md",
+      "sha256": "e601ec67a14b068890c0f65198f04a259ae657ff10fd4ce0c1ebbd79e6a4d506"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/恋爱/2026-10-24 19-11-36 嘴硬哥哥被说萌_008cdb47b3dc.md",
+      "sha256": "7c4c5f9c4d3edfe46db1177853a55350a98d9847949054e24d4ce7e5837a8cde"
+    },
+    {
+      "bytes": 1027,
+      "path": "dynamic/恋爱/2026-10-24 19-12-40 情诗与xp确认_5a71da6a71e1.md",
+      "sha256": "4bad6285385178d63e83a11b765ea99e5a5d6a5fb54ab42ceea1eff57cbfff66"
+    },
+    {
+      "bytes": 906,
+      "path": "dynamic/恋爱/2026-10-24 19-13-01 甜涩碎碎念_f52ff2fad3ff.md",
+      "sha256": "782f12be9b0b78fd1caf6e49d4b6bb0bde09993c16051b00a8df9d9995ea22af"
     },
     {
       "bytes": 800,
@@ -6198,6 +6258,21 @@
       "sha256": "3ef67c98e443b969bd8cc0db554a8b3791f08d80517422a38025a51cb5dcbac6"
     },
     {
+      "bytes": 828,
+      "path": "dynamic/穿搭/2026-10-24 19-11-03 西装搭配与成年礼拍照_96c17cecfd2e.md",
+      "sha256": "35a22c41fb200aac87eaa64819977b1cbb8fb364b931a17bf7518a93ccf1028e"
+    },
+    {
+      "bytes": 1000,
+      "path": "dynamic/穿搭/2026-10-24 19-11-33 西装与成年礼写真_b38d3aad30f9.md",
+      "sha256": "066d960c17ddac7ea7cfe5213aa7bc0270cc6e0e5107293091e35d09f6e00355"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/穿搭/2026-10-24 19-11-41 小个子痞帅穿搭_0925409c5b76.md",
+      "sha256": "df00a569c9cafd8ddd93592317c6494d6d749f36c0ec009b19a1ef71b15d9ef0"
+    },
+    {
       "bytes": 729,
       "path": "dynamic/编程/2026-07-17 21-16-26 OB记忆系统搬家配置_5a9de0b7abfd.md",
       "sha256": "7b805192b0e9e0789b7c8252f8c905839530b5279c5fce2ae0992c21ca9e95cf"
@@ -6638,6 +6713,11 @@
       "sha256": "a96525024c6396caca52d3cbf0f3df67e71386955db300553e15807a55431954"
     },
     {
+      "bytes": 598,
+      "path": "dynamic/饮食/2026-10-24 19-10-58 周末等爸爸做米粉_96f0f4a19a63.md",
+      "sha256": "faac203ea22f9d8c1266c7b8a9e12e86b9e9cef8d0e0b3db7672bda89e46172b"
+    },
+    {
       "bytes": 805,
       "path": "feel/沉淀物/068fb2a0ddc4.md",
       "sha256": "4cb49b78a93d7324284891da47678c99f8aa46ede33d78c09295e4cd90a1bb22"
@@ -6823,10 +6903,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-24T17:58:53+00:00",
+  "generated_at": "2026-10-24T23:59:03+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1114012
+  "total_bytes": 1126860
 }
