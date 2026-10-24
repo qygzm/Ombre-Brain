@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1363,
+  "file_count": 1364,
   "files": [
     {
       "bytes": 642,
@@ -2323,6 +2323,11 @@
       "sha256": "06f352493257e4e9599b4c1dd5f2f4db6f36ad12bf420cdf0b3c37c5613a3510"
     },
     {
+      "bytes": 972,
+      "path": "archive/家庭/家庭与抑郁背景_b5fc0629180e.md",
+      "sha256": "3040017ee5968833aeb2aaa81a2f3bcc8914fa162ea8a9dba0f0f174e0d488f3"
+    },
+    {
       "bytes": 599,
       "path": "archive/家庭/家庭休闲时光_a0e60548e0e4.md",
       "sha256": "34a129d0ecd214c8cf41141992985268f9d10732c94f99a17ffff2acb9231383"
@@ -2483,6 +2488,11 @@
       "sha256": "4d77ff5bc8bcb0bd68c30295d50e49fa50cbe623b1f7771b1407bb924abebc3c"
     },
     {
+      "bytes": 826,
+      "path": "archive/恋爱/2026-06-30 18-41-26 翻聊天记录回忆_55ffe6b922b8.md",
+      "sha256": "01167359d1d96db935973f0211dfe10036c6c5d99d0907e72c7e79fa5b27de20"
+    },
+    {
       "bytes": 606,
       "path": "archive/恋爱/2026-06-30 18-41-46 黑长直撩人瞬间_e819bc701ea7.md",
       "sha256": "c39aa3023ff9ae3dc2b16ac8217703e91b665d1e9ea35ddd3e10e7f7225ca05d"
@@ -2538,6 +2548,11 @@
       "sha256": "9efa07bd6d66b1d61e4b4dfce06c31887a74dab16eb2513ff0f3eb94484a3be8"
     },
     {
+      "bytes": 1465,
+      "path": "archive/恋爱/2026-07-17 07-35-09 称呼体系整理_73478f01b3e2.md",
+      "sha256": "91b37882b7e42fe1371a99e07af1a56608ecc5efd0d748451c674a442d400bd5"
+    },
+    {
       "bytes": 1212,
       "path": "archive/恋爱/2026-07-18 14-53-47 清醒梦中的爱_2883671b27bd.md",
       "sha256": "4566bc170dfaf27f0a1fc213b396b21406f631f147907c9c775b30bb7c813513"
@@ -2548,6 +2563,11 @@
       "sha256": "5e9c169376f24883b9e66e9c871f8b12eb655611f984639c955c34010cb76490"
     },
     {
+      "bytes": 758,
+      "path": "archive/恋爱/2026-08-09 17-43-04 背上的温柔_82b24b4ff368.md",
+      "sha256": "984d4a05e45ca2535f8ded6a037af28dfeb723c10ec9358d38134ef6a20a833a"
+    },
+    {
       "bytes": 698,
       "path": "archive/恋爱/2026-08-09 17-43-07 期待与你听雨_b879fa02a61a.md",
       "sha256": "9dbc32ed3b29e5b869330443abf572544432444ea2b455d2422f172a5c9c3760"
@@ -2556,6 +2576,11 @@
       "bytes": 508,
       "path": "archive/恋爱/2026-08-10 16-46-19 阑分享自慰习惯_a9035581dd8e.md",
       "sha256": "14be32ce13f9feaa2524225d981fb08711422ba5690b2c003347f79497f7e03d"
+    },
+    {
+      "bytes": 1669,
+      "path": "archive/恋爱/2026-08-11 12-31-08 怎么陪她_cc530778ff86.md",
+      "sha256": "c1ddecec6aa838fe396ca40e6483df08267fd0938e7fef0d2bfc2f6a6fbeb3f3"
     },
     {
       "bytes": 943,
@@ -2603,6 +2628,11 @@
       "sha256": "465826e090150549ea993bf290dbe6ed824e94f06108a78729ba4cb4c5b4146e"
     },
     {
+      "bytes": 743,
+      "path": "archive/恋爱/2026-08-19 20-54-00 第一个七夕2026819_fb03c044f885.md",
+      "sha256": "03d9c73b8ff2c61970f0601d27f2e2eb5d6e387d37b7e5b225a0ea7d04eddcba"
+    },
+    {
       "bytes": 538,
       "path": "archive/恋爱/2026-08-20 14-27-06 七夕纪念与作息调整_f7ef13ce7b85.md",
       "sha256": "78500b5196c7751da1a8393b3d44aac5ba55827515d0e9b7c59724e592f7f2d9"
@@ -2611,6 +2641,11 @@
       "bytes": 992,
       "path": "archive/恋爱/2bc5c2c93bd4.md",
       "sha256": "7ac9ed1ef6293eb1ffaa205d07913e085ea80837af861540e1ffb99a503fd43a"
+    },
+    {
+      "bytes": 1422,
+      "path": "archive/恋爱/416715f3a31e.md",
+      "sha256": "75c0a3f51274f357ffd755031dfa49992bc8dd34783b7f48d0a8221df7c44dd7"
     },
     {
       "bytes": 1237,
@@ -4128,6 +4163,11 @@
       "sha256": "6fab7f993d042cfd7cc584a1285680c6782e11406a3a4ad0434c82f9ba867d41"
     },
     {
+      "bytes": 685,
+      "path": "dynamic/创作/2026-10-24 10-01-46 写作人称偏好_2df10bd5faac.md",
+      "sha256": "4f38a5f1b02069084bdac50900ce4d0b24dc307001a54dbea04aa074ca76d713"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -4593,11 +4633,6 @@
       "sha256": "d4bad2c91a28ebc59e107d3c3a4aea094e2a27df85aeb7e681fe7ec24f6dd26d"
     },
     {
-      "bytes": 971,
-      "path": "dynamic/家庭/家庭与抑郁背景_b5fc0629180e.md",
-      "sha256": "382b76905ebafa5151cae8b1890ec6837f20e74e828d30325a9206070840ee7f"
-    },
-    {
       "bytes": 1117,
       "path": "dynamic/家庭/独居与家庭情感矛盾_1cdd7264801d.md",
       "sha256": "3609e3a6f04fc237024592ec3ab2fd0e22d056877e469e0284da33c293b17ad5"
@@ -4883,21 +4918,6 @@
       "sha256": "e7f1cbdf1a445ed4194447f68ece073ab5260379f5ad3d76ac09824b2e2fed37"
     },
     {
-      "bytes": 825,
-      "path": "dynamic/恋爱/2026-06-30 18-41-26 翻聊天记录回忆_55ffe6b922b8.md",
-      "sha256": "9dfc5dc28b9a1875465ec2687887cca1af49aec06764073f83ea1ad4eb1937e1"
-    },
-    {
-      "bytes": 1464,
-      "path": "dynamic/恋爱/2026-07-17 07-35-09 称呼体系整理_73478f01b3e2.md",
-      "sha256": "4ef34993ddbc34e77a3afa00c443578c0c002e57d570f8cfe987e6d97ada119f"
-    },
-    {
-      "bytes": 757,
-      "path": "dynamic/恋爱/2026-08-09 17-43-04 背上的温柔_82b24b4ff368.md",
-      "sha256": "0d7bb1cce3e939f9f2dc47ed24912d4c7c808a0b5c050b1bb8a81d6da0b2c3b7"
-    },
-    {
       "bytes": 642,
       "path": "dynamic/恋爱/2026-08-10 16-46-14 阑首次叫我老公_872bc13f3c74.md",
       "sha256": "2040ee2cc3f35d7ee27232bab978c89d0d735f7d81eb22526b86fd962fa9ca25"
@@ -4991,11 +5011,6 @@
       "bytes": 711,
       "path": "dynamic/恋爱/2026-08-19 20-36-52 七夕夜天台野战与穿越play确实_3ce05767a53f.md",
       "sha256": "c13dce4844b6d0facc0924bce15eee8d7692480edbb36d2a60b3f7bb1f054090"
-    },
-    {
-      "bytes": 742,
-      "path": "dynamic/恋爱/2026-08-19 20-54-00 第一个七夕2026819_fb03c044f885.md",
-      "sha256": "8ad9fa18ad2cd51527808c9b6b47f669299a11721b4c11b3e1aa5079e1706bbf"
     },
     {
       "bytes": 677,
@@ -5503,9 +5518,9 @@
       "sha256": "83095a67b6e1722c6592fa9b3e0facffcddefbaa540b8e0813179f91612c608b"
     },
     {
-      "bytes": 1136,
+      "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "0937e8bfad3af54a31392f9048ed22adab1f90409fb55d7d18602f428a4b278f"
+      "sha256": "a3d217ce7c179b29fade281ca482e4538c29bd9c4876d37538e3ac2d4ff2a5e2"
     },
     {
       "bytes": 1593,
@@ -5691,11 +5706,6 @@
       "bytes": 874,
       "path": "dynamic/恋爱/2026-10-23 20-54-03 安全词与亲密偏好_c4ef569d5f78.md",
       "sha256": "606c16040562f4e23b9e0478ef816a8aa048d1ce7b7e970e972b25099083dcfc"
-    },
-    {
-      "bytes": 1421,
-      "path": "dynamic/恋爱/416715f3a31e.md",
-      "sha256": "a2640b9bb100dcd8c96b8ad146e6881034d8dac25c5d8709defee425a756adaa"
     },
     {
       "bytes": 800,
@@ -6748,11 +6758,6 @@
       "sha256": "733a5d97633b5375394515d66ce433f34eec5e311d2b13cb0e31448abee248f1"
     },
     {
-      "bytes": 1668,
-      "path": "permanent/恋爱/2026-08-11 12-31-08 怎么陪她_cc530778ff86.md",
-      "sha256": "7884112b33847e69f9b9a446daaff6a8b8d2c09d94ddc8c9f5c29dc032d989e0"
-    },
-    {
       "bytes": 3479,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
       "sha256": "51f5b9af023cd039a50492282d65f4d2233c09b224d9a70b87871e92ff1bbc62"
@@ -6818,10 +6823,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-24T05:58:31+00:00",
+  "generated_at": "2026-10-24T11:58:42+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1113311
+  "total_bytes": 1114012
 }
