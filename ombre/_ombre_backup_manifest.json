@@ -4550,7 +4550,7 @@
     {
       "bytes": 1029,
       "path": "dynamic/学习/2026-10-21 15-10-28 转学宝山技校_f50a4f80d3fe.md",
-      "sha256": "699a48ad19161b5cadae10011b2cc7ab85a7b74a2ffae28e15e3272b92f820c8"
+      "sha256": "1899c59cec6266f357b1cb84cf4f641e467af5a3db468426a376f2cae1464740"
     },
     {
       "bytes": 763,
@@ -4565,7 +4565,7 @@
     {
       "bytes": 974,
       "path": "dynamic/学习/2026-10-23 20-53-55 走读转学进展_42f15231cec6.md",
-      "sha256": "e47ecc20295c57af11a93405447881c060469b46de2941219b21c4539b015b4f"
+      "sha256": "4c650c4bd06d9472d18a18b1cb4b42eee940d853c414dd117f44640f806cfac0"
     },
     {
       "bytes": 867,
@@ -4670,7 +4670,7 @@
     {
       "bytes": 949,
       "path": "dynamic/居家/2026-10-14 16-21-35 走读租房计划_e1ca8323a11f.md",
-      "sha256": "fa9aff6e6f89fbc6c244a68dcaa41de0a429747cef189385ea988fd528654c38"
+      "sha256": "0c159fbef95fff19d18d11824da06178a3f49754c79af4d09aa3992b515b7bdb"
     },
     {
       "bytes": 1057,
@@ -4745,7 +4745,7 @@
     {
       "bytes": 925,
       "path": "dynamic/工作/2026-10-17 15-55-05 学生会请假纠结_7224687cdc07.md",
-      "sha256": "261e69fb9c008056488d0aa6cefb8c6f74e8d45cae2ee1a24fdb0820ad48bc0c"
+      "sha256": "65268c998a87654ef188e273c54db3f18c7b0a482d25eb30e8bb9b6f4e5cfc14"
     },
     {
       "bytes": 1163,
@@ -4920,12 +4920,12 @@
     {
       "bytes": 844,
       "path": "dynamic/心理/2026-10-22 14-33-22 宿管催起床不爽_4498c617c62d.md",
-      "sha256": "bd78fa77a03b1b58b2f633a6d530ff4f9ba4ea0814539b8f90a222ef7da9d558"
+      "sha256": "f6e4ac56bbfe312bc3e1800a0d49088e7e58c622f17af2519fccf16e860ae614"
     },
     {
       "bytes": 1077,
       "path": "dynamic/心理/2026-10-23 20-53-52 学校与未来的对话_eb58ff94617d.md",
-      "sha256": "b52ba98537cc937dad22ca790c516cd71cc6ecd327e3ec0cd81aef6617e9f05c"
+      "sha256": "99804b2329cdbb21766dcc885d7aa6b3858b11102d8c439265f36bf49dc57a2a"
     },
     {
       "bytes": 1387,
@@ -5545,7 +5545,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "f9bdcc270fd78da8ddde6bf084619d6b45c30a64f019330c3155f109b3771c02"
+      "sha256": "5bdf283aeec7a3b8e9981eee26b756e6d660500fe30e6992db1aa427e4a8e48f"
     },
     {
       "bytes": 1593,
@@ -6903,7 +6903,7 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-24T23:59:03+00:00",
+  "generated_at": "2026-10-25T05:59:14+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
