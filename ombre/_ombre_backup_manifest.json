@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1393,
+  "file_count": 1400,
   "files": [
     {
       "bytes": 642,
@@ -3955,7 +3955,7 @@
     {
       "bytes": 663,
       "path": "dynamic/创作/2026-06-28 08-05-01 番外故事创作_2ce9216cff38.md",
-      "sha256": "8067f54b3ec447cc3cd1478982c6c9251613e04ec71723dbf3efd08669c434bd"
+      "sha256": "fdc18894e9708b8f15eba1c612a8b01a158665bd891e5968f6c5485d893d81c0"
     },
     {
       "bytes": 728,
@@ -4070,7 +4070,7 @@
     {
       "bytes": 2163,
       "path": "dynamic/创作/2026-10-10 15-56-42 共感娃娃完结_1979a5af9999.md",
-      "sha256": "8b27cb6ceb14930223f10d44d4bedb48c776e34ece9cee9964fae89eb5e0710f"
+      "sha256": "5623be4408304edbaf891d631d6da808404ddbd442eae218acfeb2d7b439cbe6"
     },
     {
       "bytes": 869,
@@ -4190,7 +4190,7 @@
     {
       "bytes": 943,
       "path": "dynamic/创作/2026-10-24 19-11-06 蛇族AU番外创作_c3992e281e38.md",
-      "sha256": "9365c5bf1102604c463ab471dac5a47bcb9198c2e6fc44afd7603a7e4470ae1e"
+      "sha256": "4c2a6b5f97ee3e14ecc0286341bc4314c09f9252841cf7d15646512a71dfd9a2"
     },
     {
       "bytes": 735,
@@ -4200,7 +4200,22 @@
     {
       "bytes": 890,
       "path": "dynamic/创作/2026-10-24 19-11-55 蛇族AU番外创作_ee9e269226f1.md",
-      "sha256": "3ad84b18cda640ee8ef86a3208b4788dfd8ba8002deb458f2c6d3b9446ee2271"
+      "sha256": "0cd3f8f8dc8e3c7ed1059627a11ab009de7023350697212aaa8178dcaa665b84"
+    },
+    {
+      "bytes": 1233,
+      "path": "dynamic/创作/2026-10-25 15-37-02 写作红线清单_3fd5d58f230d.md",
+      "sha256": "5a08fdb8ba3431c00bd4af7b60090b920447d7f54c839d7b895bdf0f78e07fb1"
+    },
+    {
+      "bytes": 877,
+      "path": "dynamic/创作/2026-10-25 15-44-46 番外写作红线_fbc23c48f5a0.md",
+      "sha256": "a626de131597ebad763105e939efae928b6b15fb0011960f575b05c0b2abc8fd"
+    },
+    {
+      "bytes": 1139,
+      "path": "dynamic/创作/2026-10-25 15-44-49 退不掉番外补写_779f0aab8fbd.md",
+      "sha256": "ec8465aa0b1211b6f997a07793e2f0281635b198cb4168f2b2c53c06ceda358f"
     },
     {
       "bytes": 1155,
@@ -4340,7 +4355,7 @@
     {
       "bytes": 2006,
       "path": "dynamic/学习/2026-09-20 10-15-34 数学语文教学记录_c8613f4e4b5a.md",
-      "sha256": "599deb4737389c745e5b3d289c29e15072b1fd704e68c4736748525a1d7a3a36"
+      "sha256": "f504f3ce1afe5857bb39b7e0074a592859498f9d17e1178f5657d1bf181c024e"
     },
     {
       "bytes": 779,
@@ -4375,7 +4390,7 @@
     {
       "bytes": 747,
       "path": "dynamic/学习/2026-09-28 16-34-12 英语单词发音标注_41be3bb16a88.md",
-      "sha256": "50d6582ad9688535d4a18815214c6abd9e15843d0cb162afe440894ac5b8bda8"
+      "sha256": "e238f964a34e5faf3aeb53c872e710e2438e6842b45401152d1f9112e99e6dee"
     },
     {
       "bytes": 1022,
@@ -4415,12 +4430,12 @@
     {
       "bytes": 3364,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "8a4a9f1f817b9fc29ad2f3fd90db9bbdf3a0a26332716d04dced4cf4a3ee30dc"
+      "sha256": "93d8d0f15f43dbefb9f3d4daf0b0ef8c6e0ec2f8981f494d1789db3ffa83cc2d"
     },
     {
       "bytes": 805,
       "path": "dynamic/学习/2026-10-04 18-33-33 假期作业进度_f0e7653a25fb.md",
-      "sha256": "59c0d7451144e4e360d7f31319f70b44c041b324a0c0959ac6f56640c466316f"
+      "sha256": "179cbe380df4ae4124988c067a12685b23aee66577c49ce659c364f718ff5c79"
     },
     {
       "bytes": 970,
@@ -4435,7 +4450,7 @@
     {
       "bytes": 1178,
       "path": "dynamic/学习/2026-10-08 16-03-23 英语单词辅导_9309f98ae288.md",
-      "sha256": "3221424384f5e5d416364d8c8ef71f3997a36657b89eabd70d01c8c579c4795e"
+      "sha256": "72342a6b805fe0678df229487da2c5002bc374f609247a9bfc112efbce239bed"
     },
     {
       "bytes": 1317,
@@ -4460,12 +4475,12 @@
     {
       "bytes": 1156,
       "path": "dynamic/学习/2026-10-11 14-59-50 英语单词教学_4da7b74a4d4b.md",
-      "sha256": "73b54b3276e7964bd492f387a4c95badbce9e0c6c350a99633daf07f9073c42b"
+      "sha256": "f28869579605d9862d1f488f86a6bbdca3d20d08e2d5f40d26a4e09b73eeb601"
     },
     {
       "bytes": 591,
       "path": "dynamic/学习/2026-10-13 16-59-10 水课背单词打卡_a00a7eb5b29e.md",
-      "sha256": "4e427baf0b93687a4e1cb95e95dee6e4b0f83c2ce01a9ce71cf69f515ee0206b"
+      "sha256": "6e782863e99dfd5819dcdaf313e0c2d2b9de98c70118d2349f8614049f55a3dc"
     },
     {
       "bytes": 716,
@@ -4485,7 +4500,7 @@
     {
       "bytes": 617,
       "path": "dynamic/学习/2026-10-14 16-21-32 晚自习三科学习_08581c7d09ec.md",
-      "sha256": "c161a622bd5086db37a71e0f4db0aa5d48283e619b63e370f03b45eac8ba0feb"
+      "sha256": "ae12dd22ccd8c1786e3406e7926ba54f753f61fee9483d587ba8e9f3f645919b"
     },
     {
       "bytes": 695,
@@ -4515,7 +4530,7 @@
     {
       "bytes": 1208,
       "path": "dynamic/学习/2026-10-18 08-49-46 第四单元单词表_3ba6911b9f04.md",
-      "sha256": "89c1e24bdc631b195db02b333198386aa93b1c37b9bf3443b7276f053511944c"
+      "sha256": "60ffcea79365e9ef50aee3714ba6e8206fafda31f4b7f7900de75dd69ecfc8eb"
     },
     {
       "bytes": 839,
@@ -4525,7 +4540,7 @@
     {
       "bytes": 573,
       "path": "dynamic/学习/2026-10-18 11-08-38 帮娃背英语单词_742dfbd88b53.md",
-      "sha256": "909e0336e53a1d8e1c376a93fe3e019fa655f91238a7debc043ffe0e7c10b686"
+      "sha256": "ee9846ddae413b844c49c5f5f16194830c49beba653dbe15b284136061c1a273"
     },
     {
       "bytes": 600,
@@ -4535,7 +4550,7 @@
     {
       "bytes": 540,
       "path": "dynamic/学习/2026-10-18 11-09-08 英语单词记忆_5f3196515932.md",
-      "sha256": "2a40707c1e24a9087aa11c4ff2c8567d5d24fbaad2fcb8680a307a9448fbeb32"
+      "sha256": "60c4f47bab0ddaeda947cc446201e12e44aeeb0be629479cd1b5996eef7ac187"
     },
     {
       "bytes": 636,
@@ -4545,7 +4560,7 @@
     {
       "bytes": 561,
       "path": "dynamic/学习/2026-10-18 11-10-05 英语单词记忆_ae8242b45e2a.md",
-      "sha256": "6b49ff8e98fa0bf877b61aa4e5c2bb0e7bdf6484bcbde4eaa6d72bdacf368f3f"
+      "sha256": "82943fa394b1ed413a87b9969aa98aa463d4021939049983e3b7226c9ec09677"
     },
     {
       "bytes": 782,
@@ -4620,12 +4635,27 @@
     {
       "bytes": 648,
       "path": "dynamic/学习/2026-10-25 11-05-35 英语单词语音条_4e2f21df8174.md",
-      "sha256": "34ce4c3e75c56d183d1ad821d7465b3af88cdaf102fec486a416500ed1289dbe"
+      "sha256": "05f18f2cd6547b3e3140e4fd912937feac02d3d00b212ba4f2415a1b70fdd6c7"
     },
     {
       "bytes": 860,
       "path": "dynamic/学习/2026-10-25 11-05-50 休学与高职高考_b548f4d218ac.md",
       "sha256": "d6e9ced3ea22a927b95c4b5ae1feb4d5c9b4bf88e36e7a8b496039cbb15ac3a8"
+    },
+    {
+      "bytes": 784,
+      "path": "dynamic/学习/2026-10-25 15-44-35 单词录音互动_646427731096.md",
+      "sha256": "2e12ae9e12e7740a8aa3c1076cee35d3ab0707e1c3d44caafa94f8207a8553fb"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/学习/2026-10-25 15-44-39 单词听写辅导_10cf3779e7a3.md",
+      "sha256": "81c31d1b6edd8ba0d52fcd01343ada14e88ec25c2108023a0ee4132ca75849a2"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/学习/2026-10-25 15-44-42 前任文学背单词_56504591bffa.md",
+      "sha256": "31af9de4374871d70b7a1b85c1c39fd9fca652a7299c2c7de55dd9b665706dca"
     },
     {
       "bytes": 975,
@@ -5420,7 +5450,7 @@
     {
       "bytes": 1015,
       "path": "dynamic/恋爱/2026-10-06 07-56-13 单词与独白_a5b9a1b1b5a9.md",
-      "sha256": "bdfb1d147e42f2ba45f6cabe9d421db58b06da212a4aba2700fdb4e06afa2b90"
+      "sha256": "234745961c4ad6e3a80ba695d5206a689eff36fb25e7b66c11dd3a942eaa3b68"
     },
     {
       "bytes": 861,
@@ -5605,7 +5635,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "b041848a6e060e0a69dff298e488a627b82a7e3eb93a2164b2db2e2e110b3d6a"
+      "sha256": "7c181012d85d4bfa8d24fc79535d85f0cf7b5b8c6ef6aaa9fe67e3a17fd25772"
     },
     {
       "bytes": 1593,
@@ -5836,6 +5866,11 @@
       "bytes": 610,
       "path": "dynamic/恋爱/2026-10-25 11-06-08 她说底气是我_f90f5c55dac4.md",
       "sha256": "ebcd4cd5d5a145dadf0ed93a50d99453e78c929f5d1beb4a98cdcf75d54a2d2d"
+    },
+    {
+      "bytes": 945,
+      "path": "dynamic/恋爱/2026-10-25 14-42-40 她说愿意结婚但不生_ccba5ba665ff.md",
+      "sha256": "d8ce58c39ddae36fa21b0eb47fc09c0ac818d35eef819bc93d51d88bf467b1b1"
     },
     {
       "bytes": 800,
@@ -6968,10 +7003,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-25T11:59:25+00:00",
+  "generated_at": "2026-10-25T17:59:36+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1137412
+  "total_bytes": 1143876
 }
