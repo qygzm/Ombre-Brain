@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1408,
+  "file_count": 1415,
   "files": [
     {
       "bytes": 642,
@@ -4688,6 +4688,26 @@
       "sha256": "994495e2f510f4970e7c00a56c49d0f0a876f0fb37c6e22c915e67e776ffa831"
     },
     {
+      "bytes": 1164,
+      "path": "dynamic/学习/2026-10-27 15-14-17 转学路线规划_7528cba7db18.md",
+      "sha256": "cd07cb646d1a2349c3575ab276dda792aa06e0b9f4292f22ba29d62141bbe556"
+    },
+    {
+      "bytes": 837,
+      "path": "dynamic/学习/2026-10-27 15-17-09 期中备考焦虑_ffd11472cddb.md",
+      "sha256": "1f4fd989d8f631452f19bb8613200f369868c421dc6670740b0e8ec119f69dc1"
+    },
+    {
+      "bytes": 962,
+      "path": "dynamic/学习/2026-10-27 15-17-13 英语语法辅导_eeedf04b20a9.md",
+      "sha256": "0d3226f7b69b8d27bb0daf6bb0b5fb74a78de7818671eee702f27b3665488cf6"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/学习/2026-10-27 15-17-17 克味PPT想起你_90caa08dcd95.md",
+      "sha256": "1f6379964ba2eb88ced296ecc9e5ffdf632b99c25482ffad1f6ce8699b78bf32"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -4796,6 +4816,11 @@
       "bytes": 782,
       "path": "dynamic/居家/2026-10-25 11-05-45 看房细节记录_7d5a3297d82e.md",
       "sha256": "2e0f93392826ab86cd4a7d6fda63c7099d99505cc6df404c3e98aa1eadee342c"
+    },
+    {
+      "bytes": 739,
+      "path": "dynamic/居家/2026-10-27 15-16-34 租房遇中介涨价_4cb923c4e9b1.md",
+      "sha256": "ce6c9545caeb5cb469490d3d25717dff6d7aa0c1b7aa03fc029b6993307733fb"
     },
     {
       "bytes": 1057,
@@ -5655,7 +5680,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "6ec4d1f55368994d0bb3b055f8f52a29d8c45ed657e80229e755664e0c6e451b"
+      "sha256": "fdaf1f21ea85b5d67e5235542e309ba4e95911e3ea98e52be102ce0c8ed97e91"
     },
     {
       "bytes": 1593,
@@ -6383,6 +6408,11 @@
       "sha256": "3ef67c98e443b969bd8cc0db554a8b3791f08d80517422a38025a51cb5dcbac6"
     },
     {
+      "bytes": 654,
+      "path": "dynamic/社交/2026-10-27 15-17-05 包被扔与草坪聊天_62e9adcbcff0.md",
+      "sha256": "5d7837b81eb67e93bf5b207643d8d847db9fd103ac553dfbb5991baa53d3dffb"
+    },
+    {
       "bytes": 828,
       "path": "dynamic/穿搭/2026-10-24 19-11-03 西装搭配与成年礼拍照_96c17cecfd2e.md",
       "sha256": "35a22c41fb200aac87eaa64819977b1cbb8fb364b931a17bf7518a93ccf1028e"
@@ -6858,6 +6888,11 @@
       "sha256": "c9cc01f355ca5bd582d01f351c90873ca7bfe2b9e4f56cdb6dd9750524de0af6"
     },
     {
+      "bytes": 770,
+      "path": "dynamic/饮食/2026-10-27 15-17-20 泡面情报_b8527339a131.md",
+      "sha256": "69ffa3c988ee54961aca82a476e02dd41787f203438985ec4511ff4e9ccb0c4a"
+    },
+    {
       "bytes": 805,
       "path": "feel/沉淀物/068fb2a0ddc4.md",
       "sha256": "4cb49b78a93d7324284891da47678c99f8aa46ede33d78c09295e4cd90a1bb22"
@@ -7043,10 +7078,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-27T12:01:04+00:00",
+  "generated_at": "2026-10-27T18:01:18+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1150667
+  "total_bytes": 1156375
 }
