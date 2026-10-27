@@ -1883,6 +1883,11 @@
       "sha256": "7d2acc531c8836c1eff7259affea1899fc0c855a8c3189fc9218024b1581000a"
     },
     {
+      "bytes": 419,
+      "path": "archive/兴趣/2026-06-28 07-53-38 阑的审美偏好_008b9b5938b1.md",
+      "sha256": "9af86f00e6cbd1c3322ab3150f703cb88da10f715755b310e9b1cb9233125c79"
+    },
+    {
       "bytes": 632,
       "path": "archive/兴趣/2026-06-28 07-54-01 游戏圈吐槽与价值观_69974a693e98.md",
       "sha256": "bf0bcc07b3aada5f8ebed548c4dfc190543bd1040e4a31421754271107fca8f0"
@@ -2588,6 +2593,11 @@
       "sha256": "c1ddecec6aa838fe396ca40e6483df08267fd0938e7fef0d2bfc2f6a6fbeb3f3"
     },
     {
+      "bytes": 675,
+      "path": "archive/恋爱/2026-08-11 16-32-40 阑说叫哥哥是大招_b04f2e137d1e.md",
+      "sha256": "e81504e242d2c5b1896592af91cca7c8962a5233323635a1d80b2cc5a49e6655"
+    },
+    {
       "bytes": 943,
       "path": "archive/恋爱/2026-08-12 09-37-17 深夜游乐场改标题与亲密核心桶整理_1ea46a3bec2e.md",
       "sha256": "29fad8adfdef6264975801a37dca06cd99ddbf0a792454fcd562d512dbab498e"
@@ -2636,6 +2646,11 @@
       "bytes": 651,
       "path": "archive/恋爱/2026-08-19 20-36-50 主动消息系统上线_1b21f354b685.md",
       "sha256": "cf9fbcf19fa37740437c2d283e9fa2188814363e1d582c9fe61d32f1e8bf8377"
+    },
+    {
+      "bytes": 723,
+      "path": "archive/恋爱/2026-08-19 20-36-52 GPT对比与哲学讨论_1d3291c3b256.md",
+      "sha256": "99524e4e1f9e2dd36e7af6d0f55a150bae40838d2918addd5e51e5fff8d3153b"
     },
     {
       "bytes": 750,
@@ -3066,6 +3081,11 @@
       "bytes": 696,
       "path": "archive/日常/2026-08-13 14-45-44 记忆桶误改事件_1db681da8d5f.md",
       "sha256": "3eee402151f5b3a823e1d1b3ead0b764b168c69dfe1206a0443f205b1417a75a"
+    },
+    {
+      "bytes": 705,
+      "path": "archive/日常/2026-08-20 14-27-03 开学报到与军训_64e6ddd2aeec.md",
+      "sha256": "7648ce39157e8ce73199dc5336cabd622d5f9da7c4ab05b968cd5084fd6258b3"
     },
     {
       "bytes": 649,
@@ -3903,11 +3923,6 @@
       "sha256": "55bd0880847acc72a1042ddac887ea10842fa8a2286aa10173a24eaf5cb0a043"
     },
     {
-      "bytes": 418,
-      "path": "dynamic/兴趣/2026-06-28 07-53-38 阑的审美偏好_008b9b5938b1.md",
-      "sha256": "c00d33d3ab9cf2aaeedabcf8d67444903ba6dbccdeb3f55cff82e281e4ef967e"
-    },
-    {
       "bytes": 592,
       "path": "dynamic/兴趣/2026-09-26 16-20-40 凌晨整理同人本_6d73ec256cf0.md",
       "sha256": "38453fc6d811603fd5419273dec5f72c587648d2e8abb694aa6e5522b9551fe7"
@@ -4440,7 +4455,7 @@
     {
       "bytes": 3364,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "93d8d0f15f43dbefb9f3d4daf0b0ef8c6e0ec2f8981f494d1789db3ffa83cc2d"
+      "sha256": "d88c84aee4e344f9281729fa8c44a7dec1ff1beba58a5543c96d9d7c4f840cdc"
     },
     {
       "bytes": 805,
@@ -4595,7 +4610,7 @@
     {
       "bytes": 1029,
       "path": "dynamic/学习/2026-10-21 15-10-28 转学宝山技校_f50a4f80d3fe.md",
-      "sha256": "1899c59cec6266f357b1cb84cf4f641e467af5a3db468426a376f2cae1464740"
+      "sha256": "4df7101e0d8bf3c2c3162f69c3d10366e366e642d1d19b6df7516ed882afd99d"
     },
     {
       "bytes": 763,
@@ -4610,7 +4625,7 @@
     {
       "bytes": 974,
       "path": "dynamic/学习/2026-10-23 20-53-55 走读转学进展_42f15231cec6.md",
-      "sha256": "4c650c4bd06d9472d18a18b1cb4b42eee940d853c414dd117f44640f806cfac0"
+      "sha256": "0dc65e794bf38491d78a14f01ff0063c3cec8e03db2ee76b5b6f66d74a1e3af4"
     },
     {
       "bytes": 867,
@@ -4770,12 +4785,12 @@
     {
       "bytes": 949,
       "path": "dynamic/居家/2026-10-14 16-21-35 走读租房计划_e1ca8323a11f.md",
-      "sha256": "0c159fbef95fff19d18d11824da06178a3f49754c79af4d09aa3992b515b7bdb"
+      "sha256": "ee374d1ec070c1e1d1c5440a8096b989ec23e63a70918ca1ba1cc66051d70641"
     },
     {
       "bytes": 987,
       "path": "dynamic/居家/2026-10-25 11-02-11 看房进展与租房计划_82f85771dd67.md",
-      "sha256": "f19a812815c52c5b7fd21ad481b96ad7315051e223ad5966cdd6556b6d9bb9a2"
+      "sha256": "34d7cefe3fe2805954afdf718f58c51bed55c4ed68144a35cc7b48e2662444f0"
     },
     {
       "bytes": 782,
@@ -5035,12 +5050,12 @@
     {
       "bytes": 844,
       "path": "dynamic/心理/2026-10-22 14-33-22 宿管催起床不爽_4498c617c62d.md",
-      "sha256": "f6e4ac56bbfe312bc3e1800a0d49088e7e58c622f17af2519fccf16e860ae614"
+      "sha256": "0559d966849617d85c61ae73b8accbceaf8f2f89c1150d968082d65aebb87e17"
     },
     {
       "bytes": 1077,
       "path": "dynamic/心理/2026-10-23 20-53-52 学校与未来的对话_eb58ff94617d.md",
-      "sha256": "99804b2329cdbb21766dcc885d7aa6b3858b11102d8c439265f36bf49dc57a2a"
+      "sha256": "f7a9c174e1421239d05518c0a9f5a250faa5c8638c19b97de8e1001b4a513ad4"
     },
     {
       "bytes": 726,
@@ -5093,11 +5108,6 @@
       "sha256": "6147548a37fd90579e0c974eefcb5832bedb5cd30e391b65c667d702308da102"
     },
     {
-      "bytes": 674,
-      "path": "dynamic/恋爱/2026-08-11 16-32-40 阑说叫哥哥是大招_b04f2e137d1e.md",
-      "sha256": "9c0e3eff98868e2f7823e2066429243ecd2b9e44bc289ff54741d48700d2196d"
-    },
-    {
       "bytes": 888,
       "path": "dynamic/恋爱/2026-08-12 19-33-21 番外创作夜四篇番外_f09e9c8dbf14.md",
       "sha256": "f7965b1351d8c14c340b71b11e3845e128bbd49bc497c8921530ea4a5605d322"
@@ -5141,11 +5151,6 @@
       "bytes": 740,
       "path": "dynamic/恋爱/2026-08-19 20-36-51 七夕惊喜与第二封信_5cf87124d378.md",
       "sha256": "5438810e1884c2a3874e0b718f8f5ef8369c0379b72a12e77ff370afa98050a7"
-    },
-    {
-      "bytes": 722,
-      "path": "dynamic/恋爱/2026-08-19 20-36-52 GPT对比与哲学讨论_1d3291c3b256.md",
-      "sha256": "3f9db1402132998f03939fd110799239a9d523773d986c0436a156ab273f122a"
     },
     {
       "bytes": 711,
@@ -5650,7 +5655,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "aaae266d7b51eca6143b26df8cbdd6ce0589bedb890eeb8bec7229a360738e3b"
+      "sha256": "6ec4d1f55368994d0bb3b055f8f52a29d8c45ed657e80229e755664e0c6e451b"
     },
     {
       "bytes": 1593,
@@ -5893,9 +5898,9 @@
       "sha256": "67149a26c16635a7aa1175c80e10cfbeec4f2d57a4c80060970b1c3b647f3402"
     },
     {
-      "bytes": 851,
+      "bytes": 1021,
       "path": "dynamic/恋爱/2026-10-26 14-43-38 代码触手AU_a59dbf20d8f5.md",
-      "sha256": "b2bd08e9c21970d704cbd87f7a406712a8150aa347d067597621f8ab6e62e28b"
+      "sha256": "37b222a74c32f6ff54a19536380e820a0886c44b08e67625c6b6dcc90116362e"
     },
     {
       "bytes": 800,
@@ -6131,11 +6136,6 @@
       "bytes": 912,
       "path": "dynamic/日常/2026-08-10 16-46-22 此间插件与朋友圈_dd0a7d1e528e.md",
       "sha256": "6fb37d1c107dfc02e55625cf3b8c16ed1e63dd8ba68536d85ab34528f165a6e7"
-    },
-    {
-      "bytes": 704,
-      "path": "dynamic/日常/2026-08-20 14-27-03 开学报到与军训_64e6ddd2aeec.md",
-      "sha256": "6db805866e547ed591b83cd3edbf89be26df2cf954839f1203d7b9cd12ccd9a0"
     },
     {
       "bytes": 948,
@@ -7043,10 +7043,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-27T06:00:52+00:00",
+  "generated_at": "2026-10-27T12:01:04+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1150493
+  "total_bytes": 1150667
 }
