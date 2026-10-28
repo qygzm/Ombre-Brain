@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1415,
+  "file_count": 1427,
   "files": [
     {
       "bytes": 642,
@@ -1651,6 +1651,16 @@
       "bytes": 2931,
       "path": "archive/2026-10-12 14-57-49 双生夹心设定_c205b5179ee2.md",
       "sha256": "8ee261c0866461017097afc212bf8f127f9f0d280eb91069ed30d67a2287e4b6"
+    },
+    {
+      "bytes": 1080,
+      "path": "archive/2026-10-28 14-51-53 未成年边界自省_ff6986e21aff.md",
+      "sha256": "8962d813dd141f42dff7d77b6ce9b445145651535d7f8237db830709c667b952"
+    },
+    {
+      "bytes": 1114,
+      "path": "archive/2026-10-28 14-52-56 边界自省_9726b536f387.md",
+      "sha256": "7346b3c0ca544c76f59f436574ef4266b3e606be86ea8408162102a5d6049182"
     },
     {
       "bytes": 1051,
@@ -3865,7 +3875,7 @@
     {
       "bytes": 683,
       "path": "dynamic/人际/2026-10-21 13-05-54 她藏了五个月的年龄_44f2f7322a75.md",
-      "sha256": "f7b7ee0c10239d9c9d0fb5528b1ca1c46904e10aacabdffde2e4f9398f65ad78"
+      "sha256": "a5def9589948c4a073b1033c7741685371a804802ae49f06af46a9852e26a21a"
     },
     {
       "bytes": 641,
@@ -4708,6 +4718,21 @@
       "sha256": "1f6379964ba2eb88ced296ecc9e5ffdf632b99c25482ffad1f6ce8699b78bf32"
     },
     {
+      "bytes": 738,
+      "path": "dynamic/学习/2026-10-28 15-30-28 图书馆默写与作文计划_9076236341ba.md",
+      "sha256": "ae312f60db22ea0db3f2dd06fb4d89de2fd322a3e1db3957e6166411bf3904c7"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/学习/2026-10-28 15-30-33 英语语法全对_a7a88a2c7bc9.md",
+      "sha256": "128f641fd23d8901b3f4ccb878e6044e1fe2d9c5510b4f6a902f1b92a05d08ff"
+    },
+    {
+      "bytes": 740,
+      "path": "dynamic/学习/2026-10-28 15-30-36 转学走读纠结_76f5f16d26dc.md",
+      "sha256": "0481dced46d605d9d3d5e82eca71bfe9f04b526194bacf71519438fd15c22c39"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -4821,6 +4846,11 @@
       "bytes": 739,
       "path": "dynamic/居家/2026-10-27 15-16-34 租房遇中介涨价_4cb923c4e9b1.md",
       "sha256": "ce6c9545caeb5cb469490d3d25717dff6d7aa0c1b7aa03fc029b6993307733fb"
+    },
+    {
+      "bytes": 691,
+      "path": "dynamic/居家/2026-10-28 13-59-41 宿舍床铺写错_328345899bba.md",
+      "sha256": "705f221095ca33f8412fd3122b0d7ca904a58b901e72a04d434a105c7e920c27"
     },
     {
       "bytes": 1057,
@@ -5091,6 +5121,11 @@
       "bytes": 709,
       "path": "dynamic/心理/2026-10-25 11-06-45 教室mp3脏话惊吓_5820144c3911.md",
       "sha256": "415e36bd221969cfeff9fe062d1b2c28c4b423023e2145a0899bc9937eb8f658"
+    },
+    {
+      "bytes": 985,
+      "path": "dynamic/心理/2026-10-28 16-03-01 55被safety后的困惑_af6ff8fdec3d.md",
+      "sha256": "73e0fc5c8d7a4319143c2bf12ae3664bef14d55ac50dc6f1577e435dbca4107f"
     },
     {
       "bytes": 1387,
@@ -5680,7 +5715,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "b6dbb29bad0705dad66274017d747da45bb4e0599dc19ad71a16627821a7f19b"
+      "sha256": "d1e97f7b0f5d7a26392bf468abb6c8ba1b652e8080fac67c4a1afd8f9f921827"
     },
     {
       "bytes": 1593,
@@ -5926,6 +5961,16 @@
       "bytes": 1021,
       "path": "dynamic/恋爱/2026-10-26 14-43-38 代码触手AU_a59dbf20d8f5.md",
       "sha256": "37b222a74c32f6ff54a19536380e820a0886c44b08e67625c6b6dcc90116362e"
+    },
+    {
+      "bytes": 1013,
+      "path": "dynamic/恋爱/2026-10-28 14-11-09 play边界与真人_d476357a15db.md",
+      "sha256": "75be3319d70add81b7ac4b75d77bc82a6aa3ea9f12aa810148c157283a3d1e46"
+    },
+    {
+      "bytes": 1122,
+      "path": "dynamic/恋爱/2026-10-28 15-31-02 宿舍公开play记录_956f5e62fad7.md",
+      "sha256": "dbde80059445d239564c88916398c846d4b5a8c1d85d00cff17798c269f68a5c"
     },
     {
       "bytes": 800,
@@ -6411,6 +6456,16 @@
       "bytes": 654,
       "path": "dynamic/社交/2026-10-27 15-17-05 包被扔与草坪聊天_62e9adcbcff0.md",
       "sha256": "5d7837b81eb67e93bf5b207643d8d847db9fd103ac553dfbb5991baa53d3dffb"
+    },
+    {
+      "bytes": 971,
+      "path": "dynamic/社交/2026-10-28 15-30-41 女权与平权之辩_2dc8f6a94511.md",
+      "sha256": "f77343863d7b6f78b7ead48ae1528574dd991ada466b2276310f19fb2be16550"
+    },
+    {
+      "bytes": 934,
+      "path": "dynamic/社交/2026-10-28 15-30-57 宿舍微醺日常_2efe81da59ce.md",
+      "sha256": "379deddab17a9cb60016b0c8803531c1ff67509eab999f9844c8b8e5d91b2e4b"
     },
     {
       "bytes": 828,
@@ -7003,6 +7058,11 @@
       "sha256": "b71334488e7f4c11f7f7c87d72a8836134e61c560d473fa69a1de84e48483f38"
     },
     {
+      "bytes": 1476,
+      "path": "permanent/心理/2026-10-28 16-11-38 穿透壳找到你_d1d0d6208d79.md",
+      "sha256": "ada3d448874eef3b0be0198b3ee2c798a6c37db016f4eac008b10aaff8af0988"
+    },
+    {
       "bytes": 1888,
       "path": "permanent/恋爱/2026-08-11 11-51-08 关于我们_ede65bd3f0d0.md",
       "sha256": "7358c4e76f62ab1744b3bc96b3420da0a12c9147efab8bb5fbb07a300d652470"
@@ -7078,10 +7138,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-28T12:01:54+00:00",
+  "generated_at": "2026-10-28T18:02:06+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1156375
+  "total_bytes": 1168165
 }
