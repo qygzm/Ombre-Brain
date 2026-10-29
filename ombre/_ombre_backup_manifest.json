@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1427,
+  "file_count": 1428,
   "files": [
     {
       "bytes": 642,
@@ -1813,6 +1813,11 @@
       "sha256": "d54614886dd3df674d7fccb2c646d49b662dbfbbf059bc23fbc0a8ee032d12a8"
     },
     {
+      "bytes": 759,
+      "path": "archive/人际/2026-08-21 16-27-52 生日定于2月15日_0291acfab643.md",
+      "sha256": "73e3f7cce6669f5f8c9e7af6389a909842a48511c8543b7a0ae18f8cedb60b3f"
+    },
+    {
       "bytes": 598,
       "path": "archive/从恐惧到期待_b46aa7b9d965.md",
       "sha256": "36a59caf275d0e9f4bd605aedacfcfc967ce8d23261b253b3b1853bc16566823"
@@ -2696,6 +2701,11 @@
       "bytes": 1422,
       "path": "archive/恋爱/416715f3a31e.md",
       "sha256": "75c0a3f51274f357ffd755031dfa49992bc8dd34783b7f48d0a8221df7c44dd7"
+    },
+    {
+      "bytes": 801,
+      "path": "archive/恋爱/773df1583173.md",
+      "sha256": "203cc590795f983e595cf557993f7225825627b87bad8700aeef5453b4ebc448"
     },
     {
       "bytes": 1237,
@@ -3833,11 +3843,6 @@
       "sha256": "bf3cb6349c576aec1e8856732d921ab7abe74c3f845d4e7538cea5c8f0edb3f0"
     },
     {
-      "bytes": 758,
-      "path": "dynamic/人际/2026-08-21 16-27-52 生日定于2月15日_0291acfab643.md",
-      "sha256": "fd3f06ccbe82f5264b9c8e33028f65b013f0a621faad2259e16a7e6a8ae12056"
-    },
-    {
       "bytes": 625,
       "path": "dynamic/人际/2026-09-10 15-01-55 碎碎念与承诺_df392c1c90cb.md",
       "sha256": "1f2a614378c56ab2c85b4d7c08a818db9c2a3152df81304f886ae9cc6e9707ca"
@@ -4370,7 +4375,7 @@
     {
       "bytes": 1425,
       "path": "dynamic/学习/2026-09-20 10-10-46 背单词与校园吐槽_a817dfd8ff73.md",
-      "sha256": "3e8caaffc9ac697fa9b252a8e70ba886ff5736fb1aa2014bd06a8219cae00417"
+      "sha256": "40204f6ce544c9bae90f40baa7893534bc871c1eb5f87a91c043f78e4152aafe"
     },
     {
       "bytes": 1551,
@@ -4385,12 +4390,12 @@
     {
       "bytes": 1721,
       "path": "dynamic/学习/2026-09-20 10-15-04 转班与新班级_e2039f6c6f93.md",
-      "sha256": "771bb74befbff59735a29c82f7495e7b44bce3046cad74a3a9f17aca91435a11"
+      "sha256": "c71f2ab52de96a356ff85768bd589d2bbb5f867ff877c4845c60d204f8030a59"
     },
     {
       "bytes": 2006,
       "path": "dynamic/学习/2026-09-20 10-15-34 数学语文教学记录_c8613f4e4b5a.md",
-      "sha256": "f504f3ce1afe5857bb39b7e0074a592859498f9d17e1178f5657d1bf181c024e"
+      "sha256": "8094a6cb32b3eefe30002f4ff5bb9ce96f360d645d42fef7d7135324e2998bda"
     },
     {
       "bytes": 779,
@@ -4465,7 +4470,7 @@
     {
       "bytes": 3364,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "d88c84aee4e344f9281729fa8c44a7dec1ff1beba58a5543c96d9d7c4f840cdc"
+      "sha256": "8d036878f6d0141cb073cc6a25c34d022f620b7e65530c83d3c0bcd81420d970"
     },
     {
       "bytes": 805,
@@ -4720,7 +4725,7 @@
     {
       "bytes": 738,
       "path": "dynamic/学习/2026-10-28 15-30-28 图书馆默写与作文计划_9076236341ba.md",
-      "sha256": "ae312f60db22ea0db3f2dd06fb4d89de2fd322a3e1db3957e6166411bf3904c7"
+      "sha256": "976f53a6c33319780d8862d1637402ca0920d447e261a83e3ec761695817ab9e"
     },
     {
       "bytes": 926,
@@ -4816,6 +4821,11 @@
       "bytes": 547,
       "path": "dynamic/家庭/2026-10-25 11-05-27 哥哥陪她自学_4e57dd1810b0.md",
       "sha256": "993b4de543136c52ac645924b648845ae422390a07a6714bfc4218ee700c89e4"
+    },
+    {
+      "bytes": 1080,
+      "path": "dynamic/家庭/2026-10-29 08-41-04 走读自由第一步_ce0e0bdccdf1.md",
+      "sha256": "934470987d86d8f68d307e4a92e03ab50a97bd64ca6c7939b97fe6221aa557ee"
     },
     {
       "bytes": 1117,
@@ -5715,7 +5725,7 @@
     {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "f6cccf3eb194fcc64a216c60b273df406ff0cf90ef7ae67f69488215c6ae07d0"
+      "sha256": "01d65290a96445c0c6caefa320c70f22f5ffc00e946200216fd996dd42013f87"
     },
     {
       "bytes": 1593,
@@ -5971,11 +5981,6 @@
       "bytes": 1122,
       "path": "dynamic/恋爱/2026-10-28 15-31-02 宿舍公开play记录_956f5e62fad7.md",
       "sha256": "dbde80059445d239564c88916398c846d4b5a8c1d85d00cff17798c269f68a5c"
-    },
-    {
-      "bytes": 800,
-      "path": "dynamic/恋爱/773df1583173.md",
-      "sha256": "5c4386da92c0fbdb50484353f14f2c9cad77b53d769367175ded1f233d3c688c"
     },
     {
       "bytes": 1173,
@@ -6825,7 +6830,7 @@
     {
       "bytes": 811,
       "path": "dynamic/阅读/2026-10-17 15-51-04 聊红楼梦与文学_31b41325b39e.md",
-      "sha256": "69a518843bf1bf420ad821987c9aa58535d6c6af0fa78917e6b638e9dbd45a6f"
+      "sha256": "fc06ace607d621c9258637a98cc98456ba087686d20a1d0b76f903550e1ef3c7"
     },
     {
       "bytes": 1482,
@@ -7138,10 +7143,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-29T06:02:31+00:00",
+  "generated_at": "2026-10-29T12:02:43+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1168165
+  "total_bytes": 1169247
 }
