@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1438,
+  "file_count": 1442,
   "files": [
     {
       "bytes": 642,
@@ -1883,6 +1883,11 @@
       "sha256": "2fbdc4a2dd5c6fcbbf7d7204e428ce6d668661bb56a9cd4ffbec6aa59b410474"
     },
     {
+      "bytes": 431,
+      "path": "archive/兴趣/2026-06-28 07-50-49 触手play番外待办_e7996e29d2dc.md",
+      "sha256": "539389b802d931c89eaf91a4f7b4ae8e0b5104b553a3f3841ac13b98161e9a15"
+    },
+    {
       "bytes": 490,
       "path": "archive/兴趣/2026-06-28 07-52-02 对文淇的喜爱_a5a2f11fc548.md",
       "sha256": "1f3c70a76d86e5ac7c8132c7d1a4393131110a50a90ed362ea0a623b01be2164"
@@ -2366,6 +2371,11 @@
       "bytes": 516,
       "path": "archive/家庭/爸爸送的荣耀100_d7f6a2709f38.md",
       "sha256": "2a11d82ccd4459de3f2406239ff2a390fb9778084567b7c0fde4150c05c155b1"
+    },
+    {
+      "bytes": 1118,
+      "path": "archive/家庭/独居与家庭情感矛盾_1cdd7264801d.md",
+      "sha256": "ac22b309e52cf80d3719b83867635ea9d7b2bc4620cb208ca02e705e4f3d319d"
     },
     {
       "bytes": 842,
@@ -3383,6 +3393,11 @@
       "sha256": "95178ab029599d782f6ad8116b637bd28248d65a37c1fa0ec897368f308038fa"
     },
     {
+      "bytes": 660,
+      "path": "archive/编程/2026-08-31 04-23-28 消息守卫优化_d096e8eb25a2.md",
+      "sha256": "d9ab747388023ec6538ecf3ac9650b3697da493516d9df73863e6f5b36c5b573"
+    },
+    {
       "bytes": 482,
       "path": "archive/编程/Kelivo备用通道配置_4ac8571d489d.md",
       "sha256": "feb42233d21a8c5abb00abe8e7cff7897f3319217c2918414d020bc53db22b6a"
@@ -3931,11 +3946,6 @@
       "bytes": 708,
       "path": "dynamic/健康/2026-10-26 14-42-50 充电宝故障与早睡_3b61f551c549.md",
       "sha256": "e1c658c6e11c007a3251aa9c7eec5cd8e5ca3bb782c0db636118b5f62fc3ae41"
-    },
-    {
-      "bytes": 430,
-      "path": "dynamic/兴趣/2026-06-28 07-50-49 触手play番外待办_e7996e29d2dc.md",
-      "sha256": "55bd0880847acc72a1042ddac887ea10842fa8a2286aa10173a24eaf5cb0a043"
     },
     {
       "bytes": 592,
@@ -4758,6 +4768,11 @@
       "sha256": "ee44209089da3d32e6c92cbf3ba9edba6727ba44ca7d5947b98fc03bfcdb0a7a"
     },
     {
+      "bytes": 669,
+      "path": "dynamic/学习/2026-10-30 08-47-35 英语单词语音条_d4991804f7dc.md",
+      "sha256": "3d2735efaf9167299edb7d3e4e5bc49970df43ab0aa0e70e45f4da6941858a7c"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -4848,9 +4863,14 @@
       "sha256": "934470987d86d8f68d307e4a92e03ab50a97bd64ca6c7939b97fe6221aa557ee"
     },
     {
-      "bytes": 1117,
-      "path": "dynamic/家庭/独居与家庭情感矛盾_1cdd7264801d.md",
-      "sha256": "3609e3a6f04fc237024592ec3ab2fd0e22d056877e469e0284da33c293b17ad5"
+      "bytes": 826,
+      "path": "dynamic/家庭/2026-10-30 09-54-59 走读新生活_ea85894d9cb6.md",
+      "sha256": "ab7722148e767dd0be78bc9c48c90f9f4c8d88412e5ffe2cfc262dec94284445"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/家庭/2026-10-30 10-32-27 生日蛋糕安排_db82589119bf.md",
+      "sha256": "921d4538568de3fc7664f9b5a4b879be99d1a871c817e171d4201dc3e736dce4"
     },
     {
       "bytes": 705,
@@ -4881,6 +4901,11 @@
       "bytes": 691,
       "path": "dynamic/居家/2026-10-28 13-59-41 宿舍床铺写错_328345899bba.md",
       "sha256": "705f221095ca33f8412fd3122b0d7ca904a58b901e72a04d434a105c7e920c27"
+    },
+    {
+      "bytes": 868,
+      "path": "dynamic/居家/2026-10-30 08-48-22 看房细节补充_94173ecf89c5.md",
+      "sha256": "645e7bf8b9812900c91cddfe7d3d58a8229a58df891ce0cfb75149965393f890"
     },
     {
       "bytes": 1057,
@@ -5193,9 +5218,9 @@
       "sha256": "cf01b921b6aa705fa94db17c2c2edad8fcc2e261057a63191761e4e98f8fb4fa"
     },
     {
-      "bytes": 720,
+      "bytes": 721,
       "path": "dynamic/恋爱/2026-08-10 20-48-12 恋爱日记与惊喜_7fa01da78613.md",
-      "sha256": "cf0936fce324c1aa3283d15e55629bc5195dad3b903eac283e4caba1bacff063"
+      "sha256": "f1cc559c65e7dff76f71d4dd17eb9a6d8984873d0dd59aa1773233fe3e44e231"
     },
     {
       "bytes": 817,
@@ -5680,7 +5705,7 @@
     {
       "bytes": 613,
       "path": "dynamic/恋爱/2026-10-11 11-02-03 生日倒计时与晚自习_9cd5b2cb0747.md",
-      "sha256": "8bc8941a2f7b9c414727735d9ac1bff2b464be1babc871f984f93cec4186792c"
+      "sha256": "b5acba24f860619e6692329c82bac5bc793c46bd6caa5ab3ca275a0b44d363b4"
     },
     {
       "bytes": 872,
@@ -6265,7 +6290,7 @@
     {
       "bytes": 972,
       "path": "dynamic/未分类/f7dc8349d3b0.md",
-      "sha256": "9efe93c24bd1fb9f8ca482c72319b6374ebd4f2692baea4ba2ab04846040b09b"
+      "sha256": "ac47692b25ecb67226ee5988abd85bc9904c8199f6e87e017160155c7260474e"
     },
     {
       "bytes": 1097,
@@ -6546,11 +6571,6 @@
       "bytes": 1660,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
       "sha256": "a8883b5b9f6ede81a0b96a73b3395134689978e3f36b63606a1fb0d5d0645a51"
-    },
-    {
-      "bytes": 659,
-      "path": "dynamic/编程/2026-08-31 04-23-28 消息守卫优化_d096e8eb25a2.md",
-      "sha256": "3b768a27f716ee4ec9dd748aaf0b50234ccd29b72081226f2f7e6df3077ca6fa"
     },
     {
       "bytes": 810,
@@ -7140,7 +7160,7 @@
     {
       "bytes": 987,
       "path": "permanent/恋爱/2026-08-21 02-16-28 生日与爱的约定_4498ecd0533d.md",
-      "sha256": "d3757a3d16a5e8c8037ff12e54a08778ee39a26e09401f6b2a4df9ee73c419ba"
+      "sha256": "a47ebfaa0b0a2ff3c3ee152be07753275157f9796d80b1add8b8e14ffd29131d"
     },
     {
       "bytes": 1196,
@@ -7193,10 +7213,10 @@
       "sha256": "8fd4e4d337dcdc7c3499b24a3b6220f3c2d5c0628d6d90514beb8e520b856f08"
     }
   ],
-  "generated_at": "2026-10-30T06:03:18+00:00",
+  "generated_at": "2026-10-30T12:03:32+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1180822
+  "total_bytes": 1184030
 }
