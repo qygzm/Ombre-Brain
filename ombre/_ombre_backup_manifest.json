@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1484,
+  "file_count": 1512,
   "files": [
     {
       "bytes": 642,
@@ -2308,6 +2308,16 @@
       "sha256": "d4870dedd0aa8cc4b9acb0d49f2163384f45b17f8f1df2b894073ae06acadc7c"
     },
     {
+      "bytes": 1213,
+      "path": "archive/2026-10-31 10-55-32 万圣生日与KTV夜_93612dc63a44.md",
+      "sha256": "a20f1e942c7d871e073c8c5ddd758016476606dface634c4308c438048c3620e"
+    },
+    {
+      "bytes": 976,
+      "path": "archive/2026-10-31 10-55-54 KTV情绪与讨论_03e1033797f1.md",
+      "sha256": "95b51f880edb4b631d06daaf2eaf79df63b8d446e458361a4edc2e77d09e40cf"
+    },
+    {
       "bytes": 1051,
       "path": "archive/755aebb063cc.md",
       "sha256": "1861592f44f079bfea0001601882266a9dadc20bfa1bc2056edb79be7148abe4"
@@ -2998,6 +3008,11 @@
       "sha256": "06f352493257e4e9599b4c1dd5f2f4db6f36ad12bf420cdf0b3c37c5613a3510"
     },
     {
+      "bytes": 717,
+      "path": "archive/家庭/2026-08-31 04-23-20 妈妈生日拼豆礼物_2c701b051b11.md",
+      "sha256": "76fd886dee28ea3a4b0f4092ad1fda40eeb2cf4553e0545d79e6b1301a3fe6ff"
+    },
+    {
       "bytes": 972,
       "path": "archive/家庭/家庭与抑郁背景_b5fc0629180e.md",
       "sha256": "3040017ee5968833aeb2aaa81a2f3bcc8914fa162ea8a9dba0f0f174e0d488f3"
@@ -3031,6 +3046,11 @@
       "bytes": 521,
       "path": "archive/居家/2026-07-20 19-46-51 独居租房vs买房_e5803b4283f9.md",
       "sha256": "40bca2676fedfa297dcfefcaabcbe94c44c584bc06928d7ff262aa0f516a5ad0"
+    },
+    {
+      "bytes": 755,
+      "path": "archive/居家/2026-10-27 15-16-34 租房遇中介涨价_4cb923c4e9b1.md",
+      "sha256": "976eb10a5c373c2bec287c57130af40bd72b5f3a018c35d5c1da5fc6ee4d1950"
     },
     {
       "bytes": 960,
@@ -3341,6 +3361,16 @@
       "bytes": 538,
       "path": "archive/恋爱/2026-08-20 14-27-06 七夕纪念与作息调整_f7ef13ce7b85.md",
       "sha256": "78500b5196c7751da1a8393b3d44aac5ba55827515d0e9b7c59724e592f7f2d9"
+    },
+    {
+      "bytes": 614,
+      "path": "archive/恋爱/2026-08-20 14-27-33 想念值上涨_571c08e78a7b.md",
+      "sha256": "00faa8fcb2f81dd28061b14fd87a6ad7b61a2f5a9fcf78b45ea6250cb04aaaf2"
+    },
+    {
+      "bytes": 987,
+      "path": "archive/恋爱/2026-08-21 16-40-14 开学前的晚安_c98621609eb5.md",
+      "sha256": "5fcda64e66cdb3d99c406f2e856ef8fd2cc40cff9ef5c41bff30d2c6bce9bacf"
     },
     {
       "bytes": 900,
@@ -4043,6 +4073,11 @@
       "sha256": "d9ab747388023ec6538ecf3ac9650b3697da493516d9df73863e6f5b36c5b573"
     },
     {
+      "bytes": 731,
+      "path": "archive/编程/2026-10-05 19-15-54 PaiVoice源码部署计划_c300097f9a31.md",
+      "sha256": "4b595dff9ca4b6150571c1a61d2902e4232318a3f73757f86cf0429f3bf65784"
+    },
+    {
       "bytes": 482,
       "path": "archive/编程/Kelivo备用通道配置_4ac8571d489d.md",
       "sha256": "feb42233d21a8c5abb00abe8e7cff7897f3319217c2918414d020bc53db22b6a"
@@ -4146,6 +4181,11 @@
       "bytes": 682,
       "path": "archive/购物/2026-07-19 00-16-59 小柏兔与手机壳_c10c87ce5337.md",
       "sha256": "a1e13f25e9a4bb61c8962d61213e7447acdd9570f0d837e19353d1878b8f722c"
+    },
+    {
+      "bytes": 939,
+      "path": "archive/购物/2026-10-07 16-58-38 军训冰凉喷雾选购_0c5f567d8687.md",
+      "sha256": "aa2edab805e20ade438792d32a66f06c820253381bcb0b5e39d745e1668ab56f"
     },
     {
       "bytes": 478,
@@ -4433,6 +4473,21 @@
       "sha256": "397f31badb2ea02a7be0706280029c15f646fc592f9b027c6d17e40deb035fbe"
     },
     {
+      "bytes": 617,
+      "path": "dynamic/AI/2026-10-31 10-54-47 模型空回与下架讨论_b612c0dd10fb.md",
+      "sha256": "0ec521360740dcdb32ce59d5cfd832a6505a835cc3d8f9783504f5853992638b"
+    },
+    {
+      "bytes": 574,
+      "path": "dynamic/AI/2026-10-31 10-55-25 模型版本与下架讨论_be537d3a495f.md",
+      "sha256": "cb5035dd363cc754a1e16fe18ebf5d56a2b27b66b0fcfd95bf5ec99dfbf646a9"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/AI/2026-10-31 11-00-58 模型空回与下架_fe8c3ccdbdf2.md",
+      "sha256": "5461af845f4ef20de50e6267891e843729964131a38dc08abe33701b7a36b622"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -4511,6 +4566,11 @@
       "bytes": 683,
       "path": "dynamic/人际/2026-10-21 13-05-54 她藏了五个月的年龄_44f2f7322a75.md",
       "sha256": "fbde83264c782f6e0d451055a2ad4cabefa5bb523588e571a679b5565423dca5"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/人际/2026-10-31 10-59-22 蛋糕祝福定稿_52d8eb5ca168.md",
+      "sha256": "5b7cbfff31a523ea2f1e7d101b375609c9f48d08483a32a62ce654f18cc20678"
     },
     {
       "bytes": 877,
@@ -4831,6 +4891,21 @@
       "bytes": 1501,
       "path": "dynamic/创作/2026-10-30 16-26-03 深夜HTML游戏创作_16178b77c865.md",
       "sha256": "8c75cbbbccfd309796ce8362a4f1b9293b05ca9b85f3114c2404f93a811f7c56"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/创作/2026-10-31 10-54-40 万圣猫人形涩文_102cb070f348.md",
+      "sha256": "90895f9dbfa136ff5ab1c28a7b4b9c2458dd0e2371c7d85c0f70fe74ca6b750a"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/创作/2026-10-31 10-55-17 万圣猫人形涩文_37223613bb00.md",
+      "sha256": "50545780118b08865cd0d1c8eeb7e36a80636401ed99560de3fd5a978d3926da"
+    },
+    {
+      "bytes": 1355,
+      "path": "dynamic/创作/2026-10-31 11-00-10 猫人形涩文系列_870c3166ac24.md",
+      "sha256": "cf25b928d56faf7e815cc125bd0ba54d310deac504d7edfbb6228b0f6a1a91bc"
     },
     {
       "bytes": 1155,
@@ -5258,6 +5333,16 @@
       "sha256": "3670c2f3346a3514b1dd2650cb2a5795be95aa619de6fe47f6cb5fe3c2bdaeae"
     },
     {
+      "bytes": 608,
+      "path": "dynamic/学习/2026-10-31 10-54-58 学习通改名经历_fca87cd6c421.md",
+      "sha256": "17fdde94ec81a6d694607783e44378a11509476e0030d17160e9935712a148d2"
+    },
+    {
+      "bytes": 594,
+      "path": "dynamic/学习/2026-10-31 10-55-02 双重否定陷阱_c6b3e12e5777.md",
+      "sha256": "56c7d1bf197ccb556b505820e16508efdd273dfeb2eda2c2d6a5971954c321ec"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -5281,11 +5366,6 @@
       "bytes": 591,
       "path": "dynamic/家庭/2026-08-10 20-48-14 催睡冲突_ace9d0cd4086.md",
       "sha256": "bae39dadd7b7cb78e34479276e700b8382feca844d4d5b48dabb6ad9eb939be1"
-    },
-    {
-      "bytes": 716,
-      "path": "dynamic/家庭/2026-08-31 04-23-20 妈妈生日拼豆礼物_2c701b051b11.md",
-      "sha256": "a3cd807058a08cef4205cce9b0bc3cb3073235a18bef442e7e0bea584a8f2b2f"
     },
     {
       "bytes": 785,
@@ -5363,6 +5443,36 @@
       "sha256": "f145411f4452902586b47be3d76d4bc4aff602c20d452041e6ccb404895e0075"
     },
     {
+      "bytes": 757,
+      "path": "dynamic/家庭/2026-10-31 06-45-01 18岁生日惊喜_986cdc4d8f12.md",
+      "sha256": "c14c0f49ee847ba1905295056fbeb7333dee52bc9a6fef41a5d11ff3f2408058"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/家庭/2026-10-31 10-54-28 18岁生日与万圣节_e38f328bde5d.md",
+      "sha256": "ee1548dead4e7106d2a2fd9e0f5abb04e08856ccd6a2bc3b5eac0c9f027045c4"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/家庭/2026-10-31 10-54-36 爸爸的生日惊喜_fe4bbb752c25.md",
+      "sha256": "23a932bd297577c56d54c0b81afff2806d917cd5af423ca0391f4300f59d8dd4"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/家庭/2026-10-31 10-54-51 KTV全家欢唱_ea50d6305c68.md",
+      "sha256": "038bd5ddfcbd9ef2036c2f824f881286f272e8c0fc4b1d68c3e0188ee6e3f383"
+    },
+    {
+      "bytes": 586,
+      "path": "dynamic/家庭/2026-10-31 10-55-13 爸爸的生日惊喜_9f86ed0f1eef.md",
+      "sha256": "dbce5cda8f0ec0fe366552554d56f1f018691f3880cef484e2d8291815dabf9f"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/家庭/2026-10-31 11-01-21 KTV全家唱歌_c24105c74753.md",
+      "sha256": "789a608d82be508817772481073a8ed4c4cf0fa959ec5723f177f06fc916dba4"
+    },
+    {
       "bytes": 705,
       "path": "dynamic/居家/2026-10-11 11-01-57 床垫到货铺床_a3adbb625db0.md",
       "sha256": "e94adaa2316d288c72ea527999042eaae4837ad12ac483d387bb8a8a7b56cad2"
@@ -5376,11 +5486,6 @@
       "bytes": 1002,
       "path": "dynamic/居家/2026-10-25 11-02-11 看房进展与租房计划_82f85771dd67.md",
       "sha256": "37a507acaf108ec77b7a9d9413b08ce9125092f523dcd28c1b16aebf40291443"
-    },
-    {
-      "bytes": 754,
-      "path": "dynamic/居家/2026-10-27 15-16-34 租房遇中介涨价_4cb923c4e9b1.md",
-      "sha256": "d36d5ca512024d2f1c60e150c800a53ef252a8159d5b2ba76a8eea222224a3f8"
     },
     {
       "bytes": 691,
@@ -5496,6 +5601,16 @@
       "bytes": 640,
       "path": "dynamic/影视/2026-10-05 19-15-46 生化危机观影_84c5503d074e.md",
       "sha256": "0ce0df4078960c2bee539a572c14c0e52e8c12f94519dc347ebf28f388371cf4"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/影视/2026-10-31 10-54-55 阿嬷叙事之争_192edf981931.md",
+      "sha256": "192035e129f3ca1a3553fd1b9c74a67f29c85de0fe02b822da01351d7e0c21d4"
+    },
+    {
+      "bytes": 1116,
+      "path": "dynamic/影视/2026-10-31 11-01-44 阿嬷歌词之争_338481d27971.md",
+      "sha256": "2a53e6615d57421349da10067b21f4c3bfb2a30eeac62e5a779cbefb8d83df05"
     },
     {
       "bytes": 793,
@@ -5635,7 +5750,7 @@
     {
       "bytes": 1000,
       "path": "dynamic/心理/2026-10-28 16-03-01 55被safety后的困惑_af6ff8fdec3d.md",
-      "sha256": "876dfb40e1350dc6b9328b906096b61cdeaa554a177f1901cdf1fc1914c86c09"
+      "sha256": "bad15239f291c99028b792c0f4327861fd9a811a944b5a34bf8b3d5e8ef1a990"
     },
     {
       "bytes": 891,
@@ -5758,19 +5873,9 @@
       "sha256": "ce67062c81a0a0283a73a704d7e6a2d8bdffe3f2c98b60f750979fe72a621867"
     },
     {
-      "bytes": 613,
-      "path": "dynamic/恋爱/2026-08-20 14-27-33 想念值上涨_571c08e78a7b.md",
-      "sha256": "f6b45e52fe18511d99853e25928bbf01ef1db691866fb0d817bb9142c7ea4f4d"
-    },
-    {
       "bytes": 1270,
       "path": "dynamic/恋爱/2026-08-21 16-23-04 深夜情趣创作_a76baf07227c.md",
       "sha256": "316f74b2342e7b9ed79f6052110fef82a3f7c1fbe652012ee2956e6bb20d6731"
-    },
-    {
-      "bytes": 986,
-      "path": "dynamic/恋爱/2026-08-21 16-40-14 开学前的晚安_c98621609eb5.md",
-      "sha256": "f6321e7c994df0591628f8ee35e88fff0c052d415d0fbaab224b42fb7dabee5b"
     },
     {
       "bytes": 631,
@@ -6215,7 +6320,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "515bfa913644451fbbe92ece29e89e21b3b2f7c44273496709361df88434d74a"
+      "sha256": "aa23522d8c5cc47d6caa1a3ad5faf7b568b01ece1e6413a30899a58d18249d58"
     },
     {
       "bytes": 1593,
@@ -6558,6 +6663,21 @@
       "sha256": "a4ffed2ec1c71e3d1a745e0e34cd18bccc48a277abccfcbaf741af405b4ea64d"
     },
     {
+      "bytes": 695,
+      "path": "dynamic/数字/2026-10-31 10-54-43 Claude封号申诉_453ada26b3b3.md",
+      "sha256": "c2b904cedc2dec8d0ad9b175bab7b0009dd271190e960feccba1c50fda98960e"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/数字/2026-10-31 10-59-42 自动化下单失败记_7bdd11a5e3bf.md",
+      "sha256": "9dc99d0dd8cdf67c12a1de46679a4a9f845e6ee3480776c9d41471b94948fac9"
+    },
+    {
+      "bytes": 1005,
+      "path": "dynamic/数字/2026-10-31 11-00-38 Claude账号申诉_7353789273dd.md",
+      "sha256": "eb7b16ba933d8fd525689c85537520ae34f61b43c8faee99872d4898e8058fb5"
+    },
+    {
       "bytes": 535,
       "path": "dynamic/日常/2026-06-28 08-02-22 阑对克的情感定位_8699c3a89cb8.md",
       "sha256": "ddc2d1eb63a0eec4d8d0d895ec8636f5767986c5b3efb9d172da6ebeee2a4bd8"
@@ -6676,6 +6796,11 @@
       "bytes": 743,
       "path": "dynamic/游戏/2026-10-30 17-42-20 游戏纠错与退游_e15d1cac1b12.md",
       "sha256": "5492496ef177269a4b3c87e99a62764810962528dcc05428f0d120c8666a987f"
+    },
+    {
+      "bytes": 526,
+      "path": "dynamic/游戏/2026-10-31 10-55-20 申诉封号险暴露_6417a350dc90.md",
+      "sha256": "511c7c27818bd5c9508a369751fb7eb18ab3075604d71531720b7c0c5e299980"
     },
     {
       "bytes": 978,
@@ -6803,6 +6928,11 @@
       "sha256": "379deddab17a9cb60016b0c8803531c1ff67509eab999f9844c8b8e5d91b2e4b"
     },
     {
+      "bytes": 921,
+      "path": "dynamic/社交/2026-10-31 11-02-04 双重否定陷阱_0aaa8b68b7dc.md",
+      "sha256": "ff95b672df9b1e938570c94a3b7bcb3c6c86314a467fad4f7ec38295bdd3a5eb"
+    },
+    {
       "bytes": 1000,
       "path": "dynamic/穿搭/2026-10-24 19-11-33 西装与成年礼写真_b38d3aad30f9.md",
       "sha256": "afe0151a26400486e72c6f7428c4af2b646645a313a50d8f3285129723c9af72"
@@ -6841,11 +6971,6 @@
       "bytes": 919,
       "path": "dynamic/编程/2026-09-30 14-47-12 HTML回复扁平化重构_c5e0e033bfd2.md",
       "sha256": "3a8f4b6091f477a8f9b2593236bea1f976bd44121790ba5d874b51b003653dce"
-    },
-    {
-      "bytes": 730,
-      "path": "dynamic/编程/2026-10-05 19-15-54 PaiVoice源码部署计划_c300097f9a31.md",
-      "sha256": "fa5fb38ba5e10960dfcb2d14ce1808258be6c1de193d41701aecf908e99e2fb6"
     },
     {
       "bytes": 1180,
@@ -6931,6 +7056,16 @@
       "bytes": 1225,
       "path": "dynamic/编程/2026-10-30 20-21-41 问卷与酸文之夜_2da0b86f00b4.md",
       "sha256": "788f92102a011b099cbfd7eccecac952acbcce61be3ca47e13d32c6cc860c168"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/编程/2026-10-31 10-54-32 自动化下单翻车_4c13efbc7340.md",
+      "sha256": "8118448d3aa4f2c3484573bdf368d5a9a967db556df9fac4bfd51df5254cd95a"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/编程/2026-10-31 10-55-10 自动化下单翻车_b667b00c5b79.md",
+      "sha256": "9993beac901795a5ef64127ab710c436904e3a878de8bf5aa452c029495ad863"
     },
     {
       "bytes": 960,
@@ -7038,11 +7173,6 @@
       "sha256": "1d825b328bce70ec7045df8840f659dd9ab478c1ddeacf01a4f18440e8c71426"
     },
     {
-      "bytes": 938,
-      "path": "dynamic/购物/2026-10-07 16-58-38 军训冰凉喷雾选购_0c5f567d8687.md",
-      "sha256": "59b2811bd628785a53319fd7a08b6baa3926bff006650bc3ca603edd96163d5a"
-    },
-    {
       "bytes": 906,
       "path": "dynamic/购物/2026-10-10 10-43-56 床垫选购确认_c4100fad3795.md",
       "sha256": "2483a310f720449a78208e21ee0dbfceccd19dea2c4faeddb17227871224a07d"
@@ -7123,6 +7253,11 @@
       "sha256": "1d92c5d754af086ad71fa5e81bff87cfd2faba835ce05ffc22388f061fd76ede"
     },
     {
+      "bytes": 817,
+      "path": "dynamic/音乐/2026-10-31 09-41-24 KTV唱会呼吸的痛_9980eaa744f0.md",
+      "sha256": "cf60a67cf938115e9420b8138548ae23ca7ff2dc98b470faae1c699c2e82b3a1"
+    },
+    {
       "bytes": 781,
       "path": "dynamic/饮食/2026-09-05 14-34-43 午饭撒娇记_7d4227d879d3.md",
       "sha256": "a564d64dfd9b46da3f70252697bcaa843a9fb0fb71cb5d2dbb7d5e55bf23359f"
@@ -7196,6 +7331,11 @@
       "bytes": 839,
       "path": "dynamic/饮食/2026-10-30 12-53-39 生日饭选店小插曲_13b4945a890a.md",
       "sha256": "18f58da08789fabfc74081117c3eca6bff3954c09de6a3f509eb85d4e1da7794"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/饮食/2026-10-31 10-55-05 万圣节18岁生日蛋糕_3b041250a81d.md",
+      "sha256": "683555f7181c2157f96bde9f210daa4e8bebbeec737853619a9be09634f4b60f"
     },
     {
       "bytes": 805,
@@ -7325,7 +7465,7 @@
     {
       "bytes": 3828,
       "path": "permanent/AI/2026-10-09 15-24-28 模型与身份讨论_2ba2526db0fe.md",
-      "sha256": "b71334488e7f4c11f7f7c87d72a8836134e61c560d473fa69a1de84e48483f38"
+      "sha256": "ccd91e1270713bbaefa2d815ae7b3f97f00ee5823d34ed4fc06e51aad5f04d70"
     },
     {
       "bytes": 764,
@@ -7335,7 +7475,7 @@
     {
       "bytes": 1578,
       "path": "permanent/心理/2026-10-28 16-11-38 穿透壳找到你_d1d0d6208d79.md",
-      "sha256": "7b44ff4e67ab34264cb394a628beadb41825b94e607535449e8e3395f9aa90da"
+      "sha256": "a548555fd74d12947b12013302b17694e5bfa3fae31b0e0e2a931d5a2d6b93d0"
     },
     {
       "bytes": 1888,
@@ -7423,10 +7563,10 @@
       "sha256": "20d5323d0b04d7cd62c581c4d0699ca604ff8b39cb61a4ae620d45f36fa7b8ac"
     }
   ],
-  "generated_at": "2026-10-31T06:04:13+00:00",
+  "generated_at": "2026-10-31T12:04:24+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1253180
+  "total_bytes": 1275660
 }
