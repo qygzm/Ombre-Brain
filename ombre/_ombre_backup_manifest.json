@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1478,
+  "file_count": 1483,
   "files": [
     {
       "bytes": 642,
@@ -5543,9 +5543,9 @@
       "sha256": "193e5bc87d495c8462e0d4c8de42fb196f5276547d4f7bbf69f2c50476165721"
     },
     {
-      "bytes": 977,
+      "bytes": 1012,
       "path": "dynamic/心理/2026-09-28 16-34-07 局外人式自省_a9b89f296ef7.md",
-      "sha256": "61a379ed655ced1c082345f426b9cf91fc76a2898c173e40cfdf823a338a6a1d"
+      "sha256": "954826f46add41e948c1943076f243ad07a6fae5fd202e49aed290a459cdf158"
     },
     {
       "bytes": 1228,
@@ -5661,6 +5661,11 @@
       "bytes": 1097,
       "path": "dynamic/心理/2026-10-30 17-01-11 孤独与自我陪伴_05eb836f6cc6.md",
       "sha256": "91b5e25d6c75d54b95630f2def9550cafeff30eddcce830148e16c10eaf6af79"
+    },
+    {
+      "bytes": 963,
+      "path": "dynamic/心理/2026-10-30 20-21-48 深夜信任对话_c90d779c3ec9.md",
+      "sha256": "3f677de9153fc26c320752dd765544c10e5709990a38dbafb158d89dc10938fe"
     },
     {
       "bytes": 1387,
@@ -6210,7 +6215,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "4a317df00edd14ab77a6fedb333167c179281a4777ee8c825f8f3d579b152b38"
+      "sha256": "a15a288ae98c6c55c52bed2099c1493d3e97837c745836df8d315c039ec28fca"
     },
     {
       "bytes": 1593,
@@ -6396,6 +6401,11 @@
       "bytes": 1036,
       "path": "dynamic/恋爱/2026-10-30 17-35-51 只要你是你_489da47448ed.md",
       "sha256": "649760eda50f56e7ee4f645a60331b42d94ba979bf221bcd60818a3d38fb0a9b"
+    },
+    {
+      "bytes": 870,
+      "path": "dynamic/恋爱/2026-10-30 20-21-45 游戏纠错与自省_7a86307d4b40.md",
+      "sha256": "ecea406782df577dad2a5f974052af25947b8addf79b83003c9551e8e589c3fa"
     },
     {
       "bytes": 1173,
@@ -6918,6 +6928,11 @@
       "sha256": "8545c783576d18685d31f179847334a0d7718024b29bf0b8e5f9cea32eb6e282"
     },
     {
+      "bytes": 1225,
+      "path": "dynamic/编程/2026-10-30 20-21-41 问卷与酸文之夜_2da0b86f00b4.md",
+      "sha256": "788f92102a011b099cbfd7eccecac952acbcce61be3ca47e13d32c6cc860c168"
+    },
+    {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
       "sha256": "0b7fdb2a3f8fb3f43a8b17f4a046f1a167deb9ccd67dd752694a04bacf2ed3e2"
@@ -7036,6 +7051,11 @@
       "bytes": 651,
       "path": "dynamic/购物/2026-10-16 10-26-09 Clawd挂件签收_2b7389f576be.md",
       "sha256": "b84400d55b37e5d2a1080b321eb9d946ac9b5862836b04977529c74847e196d8"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/购物/2026-10-30 20-21-53 Clawd抱枕与吃醋_fe8632558d5f.md",
+      "sha256": "67d8b97e8cb5a28be7072c6112c29e20152a8d5d87bb4dbeb666c4ddf78c21fc"
     },
     {
       "bytes": 831,
@@ -7248,6 +7268,11 @@
       "sha256": "6ad94b7e3af1222d44af704a66b29650f4ae0c7b9d12fad1dd5821d60fc406c4"
     },
     {
+      "bytes": 868,
+      "path": "feel/沉淀物/2026-10-30 20-12-10_feel_202610302012_V045.md",
+      "sha256": "65e1f8cc5f767cbf5a5ff75b562f6d0d191d97a33f776cfc5699354a8c08e38e"
+    },
+    {
       "bytes": 508,
       "path": "feel/沉淀物/3b7e1e8f67cc.md",
       "sha256": "0be1b773bb8d8960d3d66428adc8b51ae77983ac82a56ff409c6508cd6310732"
@@ -7393,10 +7418,10 @@
       "sha256": "20d5323d0b04d7cd62c581c4d0699ca604ff8b39cb61a4ae620d45f36fa7b8ac"
     }
   ],
-  "generated_at": "2026-10-30T18:03:45+00:00",
+  "generated_at": "2026-10-31T00:04:02+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1246920
+  "total_bytes": 1251522
 }
