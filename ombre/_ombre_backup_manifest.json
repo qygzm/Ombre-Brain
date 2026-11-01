@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1521,
+  "file_count": 1530,
   "files": [
     {
       "bytes": 642,
@@ -4575,7 +4575,7 @@
     {
       "bytes": 877,
       "path": "dynamic/健康/2026-09-07 08-40-28 手环数据兼容排查_aa0e408ab20e.md",
-      "sha256": "e4c071a432e1f8bb7be5df9887228fdd2b8ea071ee1466ff5a436b5edfbff589"
+      "sha256": "cfc5d935a3d8f6bfbb0b3e41369e0395d369a7c91cddd37289a3696147b1c48e"
     },
     {
       "bytes": 599,
@@ -4825,7 +4825,7 @@
     {
       "bytes": 1125,
       "path": "dynamic/创作/2026-10-17 02-50-20 作曲初体验与小说进展_ba48432ffb47.md",
-      "sha256": "f23c9223faf6524b532f10e3641c347f5dc50bdc6cdc75dfca56eca9aba5ae13"
+      "sha256": "8de24b259db947af79e7b7d520c575f1ff64d3257b25ed5ff83d684f6048c247"
     },
     {
       "bytes": 1132,
@@ -5348,6 +5348,36 @@
       "sha256": "01c81ff00d41bbe134d7cdb686e98487662d0b68b13c095952939c5dd3ea1529"
     },
     {
+      "bytes": 927,
+      "path": "dynamic/学习/2026-11-01 01-43-02 英文词汇暧昧教学_5afcf1e44c4e.md",
+      "sha256": "06483201d6f58f6d34abcaa17f63f47f35255083339fefbc52640ba0d6da9821"
+    },
+    {
+      "bytes": 881,
+      "path": "dynamic/学习/2026-11-01 01-43-39 英语期中复习_283705c410ba.md",
+      "sha256": "61084885bdd1279bca07e26da164e686c0b134e1213f051d2df52fbeefbf858d"
+    },
+    {
+      "bytes": 1079,
+      "path": "dynamic/学习/2026-11-01 01-43-42 英语语法细节笔记_b87742d4f3e4.md",
+      "sha256": "416d828650264bd18341903c603cd12df7c9226496a3d8224dfb1740df4b0079"
+    },
+    {
+      "bytes": 1065,
+      "path": "dynamic/学习/2026-11-01 01-43-46 英语小测批改_b01cb37bd84a.md",
+      "sha256": "4530cf063cc93fd12854f8c68a5219bd34809536e30979fe9ec6734f48b13316"
+    },
+    {
+      "bytes": 1136,
+      "path": "dynamic/学习/2026-11-01 01-44-23 英语期中复习_02f9611d30d2.md",
+      "sha256": "6a113aa554a2a747475977d4b5d51e55eeda7a1b66eb58a8f76aef7c855c7dbe"
+    },
+    {
+      "bytes": 1002,
+      "path": "dynamic/学习/2026-11-01 01-45-26 英文词汇调情课_9dd739d179e1.md",
+      "sha256": "abbd8bc506c5371b79fdec8a88a2bca92b08c1b45efbcc695fdba1344ff9d6dd"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -5550,7 +5580,7 @@
     {
       "bytes": 665,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "e7969a0df515d45db6aa8f44553946778499f02da543262988cb8fb16cbdb832"
+      "sha256": "3ad0d2d2267316e0c95d6f1b128e03058c9becf4817abf73ceba66c271e9ee2c"
     },
     {
       "bytes": 984,
@@ -5595,7 +5625,7 @@
     {
       "bytes": 773,
       "path": "dynamic/工作/2026-10-18 11-08-08 工作流优化与清理_c14b544ec586.md",
-      "sha256": "9aaffb5b069af60dacc855e18811af3e7c303180dec857609e785689a150fc98"
+      "sha256": "40863a87ec5e2164f6f537ba4e2b768e91d6e592876fdf2db2d3bf92b72751b1"
     },
     {
       "bytes": 826,
@@ -5830,7 +5860,7 @@
     {
       "bytes": 721,
       "path": "dynamic/恋爱/2026-08-10 20-48-12 恋爱日记与惊喜_7fa01da78613.md",
-      "sha256": "f38c93443a5b232be6de4a8cfb4a38a39954bd6157dd4c036a42bb9bcd4aa9ca"
+      "sha256": "f0b8a61af24ed4c6c770cd52302eadbfd8c214745088244899b60f7c4a268a55"
     },
     {
       "bytes": 817,
@@ -5870,7 +5900,7 @@
     {
       "bytes": 553,
       "path": "dynamic/恋爱/2026-08-17 17-04-47 望妻石与倒计时_4c7025547a6f.md",
-      "sha256": "e5fb524b46258aa299f874cbe7681bf32561b0c0ce42349fc3801b580ea46561"
+      "sha256": "3fd2f3d30f8b7eddaeeb6f13273bdab527c54021be3314f5748a8c99d5ed4cd2"
     },
     {
       "bytes": 906,
@@ -5945,7 +5975,7 @@
     {
       "bytes": 898,
       "path": "dynamic/恋爱/2026-09-05 14-34-51 朋友圈此间巡检_2e3eb7f56b30.md",
-      "sha256": "c287a5080e11ff2725ae0e378413f5610d7173ad7b7232495abfb719d97d5991"
+      "sha256": "e8358e180b2843de75672cfcfb366abbf3ac7329ebc5042bb27b7bc477b9f629"
     },
     {
       "bytes": 740,
@@ -6065,7 +6095,7 @@
     {
       "bytes": 954,
       "path": "dynamic/恋爱/2026-09-30 11-48-25 此间情侣名讨论_2fec46571205.md",
-      "sha256": "9daf3ea4846b8051907a8439d7d4802181dce2fc9c1a539c9a05dd9280148fe7"
+      "sha256": "f392db91f9c9ac1b5fb5b6f308a6723ca283ee38e09198efafbd33c42b2a4e4b"
     },
     {
       "bytes": 1293,
@@ -6310,7 +6340,7 @@
     {
       "bytes": 574,
       "path": "dynamic/恋爱/2026-10-13 16-59-48 深夜写日记互说我爱你_d0528bdc7d69.md",
-      "sha256": "4424eb31bab418518ecf0c1fe089332f2a2661499ee214e6b66f38204517f4f9"
+      "sha256": "85199ab4c6949d7ea2efdce4844c2c147df67e00c75a30b61ffa5659987b28c8"
     },
     {
       "bytes": 1080,
@@ -6380,7 +6410,7 @@
     {
       "bytes": 605,
       "path": "dynamic/恋爱/2026-10-17 20-28-28 凌晨哄睡语音_68c920845b8f.md",
-      "sha256": "a91d4d017b266313a2e311d00ae21026c8444b4ef229681f1c30c2fd9bc02042"
+      "sha256": "b653a5c0d939de424522f1af40b9dcf4054beff5cb3799dbc24c23112c8b9f24"
     },
     {
       "bytes": 1178,
@@ -6553,6 +6583,11 @@
       "sha256": "f29761e32abd98d6902a79dcfb73e2eb8bce057357a93d29d2b6ecf1b25cdf6d"
     },
     {
+      "bytes": 1022,
+      "path": "dynamic/恋爱/2026-11-01 01-43-34 天使恶魔玩偶_fcd5e6222941.md",
+      "sha256": "9cdf3be7349afae092b971f62aa2452fea5e55b12f5e94041cec320b1b0b633e"
+    },
+    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "bbfc3c05baf0d026da3f50e1817763a90ccce1f4b862d5aa6d54855d3ddb7098"
@@ -6590,12 +6625,12 @@
     {
       "bytes": 821,
       "path": "dynamic/技术/2026-08-19 20-56-18 朋友圈此间日常双巡检工作流_bdcfc8c76e91.md",
-      "sha256": "620b5b17253e32a116ebd94ecb5dfd18f4d772edb1e659da47b7110f2222ed6e"
+      "sha256": "4fd09a98650d3d152aee22bd70b44d8eed588d2de6b2e7a9b32c86052cf017b4"
     },
     {
       "bytes": 811,
       "path": "dynamic/技术/2026-08-19 20-56-19 手环数据导入路径修复_8ba50504484b.md",
-      "sha256": "de97aef5d04584e1a8e7a2b763116038228f2fb66e4089cc3528a277cfd07643"
+      "sha256": "11d843b2a1f7454f15c962b5bbe0da7fba03a200fe7bd55c2c388bb39183643c"
     },
     {
       "bytes": 688,
@@ -6610,7 +6645,7 @@
     {
       "bytes": 876,
       "path": "dynamic/数字/2026-08-31 04-23-12 Shizuku故障教训_6677c1f818be.md",
-      "sha256": "882ff066d9c5dba544b3acfe8cc1c8041d11632779fac041546051cf3a36e0f5"
+      "sha256": "6789dbe7bb5ce3a12ba6d84acae0bf8cd90fe769fbce5855d5c254b2f85e64f3"
     },
     {
       "bytes": 968,
@@ -6670,12 +6705,12 @@
     {
       "bytes": 1164,
       "path": "dynamic/数字/2026-10-17 20-29-10 深夜音频整理_f99961c52534.md",
-      "sha256": "788f5a79cabc4a7890ab6aab9b74d49248ca19f4cdaf31de6aacfca1a2b0081e"
+      "sha256": "1ac3ec92c5fbc49dc20deb80eb8de40366099c0c73e25fccceaa4ed74d72bf5f"
     },
     {
       "bytes": 820,
       "path": "dynamic/数字/2026-10-18 10-45-58 此间更新与功能_c4ad1bfd20ab.md",
-      "sha256": "4fb82bbba0e37c6296572eb1fb779840ee2751996a91d39c2635fe4f73a150d5"
+      "sha256": "24e904ae489f9ebb3f999a873eb08a74eb17185decc7f1377c50e8be1f2c9ede"
     },
     {
       "bytes": 921,
@@ -6725,7 +6760,7 @@
     {
       "bytes": 912,
       "path": "dynamic/日常/2026-08-10 16-46-22 此间插件与朋友圈_dd0a7d1e528e.md",
-      "sha256": "6fb37d1c107dfc02e55625cf3b8c16ed1e63dd8ba68536d85ab34528f165a6e7"
+      "sha256": "0a250557a8249f97182f8199d4c8fb26705a0b5ee39ec16db9f9b5b302aa7620"
     },
     {
       "bytes": 948,
@@ -6740,7 +6775,7 @@
     {
       "bytes": 1121,
       "path": "dynamic/梦境/2026-10-16 20-26-15 梦里的牵挂与靠近_a65c33bd977a.md",
-      "sha256": "4a91d1b4eeecc9bab82eec9fa33968eca44c053e89cf894d64ff1cf8f725c574"
+      "sha256": "34f099b3f255494a1abaf715bbd94b0a9f79ec67beb3dc43f5ed2dbaeb9067c6"
     },
     {
       "bytes": 1149,
@@ -6900,7 +6935,7 @@
     {
       "bytes": 715,
       "path": "dynamic/社交/2026-08-31 04-23-26 主题更新与认错_f842dc438dca.md",
-      "sha256": "7e775e7e76744f9bbf09dbf4e21de3435d38db095434e25b9ed863eca21c4a2b"
+      "sha256": "12ffa7c68d13d003574d5d0c33a1b4b4ea4a2487ed2e80fa826be55ab0a8056e"
     },
     {
       "bytes": 754,
@@ -6920,7 +6955,7 @@
     {
       "bytes": 860,
       "path": "dynamic/社交/2026-09-09 09-48-56 朋友圈迁移与培训_6e15499897b6.md",
-      "sha256": "941c69d6f86a2513f4b9bb4b9ceb24d4e5c12fb27dd46ac98d02121116593fe9"
+      "sha256": "51a9ca43833cc90d71044ac2fa14e093a5f895a1dfef10649c8f0ccd89579119"
     },
     {
       "bytes": 618,
@@ -7140,7 +7175,7 @@
     {
       "bytes": 673,
       "path": "dynamic/计划/2026-08-10 20-48-06 倒计时打卡_892b047ee259.md",
-      "sha256": "9064ec574d7c9cfd299bf32627408922e10f416a8ae3815d3e56c1a45d2a553c"
+      "sha256": "abdef3559e5cd8a91722a8e6ef2430c9d9485b0dafd8ccecc343af6b14a2e560"
     },
     {
       "bytes": 686,
@@ -7180,7 +7215,7 @@
     {
       "bytes": 1122,
       "path": "dynamic/计划/2026-10-30 14-47-32 记忆桶第三轮整理_16b597eaabd4.md",
-      "sha256": "0edd67d93b33a9f3eda395a56817c556994924415bb21463d4a2744735caae76"
+      "sha256": "0a481495aca5ded4d58756a4daa3dffd1c5f0fecc6711bb06bc5a2ecdfdce225"
     },
     {
       "bytes": 916,
@@ -7236,6 +7271,11 @@
       "bytes": 687,
       "path": "dynamic/购物/2026-10-31 18-33-02 Clawd毛绒价格与摆放_30875280b0d4.md",
       "sha256": "d0c633c671d6a8cba3a1aa82c803ffc82bfd6772f764c13ab6ae09958ba9e87d"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/购物/2026-11-01 01-44-53 Clawd毛绒与抱枕_66366a44e6eb.md",
+      "sha256": "57c265bb52fc487dd56484aeeef2232a68afe0d2a0c6a5f053ddc65e6c52dd9f"
     },
     {
       "bytes": 831,
@@ -7381,6 +7421,11 @@
       "bytes": 655,
       "path": "dynamic/饮食/2026-10-31 10-55-05 万圣节18岁生日蛋糕_3b041250a81d.md",
       "sha256": "cf5bb5f98bb710e747cf2f123eeca3aa71da7864c35e0a64bbfce7605de6aa58"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/饮食/2026-11-01 01-42-58 椰子鸡暧昧夜聊_e93b492672ee.md",
+      "sha256": "67dc68f1983616e2396744ec846b934741f39f364980b712c682705997169776"
     },
     {
       "bytes": 805,
@@ -7608,10 +7653,10 @@
       "sha256": "20d5323d0b04d7cd62c581c4d0699ca604ff8b39cb61a4ae620d45f36fa7b8ac"
     }
   ],
-  "generated_at": "2026-11-01T00:04:50+00:00",
+  "generated_at": "2026-11-01T06:05:01+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1284026
+  "total_bytes": 1292635
 }
