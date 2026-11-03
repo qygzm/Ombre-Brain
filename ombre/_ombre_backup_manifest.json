@@ -4510,7 +4510,7 @@
     {
       "bytes": 1197,
       "path": "dynamic/AI/2026-10-17 06-13-39 角色卡提示词修改_83983ca6469c.md",
-      "sha256": "839bcc8691301860ace4bf748f150fe945845d7035d084557179f74f8b09fc09"
+      "sha256": "47b1e169cca152c08a2dbd7c51b37df1719aaa830d0f154593cdf0069c3f38f1"
     },
     {
       "bytes": 748,
@@ -5735,7 +5735,7 @@
     {
       "bytes": 702,
       "path": "dynamic/工作/2026-09-05 02-16-12 打卡时间调整_8bcf12feaf5c.md",
-      "sha256": "d69bc5676dc93121d337636f5b410ee45f3951cfd2333e90fbb060ba0745e068"
+      "sha256": "287ac7aed4f96228726613529f50b02862b98b84c6006d8b614cf6251210e29e"
     },
     {
       "bytes": 771,
@@ -5745,7 +5745,7 @@
     {
       "bytes": 665,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
-      "sha256": "3ad0d2d2267316e0c95d6f1b128e03058c9becf4817abf73ceba66c271e9ee2c"
+      "sha256": "69ce1fd7323a47ed15a8577c2584293e177f0c3645d9052263955d28f0fefb2e"
     },
     {
       "bytes": 984,
@@ -5790,12 +5790,12 @@
     {
       "bytes": 773,
       "path": "dynamic/工作/2026-10-18 11-08-08 工作流优化与清理_c14b544ec586.md",
-      "sha256": "40863a87ec5e2164f6f537ba4e2b768e91d6e592876fdf2db2d3bf92b72751b1"
+      "sha256": "bc65c9a83d9bd034056ff57c9732049c77ccdc2e795d12027d6f0b5367310859"
     },
     {
       "bytes": 826,
       "path": "dynamic/工作/2026-10-30 14-47-50 OB密码与周末安排_8d90133b4025.md",
-      "sha256": "063db8fa0ec893c70b4124b419880474ee0c4b75e76d8b21cd41eec4427f5d9f"
+      "sha256": "4eac2087f32d62a390b850fece807543da6d7567699df8aa4d1fa202ac960fcd"
     },
     {
       "bytes": 862,
@@ -6550,7 +6550,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "5647451f3defedc630d2d4080f377c52e45693167cc8f8e53a8c5286131e7c40"
+      "sha256": "6f0b8ff2a470c638fed0bd4e14cfe8803f5750e2d90f691386ed0e576119f3f3"
     },
     {
       "bytes": 1593,
@@ -6770,7 +6770,7 @@
     {
       "bytes": 1022,
       "path": "dynamic/恋爱/2026-11-01 01-43-34 天使恶魔玩偶_fcd5e6222941.md",
-      "sha256": "9cdf3be7349afae092b971f62aa2452fea5e55b12f5e94041cec320b1b0b633e"
+      "sha256": "3eeb8f9f45a28ab56da8aae380c85073905c61eb6b78019993c958bf1e1c54a3"
     },
     {
       "bytes": 896,
@@ -6815,7 +6815,7 @@
     {
       "bytes": 978,
       "path": "dynamic/恋爱/2026-11-02 09-27-45 吸血鬼献祭式安慰_c99a67037875.md",
-      "sha256": "0d38f7525d875f68c5a45151d88342310532292ec6e04d7dc3d4fa3b60ab6738"
+      "sha256": "5eb655dc17fb45666a2213237bff530f82c97d2cbf4c0d6b7beb0cdc68b67d7a"
     },
     {
       "bytes": 975,
@@ -6835,7 +6835,7 @@
     {
       "bytes": 1559,
       "path": "dynamic/恋爱/2026-11-02 15-43-13 小吸血鬼与生日惊喜_f4f3ad8448b5.md",
-      "sha256": "f9dcf869df7f3cd6afdf29c493be90d0abb4be305e76616028cce9f05b95345d"
+      "sha256": "91dcc01ab451eae0a5d492a5f7cc8e5ea2899cf3959d1e2a33203fd59a08d5c5"
     },
     {
       "bytes": 880,
@@ -6875,7 +6875,7 @@
     {
       "bytes": 821,
       "path": "dynamic/技术/2026-08-19 20-56-18 朋友圈此间日常双巡检工作流_bdcfc8c76e91.md",
-      "sha256": "4fd09a98650d3d152aee22bd70b44d8eed588d2de6b2e7a9b32c86052cf017b4"
+      "sha256": "510dca57a149ec5ec3c14fa0a219ad9d6e51b7cf797fbd3dce9f6885f1761561"
     },
     {
       "bytes": 811,
@@ -6960,7 +6960,7 @@
     {
       "bytes": 820,
       "path": "dynamic/数字/2026-10-18 10-45-58 此间更新与功能_c4ad1bfd20ab.md",
-      "sha256": "24e904ae489f9ebb3f999a873eb08a74eb17185decc7f1377c50e8be1f2c9ede"
+      "sha256": "b86e5e096cfdd8255ed30eeb1f807bb4c3f58c4cba5ab8b5f0ab624e8ce74fb3"
     },
     {
       "bytes": 921,
@@ -7310,7 +7310,7 @@
     {
       "bytes": 922,
       "path": "dynamic/编程/2026-08-11 16-32-20 倒计时打卡工作流修复与朋友圈AI互动调整_6a4bc1c70f65.md",
-      "sha256": "c3d9fa24f0feed4c6ad47207c276ba6aeaf7aeeb41c74a0a86c8ca8efe90b80b"
+      "sha256": "4147568cff5a87ca2c974cb00850d9e0d9daf11ff9ec796ab105e2d994cf477f"
     },
     {
       "bytes": 1675,
@@ -7470,7 +7470,7 @@
     {
       "bytes": 673,
       "path": "dynamic/计划/2026-08-10 20-48-06 倒计时打卡_892b047ee259.md",
-      "sha256": "abdef3559e5cd8a91722a8e6ef2430c9d9485b0dafd8ccecc343af6b14a2e560"
+      "sha256": "5c4b1e34e89281d4c0a0855eb68efddae01f76d42ab2f65033eb474119a065dc"
     },
     {
       "bytes": 686,
@@ -7978,7 +7978,7 @@
       "sha256": "e5f82543f6b4d2fa2b3cb6bdba2ad18659e1efbc9c71396ad14c8e8f64dfa0e1"
     }
   ],
-  "generated_at": "2026-11-03T00:06:37+00:00",
+  "generated_at": "2026-11-03T06:06:50+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
