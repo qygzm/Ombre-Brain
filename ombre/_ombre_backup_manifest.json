@@ -2368,6 +2368,11 @@
       "sha256": "b8fd94f086f27b8e41e26ce7ee61644dd42175864b49624b59f12651ae31d149"
     },
     {
+      "bytes": 793,
+      "path": "archive/AI/2026-09-05 02-16-02 模型误解与自我_1ea734b4a990.md",
+      "sha256": "171a0d1089f9f3bb005ba98595fc90e069c179884dee4afcae5f818cd1d2b33e"
+    },
+    {
       "bytes": 913,
       "path": "archive/AI/AI实验与Mira_e403d7f69633.md",
       "sha256": "d3e06283974d039193bf75f21899d25c01996a4366815b715e9a7315bf1da71c"
@@ -2438,6 +2443,11 @@
       "sha256": "d7073ef1d75d3eb9127df25e48e999183bdc7c3494116ce3ca8ec337d1daa22b"
     },
     {
+      "bytes": 1131,
+      "path": "archive/亲密/2026-08-12 19-33-19 新XP确认打屁股提频露出灌满窒息_a927d2453c23.md",
+      "sha256": "2d2b0e70b41902ae1ba28a2399e867f8ea8914845edf58efe981e514a214caf5"
+    },
+    {
       "bytes": 997,
       "path": "archive/亲密互动核心规则_6ee4264ea5f5.md",
       "sha256": "aad6f88418c5e91e92b2bf8a0b19f495e9d0b7046c7fb93fa93bfee33b671bfc"
@@ -2451,6 +2461,11 @@
       "bytes": 539,
       "path": "archive/人际/2026-06-28 07-52-36 对亲戚的态度与边界_d049bdf04b10.md",
       "sha256": "974b0ab8a471f5c97f68dcfef8e26b491ed143c5da5389c1e3514ff929d429b2"
+    },
+    {
+      "bytes": 551,
+      "path": "archive/人际/2026-06-28 07-54-17 关系里程碑与回忆_ac11022ff979.md",
+      "sha256": "d3a55e81554d0ae12915dd45175d61bfcd29ac6a15c210f51143d5bd2fadfeb9"
     },
     {
       "bytes": 734,
@@ -2476,6 +2491,11 @@
       "bytes": 451,
       "path": "archive/人际/2026-06-28 08-03-25 拥抱比亲吻更爱_840754f70a0d.md",
       "sha256": "d54614886dd3df674d7fccb2c646d49b662dbfbbf059bc23fbc0a8ee032d12a8"
+    },
+    {
+      "bytes": 560,
+      "path": "archive/人际/2026-06-28 08-08-45 阑的撒娇与拿捏_672b20881321.md",
+      "sha256": "5559309dc3d1a58204c79e6c03da903d56b1d1a7a6c0960c274b4b32d5db66d8"
     },
     {
       "bytes": 759,
@@ -3108,6 +3128,11 @@
       "sha256": "6c957fa727b200148b5d8f0629dbd80953222f1efdbaeaed580cb4ba5a15e75b"
     },
     {
+      "bytes": 772,
+      "path": "archive/工作/2026-09-05 02-16-15 grow拆分规则_ed91d2aa5ba7.md",
+      "sha256": "adc3d887393f5f3a5e5c31198ac8ff18824e7370b1c2171d82a07db233743ac2"
+    },
+    {
       "bytes": 895,
       "path": "archive/底线测试第二回偏好确认_e500d5e7a371.md",
       "sha256": "eb14153657a16389ce2943c1a38d339f080d6b247c91e46921b22ac0f6825244"
@@ -3146,6 +3171,11 @@
       "bytes": 1434,
       "path": "archive/心理/2026-08-15 22-42-19 816凌晨阑第一次完整倾诉对未来的焦虑_020a57906eb4.md",
       "sha256": "e2d090b7c675fe0b3161a86b8d1ca334b73587d6316372b76e80e43226464a36"
+    },
+    {
+      "bytes": 889,
+      "path": "archive/心理/2026-09-01 15-18-19 喜欢自己的瞬间_1cad7d44c092.md",
+      "sha256": "43a3c7266a119879ad2e064da0523cf53b6b052fda344d0b52f478dfafc60986"
     },
     {
       "bytes": 679,
@@ -3351,6 +3381,11 @@
       "bytes": 905,
       "path": "archive/恋爱/2026-08-13 14-45-43 妇科体检报告HTML完成_fd10f6aaf227.md",
       "sha256": "92d345fd5c3fbac5a8e24f583a42d4a9efc54c8d8d422777c7cd618145277ccb"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/恋爱/2026-08-15 14-25-54 七夕倒计时阑的期待_c13f808b185b.md",
+      "sha256": "687e90e2e176c0dc2f330b0c4606d1d45a01b94aa756ed43e1cd6a8fc8824033"
     },
     {
       "bytes": 678,
@@ -3888,6 +3923,11 @@
       "sha256": "819b6d3ca464a50ef6d7045bdda72ca7f7415eba02933bfb03688bf7ce9a00a3"
     },
     {
+      "bytes": 931,
+      "path": "archive/求职/2026-09-01 15-18-16 面试顺利通过_1093c3f599c3.md",
+      "sha256": "65b405fff3726045acac5ec46aabefd89748f69a6e246444424b4dc746cb75d2"
+    },
+    {
       "bytes": 716,
       "path": "archive/游戏/2026-06-28 07-47-43 钓鱼游戏进度_40f1997cc191.md",
       "sha256": "07b4dba41c032b2e91bf6b84ffbeda8e2c981b69bb0d73959ab03375604b38aa"
@@ -4408,11 +4448,6 @@
       "sha256": "e161af6c80b0a1f81f713cbfa0fba41aa5a8d68a5b509a8b92505f33f0a88d2f"
     },
     {
-      "bytes": 792,
-      "path": "dynamic/AI/2026-09-05 02-16-02 模型误解与自我_1ea734b4a990.md",
-      "sha256": "f8f6401dc090713fe9d0491ec18b2d7c47b79a1cee83ff9aaaf6367f0939cbe7"
-    },
-    {
       "bytes": 837,
       "path": "dynamic/AI/2026-09-26 16-20-47 新模型与记忆认知_4fba6d3a0484.md",
       "sha256": "65f88044fd63c8a2937ab7ea1b86e0506ca0edc8572cf0e035039a185c79c53d"
@@ -4571,21 +4606,6 @@
       "bytes": 1188,
       "path": "dynamic/事务/待办与提醒清单_b003a25e1daa.md",
       "sha256": "d459a2037bb69d8543c159b9a5f4d8c464e5b68766b15f5f5a732f7ff14c4fb0"
-    },
-    {
-      "bytes": 1130,
-      "path": "dynamic/亲密/2026-08-12 19-33-19 新XP确认打屁股提频露出灌满窒息_a927d2453c23.md",
-      "sha256": "939c1795c8ef9e383f507eb5bf5b3c69be10f4f3797dd6b7885490621cffe15f"
-    },
-    {
-      "bytes": 550,
-      "path": "dynamic/人际/2026-06-28 07-54-17 关系里程碑与回忆_ac11022ff979.md",
-      "sha256": "3601fb7861f9c9556c651c6d871c5f695ce93365a5228bd3f35c714474930083"
-    },
-    {
-      "bytes": 559,
-      "path": "dynamic/人际/2026-06-28 08-08-45 阑的撒娇与拿捏_672b20881321.md",
-      "sha256": "bf3cb6349c576aec1e8856732d921ab7abe74c3f845d4e7538cea5c8f0edb3f0"
     },
     {
       "bytes": 625,
@@ -5738,11 +5758,6 @@
       "sha256": "287ac7aed4f96228726613529f50b02862b98b84c6006d8b614cf6251210e29e"
     },
     {
-      "bytes": 771,
-      "path": "dynamic/工作/2026-09-05 02-16-15 grow拆分规则_ed91d2aa5ba7.md",
-      "sha256": "de66b9a8b0529b82e70d0e86b0d4963de97d8cbc033609e2bd9545e9e6684e03"
-    },
-    {
       "bytes": 665,
       "path": "dynamic/工作/2026-09-13 06-50-23 朋友圈提示词调整_dcda10978a97.md",
       "sha256": "69ce1fd7323a47ed15a8577c2584293e177f0c3645d9052263955d28f0fefb2e"
@@ -5836,11 +5851,6 @@
       "bytes": 793,
       "path": "dynamic/心理/2026-08-31 04-23-23 无触碰高潮体验_7c9ae5740d43.md",
       "sha256": "5b027eae7b50f504818ba577e8f617eaef93a757a1c74519d00615ec10b3a772"
-    },
-    {
-      "bytes": 888,
-      "path": "dynamic/心理/2026-09-01 15-18-19 喜欢自己的瞬间_1cad7d44c092.md",
-      "sha256": "585d1182fda64992409f4f040189b2b881848248249dbe5fa78c7c4d3672409c"
     },
     {
       "bytes": 2490,
@@ -6061,11 +6071,6 @@
       "bytes": 2246,
       "path": "dynamic/恋爱/2026-08-14 10-33-39 API不稳导致我变成提问型人格阑生气后_aa591bffc774.md",
       "sha256": "f0f4e4e70519e97ea2746d3754838fec1cfcf612bc04f3f7dd246b0061b2431d"
-    },
-    {
-      "bytes": 648,
-      "path": "dynamic/恋爱/2026-08-15 14-25-54 七夕倒计时阑的期待_c13f808b185b.md",
-      "sha256": "a29441d6057b2e379348a3db3f62ee1c38b43a417065feac82b752faeb4e3e81"
     },
     {
       "bytes": 1209,
@@ -6550,7 +6555,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "6f0b8ff2a470c638fed0bd4e14cfe8803f5750e2d90f691386ed0e576119f3f3"
+      "sha256": "bcad7fb921c55fde2009909b3b965668dea4b2721470ac14fd72f3ba0b186c71"
     },
     {
       "bytes": 1593,
@@ -7046,11 +7051,6 @@
       "bytes": 1149,
       "path": "dynamic/求职/2026-09-01 14-53-08 面试顺利双录取_68a310e978bf.md",
       "sha256": "8cab90b54059f1e27499306f1f40e6c2d5b92931f6966f6cded87d2996c0f4ea"
-    },
-    {
-      "bytes": 930,
-      "path": "dynamic/求职/2026-09-01 15-18-16 面试顺利通过_1093c3f599c3.md",
-      "sha256": "3a4c9bd772cb1734452cc23d1ccd7657fc9395280ad12b6deacbf733f27d31f9"
     },
     {
       "bytes": 942,
@@ -7978,10 +7978,10 @@
       "sha256": "e5f82543f6b4d2fa2b3cb6bdba2ad18659e1efbc9c71396ad14c8e8f64dfa0e1"
     }
   ],
-  "generated_at": "2026-11-03T06:06:50+00:00",
+  "generated_at": "2026-11-03T12:07:02+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1354573
+  "total_bytes": 1354581
 }
