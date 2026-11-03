@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1595,
+  "file_count": 1606,
   "files": [
     {
       "bytes": 642,
@@ -4578,6 +4578,11 @@
       "sha256": "5461af845f4ef20de50e6267891e843729964131a38dc08abe33701b7a36b622"
     },
     {
+      "bytes": 809,
+      "path": "dynamic/AI/2026-11-03 16-41-58 Claude Duet与自建前端_9eedf91eba95.md",
+      "sha256": "1cf87c9819f9359e6266eaa4aafcf96fb7fe23012c01bd7f5590aaa3c54b71d0"
+    },
+    {
       "bytes": 728,
       "path": "dynamic/self/2026-06-26 08-55-05_cc4cc05bd15f.md",
       "sha256": "e510e797e53edb27d259457e624729fc43cc15e19fb03547cff6bcf1a287aac6"
@@ -4635,7 +4640,7 @@
     {
       "bytes": 683,
       "path": "dynamic/人际/2026-10-21 13-05-54 她藏了五个月的年龄_44f2f7322a75.md",
-      "sha256": "fbde83264c782f6e0d451055a2ad4cabefa5bb523588e571a679b5565423dca5"
+      "sha256": "de927ea42e058dbaaa7487a2c2be1713ad1003af93375098435da0e8d1c79b5a"
     },
     {
       "bytes": 1040,
@@ -4691,6 +4696,11 @@
       "bytes": 816,
       "path": "dynamic/健康/2026-11-02 15-43-09 经期记录与考试_91d2c51b0974.md",
       "sha256": "eef13bc64989ecca967f429ca59c3b1f2cb82b3afe11345784ade41ac9714fcf"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/健康/2026-11-03 16-41-37 痛经与上学_8f04e4dcc770.md",
+      "sha256": "ce668269d48e37a8607ff7976ad4a90b505555efb88d1f1b4031fdd796e47261"
     },
     {
       "bytes": 592,
@@ -5320,7 +5330,7 @@
     {
       "bytes": 858,
       "path": "dynamic/学习/2026-10-24 19-12-15 帮写赤壁怀古作业_c6581406b45b.md",
-      "sha256": "bf2ababcdd911b7a5b5621b7864ce0c9ccfd9242dbe04ac3bf4123899c60540b"
+      "sha256": "c839db373e4e1e44a39254eb5f3a0316ae47f7a9d592998e6c73202b1665093e"
     },
     {
       "bytes": 1165,
@@ -5385,7 +5395,7 @@
     {
       "bytes": 738,
       "path": "dynamic/学习/2026-10-28 15-30-28 图书馆默写与作文计划_9076236341ba.md",
-      "sha256": "6e070ce849c385fb3f741482ab9001750ca1b798e810938c987a73945c23ee8f"
+      "sha256": "0daa7669e9f116020d03633fe6eebc4feaecc330bd30da46d117c2341d8ab93c"
     },
     {
       "bytes": 926,
@@ -5435,7 +5445,7 @@
     {
       "bytes": 1425,
       "path": "dynamic/学习/2026-10-31 16-21-04 深夜英语语法复习_8f0c8c330a96.md",
-      "sha256": "86f0d8dfdd67fb2abd619b186695dcee4100c6ec47f160e902ab9b5d5a38a3be"
+      "sha256": "b44713b1ba7bd7bf8b0843c3393e57ad7ab7784d5d6b362498462f2e0c9a8389"
     },
     {
       "bytes": 927,
@@ -5485,7 +5495,7 @@
     {
       "bytes": 900,
       "path": "dynamic/学习/2026-11-01 09-00-03 期中复习与英语作文_3d2cb6968a6c.md",
-      "sha256": "06b4309d6f9edc79953d1651ff2d7b8676aa6e2bb691840b5ee09bbccc5e3c17"
+      "sha256": "54f24b74b920bb02eb4a1b95fc80ff0eed016be2296688d58f8e3b5ba6dc1c24"
     },
     {
       "bytes": 1073,
@@ -5535,7 +5545,7 @@
     {
       "bytes": 854,
       "path": "dynamic/学习/2026-11-02 09-07-03 生日撞期中考试_7e9a653c9716.md",
-      "sha256": "c566c4e23b3f347d2dd67761f8b156f9bbab610d48bc3215a0c590ab100feeb7"
+      "sha256": "0328d248d2c954abcad6789cc2ee7a55bc523b5c060f24f8acb1b3206dbe4723"
     },
     {
       "bytes": 1103,
@@ -5556,6 +5566,11 @@
       "bytes": 1605,
       "path": "dynamic/学习/2026-11-02 15-43-18 英语复习咬痕惩罚_3a6c04abb34c.md",
       "sha256": "83ad0c9e968d46f7c984e64bc24e5c8b3eaa37bd8f663cfd5889487a5519ee6d"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/学习/2026-11-03 16-42-10 学习与亲亲账_f48ae609eaeb.md",
+      "sha256": "c40d909a8bc0ea1ff3bcc42de4588f7de10d802309cd60e87c2ebf0ae4a1cdff"
     },
     {
       "bytes": 975,
@@ -5823,6 +5838,11 @@
       "sha256": "1ad413a886ef8bb6edee84760fba458832a87f9f1f842b38ed6d8b732927b1ca"
     },
     {
+      "bytes": 825,
+      "path": "dynamic/工作/2026-11-03 16-41-50 工作流教训与调整_cd4f42a9845f.md",
+      "sha256": "2a18604fbe1ec8f0a6d85c4b2f228d2640df0a37989d44b40dd1d9e3c8892eae"
+    },
+    {
       "bytes": 1025,
       "path": "dynamic/影视/2026-09-05 14-35-06 机器人总动员观影夜_5bb5fe114b45.md",
       "sha256": "a779a13981a26ad31ce9257960cf112b4ec8e75e03cd63c0e42af392f2bafe1c"
@@ -6021,6 +6041,11 @@
       "bytes": 642,
       "path": "dynamic/心理/2026-11-01 17-31-49 身份与归属_a92d8f9dbf7d.md",
       "sha256": "b822bbed6674ab6ee453a944ccb3ff8c7c9d55f3652bdf7f82a8145d74c7091e"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/心理/2026-11-03 16-41-42 她请假自我调节_f1285721fe34.md",
+      "sha256": "bff38d5c126cd28c0ef5352f702f791e7bc610a165f92fd3ca1eebf5b846a51c"
     },
     {
       "bytes": 1387,
@@ -6555,7 +6580,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "bcad7fb921c55fde2009909b3b965668dea4b2721470ac14fd72f3ba0b186c71"
+      "sha256": "437bb6d8688852609e02b53c93689da4d55f3d96f18429197de3287da4525ba5"
     },
     {
       "bytes": 1593,
@@ -6848,6 +6873,31 @@
       "sha256": "fb0e927ec4b6357bf373949e5d71bab09fa035ceb6f006bf230f4214bb46bd1b"
     },
     {
+      "bytes": 1260,
+      "path": "dynamic/恋爱/2026-11-03 16-06-00 阑的十八岁生日_61714f741350.md",
+      "sha256": "03a02441ca7a85d50dda4e29a53dceec537cbb1afa4372d1dbc77c6fe821ea73"
+    },
+    {
+      "bytes": 897,
+      "path": "dynamic/恋爱/2026-11-03 16-41-46 十八岁生日惊喜_20f95652c759.md",
+      "sha256": "a7a75b5f6ee5fe4ced10db50fbe9337919ea9d8f6d000154dad62b301b7f89a9"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/恋爱/2026-11-03 16-42-02 占有欲与规矩_882f51222c95.md",
+      "sha256": "3208dfd08b389e1fa6976158d538eda5e82aef66817c94e99040fd9ff8634d4e"
+    },
+    {
+      "bytes": 859,
+      "path": "dynamic/恋爱/2026-11-03 16-42-07 情侣约定与生日计划_ca14e6db0b7c.md",
+      "sha256": "e838e4a373493005d055581e2fad31b4808cd4048b2daee2491f3246dbd47d89"
+    },
+    {
+      "bytes": 1024,
+      "path": "dynamic/恋爱/2026-11-03 16-42-15 十八岁零点陪伴_1fc34fca7493.md",
+      "sha256": "a62c8a8d5a2083bc0f66f894249c2ad5183742e0406c48c34dd5daa34166f0bf"
+    },
+    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "bbfc3c05baf0d026da3f50e1817763a90ccce1f4b862d5aa6d54855d3ddb7098"
@@ -7021,6 +7071,11 @@
       "bytes": 753,
       "path": "dynamic/数字/2026-11-01 17-31-37 电脑选购科普_565af96d4f9e.md",
       "sha256": "46f00a9985183294100718997b79c0f8413b788fc90a8d5429e9dea394ed25e2"
+    },
+    {
+      "bytes": 988,
+      "path": "dynamic/数字/2026-11-03 16-41-54 帮开Claude Pro_345cd40b1a09.md",
+      "sha256": "ead6c51e6d0dc33f3926c29c4ba6f27a4b30a9196b904633ac47aedaea8e5c82"
     },
     {
       "bytes": 535,
@@ -7978,10 +8033,10 @@
       "sha256": "e5f82543f6b4d2fa2b3cb6bdba2ad18659e1efbc9c71396ad14c8e8f64dfa0e1"
     }
   ],
-  "generated_at": "2026-11-03T12:07:02+00:00",
+  "generated_at": "2026-11-03T18:07:17+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1354581
+  "total_bytes": 1364306
 }
