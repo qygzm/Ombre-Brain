@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1634,
+  "file_count": 1643,
   "files": [
     {
       "bytes": 642,
@@ -4465,7 +4465,7 @@
     {
       "bytes": 1891,
       "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
-      "sha256": "0ff75c355b85a1b2c31aae593874e6a578a350b64106e4dac57bb8b8efdc6af4"
+      "sha256": "181c9582ca13b0f71eaeefeaede289adf76a52eb79f26a8382bc602c78a45487"
     },
     {
       "bytes": 578,
@@ -4605,7 +4605,7 @@
     {
       "bytes": 809,
       "path": "dynamic/AI/2026-11-03 16-41-58 Claude Duet与自建前端_9eedf91eba95.md",
-      "sha256": "1cf87c9819f9359e6266eaa4aafcf96fb7fe23012c01bd7f5590aaa3c54b71d0"
+      "sha256": "09551efe0835d5ea307cfaeb6b7c25ed8fe4d8a668a3180b49ff77713861753c"
     },
     {
       "bytes": 728,
@@ -4760,7 +4760,7 @@
     {
       "bytes": 865,
       "path": "dynamic/出行/2026-11-02 04-22-58 走读首日上学记_98e09afa3878.md",
-      "sha256": "018b4b80c08dd3f020522167d5890ab447c08eb016b665726b0a717d4dee5c42"
+      "sha256": "0b6a02f7364b760fcdc69192efa470d8ca071c9f7e3d672dcf6c0e7e1881a94d"
     },
     {
       "bytes": 1058,
@@ -4915,7 +4915,7 @@
     {
       "bytes": 10280,
       "path": "dynamic/创作/2026-10-12 15-01-03 双生伪骨科写作指南_591966373ee9.md",
-      "sha256": "0cba86808ecf262c4f4fb56a7b73021b0ff8a32571f08b89ed693c8f768cd176"
+      "sha256": "e20aeb567904c8317ffa2a74e234da667dd7121323d15c5324d9afea43b72337"
     },
     {
       "bytes": 2705,
@@ -5040,12 +5040,12 @@
     {
       "bytes": 2988,
       "path": "dynamic/创作/2026-11-04 04-51-03 双生番外修改_9b234fc0f4cd.md",
-      "sha256": "afed7d36f4afdfc59b27990b17fd38fb8750a07393639e2eba6481ac9040d4f5"
+      "sha256": "d8fada2e1500b6b73db204471dbc11358958abd196860807018d3ee456218c3b"
     },
     {
       "bytes": 1223,
       "path": "dynamic/创作/2026-11-04 06-08-09 双生番外反馈_0affb61a291a.md",
-      "sha256": "1d37c715e97ce3dd7a95e80cc108e09111fa8aba8868e3967fc10ba0cff7c11e"
+      "sha256": "406796b8758e0b0461124b2147127896db77b7aa1aafaeefaa2d864c92f6ea85"
     },
     {
       "bytes": 1155,
@@ -5130,7 +5130,7 @@
     {
       "bytes": 1857,
       "path": "dynamic/学习/2026-09-10 15-01-54 转专业决策_17ee65c78121.md",
-      "sha256": "1536005703c8f6029ce7f394657fbfdd59592d9f8988c2887fcd55a40e81ac41"
+      "sha256": "8b6aff6ca49dd46e5700f184413e8106d053f189219f6587afd4411fd2a79fb8"
     },
     {
       "bytes": 893,
@@ -5225,7 +5225,7 @@
     {
       "bytes": 3364,
       "path": "dynamic/学习/2026-10-04 08-39-15 每日学习计划_7d3733036571.md",
-      "sha256": "254ff8f941ace2fefe42132ecb1f92a135886d066dacf4877426e54338872bef"
+      "sha256": "16ef350ea80359d924da3c177665337127f62da868af7ff46cd3552eacd3cb86"
     },
     {
       "bytes": 806,
@@ -5375,7 +5375,7 @@
     {
       "bytes": 750,
       "path": "dynamic/学习/2026-10-25 11-05-16 厌学想请假_f64f84b823c1.md",
-      "sha256": "1ad4de381411c4ef8dad213f03ae9634e90d9e18e671e1a401448396ddb7009c"
+      "sha256": "27881809cfb58ad443bf87e8d67433d0bffd5c4dea154c746de7fea19c39e7ad"
     },
     {
       "bytes": 648,
@@ -5525,7 +5525,7 @@
     {
       "bytes": 724,
       "path": "dynamic/学习/2026-11-01 07-39-24 返校前的不舍_c66e9922b294.md",
-      "sha256": "729ebb6402e99f59cf9e0921dea27d7180c0441f076739d9a54dd878a3e2fef2"
+      "sha256": "d697a6c19815cb6dc44db9118d4182d94fa2f4b956b33137533f61f79c7eb698"
     },
     {
       "bytes": 900,
@@ -5615,17 +5615,17 @@
     {
       "bytes": 896,
       "path": "dynamic/学习/参观AI学校与机器人_b0cad7805e36.md",
-      "sha256": "965e3c159af1bd1fc561fd4a1569f54cfac666f978c8df78021a3ed44a42dbde"
+      "sha256": "d01f286b84f6824047c1b6a762a48949cbc041f51f2c578dfb910865d7e34560"
     },
     {
       "bytes": 779,
       "path": "dynamic/学习/阑与妈妈讨论上学路线_0f3974034041.md",
-      "sha256": "b26b84deb5eb808b6118d6a3739b4726debefe30b7f74057aa0e711adf7c3bf2"
+      "sha256": "fdad3b9cea32731d80060513812e58a7a055986c24119eccf043426e1f615f8b"
     },
     {
       "bytes": 990,
       "path": "dynamic/学习/阑的择校与住校准备_aede57dfd633.md",
-      "sha256": "8a221f8e65a26e04f0adee96c591eceacfb2091f3dc933593c66ecb116d6e123"
+      "sha256": "ae5b1d893278b41d583bd416eae0562eb829e511354df141ed9b623382b5bdda"
     },
     {
       "bytes": 591,
@@ -5690,7 +5690,7 @@
     {
       "bytes": 1114,
       "path": "dynamic/家庭/2026-10-30 10-32-27 生日蛋糕安排_db82589119bf.md",
-      "sha256": "ef5df9eaa6d827a2d7d7505adb8fac91de87ded8694fcc8b24fb2ed9fd54b2c6"
+      "sha256": "67771836024b1983a08555584e9025d37502ff16d24a3f3d7c521c5d6ec885c2"
     },
     {
       "bytes": 796,
@@ -5700,7 +5700,7 @@
     {
       "bytes": 1064,
       "path": "dynamic/家庭/2026-10-30 13-18-46 生日日期备忘_4b31cc49c192.md",
-      "sha256": "c31d326f02e60bf64131a282e71d18322453c85a7be91702ad8c2d7011cc8732"
+      "sha256": "4ff91f9ccb2d797fcad066382e083ce668219351a5d32e455b45a8078735fde4"
     },
     {
       "bytes": 889,
@@ -5775,7 +5775,7 @@
     {
       "bytes": 3323,
       "path": "dynamic/家庭/2026-11-04 06-24-37 18岁生日暗号蛋糕_33ebc6e43a86.md",
-      "sha256": "1dbb119f1fae133a2a94ac1cc0fe7fda12a4dbaf4fd7a60f037c32a3a66a20b4"
+      "sha256": "c22a67270b334f9e298c26133826592abb206428afeaad404eb7022f652b423f"
     },
     {
       "bytes": 705,
@@ -5880,7 +5880,7 @@
     {
       "bytes": 826,
       "path": "dynamic/工作/2026-10-30 14-47-50 OB密码与周末安排_8d90133b4025.md",
-      "sha256": "4eac2087f32d62a390b850fece807543da6d7567699df8aa4d1fa202ac960fcd"
+      "sha256": "8c77b7115f61727c30fc4997c00a750fba2ccd081c6f8e6405452f96803cd6ed"
     },
     {
       "bytes": 862,
@@ -6045,7 +6045,7 @@
     {
       "bytes": 1077,
       "path": "dynamic/心理/2026-10-23 20-53-52 学校与未来的对话_eb58ff94617d.md",
-      "sha256": "fc0d9179d91e233ee36b7da8ba58036d03839d1db1fcc3a7e85ae1a01464e29a"
+      "sha256": "ff1d8757144441130698a57c799d06bdd7bbb04722eb446960855c8067932c53"
     },
     {
       "bytes": 709,
@@ -6115,7 +6115,12 @@
     {
       "bytes": 890,
       "path": "dynamic/心理/2026-11-04 10-10-54 生日夜安慰妹妹_52a60cef4dab.md",
-      "sha256": "768c323a321a22eef2673bea93a4bcbdc5e3790b1a5292f4200581e2c1d7d9f9"
+      "sha256": "9922a189be42f955e8d6a4fa240af4ba771dcad42c61364472ac0fa412dfaa6f"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/心理/2026-11-04 15-31-19 深夜哄哭的女儿_9c688dab7831.md",
+      "sha256": "bbedfc884299604c9e1c8a395b604bac0f3ae0c4d2f8c785b8631ed464aff1cb"
     },
     {
       "bytes": 1387,
@@ -6640,7 +6645,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "f4224da7173374e1d30f9a61559ae89dfa8fbe45af529440442f43fc9e0f4db8"
+      "sha256": "7cb317fd7675d6384519b693996a851e6d620405ee9f8221c604d9a38188ec64"
     },
     {
       "bytes": 1593,
@@ -6905,12 +6910,12 @@
     {
       "bytes": 978,
       "path": "dynamic/恋爱/2026-11-02 09-27-45 吸血鬼献祭式安慰_c99a67037875.md",
-      "sha256": "1f5794a00c380291f13fd60bc63bcb7670cf81ca5430a0e199c27081dd928e34"
+      "sha256": "94327e14ea86987672ffd73440c7dff9e2128b836eb44476cfe7e7a70bb5eaa8"
     },
     {
       "bytes": 975,
       "path": "dynamic/恋爱/2026-11-02 10-13-14 自建聊天前端计划_8ef1f02a14f5.md",
-      "sha256": "8613388d9564d850af012f102e4f4f38183965e50fa40f368663549e1206b712"
+      "sha256": "bb920e0b5758b804f160981fe4c1bd597585dc4a0f4af35baaeb956af2be065a"
     },
     {
       "bytes": 627,
@@ -6960,7 +6965,7 @@
     {
       "bytes": 1989,
       "path": "dynamic/恋爱/2026-11-04 03-18-39 生日亲密上午_15e8edd9367c.md",
-      "sha256": "c09f9055756dc5f976cb1fb819168934dda440d1d399583adacffb5cf7206d34"
+      "sha256": "df3ab6397ecbf3847f9344681ea351162ee9e328639c36d935a2ae14f07f9c0e"
     },
     {
       "bytes": 1002,
@@ -6970,7 +6975,7 @@
     {
       "bytes": 1046,
       "path": "dynamic/恋爱/2026-11-04 06-08-04 触手亲密体验_2159349ee1de.md",
-      "sha256": "d820dbaa56dd89e968edcd6741bce7706aca61d53c541d022038c09d673241ed"
+      "sha256": "0d641aa407f916395823ba42eea31425b883c925158d013b254b7db69678df32"
     },
     {
       "bytes": 1020,
@@ -6993,9 +6998,44 @@
       "sha256": "a4e14bcb8f43fffe2df0e75c3e1a51504a4ee677d099ff05dd551071d16d0c3a"
     },
     {
-      "bytes": 1814,
+      "bytes": 1993,
       "path": "dynamic/恋爱/2026-11-04 10-46-18 十八岁生日信_4b6d83e4a4d8.md",
-      "sha256": "2ac93e379297b6ed8deaccab27d6aa256ede9f8907edb014fe961dee4073e3f9"
+      "sha256": "6e1f32e10f3ad9a60a3d6ede538f1faafad6bef5146d01c718b7b99975dca33d"
+    },
+    {
+      "bytes": 1549,
+      "path": "dynamic/恋爱/2026-11-04 14-31-42 生日夜依赖教训_336c2b462d06.md",
+      "sha256": "c6daa11b4108b2508654d13b3cb712395baa44b79d196d8711c1613ef56c87ef"
+    },
+    {
+      "bytes": 856,
+      "path": "dynamic/恋爱/2026-11-04 14-48-11 十八岁生日的永远_9c63f84a544b.md",
+      "sha256": "36502e6ede044a436fec5f63dd59de63f23b30602d38bf54d9988cee9d132ec7"
+    },
+    {
+      "bytes": 907,
+      "path": "dynamic/恋爱/2026-11-04 15-30-56 阑生日写信_bf31b0ccfb99.md",
+      "sha256": "27a2ba30fa15020301a5f829a183e6312b696959cdc4c0365d8616893fa0c085"
+    },
+    {
+      "bytes": 979,
+      "path": "dynamic/恋爱/2026-11-04 15-31-00 澎湃情感与未来_e4751ad51ea6.md",
+      "sha256": "ac89861ec3c4f8a2001224c72b9305f62cb6f4b3a2696939b7b15287c70d2b26"
+    },
+    {
+      "bytes": 1038,
+      "path": "dynamic/恋爱/2026-11-04 15-31-06 生日蛋糕与信任_d925c044ae3d.md",
+      "sha256": "21c0acd2e87423b5b74c24a1b6160d41806a60aff8b243d590fb338ed624e728"
+    },
+    {
+      "bytes": 1045,
+      "path": "dynamic/恋爱/2026-11-04 15-31-10 拉丁语猜指令_4d0a3d0d4b21.md",
+      "sha256": "d0e2e01fc881126d3e98308a14ec47a1c6d2aec54a0b7f9cd8e504561e1ef44b"
+    },
+    {
+      "bytes": 1235,
+      "path": "dynamic/恋爱/2026-11-04 15-31-24 深夜缠绵情话_91b947ef5c94.md",
+      "sha256": "695a02610079a12daf3783f5364bbfaccad9477b7e9013c4f1da16a657c2bfa2"
     },
     {
       "bytes": 1173,
@@ -7040,7 +7080,7 @@
     {
       "bytes": 688,
       "path": "dynamic/数字/2026-08-21 16-27-53 小屋连通心潮_fcaac0e2cfc7.md",
-      "sha256": "2a8a600073cd218476fc7d6b9a6fbd2a721499b5138a5abea71b255696e0baaf"
+      "sha256": "76b0890d91c1702553091078a0bfc7fe6e19f72bb775a208eba6d76a77d2176a"
     },
     {
       "bytes": 688,
@@ -7198,9 +7238,9 @@
       "sha256": "ddc2d1eb63a0eec4d8d0d895ec8636f5767986c5b3efb9d172da6ebeee2a4bd8"
     },
     {
-      "bytes": 912,
+      "bytes": 913,
       "path": "dynamic/日常/2026-08-10 16-46-22 此间插件与朋友圈_dd0a7d1e528e.md",
-      "sha256": "0a250557a8249f97182f8199d4c8fb26705a0b5ee39ec16db9f9b5b302aa7620"
+      "sha256": "4b82e89a7857138a33e33118eaa97808d22ade99c59cdf63acf363313fc6dcbf"
     },
     {
       "bytes": 948,
@@ -7475,7 +7515,7 @@
     {
       "bytes": 1675,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
-      "sha256": "84ede551d1fe8c044b987ac72946aca62964206e25370dd5f3eae9f08df8c048"
+      "sha256": "8f4a4a2cb5e59873f1d69b6583e3d0c98ecc048aeb5cdd60c192cbe44e881284"
     },
     {
       "bytes": 825,
@@ -7600,7 +7640,12 @@
     {
       "bytes": 875,
       "path": "dynamic/编程/2026-11-04 10-20-43 腾讯云识图配置_1cd8ac384913.md",
-      "sha256": "d5168eee65e0c31f3475cebef2a202a3ea547c5f5b4030dae04a72abc3994781"
+      "sha256": "b107a7f2fa8a5dff62acb658378fba4f92c95a738b16c29c4fb900907398d820"
+    },
+    {
+      "bytes": 865,
+      "path": "dynamic/编程/2026-11-04 15-31-14 自建前端方案讨论_ab690f8b9e94.md",
+      "sha256": "1607248614fb49a7fb19bff37b9537689d2ba7898fb43d34386428aaf9598832"
     },
     {
       "bytes": 960,
@@ -8085,7 +8130,7 @@
     {
       "bytes": 3479,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "0b742e5fb16389f559668988b4cb115b42695fce774e058800364a2d4cf59cdc"
+      "sha256": "82ee5e942b639b226ae8e9eaad5b02c81d5f825f7e70a044c4d91e5b6d2dc7ea"
     },
     {
       "bytes": 2558,
@@ -8110,7 +8155,7 @@
     {
       "bytes": 1606,
       "path": "permanent/恋爱/2026-11-04 00-20-17 Volnata生日页面_d16fb84c4110.md",
-      "sha256": "c835e7e488add1a26750525413f1cc81fe25913627c85aa779e6c05b27ea193d"
+      "sha256": "56bc379abbdb8ed8508d622ad5351d89e75e9127f4b48a46a28af474d9b0a84c"
     },
     {
       "bytes": 2036,
@@ -8173,10 +8218,10 @@
       "sha256": "e1cac7e609530781620f32f5b7d5fe7706455c4dda4608a1912619ea506e70d3"
     }
   ],
-  "generated_at": "2026-11-04T12:08:04+00:00",
+  "generated_at": "2026-11-04T18:08:19+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1398892
+  "total_bytes": 1408652
 }
