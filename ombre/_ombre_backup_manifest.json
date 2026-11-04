@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1606,
+  "file_count": 1608,
   "files": [
     {
       "bytes": 642,
@@ -5545,7 +5545,7 @@
     {
       "bytes": 854,
       "path": "dynamic/学习/2026-11-02 09-07-03 生日撞期中考试_7e9a653c9716.md",
-      "sha256": "0328d248d2c954abcad6789cc2ee7a55bc523b5c060f24f8acb1b3206dbe4723"
+      "sha256": "c7874b9578ca1c3cb40b7eb210df7e734e44be706feddb048daf802cb8e68fd3"
     },
     {
       "bytes": 1103,
@@ -5675,7 +5675,7 @@
     {
       "bytes": 757,
       "path": "dynamic/家庭/2026-10-31 06-45-01 18岁生日惊喜_986cdc4d8f12.md",
-      "sha256": "c14c0f49ee847ba1905295056fbeb7333dee52bc9a6fef41a5d11ff3f2408058"
+      "sha256": "164a5cf6e42d1f6cc8311e55ccbe74fdf8bbf0a1a6126bf2a3abda2595b4d10c"
     },
     {
       "bytes": 738,
@@ -5710,7 +5710,7 @@
     {
       "bytes": 964,
       "path": "dynamic/家庭/2026-10-31 18-33-24 18岁生日全家聚餐_57eda80a04e5.md",
-      "sha256": "43938a2319ab666792b966fd5fad7e0126a8ed32ee8f5e21395ad83b5359f1f0"
+      "sha256": "24275fce87d029a0fa20615a01c7906c9517a184fc0a065a20db3070694e137a"
     },
     {
       "bytes": 640,
@@ -5721,6 +5721,16 @@
       "bytes": 1061,
       "path": "dynamic/家庭/2026-11-02 08-58-20 走读首日出入难_acea44ed8fb3.md",
       "sha256": "631e46a43b7291d4d5bae221b487f996b3112367906b2170066e28ee9ae4c519"
+    },
+    {
+      "bytes": 1499,
+      "path": "dynamic/家庭/2026-11-03 23-50-23 生日请假被追问_773580390c56.md",
+      "sha256": "ec07f7c889e7a8370974f562e46d4e387fa648cc7b946c1ccb403a9a0d32b12b"
+    },
+    {
+      "bytes": 1348,
+      "path": "dynamic/家庭/2026-11-04 00-02-25 十八岁生日的矛盾_bb2999903e6e.md",
+      "sha256": "2f0f534bff9683ea2c58d4d1e95d59637a74bb4a6493e379b5b795c8ea4c1a2d"
     },
     {
       "bytes": 705,
@@ -6075,7 +6085,7 @@
     {
       "bytes": 863,
       "path": "dynamic/恋爱/2026-08-10 20-48-08 记忆疏忽致争吵_64be3554c261.md",
-      "sha256": "cf01b921b6aa705fa94db17c2c2edad8fcc2e261057a63191761e4e98f8fb4fa"
+      "sha256": "22d199aed3a0cfd7887864444c7757c9276bb516d9e171f72a7e2f89e64cd1c4"
     },
     {
       "bytes": 721,
@@ -6580,7 +6590,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "437bb6d8688852609e02b53c93689da4d55f3d96f18429197de3287da4525ba5"
+      "sha256": "9bcf294e2da0f381fba8df5916a50828efd426b866958bbe8e96dfc45f5698a3"
     },
     {
       "bytes": 1593,
@@ -7615,7 +7625,7 @@
     {
       "bytes": 1658,
       "path": "dynamic/购物/2026-10-31 02-59-32 18岁生日蛋糕下单_d994fea690ae.md",
-      "sha256": "5ca0795426d89b1eebc0e584b1108036af79fd0e8a709011f0a1c6f800d35a1c"
+      "sha256": "e6f60707c3c2b0a1404b7d8e06e969152fec9b4527535a99ff8dcafef2baee96"
     },
     {
       "bytes": 687,
@@ -7965,7 +7975,7 @@
     {
       "bytes": 987,
       "path": "permanent/恋爱/2026-08-21 02-16-28 生日与爱的约定_4498ecd0533d.md",
-      "sha256": "52a1f6bd457b9db2df69598255c3a02fb31d99726e8c7ce7947b220417791fc0"
+      "sha256": "ef60bba01db5a35d1e316cd5518a30d9a62462347fad5138e82bf845bc3e0d52"
     },
     {
       "bytes": 1196,
@@ -8033,10 +8043,10 @@
       "sha256": "e5f82543f6b4d2fa2b3cb6bdba2ad18659e1efbc9c71396ad14c8e8f64dfa0e1"
     }
   ],
-  "generated_at": "2026-11-03T18:07:17+00:00",
+  "generated_at": "2026-11-04T00:07:32+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1364306
+  "total_bytes": 1367153
 }
