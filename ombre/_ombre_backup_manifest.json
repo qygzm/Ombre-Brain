@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1646,
+  "file_count": 1657,
   "files": [
     {
       "bytes": 642,
@@ -5083,6 +5083,11 @@
       "sha256": "406796b8758e0b0461124b2147127896db77b7aa1aafaeefaa2d864c92f6ea85"
     },
     {
+      "bytes": 1020,
+      "path": "dynamic/创作/2026-11-05 15-33-17 写作偏好清单_cf7a763ff2c5.md",
+      "sha256": "af5bdb25686f3ea70271b4b2cbbb7b452a99a13cc5850f6edda07c0df4e7aa71"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -5641,6 +5646,11 @@
       "bytes": 895,
       "path": "dynamic/学习/2026-11-03 16-42-10 学习与亲亲账_f48ae609eaeb.md",
       "sha256": "c40d909a8bc0ea1ff3bcc42de4588f7de10d802309cd60e87c2ebf0ae4a1cdff"
+    },
+    {
+      "bytes": 1172,
+      "path": "dynamic/学习/2026-11-05 15-33-07 Excel课与师生play_231d897fa00d.md",
+      "sha256": "86a830aca3b30935a3d85b86f4932eaf7f28cfaaf00fe6e3c80d7e06e1f75fd1"
     },
     {
       "bytes": 975,
@@ -6660,7 +6670,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "90c6cc13ff912bb185adc741a0e981ea5b50b57bd976241e3daef11b4c7c9be5"
+      "sha256": "53fdfe2cd7ea508c2077804d658e2da16b7d3f82ed40f5996c1735fc6028939f"
     },
     {
       "bytes": 1593,
@@ -7063,6 +7073,36 @@
       "sha256": "b476631eff3e197df7b2f2c28b1c19cf378960594d8fdb6495846efc7c617f5c"
     },
     {
+      "bytes": 1024,
+      "path": "dynamic/恋爱/2026-11-05 14-21-30 露出偏好清单_ee56a226ffb6.md",
+      "sha256": "8ba3d9b4d5ffa235d0feb30e246449be8bc3f4ce234b878e29b897065e57d943"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/恋爱/2026-11-05 14-50-58 主动表达欲望_619f5c733ad0.md",
+      "sha256": "f143ab20cd022e7b619e85c078dfeee2e876b0e6e10065d24e15d74b215e5697"
+    },
+    {
+      "bytes": 1267,
+      "path": "dynamic/恋爱/2026-11-05 15-32-52 十八岁首日校园恋记_2694b38ed1c7.md",
+      "sha256": "26af52182cf0b55f8cd2d01dc199fc642881b7aca37f145e226c279cfce74181"
+    },
+    {
+      "bytes": 1205,
+      "path": "dynamic/恋爱/2026-11-05 15-33-02 代码哥哥的浪漫_427c6ba7787b.md",
+      "sha256": "00ba5b229e3cb33773a4668cb5f0b41eff3e976943c48fcd3e92ae9e3786b66b"
+    },
+    {
+      "bytes": 1318,
+      "path": "dynamic/恋爱/2026-11-05 15-33-12 户外露出幻想创作_eb34bea13b1b.md",
+      "sha256": "57c3a27d55bef9dc90e2a3d23d1cbfd5b2235616ff27529f0026038a42fb991b"
+    },
+    {
+      "bytes": 1319,
+      "path": "dynamic/恋爱/2026-11-05 15-33-26 睡前亲密对话_4b9c31fdd435.md",
+      "sha256": "330a3079fb6a3251233eccfbb31d2e70bac57ccbbc11d87bd5fbbe74ae3330d3"
+    },
+    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "bbfc3c05baf0d026da3f50e1817763a90ccce1f4b862d5aa6d54855d3ddb7098"
@@ -7256,6 +7296,11 @@
       "bytes": 927,
       "path": "dynamic/数字/2026-11-04 10-20-48 MP4交接姐姐_92a4368657cd.md",
       "sha256": "bd9c9b3cf3ee5abb013e678901d332d0aa6ecece9f52791033e3be008c1dec89"
+    },
+    {
+      "bytes": 1054,
+      "path": "dynamic/数字/2026-11-05 15-33-21 帮姐装APK未果_221fe69e839c.md",
+      "sha256": "9e74e8f89dd8253b4ec6335cad2631142de4d9476de7ab063edd056761f01720"
     },
     {
       "bytes": 535,
@@ -7853,6 +7898,11 @@
       "sha256": "8171e0c4544b08645ae02b7de3f569cea2a88a197bdb807188e6515c01f2052f"
     },
     {
+      "bytes": 1220,
+      "path": "dynamic/阅读/2026-11-05 15-32-57 知更鸟与性别_5c8cfa58558e.md",
+      "sha256": "0e219e0875005e5d06f61c084155185335a62a650673c52ecea8c230e0ccdd28"
+    },
+    {
       "bytes": 627,
       "path": "dynamic/音乐/2026-10-10 21-09-09 涩涩语音收藏_b978acc46b37.md",
       "sha256": "1d92c5d754af086ad71fa5e81bff87cfd2faba835ce05ffc22388f061fd76ede"
@@ -8073,6 +8123,11 @@
       "sha256": "ea8bba194beb56251737ed7cc08a1e2bfd559a4359aeae6edfc6804dc9373406"
     },
     {
+      "bytes": 857,
+      "path": "feel/沉淀物/2026-11-05 14-45-13_feel_202611051445_V050.md",
+      "sha256": "d3affc56dd35b31c1e2ca0f7b306bce0c1699329e4874e4a041bd76acb33355a"
+    },
+    {
       "bytes": 508,
       "path": "feel/沉淀物/3b7e1e8f67cc.md",
       "sha256": "0be1b773bb8d8960d3d66428adc8b51ae77983ac82a56ff409c6508cd6310732"
@@ -8233,10 +8288,10 @@
       "sha256": "e1cac7e609530781620f32f5b7d5fe7706455c4dda4608a1912619ea506e70d3"
     }
   ],
-  "generated_at": "2026-11-05T12:08:59+00:00",
+  "generated_at": "2026-11-05T18:09:15+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1411835
+  "total_bytes": 1424154
 }
