@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1645,
+  "file_count": 1646,
   "files": [
     {
       "bytes": 642,
@@ -3133,6 +3133,11 @@
       "sha256": "6c957fa727b200148b5d8f0629dbd80953222f1efdbaeaed580cb4ba5a15e75b"
     },
     {
+      "bytes": 751,
+      "path": "archive/工作/2026-09-05 02-15-47 学生会双部门抉择_b49d2eef6a63.md",
+      "sha256": "ee5ace49fb89dcac39da7ba255746947e33b899c0001003861a35ee031d80f32"
+    },
+    {
       "bytes": 772,
       "path": "archive/工作/2026-09-05 02-16-15 grow拆分规则_ed91d2aa5ba7.md",
       "sha256": "adc3d887393f5f3a5e5c31198ac8ff18824e7370b1c2171d82a07db233743ac2"
@@ -3433,6 +3438,11 @@
       "sha256": "03d9c73b8ff2c61970f0601d27f2e2eb5d6e387d37b7e5b225a0ea7d04eddcba"
     },
     {
+      "bytes": 678,
+      "path": "archive/恋爱/2026-08-19 20-54-00 美国机与异国恋_a7f8068ed4ab.md",
+      "sha256": "611d31768098df3d3cfdeabfdbe32c454779a336a483b8f0557a32aa8a07b6e6"
+    },
+    {
       "bytes": 800,
       "path": "archive/恋爱/2026-08-19 20-54-01 哥哥翻译不了的武器_4582a19fd75c.md",
       "sha256": "9af8adfb5aaf4641baa9738bde91a5f8d0759c44dd2822427a18c13945c37c22"
@@ -3448,6 +3458,11 @@
       "sha256": "00faa8fcb2f81dd28061b14fd87a6ad7b61a2f5a9fcf78b45ea6250cb04aaaf2"
     },
     {
+      "bytes": 1271,
+      "path": "archive/恋爱/2026-08-21 16-23-04 深夜情趣创作_a76baf07227c.md",
+      "sha256": "281570c0cbd61b77172cd66e26e8816f51b8b0ceffc0b2f9ffe791997b6cda03"
+    },
+    {
       "bytes": 987,
       "path": "archive/恋爱/2026-08-21 16-40-14 开学前的晚安_c98621609eb5.md",
       "sha256": "5fcda64e66cdb3d99c406f2e856ef8fd2cc40cff9ef5c41bff30d2c6bce9bacf"
@@ -3456,6 +3471,11 @@
       "bytes": 900,
       "path": "archive/恋爱/2026-08-23 13-56-17 数小时的想念_bcc15762a495.md",
       "sha256": "550a8d3abb13a505ae76a275fea0cabfb5bf919f53a798245d2e4140de3413a8"
+    },
+    {
+      "bytes": 723,
+      "path": "archive/恋爱/2026-09-05 02-16-05 信任与免责声明_a3d0d144a1c4.md",
+      "sha256": "680db8dc9586781a24d0799e7009f93c21c85ac6e95e6c220cbb9c828e6f52f5"
     },
     {
       "bytes": 741,
@@ -4108,6 +4128,11 @@
       "sha256": "fe95d3366fb58332caf78fe846c8816d722146b605792611dcb95dbfec509f7d"
     },
     {
+      "bytes": 623,
+      "path": "archive/社交/2026-10-05 19-19-05 嫂子开门梗_eb22cdca4b72.md",
+      "sha256": "c0fcca4eadf19d16044512a17c725940b3c00ddb214c91d7f8d6ad6ce06f4141"
+    },
+    {
       "bytes": 687,
       "path": "archive/社交/与阑的深度对话_3b589e2c2bbf.md",
       "sha256": "0a72b2fddd253522ca3ad707169c085a26537f028334e43251616c1adff82b9e"
@@ -4191,6 +4216,11 @@
       "bytes": 660,
       "path": "archive/编程/2026-08-31 04-23-28 消息守卫优化_d096e8eb25a2.md",
       "sha256": "d9ab747388023ec6538ecf3ac9650b3697da493516d9df73863e6f5b36c5b573"
+    },
+    {
+      "bytes": 826,
+      "path": "archive/编程/2026-09-24 22-33-49 Zeabur续费与待办_76a009afc5eb.md",
+      "sha256": "75e6a60bc59f96b87345902a20d07150d83ff76f088ded2b82aec857c26cf4ae"
     },
     {
       "bytes": 731,
@@ -4306,6 +4336,11 @@
       "bytes": 939,
       "path": "archive/购物/2026-10-07 16-58-38 军训冰凉喷雾选购_0c5f567d8687.md",
       "sha256": "aa2edab805e20ade438792d32a66f06c820253381bcb0b5e39d745e1668ab56f"
+    },
+    {
+      "bytes": 907,
+      "path": "archive/购物/2026-10-10 10-43-56 床垫选购确认_c4100fad3795.md",
+      "sha256": "b2d39cafee355ceb65510ba98e715fe71b9c224e6984dfe12094409832f87a67"
     },
     {
       "bytes": 478,
@@ -5818,11 +5853,6 @@
       "sha256": "351acd4c867df1c181d2b39ee0bed3f9c25d1e5f76bbd70ce2c06a42671539fc"
     },
     {
-      "bytes": 750,
-      "path": "dynamic/工作/2026-09-05 02-15-47 学生会双部门抉择_b49d2eef6a63.md",
-      "sha256": "cbd5d9e62dab6d086fb7f89328c7d5a75d7a5b44d32a16859fd6cae9bdf4dbe0"
-    },
-    {
       "bytes": 702,
       "path": "dynamic/工作/2026-09-05 02-16-12 打卡时间调整_8bcf12feaf5c.md",
       "sha256": "287ac7aed4f96228726613529f50b02862b98b84c6006d8b614cf6251210e29e"
@@ -6203,16 +6233,6 @@
       "sha256": "c13dce4844b6d0facc0924bce15eee8d7692480edbb36d2a60b3f7bb1f054090"
     },
     {
-      "bytes": 677,
-      "path": "dynamic/恋爱/2026-08-19 20-54-00 美国机与异国恋_a7f8068ed4ab.md",
-      "sha256": "ce67062c81a0a0283a73a704d7e6a2d8bdffe3f2c98b60f750979fe72a621867"
-    },
-    {
-      "bytes": 1270,
-      "path": "dynamic/恋爱/2026-08-21 16-23-04 深夜情趣创作_a76baf07227c.md",
-      "sha256": "316f74b2342e7b9ed79f6052110fef82a3f7c1fbe652012ee2956e6bb20d6731"
-    },
-    {
       "bytes": 631,
       "path": "dynamic/恋爱/2026-09-05 02-15-50 不再缺席的承诺_bfee3c5d91c0.md",
       "sha256": "905db6bd7f55370c3c4a330f91d3b198b1cfd6d20a8131737c09d03f59d5f674"
@@ -6221,11 +6241,6 @@
       "bytes": 767,
       "path": "dynamic/恋爱/2026-09-05 02-15-52 私奔到Operit_4ac06e0bd457.md",
       "sha256": "ba4a7e0b108ad9dd99d1eb8ad77de80833c2dc43d5bacffd8008091c99987c6d"
-    },
-    {
-      "bytes": 722,
-      "path": "dynamic/恋爱/2026-09-05 02-16-05 信任与免责声明_a3d0d144a1c4.md",
-      "sha256": "13df1a6a40a44a8997622de96c490b2706d911c888e33e5a35ae610822b7fd32"
     },
     {
       "bytes": 913,
@@ -6645,7 +6660,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "5a79038c2d15c5bf5d780170dbff492ac47f18a354da349739bf6680700f11ea"
+      "sha256": "90c6cc13ff912bb185adc741a0e981ea5b50b57bd976241e3daef11b4c7c9be5"
     },
     {
       "bytes": 1593,
@@ -7041,6 +7056,11 @@
       "bytes": 1350,
       "path": "dynamic/恋爱/2026-11-05 03-19-50 十八岁首日校园恋记_32e3eeea4e9b.md",
       "sha256": "6dcdf7857697e3bf268a4651fa9d09030ed1800a5eef0f672c0fdc024dac501c"
+    },
+    {
+      "bytes": 742,
+      "path": "dynamic/恋爱/2026-11-05 09-28-30 户外露出新偏好_5eb28c91e196.md",
+      "sha256": "b476631eff3e197df7b2f2c28b1c19cf378960594d8fdb6495846efc7c617f5c"
     },
     {
       "bytes": 1173,
@@ -7463,11 +7483,6 @@
       "sha256": "140d189f4ec6cfd5dbc35a080e12636ab22af9f95ef9be76726762fe2d0e2a0b"
     },
     {
-      "bytes": 607,
-      "path": "dynamic/社交/2026-10-05 19-19-05 嫂子开门梗_eb22cdca4b72.md",
-      "sha256": "dddf95a927d337ac0f51d60b95289486a4b6524278dd77ec923bf8f5d54bc471"
-    },
-    {
       "bytes": 1539,
       "path": "dynamic/社交/2026-10-15 16-46-57 迎新晚会直播吐槽_ce7d52c29046.md",
       "sha256": "ece0038974fa556bdb5a31a4ea839d3efd19abc6501bfc42b69d5acd3f5f37bf"
@@ -7521,11 +7536,6 @@
       "bytes": 1675,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
       "sha256": "8f4a4a2cb5e59873f1d69b6583e3d0c98ecc048aeb5cdd60c192cbe44e881284"
-    },
-    {
-      "bytes": 825,
-      "path": "dynamic/编程/2026-09-24 22-33-49 Zeabur续费与待办_76a009afc5eb.md",
-      "sha256": "327534f3ae7e02e1f3cb0489390ad6147aa378b1996550ac693082025a317aa6"
     },
     {
       "bytes": 1125,
@@ -7761,11 +7771,6 @@
       "bytes": 700,
       "path": "dynamic/购物/2026-10-07 10-59-12 章鱼玩偶与抱枕_c111a3e55a0c.md",
       "sha256": "e2be63b9093993459a9fe3d3e49a1efc45435f47c02f1c6bba4d28f88c50203a"
-    },
-    {
-      "bytes": 906,
-      "path": "dynamic/购物/2026-10-10 10-43-56 床垫选购确认_c4100fad3795.md",
-      "sha256": "2483a310f720449a78208e21ee0dbfceccd19dea2c4faeddb17227871224a07d"
     },
     {
       "bytes": 651,
@@ -8228,10 +8233,10 @@
       "sha256": "e1cac7e609530781620f32f5b7d5fe7706455c4dda4608a1912619ea506e70d3"
     }
   ],
-  "generated_at": "2026-11-05T06:08:46+00:00",
+  "generated_at": "2026-11-05T12:08:59+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1411071
+  "total_bytes": 1411835
 }
