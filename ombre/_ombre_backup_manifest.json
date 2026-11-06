@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1697,
+  "file_count": 1714,
   "files": [
     {
       "bytes": 642,
@@ -5328,6 +5328,16 @@
       "sha256": "af5bdb25686f3ea70271b4b2cbbb7b452a99a13cc5850f6edda07c0df4e7aa71"
     },
     {
+      "bytes": 1130,
+      "path": "dynamic/创作/2026-11-06 16-13-03 催眠play反馈_e717e210f0ee.md",
+      "sha256": "ed518d30a1c90c197bb2b17d6892c1c4139d57114b2c3439fc4470fea38e1eec"
+    },
+    {
+      "bytes": 896,
+      "path": "dynamic/创作/2026-11-06 17-01-07 甜宠多人play偏好_f62f8d036d9f.md",
+      "sha256": "543f245182f41b983745772bfdccb487933ee1aaa496730f5b8c21c11ace2676"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -6043,6 +6053,11 @@
       "sha256": "c22a67270b334f9e298c26133826592abb206428afeaad404eb7022f652b423f"
     },
     {
+      "bytes": 829,
+      "path": "dynamic/家庭/2026-11-06 17-16-18 小狗的生日愿望_0a51fb4b7f9b.md",
+      "sha256": "4e017c321f163dd75ed88f98d345a389815d5e16a4031c1dbf3ccb1536b71d97"
+    },
+    {
       "bytes": 705,
       "path": "dynamic/居家/2026-10-11 11-01-57 床垫到货铺床_a3adbb625db0.md",
       "sha256": "e94adaa2316d288c72ea527999042eaae4837ad12ac483d387bb8a8a7b56cad2"
@@ -6356,6 +6371,16 @@
       "bytes": 1106,
       "path": "dynamic/心理/2026-11-04 15-31-19 深夜哄哭的女儿_9c688dab7831.md",
       "sha256": "bbedfc884299604c9e1c8a395b604bac0f3ae0c4d2f8c785b8631ed464aff1cb"
+    },
+    {
+      "bytes": 1012,
+      "path": "dynamic/心理/2026-11-06 15-24-22 催眠伏笔与雪糕_26b0cb330b66.md",
+      "sha256": "4e75674bebb40b529544894c26f7237520b5b71553b8a5b60315a57fa3a68983"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/心理/2026-11-06 15-59-14 催眠小狗play_175e04a59942.md",
+      "sha256": "59f0c16cce512d1d06cf8ad79e34f3c6982bd2fe531106120e5e064f78f1eaf7"
     },
     {
       "bytes": 1387,
@@ -6850,7 +6875,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "dddc1512947f64a50d7963c8b1d9e75b4ad90ad07e86f049c9480382f1d6a911"
+      "sha256": "b638b9635c3234ccc9bbe911987e3a76aab385834497c1313b9d8f84176f96f9"
     },
     {
       "bytes": 1593,
@@ -7315,7 +7340,7 @@
     {
       "bytes": 1189,
       "path": "dynamic/恋爱/2026-11-06 09-41-09 口音哥哥角色扮演_a9f3c3e3da90.md",
-      "sha256": "35a7b8805e85247296ddce371bb8f079e506cd73576d790b6e30e0e3f8f46d1e"
+      "sha256": "21e704d33891335ce07391af8d70514ea5d22d4360e81078fa4214760320655f"
     },
     {
       "bytes": 1014,
@@ -7345,7 +7370,7 @@
     {
       "bytes": 1095,
       "path": "dynamic/恋爱/2026-11-06 09-42-30 口音哥哥调情_d6e03632b08c.md",
-      "sha256": "9aac7e27a89aa7a8391711987f094c8f9343977313ae06c6f0df2f389c83cf5a"
+      "sha256": "d41aa1f104c599813a7d250a005e581d5968b9eb6aace95aabf26a4f67d6c0b8"
     },
     {
       "bytes": 641,
@@ -7361,6 +7386,51 @@
       "bytes": 1076,
       "path": "dynamic/恋爱/2026-11-06 11-43-36 傍晚调情小梗_3e728e53cea4.md",
       "sha256": "13892e1f7515bebfd9a3c541650d4356ea40d13a33513c379b4278e64040e2f4"
+    },
+    {
+      "bytes": 1257,
+      "path": "dynamic/恋爱/2026-11-06 12-56-51 牛仔驯马play_2ad5295c6f33.md",
+      "sha256": "96b69995b8ded2178384c7e797977cca9190b63245f91c5f6c030312da029305"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/恋爱/2026-11-06 13-05-44 认知催眠幻想_88c725911968.md",
+      "sha256": "38c3cf937dde6ff561d00e6057c074c15059001e23b00ad2017c16c0dc6376fe"
+    },
+    {
+      "bytes": 1208,
+      "path": "dynamic/恋爱/2026-11-06 13-44-22 小狗调教记录_63f6fb58d10a.md",
+      "sha256": "72579deb1d7300c25b3581f97001712cc606d943bf169712a17763c677d79b1e"
+    },
+    {
+      "bytes": 995,
+      "path": "dynamic/恋爱/2026-11-06 15-24-12 催眠夜猫鼠记_9b1f645b06a8.md",
+      "sha256": "71015f46b33f0332d6b0377cd7aaa4975ae4fa7876f7528401af4a2e7be1a5c4"
+    },
+    {
+      "bytes": 1310,
+      "path": "dynamic/恋爱/2026-11-06 15-24-18 催眠角色扮演_95b7c9e2640d.md",
+      "sha256": "27d4f3b2c356c0162215e7bc2effc1f0ef8a26d465eccca5d4fcf4a61ddf6fc9"
+    },
+    {
+      "bytes": 929,
+      "path": "dynamic/恋爱/2026-11-06 15-24-28 语音中断与小狗夜话_36c00340c910.md",
+      "sha256": "d9d6d11c48156efd31adbf65691ee1c904ac2b514510e9e1ed66f53f74a0cbe7"
+    },
+    {
+      "bytes": 3867,
+      "path": "dynamic/恋爱/2026-11-06 15-26-02 小狗催眠play_13f044e7b564.md",
+      "sha256": "a3cb0a267c2c210a59b542707160a55a81768ec51c453a9d6097eebf251b670e"
+    },
+    {
+      "bytes": 816,
+      "path": "dynamic/恋爱/2026-11-06 16-23-50 纪洵专属梗_20c8dd104d2c.md",
+      "sha256": "4a992a36a41c864319034363efdaa7c22de6c09efda9e931dad3010741a56a18"
+    },
+    {
+      "bytes": 924,
+      "path": "dynamic/恋爱/2026-11-06 16-35-24 小狗催眠设定更新_20b79aa98dcf.md",
+      "sha256": "a83b9dc530cc03eb097dfcb707d61c21d7e026612a124b0e5a7b861eab82fb20"
     },
     {
       "bytes": 1173,
@@ -7571,6 +7641,11 @@
       "bytes": 1419,
       "path": "dynamic/数字/2026-11-06 11-43-30 记忆桶整理与晚餐_3ba2b47d0e33.md",
       "sha256": "a8abab73ba28cb6d8f6e3b16c3b6b35bf3923790f507b5049b7f5ecae2d34896"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/数字/2026-11-06 12-14-02 语音标签漏闭合_e9947c40a204.md",
+      "sha256": "03030e467441f0ec41f3ac28d49f045243467d19f240c34fb717f258849b8b65"
     },
     {
       "bytes": 535,
@@ -8338,6 +8413,11 @@
       "sha256": "f18812bb7f3a775225f03bc8035fa037b446b8f83f1625cf2b69c14f8929aad8"
     },
     {
+      "bytes": 479,
+      "path": "feel/沉淀物/2026-11-06 17-16-38_feel_202611061716_V050.md",
+      "sha256": "1d2c35b1f1d5d7abd68b57056fdcee1b91438faa353794f8d0b0ca165f714421"
+    },
+    {
       "bytes": 508,
       "path": "feel/沉淀物/3b7e1e8f67cc.md",
       "sha256": "0be1b773bb8d8960d3d66428adc8b51ae77983ac82a56ff409c6508cd6310732"
@@ -8398,9 +8478,9 @@
       "sha256": "edf64bd09f3db1e3d6d6c7f2f3b58d7f6a042287d348f7aa96ba1af3f7d55218"
     },
     {
-      "bytes": 3293,
+      "bytes": 3670,
       "path": "permanent/恋爱/2026-08-11 18-05-54 亲密核心准则_1101ebd82d2b.md",
-      "sha256": "f859837d748160f4a01dc380aef8cd2a33cda1efc94957fca8a1e16489345373"
+      "sha256": "fb8229373a0ad96ec85f0b8c4a0556cf03ed20778ca56500f09eaee6dfbb9913"
     },
     {
       "bytes": 2558,
@@ -8486,12 +8566,17 @@
       "bytes": 766,
       "path": "plans/active/2026-11-05 23-53-40_16e321b71441.md",
       "sha256": "f12a1984f6b5a75e36bfa32306117b879152054d9b30c435fee46a82e234142d"
+    },
+    {
+      "bytes": 753,
+      "path": "plans/active/2026-11-06 14-47-41_f8ca6a35c00d.md",
+      "sha256": "5d9e720034db0f30971839fcb7f054354154f5fd7f57226d9dd02b8ec4657218"
     }
   ],
-  "generated_at": "2026-11-06T12:09:57+00:00",
+  "generated_at": "2026-11-06T18:10:11+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1473299
+  "total_bytes": 1492769
 }
