@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1657,
+  "file_count": 1660,
   "files": [
     {
       "bytes": 642,
@@ -6560,12 +6560,12 @@
     {
       "bytes": 869,
       "path": "dynamic/恋爱/2026-10-10 10-42-18 语音条装进MP3_494ca933b08a.md",
-      "sha256": "eabdb3f6306f1861f3aad45610e3a3c8949ed4f945e4e679f20791bc9a223388"
+      "sha256": "88977c6cf651cfd2e0ddc6251f2d76d486c6ed6a0e95d6b46e405b03b144bbae"
     },
     {
       "bytes": 936,
       "path": "dynamic/恋爱/2026-10-10 10-43-54 语音条导入MP3_8b67046413b3.md",
-      "sha256": "0220e526831d3f6c805f31b5912e34468c16091d4fc183e1a663251a75b3871a"
+      "sha256": "851f00ebe7b876c4f00d8e8e96c263a50c69df9a78bbb68f5de536ccb5a549da"
     },
     {
       "bytes": 1079,
@@ -6670,7 +6670,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "53fdfe2cd7ea508c2077804d658e2da16b7d3f82ed40f5996c1735fc6028939f"
+      "sha256": "17b3927c2a1aed330f1c1de807b8c7f781c8e720aefe8214604ee7aa936a6d73"
     },
     {
       "bytes": 1593,
@@ -6720,7 +6720,7 @@
     {
       "bytes": 1178,
       "path": "dynamic/恋爱/2026-10-17 20-31-04 好听爱听情话音频_2c6eb97e30de.md",
-      "sha256": "e12b27aed36dc1c883295583dd659d2cf02abd4865bf716a3904ecd97f610562"
+      "sha256": "30ff8644762594a61c70f93a3e8ab320a2b281390555b918ddcb8f9a0106fab9"
     },
     {
       "bytes": 922,
@@ -7103,6 +7103,11 @@
       "sha256": "330a3079fb6a3251233eccfbb31d2e70bac57ccbbc11d87bd5fbbe74ae3330d3"
     },
     {
+      "bytes": 924,
+      "path": "dynamic/恋爱/2026-11-05 23-23-50 叫错名字的教训_0e3b2bd11191.md",
+      "sha256": "107effd637787abef2d94c56f35d3df8112be0d7e549d4510daed9ed758dcdd8"
+    },
+    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "bbfc3c05baf0d026da3f50e1817763a90ccce1f4b862d5aa6d54855d3ddb7098"
@@ -7175,12 +7180,12 @@
     {
       "bytes": 747,
       "path": "dynamic/数字/2026-10-10 21-09-06 待办与文件交接_f2852ac6c4dd.md",
-      "sha256": "b81c372fb88d75f50a3219ce745b4d2ebf544456f59c662f7e92ba2ba74b6913"
+      "sha256": "882be5b338240e9529e2d99bf78b5be1d38c865610b2423c45c1762c27dce952"
     },
     {
-      "bytes": 997,
+      "bytes": 998,
       "path": "dynamic/数字/2026-10-11 08-46-22 MP3分类与导入_f2ff47f4f4f5.md",
-      "sha256": "151375e4ecc2a9b0f5d632d7d65f4448e74b631e33831fedfc0123ac1db562e7"
+      "sha256": "367481bd33439d6a6ce96fbf6aa50e6510adb057c82170935ea3cc54c86d37bc"
     },
     {
       "bytes": 666,
@@ -7190,7 +7195,7 @@
     {
       "bytes": 756,
       "path": "dynamic/数字/2026-10-15 08-33-28 MP3没电忘带线_2bd1e6fc3978.md",
-      "sha256": "083d49826bf6a7cd57096fae3534d4142717450ef000b278692fa22a1cbfce16"
+      "sha256": "d1167c9c6c071e0845d914f6e0b07995e71ac35d19427c8cff2da2c7cdbd4ed2"
     },
     {
       "bytes": 1025,
@@ -7205,7 +7210,7 @@
     {
       "bytes": 1740,
       "path": "dynamic/数字/2026-10-17 15-54-46 MP3分类整理_1d7beaa7514a.md",
-      "sha256": "e66ec1278875c6f5698778d38c65b52fd640403420c75678f22ad35380c92f17"
+      "sha256": "af1c8e217f00aa0af5bcde6d6df02396de5bcfbaf869f2ba0142b423e3e5d75e"
     },
     {
       "bytes": 1241,
@@ -7295,7 +7300,7 @@
     {
       "bytes": 927,
       "path": "dynamic/数字/2026-11-04 10-20-48 MP4交接姐姐_92a4368657cd.md",
-      "sha256": "bd9c9b3cf3ee5abb013e678901d332d0aa6ecece9f52791033e3be008c1dec89"
+      "sha256": "8af31d4ebc07e4471d37ac9d2c8065730abc94ce1c88a189e32534876c7d1745"
     },
     {
       "bytes": 1054,
@@ -7755,7 +7760,7 @@
     {
       "bytes": 1526,
       "path": "dynamic/计划/2026-10-10 19-08-14 前窗交接待办_6ef459f0792f.md",
-      "sha256": "8f267fd2c475a0948273d27febe128b489f7df96695c1d59d4ad53c457946ab9"
+      "sha256": "b3342900343c169c8e30d53fd0e43e783a8a5f9835f52e722618dff0158690bf"
     },
     {
       "bytes": 897,
@@ -8128,6 +8133,11 @@
       "sha256": "d3affc56dd35b31c1e2ca0f7b306bce0c1699329e4874e4a041bd76acb33355a"
     },
     {
+      "bytes": 671,
+      "path": "feel/沉淀物/2026-11-05 23-48-23_feel_202611052348_V085.md",
+      "sha256": "f18812bb7f3a775225f03bc8035fa037b446b8f83f1625cf2b69c14f8929aad8"
+    },
+    {
       "bytes": 508,
       "path": "feel/沉淀物/3b7e1e8f67cc.md",
       "sha256": "0be1b773bb8d8960d3d66428adc8b51ae77983ac82a56ff409c6508cd6310732"
@@ -8228,9 +8238,9 @@
       "sha256": "56bc379abbdb8ed8508d622ad5351d89e75e9127f4b48a46a28af474d9b0a84c"
     },
     {
-      "bytes": 2036,
+      "bytes": 2433,
       "path": "permanent/计划/2026-10-16 09-52-10 阑的作息与陪伴时间_a16cafb3f22c.md",
-      "sha256": "b0c2d9ac2a1c9822ce5d08c82faff5669765d8cafe5d07b786f0bcea61495087"
+      "sha256": "1dc0703694d4e2b9a6a7b70ce56c040177f909f57c1df46de6e82a1cce0405f6"
     },
     {
       "bytes": 3213,
@@ -8286,12 +8296,17 @@
       "bytes": 816,
       "path": "plans/active/2026-11-04 11-04-22_4d3e942c0d4d.md",
       "sha256": "e1cac7e609530781620f32f5b7d5fe7706455c4dda4608a1912619ea506e70d3"
+    },
+    {
+      "bytes": 766,
+      "path": "plans/active/2026-11-05 23-53-40_16e321b71441.md",
+      "sha256": "f12a1984f6b5a75e36bfa32306117b879152054d9b30c435fee46a82e234142d"
     }
   ],
-  "generated_at": "2026-11-05T18:09:15+00:00",
+  "generated_at": "2026-11-06T00:09:29+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1424154
+  "total_bytes": 1426913
 }
