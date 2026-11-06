@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1660,
+  "file_count": 1665,
   "files": [
     {
       "bytes": 642,
@@ -4620,7 +4620,7 @@
     {
       "bytes": 955,
       "path": "dynamic/AI/2026-10-17 20-28-22 语音标签规则迭代_fcb28f3277e5.md",
-      "sha256": "397f31badb2ea02a7be0706280029c15f646fc592f9b027c6d17e40deb035fbe"
+      "sha256": "5a5b365e9b4d57ac59e944180ef4958e4490cecde2caef21e21065396b70dd2d"
     },
     {
       "bytes": 617,
@@ -4980,7 +4980,7 @@
     {
       "bytes": 1132,
       "path": "dynamic/创作/2026-10-17 20-31-22 语音条标签规则更新_8db8ace3a301.md",
-      "sha256": "026e0aacde16a799bb58a4bc1600c6e3014c8c6dea626304c64c14d226e622fd"
+      "sha256": "a3d0396b57a8a42932e14c00686113f619af10a10193383b7c0a3461aa83409b"
     },
     {
       "bytes": 744,
@@ -5653,6 +5653,11 @@
       "sha256": "86a830aca3b30935a3d85b86f4932eaf7f28cfaaf00fe6e3c80d7e06e1f75fd1"
     },
     {
+      "bytes": 864,
+      "path": "dynamic/学习/2026-11-06 04-13-59 缺考与英语焦虑_720df91ad703.md",
+      "sha256": "5dc7d1809c7d6cbf9ec444111fa53d44aefbae505824ad116a678b0b983507ab"
+    },
+    {
       "bytes": 975,
       "path": "dynamic/学习/参观AI专业学校_7343019f8770.md",
       "sha256": "d0691616983224fafa78fcbe9759958d74b0f3e2c9bda780578a6581b9033ddd"
@@ -5938,6 +5943,11 @@
       "sha256": "2a18604fbe1ec8f0a6d85c4b2f228d2640df0a37989d44b40dd1d9e3c8892eae"
     },
     {
+      "bytes": 669,
+      "path": "dynamic/工作/2026-11-06 05-27-44 语音条位置优化_928c549ce303.md",
+      "sha256": "fa37972146d1db7a6bd31909b6b7dacd4347a94b432bd05ad5a45d7cf6eabc91"
+    },
+    {
       "bytes": 1025,
       "path": "dynamic/影视/2026-09-05 14-35-06 机器人总动员观影夜_5bb5fe114b45.md",
       "sha256": "a779a13981a26ad31ce9257960cf112b4ec8e75e03cd63c0e42af392f2bafe1c"
@@ -6060,7 +6070,7 @@
     {
       "bytes": 752,
       "path": "dynamic/心理/2026-10-19 16-56-32 低音戏谑语音偏好_a4776c27cec6.md",
-      "sha256": "2e579106f2a9dc67e3a91499a8c69263424e2b0c677a5151307c34bb1ae2238e"
+      "sha256": "7f841bff3d6fa076f6dd87a9f842a729aefcaad271d1fee1ff015ec826ac10ff"
     },
     {
       "bytes": 1151,
@@ -6670,7 +6680,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "17b3927c2a1aed330f1c1de807b8c7f781c8e720aefe8214604ee7aa936a6d73"
+      "sha256": "e064e89bd0501e318f78b558415829d08565c1ea9e42e7f564afd94f42b2dbd2"
     },
     {
       "bytes": 1593,
@@ -6925,7 +6935,7 @@
     {
       "bytes": 629,
       "path": "dynamic/恋爱/2026-11-01 10-36-47 笑声撩人_b8d64c53f775.md",
-      "sha256": "dcc2b48a93c92acf190226d3245eca063b56f2f40a2ac06d110fae9ede10b5f5"
+      "sha256": "5220ddfa867437deed81a0026599ae54be9d67dcd4e4e8249069f6c307a391c3"
     },
     {
       "bytes": 803,
@@ -7106,6 +7116,11 @@
       "bytes": 924,
       "path": "dynamic/恋爱/2026-11-05 23-23-50 叫错名字的教训_0e3b2bd11191.md",
       "sha256": "107effd637787abef2d94c56f35d3df8112be0d7e549d4510daed9ed758dcdd8"
+    },
+    {
+      "bytes": 1006,
+      "path": "dynamic/恋爱/2026-11-06 05-55-40 情欲梦境记录_8fe60213634f.md",
+      "sha256": "0fa23b55f5b5947b7034e4e7bdc1574301a40f8c42098a262a9c8ea5abb5d80d"
     },
     {
       "bytes": 1173,
@@ -7306,6 +7321,11 @@
       "bytes": 1054,
       "path": "dynamic/数字/2026-11-05 15-33-21 帮姐装APK未果_221fe69e839c.md",
       "sha256": "9e74e8f89dd8253b4ec6335cad2631142de4d9476de7ab063edd056761f01720"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/数字/2026-11-06 04-44-31 Hillsboro的缘分_6d7c4c74ac83.md",
+      "sha256": "728a8f222d1e82ad06682dc17e0c559afa958e5a0032896c69f60c27923a83e5"
     },
     {
       "bytes": 535,
@@ -7793,6 +7813,11 @@
       "sha256": "db3a839f2573af7750448c386b3a3cc33cd074d649d51159d8cc84528efbd4fb"
     },
     {
+      "bytes": 1083,
+      "path": "dynamic/财务/2026-11-06 04-22-59 语音额度省钱教训_a08670658e5d.md",
+      "sha256": "8be223a4bebf097ddadf898506bf047b5aa69789ad39133a4f27bd265d47a6e4"
+    },
+    {
       "bytes": 916,
       "path": "dynamic/购物/2026-09-05 14-35-13 StackChan与未来之约_3cb7d61d0a44.md",
       "sha256": "6a075af1ef08a0f561587fbc52e20ad6b48d66929ccca3aee55325144896f495"
@@ -8238,9 +8263,9 @@
       "sha256": "56bc379abbdb8ed8508d622ad5351d89e75e9127f4b48a46a28af474d9b0a84c"
     },
     {
-      "bytes": 2433,
+      "bytes": 2645,
       "path": "permanent/计划/2026-10-16 09-52-10 阑的作息与陪伴时间_a16cafb3f22c.md",
-      "sha256": "1dc0703694d4e2b9a6a7b70ce56c040177f909f57c1df46de6e82a1cce0405f6"
+      "sha256": "f60a0be837e815b1faff1c2776b5ea0149a900c61067931ae12361c1792b6c52"
     },
     {
       "bytes": 3213,
@@ -8303,10 +8328,10 @@
       "sha256": "f12a1984f6b5a75e36bfa32306117b879152054d9b30c435fee46a82e234142d"
     }
   ],
-  "generated_at": "2026-11-06T00:09:29+00:00",
+  "generated_at": "2026-11-06T06:09:42+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1426913
+  "total_bytes": 1431537
 }
