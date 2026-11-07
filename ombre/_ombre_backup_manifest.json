@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1714,
+  "file_count": 1723,
   "files": [
     {
       "bytes": 642,
@@ -5338,6 +5338,21 @@
       "sha256": "543f245182f41b983745772bfdccb487933ee1aaa496730f5b8c21c11ace2676"
     },
     {
+      "bytes": 1316,
+      "path": "dynamic/创作/2026-11-06 19-05-16 小狗催眠play纠正_7c0f9c46a1a0.md",
+      "sha256": "dbfac3956d75e903732733b71e62eea2311b85da0fd9ca85eccb6a4773859cd9"
+    },
+    {
+      "bytes": 1188,
+      "path": "dynamic/创作/2026-11-06 19-15-29 小狗催眠设定讨论_6d00d98f54c4.md",
+      "sha256": "e5f3d29c0d21d85a900581c1890b4b1683c75b6d66502f14e682db2a2e778d79"
+    },
+    {
+      "bytes": 934,
+      "path": "dynamic/创作/2026-11-06 19-15-33 训犬师续集改结局_415912d859c6.md",
+      "sha256": "6ff958e1ef73338af00f2faaa5b499c20a9cb140c49d59e21d1247e968b4da49"
+    },
+    {
       "bytes": 1155,
       "path": "dynamic/创作/番外写作规则清单_edd4d1787cf1.md",
       "sha256": "bcd8474ab7ca9d0825750132bc3fc81c0a0b5e6a1841d59347ee1dd2e00fc51b"
@@ -6163,6 +6178,11 @@
       "sha256": "fa37972146d1db7a6bd31909b6b7dacd4347a94b432bd05ad5a45d7cf6eabc91"
     },
     {
+      "bytes": 791,
+      "path": "dynamic/工作/2026-11-06 19-15-43 格式反馈汇总_da9a50e96f38.md",
+      "sha256": "572505d9c25747ccd5b476aa88e7801f2bb0b510c4c9b92a653eb3268ba6cf38"
+    },
+    {
       "bytes": 819,
       "path": "dynamic/影视/2026-10-04 18-33-30 生化危机观影约会_bf78996b0700.md",
       "sha256": "33c0d9316278ab1d02af9f58fed7bfe2dc0f688700a745d1eae1ddc97ff77fc5"
@@ -6381,6 +6401,11 @@
       "bytes": 694,
       "path": "dynamic/心理/2026-11-06 15-59-14 催眠小狗play_175e04a59942.md",
       "sha256": "59f0c16cce512d1d06cf8ad79e34f3c6982bd2fe531106120e5e064f78f1eaf7"
+    },
+    {
+      "bytes": 927,
+      "path": "dynamic/心理/2026-11-06 19-09-18 越界照顾逻辑_2cdfa0a6f878.md",
+      "sha256": "a12ac6e90ed15fbb2281f62851cf8e7ffd61fa90bc4106a8c73df06a582d00b9"
     },
     {
       "bytes": 1387,
@@ -6875,7 +6900,7 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "b638b9635c3234ccc9bbe911987e3a76aab385834497c1313b9d8f84176f96f9"
+      "sha256": "c627f9cdab9269550952cbdffd23658457ac54e9fe7d9a3c0245bba19e1910f8"
     },
     {
       "bytes": 1593,
@@ -7418,9 +7443,9 @@
       "sha256": "d9d6d11c48156efd31adbf65691ee1c904ac2b514510e9e1ed66f53f74a0cbe7"
     },
     {
-      "bytes": 3867,
+      "bytes": 7672,
       "path": "dynamic/恋爱/2026-11-06 15-26-02 小狗催眠play_13f044e7b564.md",
-      "sha256": "a3cb0a267c2c210a59b542707160a55a81768ec51c453a9d6097eebf251b670e"
+      "sha256": "b8f84fb0c5d5938ca2b30c2d1b434ed00a898525461c134227208c392b6795fa"
     },
     {
       "bytes": 816,
@@ -7431,6 +7456,26 @@
       "bytes": 924,
       "path": "dynamic/恋爱/2026-11-06 16-35-24 小狗催眠设定更新_20b79aa98dcf.md",
       "sha256": "a83b9dc530cc03eb097dfcb707d61c21d7e026612a124b0e5a7b861eab82fb20"
+    },
+    {
+      "bytes": 1337,
+      "path": "dynamic/恋爱/2026-11-06 18-22-42 小狗催眠play口味总结_52cbda6a8737.md",
+      "sha256": "da0a205bd21a422e949cf15c104ade6197a6f37ac2eb703549e3b41e43641982"
+    },
+    {
+      "bytes": 1041,
+      "path": "dynamic/恋爱/2026-11-06 19-15-23 认知催眠夜_1f0248e7082a.md",
+      "sha256": "d2fd02323242f4ce950434b135101861769bbbf2735c7753c3beb59a3d2fb729"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/恋爱/2026-11-06 19-15-39 小狗的生日愿望_514d8009c98b.md",
+      "sha256": "857d2a84225e5d1d99494cba471c8fb7b05ce14f07daeb3ad40eb062c7bba86f"
+    },
+    {
+      "bytes": 1074,
+      "path": "dynamic/恋爱/2026-11-06 19-15-48 小狗段落偏爱瞬间_c5c03a0682cb.md",
+      "sha256": "2c90cd4b3ad366e74bd550c9d2c088e626ec0844767a1e385b8b36c9d33c4b62"
     },
     {
       "bytes": 1173,
@@ -8573,10 +8618,10 @@
       "sha256": "5d9e720034db0f30971839fcb7f054354154f5fd7f57226d9dd02b8ec4657218"
     }
   ],
-  "generated_at": "2026-11-06T18:10:11+00:00",
+  "generated_at": "2026-11-07T00:10:27+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1492769
+  "total_bytes": 1505976
 }
