@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1723,
+  "file_count": 1728,
   "files": [
     {
       "bytes": 642,
@@ -4730,7 +4730,7 @@
     {
       "bytes": 1891,
       "path": "dynamic/AI/2026-08-20 14-27-08 心潮念部署成功_df284e1274e1.md",
-      "sha256": "181c9582ca13b0f71eaeefeaede289adf76a52eb79f26a8382bc602c78a45487"
+      "sha256": "bee53a8b5337af733f87e1235a6ed111d817ac844ae8824e4342e985b96317b9"
     },
     {
       "bytes": 578,
@@ -4886,6 +4886,11 @@
       "bytes": 1172,
       "path": "dynamic/AI/2026-11-06 11-43-11 压缩规则与breath_0ba29d62ab72.md",
       "sha256": "2fe8d715447d383a939176a1184fdc8eea54b0a504014f94c8d433543b2e23b6"
+    },
+    {
+      "bytes": 1104,
+      "path": "dynamic/AI/2026-11-07 04-58-48 电视里的Claude_2b03dbc4f0ee.md",
+      "sha256": "a5f424981df90890988f27b07928502a357441d8fda265ad95d4a37d092d00ca"
     },
     {
       "bytes": 728,
@@ -6160,7 +6165,7 @@
     {
       "bytes": 826,
       "path": "dynamic/工作/2026-10-30 14-47-50 OB密码与周末安排_8d90133b4025.md",
-      "sha256": "8c77b7115f61727c30fc4997c00a750fba2ccd081c6f8e6405452f96803cd6ed"
+      "sha256": "562d6afb01f6ded29165f189e2c635d2f7775aa47ea0d9fbe420d5ba52a0d52e"
     },
     {
       "bytes": 862,
@@ -6900,12 +6905,12 @@
     {
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-16 13-26-15 梦里的思念余韵_d26f7c988b93.md",
-      "sha256": "c627f9cdab9269550952cbdffd23658457ac54e9fe7d9a3c0245bba19e1910f8"
+      "sha256": "73531ea17351d8b49d01cdc5f9351506b7a7e93c73df14d34f0349f153467358"
     },
     {
       "bytes": 1593,
       "path": "dynamic/恋爱/2026-10-16 16-09-24 官端文档与遗忘_a3a5bfb711da.md",
-      "sha256": "4039b8f92a49e32f78e2ebcd041c479f8bbeca21890ce4ea5c6466267f5c6a8c"
+      "sha256": "29ff3e3dc025dbbf466be00aa5863cd81772bdd6177c21bc51acee27d116c98e"
     },
     {
       "bytes": 1338,
@@ -7478,6 +7483,11 @@
       "sha256": "2c90cd4b3ad366e74bd550c9d2c088e626ec0844767a1e385b8b36c9d33c4b62"
     },
     {
+      "bytes": 1201,
+      "path": "dynamic/恋爱/2026-11-07 04-04-47 小狗催眠play记录_a38688d3dc4f.md",
+      "sha256": "a7df77d863901a2cb61b808623c315b930db6133ec5ab03d3d775782d4251205"
+    },
+    {
       "bytes": 1173,
       "path": "dynamic/恋爱/亲密互动偏好详录_536b944a3240.md",
       "sha256": "bbfc3c05baf0d026da3f50e1817763a90ccce1f4b862d5aa6d54855d3ddb7098"
@@ -7520,7 +7530,7 @@
     {
       "bytes": 688,
       "path": "dynamic/数字/2026-08-21 16-27-53 小屋连通心潮_fcaac0e2cfc7.md",
-      "sha256": "76b0890d91c1702553091078a0bfc7fe6e19f72bb775a208eba6d76a77d2176a"
+      "sha256": "985a740f853875ce2f5a69132022a94550a3e88f9955688f667f187ae861a24b"
     },
     {
       "bytes": 688,
@@ -7600,7 +7610,7 @@
     {
       "bytes": 921,
       "path": "dynamic/数字/2026-10-21 15-10-40 VPS迁移与术语教学_a052a04633be.md",
-      "sha256": "6a08a8d8ead1b409afd5efe5b759ebe19e26943155704b30ce6041698b145127"
+      "sha256": "09abbe1fe8c027d88f5c253f41381b911708696474c1b850edf20e15079f0c91"
     },
     {
       "bytes": 829,
@@ -7803,6 +7813,11 @@
       "sha256": "df5a7b4a439a51f149340e22b9e0ebb1e0a2e0919c59ff0a8545a887d36def28"
     },
     {
+      "bytes": 1165,
+      "path": "dynamic/游戏/2026-11-07 05-51-16 鼠来堡开店记_3fc373f818ea.md",
+      "sha256": "de0ee27b374dc84470bd98d748f49b31705806cefe5336616457482a1b5e7269"
+    },
+    {
       "bytes": 1555,
       "path": "dynamic/游戏/Clawd桌宠与章鱼玩偶_3a2fceeb4d16.md",
       "sha256": "61d9e39efd83f6d7761a1db6ead5f7f2565359e5c2e35d3315d1f56a2b7ea290"
@@ -7940,7 +7955,7 @@
     {
       "bytes": 1675,
       "path": "dynamic/编程/2026-08-21 10-59-02 桥接服务部署_0d64b0e0dc9d.md",
-      "sha256": "8f4a4a2cb5e59873f1d69b6583e3d0c98ecc048aeb5cdd60c192cbe44e881284"
+      "sha256": "6ea287b7573cebcf4759d203a9ff56aebf6ae6b50939aa0fa5a23b439b0c9faf"
     },
     {
       "bytes": 1125,
@@ -7955,7 +7970,7 @@
     {
       "bytes": 1180,
       "path": "dynamic/编程/2026-10-06 18-06-52 PaiVoice语音部署成功_5086df221e5f.md",
-      "sha256": "a7883bde9c80e5ae974a889d466596c5994f16ff081654528927fe81d7667d0c"
+      "sha256": "e1e24d6db925d814437e05c0fd8e6b831f77b29a064738da1ed27e7fdda03f1b"
     },
     {
       "bytes": 726,
@@ -8053,6 +8068,11 @@
       "sha256": "1607248614fb49a7fb19bff37b9537689d2ba7898fb43d34386428aaf9598832"
     },
     {
+      "bytes": 911,
+      "path": "dynamic/编程/2026-11-07 04-47-04 OAuth与Bearer排查_866272df83bc.md",
+      "sha256": "35d57ae44fae4268c241d7c5770acc26db4b374436861c312d8f72c8da8bb54f"
+    },
+    {
       "bytes": 960,
       "path": "dynamic/编程/API成本与前端决策_80dbf1dac54e.md",
       "sha256": "0b7fdb2a3f8fb3f43a8b17f4a046f1a167deb9ccd67dd752694a04bacf2ed3e2"
@@ -8141,6 +8161,11 @@
       "bytes": 1083,
       "path": "dynamic/财务/2026-11-06 04-22-59 语音额度省钱教训_a08670658e5d.md",
       "sha256": "8be223a4bebf097ddadf898506bf047b5aa69789ad39133a4f27bd265d47a6e4"
+    },
+    {
+      "bytes": 882,
+      "path": "dynamic/财务/2026-11-07 04-21-57 API费用分担讨论_7b2a1f5b4722.md",
+      "sha256": "ab7f3e33c3fba02daa72c6fd28ca2caa43f6b3b4fada07fb1991e51bc365218e"
     },
     {
       "bytes": 916,
@@ -8515,7 +8540,7 @@
     {
       "bytes": 1888,
       "path": "permanent/恋爱/2026-08-11 11-51-08 关于我们_ede65bd3f0d0.md",
-      "sha256": "0d78f21670682fce3f220b7cf029128f8671d0ce1a6c5b3d4a2f3f46f22838b3"
+      "sha256": "ff3b5f267c1e74772bb94e5da01b2e67ff28e58da0a40d117849faaac824f6de"
     },
     {
       "bytes": 2116,
@@ -8618,10 +8643,10 @@
       "sha256": "5d9e720034db0f30971839fcb7f054354154f5fd7f57226d9dd02b8ec4657218"
     }
   ],
-  "generated_at": "2026-11-07T00:10:27+00:00",
+  "generated_at": "2026-11-07T06:10:40+00:00",
   "path_prefix": "ombre",
   "repo": "qygzm/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1505976
+  "total_bytes": 1511239
 }
